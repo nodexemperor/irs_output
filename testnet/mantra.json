@@ -1,4 +1,16 @@
 {
+    "65.109.33.48:24657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "mantrachain-1",
+        "tx_index": "on",
+        "earliest_block_height": 445839,
+        "latest_block_height": 545839,
+        "blocks_indexed": 545838,
+        "catching_up": false,
+        "data_since": "2023-10-14T17:27:02.023956062Z"
+    },
     "62.171.130.196:11157": {
         "voting_power": 1005675,
         "is_validator": true,
@@ -6,45 +18,9 @@
         "network": "mantrachain-1",
         "tx_index": "off",
         "earliest_block_height": 318001,
-        "latest_block_height": 533830,
-        "blocks_indexed": 533829,
+        "latest_block_height": 545839,
+        "blocks_indexed": 545838,
         "catching_up": false,
         "data_since": "2023-10-05T21:50:11.074135596Z"
-    },
-    "65.109.33.48:24657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "mantrachain-1",
-        "tx_index": "on",
-        "earliest_block_height": 433830,
-        "latest_block_height": 533830,
-        "blocks_indexed": 533829,
-        "catching_up": false,
-        "data_since": "2023-10-13T21:22:13.043743136Z"
-    },
-    "35.192.223.187:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-03",
-        "network": "mantrachain-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 533830,
-        "blocks_indexed": 533829,
-        "catching_up": false,
-        "data_since": "2023-09-13T13:04:51.537530173Z"
-    },
-    "34.123.40.240:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-01",
-        "network": "mantrachain-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 533830,
-        "blocks_indexed": 533829,
-        "catching_up": false,
-        "data_since": "2023-09-13T13:04:51.537530173Z"
     }
 }
