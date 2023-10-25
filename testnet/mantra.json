@@ -1,16 +1,4 @@
 {
-    "35.192.223.187:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-03",
-        "network": "mantrachain-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 570682,
-        "blocks_indexed": 570681,
-        "catching_up": false,
-        "data_since": "2023-09-13T13:04:51.537530173Z"
-    },
     "35.222.198.102:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,8 @@
         "network": "mantrachain-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 570682,
-        "blocks_indexed": 570681,
+        "latest_block_height": 583404,
+        "blocks_indexed": 583403,
         "catching_up": false,
         "data_since": "2023-09-13T13:04:51.537530173Z"
     },
@@ -29,10 +17,46 @@
         "moniker": "L0vd.com | RPC",
         "network": "mantrachain-1",
         "tx_index": "on",
-        "earliest_block_height": 470682,
-        "latest_block_height": 570682,
-        "blocks_indexed": 570681,
+        "earliest_block_height": 483404,
+        "latest_block_height": 583404,
+        "blocks_indexed": 583403,
         "catching_up": false,
-        "data_since": "2023-10-16T11:13:48.40775222Z"
+        "data_since": "2023-10-17T08:25:09.43229267Z"
+    },
+    "35.192.223.187:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-03",
+        "network": "mantrachain-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 583404,
+        "blocks_indexed": 583403,
+        "catching_up": false,
+        "data_since": "2023-09-13T13:04:51.537530173Z"
+    },
+    "34.70.189.2:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-01",
+        "network": "mantrachain-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 583404,
+        "blocks_indexed": 583403,
+        "catching_up": false,
+        "data_since": "2023-09-13T13:04:51.537530173Z"
+    },
+    "34.123.40.240:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-01",
+        "network": "mantrachain-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 583404,
+        "blocks_indexed": 583403,
+        "catching_up": false,
+        "data_since": "2023-09-13T13:04:51.537530173Z"
     }
 }

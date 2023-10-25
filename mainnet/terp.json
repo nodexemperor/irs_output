@@ -6,8 +6,8 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3042902,
-        "blocks_indexed": 3042901,
+        "latest_block_height": 3057971,
+        "blocks_indexed": 3057970,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
     },
@@ -17,23 +17,35 @@
         "moniker": "SerGo",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 2942902,
-        "latest_block_height": 3042902,
-        "blocks_indexed": 3042901,
+        "earliest_block_height": 2957970,
+        "latest_block_height": 3057970,
+        "blocks_indexed": 3057969,
         "catching_up": false,
-        "data_since": "2023-10-17T14:51:16.934032492Z"
+        "data_since": "2023-10-18T13:33:40.519660602Z"
     },
-    "193.46.243.184:36657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "HS2",
+    "65.108.232.168:37657": {
+        "voting_power": 136223,
+        "is_validator": true,
+        "moniker": "KonsorTech",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 3032001,
-        "latest_block_height": 3039061,
-        "blocks_indexed": 3039060,
+        "earliest_block_height": 1755001,
+        "latest_block_height": 3057971,
+        "blocks_indexed": 3057970,
         "catching_up": false,
-        "data_since": "2023-10-23T05:21:45.639306602Z"
+        "data_since": "2023-08-02T19:18:10.745605882Z"
+    },
+    "193.46.243.184:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "HSS",
+        "network": "morocco-1",
+        "tx_index": "off",
+        "earliest_block_height": 3046001,
+        "latest_block_height": 3057970,
+        "blocks_indexed": 3057969,
+        "catching_up": false,
+        "data_since": "2023-10-24T06:19:42.706560733Z"
     },
     "207.244.254.232:26657": {
         "voting_power": 0,
