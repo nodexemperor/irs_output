@@ -6,9 +6,33 @@
         "network": "point_10687-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 22531769,
-        "blocks_indexed": 22531768,
+        "latest_block_height": 22538291,
+        "blocks_indexed": 22538290,
         "catching_up": false,
         "data_since": "2022-08-31T19:11:56.454580622Z"
+    },
+    "104.248.194.148:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "point-mainnet",
+        "network": "point_10687-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 22538293,
+        "blocks_indexed": 22538292,
+        "catching_up": false,
+        "data_since": "2022-08-31T19:11:56.454580622Z"
+    },
+    "65.21.90.141:12141": {
+        "voting_power": 6500009,
+        "is_validator": true,
+        "moniker": "point-mainnet",
+        "network": "point_10687-1",
+        "tx_index": "off",
+        "earliest_block_height": 22438293,
+        "latest_block_height": 22538293,
+        "blocks_indexed": 22538292,
+        "catching_up": false,
+        "data_since": "2023-10-23T08:33:15.663771172Z"
     }
 }
