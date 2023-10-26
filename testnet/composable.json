@@ -1,4 +1,16 @@
 {
+    "65.108.70.119:54657": {
+        "voting_power": 9,
+        "is_validator": true,
+        "moniker": "AlxVoy",
+        "network": "banksy-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 329248,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
+        "catching_up": false,
+        "data_since": "2023-10-24T09:54:14.965955094Z"
+    },
     "138.201.220.156:25657": {
         "voting_power": 200019,
         "is_validator": true,
@@ -6,10 +18,22 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 223851,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
         "catching_up": false,
         "data_since": "2023-10-17T08:26:30.517593316Z"
+    },
+    "65.109.33.48:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 333717,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
+        "catching_up": false,
+        "data_since": "2023-10-24T16:13:59.262109603Z"
     },
     "168.119.91.22:2261": {
         "voting_power": 599999,
@@ -18,8 +42,20 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
+        "catching_up": false,
+        "data_since": "2023-10-04T07:14:04.61613912Z"
+    },
+    "144.76.174.27:17757": {
+        "voting_power": 1009,
+        "is_validator": true,
+        "moniker": "kokos",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
@@ -30,46 +66,10 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
-    "65.109.33.48:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 333717,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
-        "catching_up": false,
-        "data_since": "2023-10-24T16:13:59.262109603Z"
-    },
-    "144.76.174.27:17757": {
-        "voting_power": 1009,
-        "is_validator": true,
-        "moniker": "kokos",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
-        "catching_up": false,
-        "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
-    "65.108.70.119:54657": {
-        "voting_power": 9,
-        "is_validator": true,
-        "moniker": "AlxVoy",
-        "network": "banksy-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 329248,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
-        "catching_up": false,
-        "data_since": "2023-10-24T09:54:14.965955094Z"
     },
     "195.3.221.16:12257": {
         "voting_power": 1070,
@@ -78,8 +78,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 322567,
-        "latest_block_height": 359782,
-        "blocks_indexed": 359781,
+        "latest_block_height": 368445,
+        "blocks_indexed": 368444,
         "catching_up": false,
         "data_since": "2023-10-23T10:13:58.433161085Z"
     },

@@ -1,0 +1,50 @@
+{
+    "45.250.255.107:26657": {
+        "voting_power": 999,
+        "is_validator": true,
+        "moniker": "Neuler",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 10981,
+        "blocks_indexed": 10980,
+        "catching_up": false,
+        "data_since": "2023-10-26T17:00:00Z"
+    },
+    "57.128.60.218:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "NodeStake",
+        "network": "dydx-mainnet-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 10982,
+        "blocks_indexed": 10981,
+        "catching_up": false,
+        "data_since": "2023-10-26T17:00:00Z"
+    },
+    "91.132.144.175:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "dyd-node",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 10986,
+        "blocks_indexed": 10985,
+        "catching_up": false,
+        "data_since": "2023-10-26T17:00:00Z"
+    },
+    "65.109.112.162:26657": {
+        "voting_power": 500000,
+        "is_validator": true,
+        "moniker": "StakeLab",
+        "network": "dydx-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 557631,
+        "blocks_indexed": 557630,
+        "catching_up": false,
+        "data_since": "2023-10-17T17:00:00Z"
+    }
+}
