@@ -6,8 +6,8 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 10981,
-        "blocks_indexed": 10980,
+        "latest_block_height": 14331,
+        "blocks_indexed": 14330,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "dydx-mainnet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 10982,
-        "blocks_indexed": 10981,
+        "latest_block_height": 14299,
+        "blocks_indexed": 14298,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 10986,
-        "blocks_indexed": 10985,
+        "latest_block_height": 14317,
+        "blocks_indexed": 14316,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
@@ -42,9 +42,45 @@
         "network": "dydx-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 557631,
-        "blocks_indexed": 557630,
+        "latest_block_height": 560036,
+        "blocks_indexed": 560035,
         "catching_up": false,
         "data_since": "2023-10-17T17:00:00Z"
+    },
+    "65.108.137.22:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ECO Stake",
+        "network": "mantle-1",
+        "tx_index": "on",
+        "earliest_block_height": 7372856,
+        "latest_block_height": 8167796,
+        "blocks_indexed": 8167795,
+        "catching_up": false,
+        "data_since": "2023-09-03T11:58:53.206825141Z"
+    },
+    "51.38.56.121:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Ledger API",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 14315,
+        "blocks_indexed": 14314,
+        "catching_up": false,
+        "data_since": "2023-10-26T17:00:00Z"
+    },
+    "54.37.253.178:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Ledger API",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 14315,
+        "blocks_indexed": 14314,
+        "catching_up": false,
+        "data_since": "2023-10-26T17:00:00Z"
     }
 }
