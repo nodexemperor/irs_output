@@ -6,8 +6,8 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3059814,
-        "blocks_indexed": 3059813,
+        "latest_block_height": 3073897,
+        "blocks_indexed": 3073896,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
     },
@@ -17,11 +17,11 @@
         "moniker": "SerGo",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 2959814,
-        "latest_block_height": 3059814,
-        "blocks_indexed": 3059813,
+        "earliest_block_height": 2973897,
+        "latest_block_height": 3073897,
+        "blocks_indexed": 3073896,
         "catching_up": false,
-        "data_since": "2023-10-18T16:20:41.170836999Z"
+        "data_since": "2023-10-19T13:36:37.942922306Z"
     },
     "65.108.232.168:37657": {
         "voting_power": 136223,
@@ -30,22 +30,10 @@
         "network": "morocco-1",
         "tx_index": "off",
         "earliest_block_height": 1755001,
-        "latest_block_height": 3059814,
-        "blocks_indexed": 3059813,
+        "latest_block_height": 3073897,
+        "blocks_indexed": 3073896,
         "catching_up": false,
         "data_since": "2023-08-02T19:18:10.745605882Z"
-    },
-    "193.46.243.184:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "HSS",
-        "network": "morocco-1",
-        "tx_index": "off",
-        "earliest_block_height": 3046001,
-        "latest_block_height": 3059814,
-        "blocks_indexed": 3059813,
-        "catching_up": false,
-        "data_since": "2023-10-24T06:19:42.706560733Z"
     },
     "207.244.254.232:26657": {
         "voting_power": 0,
@@ -54,9 +42,21 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3039061,
-        "blocks_indexed": 3039060,
+        "latest_block_height": 3073897,
+        "blocks_indexed": 3073896,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
+    },
+    "193.46.243.184:36657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "HS2",
+        "network": "morocco-1",
+        "tx_index": "off",
+        "earliest_block_height": 3060001,
+        "latest_block_height": 3073897,
+        "blocks_indexed": 3073896,
+        "catching_up": false,
+        "data_since": "2023-10-25T03:57:41.070487932Z"
     }
 }

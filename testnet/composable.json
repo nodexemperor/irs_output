@@ -1,40 +1,4 @@
 {
-    "195.3.221.16:12257": {
-        "voting_power": 1070,
-        "is_validator": true,
-        "moniker": "n19ad88",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 322567,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
-        "catching_up": false,
-        "data_since": "2023-10-23T10:13:58.433161085Z"
-    },
-    "65.108.70.119:54657": {
-        "voting_power": 9,
-        "is_validator": true,
-        "moniker": "AlxVoy",
-        "network": "banksy-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 329248,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
-        "catching_up": false,
-        "data_since": "2023-10-24T09:54:14.965955094Z"
-    },
-    "65.109.33.48:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 333717,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
-        "catching_up": false,
-        "data_since": "2023-10-24T16:13:59.262109603Z"
-    },
     "168.119.91.22:2261": {
         "voting_power": 599999,
         "is_validator": true,
@@ -42,8 +6,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
@@ -54,8 +18,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 223851,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
         "catching_up": false,
         "data_since": "2023-10-17T08:26:30.517593316Z"
     },
@@ -66,10 +30,34 @@
         "network": "banksy-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
+    },
+    "65.108.70.119:54657": {
+        "voting_power": 9,
+        "is_validator": true,
+        "moniker": "AlxVoy",
+        "network": "banksy-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 329248,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
+        "catching_up": false,
+        "data_since": "2023-10-24T09:54:14.965955094Z"
+    },
+    "65.109.33.48:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 333717,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
+        "catching_up": false,
+        "data_since": "2023-10-24T16:13:59.262109603Z"
     },
     "34.116.128.141:26657": {
         "voting_power": 0,
@@ -78,10 +66,22 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 341527,
-        "blocks_indexed": 341526,
+        "latest_block_height": 355894,
+        "blocks_indexed": 355893,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
+    },
+    "195.3.221.16:12257": {
+        "voting_power": 1070,
+        "is_validator": true,
+        "moniker": "n19ad88",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 322567,
+        "latest_block_height": 355895,
+        "blocks_indexed": 355894,
+        "catching_up": false,
+        "data_since": "2023-10-23T10:13:58.433161085Z"
     },
     "65.109.117.208:2261": {
         "voting_power": 0,
@@ -94,17 +94,5 @@
         "blocks_indexed": 324999,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
-    "212.22.70.9:60657": {
-        "voting_power": 9,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 314444,
-        "latest_block_height": 325000,
-        "blocks_indexed": 324999,
-        "catching_up": false,
-        "data_since": "2023-10-22T22:14:01.872782673Z"
     }
 }
