@@ -1,16 +1,4 @@
 {
-    "65.109.33.48:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 333717,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
-        "catching_up": false,
-        "data_since": "2023-10-24T16:13:59.262109603Z"
-    },
     "65.108.70.119:54657": {
         "voting_power": 9,
         "is_validator": true,
@@ -18,22 +6,34 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 329248,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
+        "latest_block_height": 390584,
+        "blocks_indexed": 390583,
         "catching_up": false,
         "data_since": "2023-10-24T09:54:14.965955094Z"
     },
-    "138.201.220.156:25657": {
-        "voting_power": 200019,
-        "is_validator": true,
-        "moniker": "hz6",
+    "65.109.33.48:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
         "network": "banksy-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 223851,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
+        "tx_index": "off",
+        "earliest_block_height": 333717,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
         "catching_up": false,
-        "data_since": "2023-10-17T08:26:30.517593316Z"
+        "data_since": "2023-10-24T16:13:59.262109603Z"
+    },
+    "195.3.221.16:12257": {
+        "voting_power": 1070,
+        "is_validator": true,
+        "moniker": "n19ad88",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 322567,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
+        "catching_up": false,
+        "data_since": "2023-10-23T10:13:58.433161085Z"
     },
     "168.119.91.22:2261": {
         "voting_power": 599999,
@@ -42,8 +42,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
@@ -54,34 +54,22 @@
         "network": "banksy-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 387466,
-        "blocks_indexed": 387465,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
-    "195.3.221.16:12257": {
-        "voting_power": 1070,
+    "138.201.220.156:25657": {
+        "voting_power": 200019,
         "is_validator": true,
-        "moniker": "n19ad88",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 322567,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
-        "catching_up": false,
-        "data_since": "2023-10-23T10:13:58.433161085Z"
-    },
-    "34.118.29.149:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "test",
+        "moniker": "hz6",
         "network": "banksy-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 387465,
-        "blocks_indexed": 387464,
+        "earliest_block_height": 223851,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
         "catching_up": false,
-        "data_since": "2023-10-04T07:14:04.61613912Z"
+        "data_since": "2023-10-17T08:26:30.517593316Z"
     },
     "65.109.117.208:2261": {
         "voting_power": 0,
@@ -92,6 +80,18 @@
         "earliest_block_height": 1,
         "latest_block_height": 325000,
         "blocks_indexed": 324999,
+        "catching_up": false,
+        "data_since": "2023-10-04T07:14:04.61613912Z"
+    },
+    "34.118.29.149:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "test",
+        "network": "banksy-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 390585,
+        "blocks_indexed": 390584,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     }

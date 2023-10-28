@@ -1,40 +1,4 @@
 {
-    "207.244.253.244:29657": {
-        "voting_power": 46593466622639693,
-        "is_validator": true,
-        "moniker": "cryptobtcbuyer",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 188422,
-        "latest_block_height": 288422,
-        "blocks_indexed": 288421,
-        "catching_up": false,
-        "data_since": "2023-10-21T16:51:29.277251787Z"
-    },
-    "149.102.146.157:17157": {
-        "voting_power": 12490000000001,
-        "is_validator": true,
-        "moniker": "warren4",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 164001,
-        "latest_block_height": 288420,
-        "blocks_indexed": 288419,
-        "catching_up": false,
-        "data_since": "2023-10-20T03:44:20.179247679Z"
-    },
-    "3.82.214.0:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "validator",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 288422,
-        "blocks_indexed": 288421,
-        "catching_up": false,
-        "data_since": "2023-07-06T15:27:04.171971353Z"
-    },
     "65.109.82.17:12357": {
         "voting_power": 17192126935077,
         "is_validator": true,
@@ -42,8 +6,8 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 145001,
-        "latest_block_height": 288420,
-        "blocks_indexed": 288419,
+        "latest_block_height": 291667,
+        "blocks_indexed": 291666,
         "catching_up": false,
         "data_since": "2023-10-18T22:52:56.169125786Z"
     },
@@ -53,11 +17,47 @@
         "moniker": "L0vd.com | RPC",
         "network": "entangle_33133-1",
         "tx_index": "off",
-        "earliest_block_height": 188420,
-        "latest_block_height": 288420,
-        "blocks_indexed": 288419,
+        "earliest_block_height": 191668,
+        "latest_block_height": 291668,
+        "blocks_indexed": 291667,
         "catching_up": false,
-        "data_since": "2023-10-21T16:51:11.973056609Z"
+        "data_since": "2023-10-21T21:35:43.363296126Z"
+    },
+    "207.244.253.244:29657": {
+        "voting_power": 46593466622639693,
+        "is_validator": true,
+        "moniker": "cryptobtcbuyer",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 191670,
+        "latest_block_height": 291670,
+        "blocks_indexed": 291669,
+        "catching_up": false,
+        "data_since": "2023-10-21T21:35:51.712084111Z"
+    },
+    "3.82.214.0:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "validator",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 291670,
+        "blocks_indexed": 291669,
+        "catching_up": false,
+        "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "149.102.146.157:17157": {
+        "voting_power": 12490000000001,
+        "is_validator": true,
+        "moniker": "warren4",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 164001,
+        "latest_block_height": 291667,
+        "blocks_indexed": 291666,
+        "catching_up": false,
+        "data_since": "2023-10-20T03:44:20.179247679Z"
     },
     "35.175.80.14:26657": {
         "voting_power": 0,
@@ -66,8 +66,8 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 288420,
-        "blocks_indexed": 288419,
+        "latest_block_height": 291668,
+        "blocks_indexed": 291667,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
     },
@@ -78,8 +78,8 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 226001,
-        "latest_block_height": 288421,
-        "blocks_indexed": 288420,
+        "latest_block_height": 291669,
+        "blocks_indexed": 291668,
         "catching_up": false,
         "data_since": "2023-10-24T04:13:25.355427911Z"
     }
