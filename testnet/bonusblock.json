@@ -1,16 +1,4 @@
 {
-    "144.91.66.143:29657": {
-        "voting_power": 1,
-        "is_validator": true,
-        "moniker": "AlxVoy",
-        "network": "blocktopia-01",
-        "tx_index": "on",
-        "earliest_block_height": 1944908,
-        "latest_block_height": 2492376,
-        "blocks_indexed": 2492375,
-        "catching_up": false,
-        "data_since": "2023-09-24T19:53:57.563969151Z"
-    },
     "195.3.221.16:13057": {
         "voting_power": 1,
         "is_validator": true,
@@ -18,9 +6,33 @@
         "network": "blocktopia-01",
         "tx_index": "off",
         "earliest_block_height": 1235336,
-        "latest_block_height": 2492376,
-        "blocks_indexed": 2492375,
+        "latest_block_height": 2505933,
+        "blocks_indexed": 2505932,
         "catching_up": false,
         "data_since": "2023-08-09T07:53:59.585992539Z"
+    },
+    "144.91.66.143:29657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "AlxVoy",
+        "network": "blocktopia-01",
+        "tx_index": "on",
+        "earliest_block_height": 1944908,
+        "latest_block_height": 2505933,
+        "blocks_indexed": 2505932,
+        "catching_up": false,
+        "data_since": "2023-09-24T19:53:57.563969151Z"
+    },
+    "46.17.250.108:36657": {
+        "voting_power": 18,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "blocktopia-01",
+        "tx_index": "off",
+        "earliest_block_height": 2169901,
+        "latest_block_height": 2505933,
+        "blocks_indexed": 2505932,
+        "catching_up": false,
+        "data_since": "2023-10-08T20:58:40.903324682Z"
     }
 }
