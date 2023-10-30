@@ -1,15 +1,15 @@
 {
-    "212.22.70.9:60557": {
-        "voting_power": 2,
-        "is_validator": true,
-        "moniker": "Sr20de",
+    "3.39.189.46:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node",
         "network": "sgenet-1",
         "tx_index": "off",
-        "earliest_block_height": 698001,
-        "latest_block_height": 790337,
-        "blocks_indexed": 790336,
+        "earliest_block_height": 1,
+        "latest_block_height": 805371,
+        "blocks_indexed": 805370,
         "catching_up": false,
-        "data_since": "2023-10-22T22:44:33.807488072Z"
+        "data_since": "2023-09-06T12:00:00Z"
     },
     "3.37.63.177:26657": {
         "voting_power": 0,
@@ -18,8 +18,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 790339,
-        "blocks_indexed": 790338,
+        "latest_block_height": 805372,
+        "blocks_indexed": 805371,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -30,22 +30,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 790339,
-        "blocks_indexed": 790338,
+        "latest_block_height": 805372,
+        "blocks_indexed": 805371,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
-    "3.39.189.46:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node",
+    "212.22.70.9:60557": {
+        "voting_power": 2,
+        "is_validator": true,
+        "moniker": "Sr20de",
         "network": "sgenet-1",
         "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 790339,
-        "blocks_indexed": 790338,
+        "earliest_block_height": 698001,
+        "latest_block_height": 805371,
+        "blocks_indexed": 805370,
         "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
+        "data_since": "2023-10-22T22:44:33.807488072Z"
     },
     "89.117.56.126:23957": {
         "voting_power": 2755009,
@@ -54,8 +54,8 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 790338,
-        "blocks_indexed": 790337,
+        "latest_block_height": 805372,
+        "blocks_indexed": 805371,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     }

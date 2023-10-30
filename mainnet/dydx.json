@@ -1,37 +1,49 @@
 {
-    "57.128.60.218:26657": {
-        "voting_power": 10,
-        "is_validator": true,
-        "moniker": "NodeStake",
-        "network": "dydx-mainnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 157132,
-        "blocks_indexed": 157131,
-        "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
-    },
-    "91.132.144.175:26657": {
+    "65.108.108.42:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "dyd-node",
-        "network": "dydx-mainnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 157149,
-        "blocks_indexed": 157148,
+        "moniker": "0base.vc-cosmoshub-4-cosmoshub-0",
+        "network": "cosmoshub-4",
+        "tx_index": "on",
+        "earliest_block_height": 17633108,
+        "latest_block_height": 17633994,
+        "blocks_indexed": 17633993,
         "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
+        "data_since": "2023-10-29T23:31:17.476136949Z"
     },
-    "199.254.199.221:26657": {
-        "voting_power": 120,
+    "139.180.218.221:26657": {
+        "voting_power": 2,
         "is_validator": true,
-        "moniker": "nysa.network",
+        "moniker": "[NODERS]TEAM",
         "network": "dydx-mainnet-1",
-        "tx_index": "off",
+        "tx_index": "on",
+        "earliest_block_height": 112596,
+        "latest_block_height": 208954,
+        "blocks_indexed": 208953,
+        "catching_up": false,
+        "data_since": "2023-10-28T07:59:46.082798393Z"
+    },
+    "142.132.151.99:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "23789038d58e",
+        "network": "wave_2282041-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 1020,
+        "blocks_indexed": 1019,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
+    },
+    "103.219.171.71:26657": {
+        "voting_power": 2003,
+        "is_validator": true,
+        "moniker": "KubikStaking",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 157144,
-        "blocks_indexed": 157143,
+        "latest_block_height": 208961,
+        "blocks_indexed": 208960,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
@@ -42,33 +54,45 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 157143,
-        "blocks_indexed": 157142,
+        "latest_block_height": 208962,
+        "blocks_indexed": 208961,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
-    "103.219.171.71:26657": {
-        "voting_power": 1970,
-        "is_validator": true,
-        "moniker": "KubikStaking",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 157149,
-        "blocks_indexed": 157148,
-        "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
-    },
-    "54.39.28.226:26657": {
+    "65.21.237.117:27657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Kitkat-dydx-main",
+        "moniker": "node",
         "network": "dydx-mainnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 112596,
-        "latest_block_height": 157144,
-        "blocks_indexed": 157143,
+        "tx_index": "on",
+        "earliest_block_height": 175622,
+        "latest_block_height": 208965,
+        "blocks_indexed": 208964,
         "catching_up": false,
-        "data_since": "2023-10-28T07:59:46.082798393Z"
+        "data_since": "2023-10-29T07:59:36.4301956Z"
+    },
+    "128.140.75.182:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Vault",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 41525,
+        "latest_block_height": 208965,
+        "blocks_indexed": 208964,
+        "catching_up": false,
+        "data_since": "2023-10-27T07:59:48.800118701Z"
+    },
+    "65.109.112.162:26657": {
+        "voting_power": 500000,
+        "is_validator": true,
+        "moniker": "StakeLab",
+        "network": "dydx-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 743382,
+        "blocks_indexed": 743381,
+        "catching_up": false,
+        "data_since": "2023-10-17T17:00:00Z"
     }
 }
