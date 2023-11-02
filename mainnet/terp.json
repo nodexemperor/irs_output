@@ -6,34 +6,22 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3169448,
-        "blocks_indexed": 3169447,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
     },
-    "65.21.90.141:12271": {
-        "voting_power": 50273,
-        "is_validator": true,
-        "moniker": "SerGo",
+    "193.46.243.184:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "HSS",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 3069446,
-        "latest_block_height": 3169446,
-        "blocks_indexed": 3169445,
+        "earliest_block_height": 3172001,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
-        "data_since": "2023-10-25T18:11:21.477672838Z"
-    },
-    "65.108.232.168:37657": {
-        "voting_power": 136223,
-        "is_validator": true,
-        "moniker": "KonsorTech",
-        "network": "morocco-1",
-        "tx_index": "off",
-        "earliest_block_height": 1755001,
-        "latest_block_height": 3169447,
-        "blocks_indexed": 3169446,
-        "catching_up": false,
-        "data_since": "2023-08-02T19:18:10.745605882Z"
+        "data_since": "2023-11-01T04:54:36.873291795Z"
     },
     "207.244.254.232:26657": {
         "voting_power": 0,
@@ -42,22 +30,34 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3169448,
-        "blocks_indexed": 3169447,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
     },
-    "193.46.243.184:36657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "HS2",
+    "167.235.14.83:47657": {
+        "voting_power": 137795,
+        "is_validator": true,
+        "moniker": "Appieasahbie | AkNodes",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 3156001,
-        "latest_block_height": 3169448,
-        "blocks_indexed": 3169447,
+        "earliest_block_height": 2551501,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
-        "data_since": "2023-10-31T04:42:57.278925162Z"
+        "data_since": "2023-09-22T18:49:37.688054519Z"
+    },
+    "65.108.232.168:37657": {
+        "voting_power": 136223,
+        "is_validator": true,
+        "moniker": "KonsorTech",
+        "network": "morocco-1",
+        "tx_index": "off",
+        "earliest_block_height": 1755001,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
+        "catching_up": false,
+        "data_since": "2023-08-02T19:18:10.745605882Z"
     },
     "142.132.202.50:42657": {
         "voting_power": 301672,
@@ -65,11 +65,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 3069447,
-        "latest_block_height": 3169447,
-        "blocks_indexed": 3169446,
+        "earliest_block_height": 3085364,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
-        "data_since": "2023-10-25T18:11:26.859878237Z"
+        "data_since": "2023-10-26T18:10:24.011481338Z"
     },
     "65.109.82.249:30657": {
         "voting_power": 51999,
@@ -78,9 +78,21 @@
         "network": "morocco-1",
         "tx_index": "off",
         "earliest_block_height": 2763001,
-        "latest_block_height": 3169448,
-        "blocks_indexed": 3169447,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
         "catching_up": false,
         "data_since": "2023-10-06T04:02:18.736187734Z"
+    },
+    "65.21.90.141:12271": {
+        "voting_power": 50273,
+        "is_validator": true,
+        "moniker": "SerGo",
+        "network": "morocco-1",
+        "tx_index": "off",
+        "earliest_block_height": 3085364,
+        "latest_block_height": 3185364,
+        "blocks_indexed": 3185363,
+        "catching_up": false,
+        "data_since": "2023-10-26T18:10:24.011481338Z"
     }
 }
