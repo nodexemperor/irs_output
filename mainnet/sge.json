@@ -1,13 +1,37 @@
 {
-    "3.39.189.46:26657": {
+    "142.132.202.86:16657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "sentry-node",
+        "moniker": "ramuchi.tech",
         "network": "sgenet-1",
-        "tx_index": "off",
+        "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 849480,
-        "blocks_indexed": 849479,
+        "latest_block_height": 864086,
+        "blocks_indexed": 864085,
+        "catching_up": false,
+        "data_since": "2023-09-06T12:00:00Z"
+    },
+    "135.181.114.86:29057": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "NodeName",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 840001,
+        "latest_block_height": 864084,
+        "blocks_indexed": 864083,
+        "catching_up": false,
+        "data_since": "2023-11-01T09:29:34.204233658Z"
+    },
+    "3.37.63.177:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sge-sentry-1",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 864086,
+        "blocks_indexed": 864085,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -18,44 +42,32 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 698001,
-        "latest_block_height": 849479,
-        "blocks_indexed": 849478,
+        "latest_block_height": 864085,
+        "blocks_indexed": 864084,
         "catching_up": false,
         "data_since": "2023-10-22T22:44:33.807488072Z"
     },
-    "3.37.63.177:26657": {
+    "3.39.189.46:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "sge-sentry-1",
+        "moniker": "sentry-node",
         "network": "sgenet-1",
-        "tx_index": "on",
+        "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 849480,
-        "blocks_indexed": 849479,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "142.132.202.86:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ramuchi.tech",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 849480,
-        "blocks_indexed": 849479,
+        "latest_block_height": 864086,
+        "blocks_indexed": 864085,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
     "89.117.56.126:23957": {
-        "voting_power": 19755009,
+        "voting_power": 29755009,
         "is_validator": true,
         "moniker": "a3f054a4782f8d45e10fd767ed51a7ec",
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 849480,
-        "blocks_indexed": 849479,
+        "latest_block_height": 864086,
+        "blocks_indexed": 864085,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     }
