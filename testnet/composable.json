@@ -6,8 +6,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 329248,
-        "latest_block_height": 484946,
-        "blocks_indexed": 484945,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
         "catching_up": false,
         "data_since": "2023-10-24T09:54:14.965955094Z"
     },
@@ -18,34 +18,10 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
-    "195.3.221.16:12257": {
-        "voting_power": 1070,
-        "is_validator": true,
-        "moniker": "n19ad88",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 322567,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
-        "catching_up": false,
-        "data_since": "2023-10-23T10:13:58.433161085Z"
-    },
-    "65.109.33.48:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 384947,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
-        "catching_up": false,
-        "data_since": "2023-10-27T21:28:37.577402833Z"
     },
     "138.201.220.156:25657": {
         "voting_power": 200019,
@@ -54,10 +30,34 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 223851,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
         "catching_up": false,
         "data_since": "2023-10-17T08:26:30.517593316Z"
+    },
+    "195.3.221.16:12257": {
+        "voting_power": 1070,
+        "is_validator": true,
+        "moniker": "n19ad88",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 322567,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
+        "catching_up": false,
+        "data_since": "2023-10-23T10:13:58.433161085Z"
+    },
+    "144.76.174.27:17757": {
+        "voting_power": 1009,
+        "is_validator": true,
+        "moniker": "kokos",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
+        "catching_up": false,
+        "data_since": "2023-10-04T07:14:04.61613912Z"
     },
     "65.109.117.208:2261": {
         "voting_power": 0,
@@ -71,18 +71,6 @@
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
-    "144.76.174.27:17757": {
-        "voting_power": 1009,
-        "is_validator": true,
-        "moniker": "kokos",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
-        "catching_up": false,
-        "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
     "34.118.29.149:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -90,9 +78,21 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 484947,
-        "blocks_indexed": 484946,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
+    },
+    "65.109.33.48:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 401131,
+        "latest_block_height": 501131,
+        "blocks_indexed": 501130,
+        "catching_up": false,
+        "data_since": "2023-10-28T21:22:25.997218283Z"
     }
 }

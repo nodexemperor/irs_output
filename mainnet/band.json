@@ -6,22 +6,10 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 20191963,
-        "latest_block_height": 22686917,
-        "blocks_indexed": 22686916,
+        "latest_block_height": 22718985,
+        "blocks_indexed": 22718984,
         "catching_up": false,
         "data_since": "2023-08-17T06:59:26.591701892Z"
-    },
-    "91.246.64.247:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "band4",
-        "network": "laozi-mainnet",
-        "tx_index": "off",
-        "earliest_block_height": 19975001,
-        "latest_block_height": 22686904,
-        "blocks_indexed": 22686903,
-        "catching_up": false,
-        "data_since": "2023-08-10T15:36:07.570098215Z"
     },
     "5.9.99.172:22957": {
         "voting_power": 0,
@@ -30,8 +18,8 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 17555001,
-        "latest_block_height": 22686919,
-        "blocks_indexed": 22686918,
+        "latest_block_height": 22718987,
+        "blocks_indexed": 22718986,
         "catching_up": false,
         "data_since": "2023-05-28T01:39:19.915156967Z"
     },
@@ -42,8 +30,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 21802559,
-        "latest_block_height": 22686892,
-        "blocks_indexed": 22686891,
+        "latest_block_height": 22718975,
+        "blocks_indexed": 22718974,
         "catching_up": false,
         "data_since": "2023-10-06T06:59:30.158871412Z"
     },
@@ -54,10 +42,34 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 21737961,
-        "latest_block_height": 22686909,
-        "blocks_indexed": 22686908,
+        "latest_block_height": 22718993,
+        "blocks_indexed": 22718992,
         "catching_up": false,
         "data_since": "2023-10-04T06:59:30.644432284Z"
+    },
+    "65.109.89.45:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "nn",
+        "network": "laozi-mainnet",
+        "tx_index": "on",
+        "earliest_block_height": 22126860,
+        "latest_block_height": 22718979,
+        "blocks_indexed": 22718978,
+        "catching_up": false,
+        "data_since": "2023-10-16T08:09:30.901728839Z"
+    },
+    "65.108.108.42:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "0base.vc-cosmoshub-4-cosmoshub-1",
+        "network": "cosmoshub-4",
+        "tx_index": "on",
+        "earliest_block_height": 17702112,
+        "latest_block_height": 17702992,
+        "blocks_indexed": 17702991,
+        "catching_up": false,
+        "data_since": "2023-11-03T23:16:50.884361847Z"
     },
     "176.9.147.146:46657": {
         "voting_power": 0,
@@ -65,34 +77,10 @@
         "moniker": "band-sentry",
         "network": "laozi-mainnet",
         "tx_index": "on",
-        "earliest_block_height": 22525001,
-        "latest_block_height": 22686910,
-        "blocks_indexed": 22686909,
+        "earliest_block_height": 22685001,
+        "latest_block_height": 22718994,
+        "blocks_indexed": 22718993,
         "catching_up": false,
-        "data_since": "2023-10-28T21:18:59.582043681Z"
-    },
-    "65.108.108.42:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "0base.vc-cosmoshub-4-cosmoshub-0",
-        "network": "cosmoshub-4",
-        "tx_index": "on",
-        "earliest_block_height": 17689112,
-        "latest_block_height": 17689180,
-        "blocks_indexed": 17689179,
-        "catching_up": true,
-        "data_since": "2023-11-03T00:26:21.931909721Z"
-    },
-    "149.102.157.182:26857": {
-        "voting_power": 830,
-        "is_validator": true,
-        "moniker": "openstake.net",
-        "network": "laozi-mainnet",
-        "tx_index": "off",
-        "earliest_block_height": 17240001,
-        "latest_block_height": 22686916,
-        "blocks_indexed": 22686915,
-        "catching_up": false,
-        "data_since": "2023-05-18T09:32:40.610088451Z"
+        "data_since": "2023-11-02T23:27:26.428387819Z"
     }
 }

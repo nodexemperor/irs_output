@@ -1,4 +1,16 @@
 {
+    "65.108.211.139:26657": {
+        "voting_power": 199566,
+        "is_validator": true,
+        "moniker": "WellNode",
+        "network": "oasis-3",
+        "tx_index": "off",
+        "earliest_block_height": 2910658,
+        "latest_block_height": 3034909,
+        "blocks_indexed": 3034908,
+        "catching_up": true,
+        "data_since": "2023-09-28T22:43:51.342531202Z"
+    },
     "195.3.221.16:12057": {
         "voting_power": 200004,
         "is_validator": true,
@@ -6,8 +18,8 @@
         "network": "oasis-3",
         "tx_index": "off",
         "earliest_block_height": 2121200,
-        "latest_block_height": 3445742,
-        "blocks_indexed": 3445741,
+        "latest_block_height": 3460752,
+        "blocks_indexed": 3460751,
         "catching_up": false,
         "data_since": "2023-08-07T16:43:53.573851717Z"
     },
@@ -18,8 +30,8 @@
         "network": "oasis-3",
         "tx_index": "off",
         "earliest_block_height": 1818001,
-        "latest_block_height": 3445742,
-        "blocks_indexed": 3445741,
+        "latest_block_height": 3460752,
+        "blocks_indexed": 3460751,
         "catching_up": false,
         "data_since": "2023-07-18T17:40:26.619498144Z"
     },
@@ -30,34 +42,10 @@
         "network": "oasis-3",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 3445742,
-        "blocks_indexed": 3445741,
+        "latest_block_height": 3460752,
+        "blocks_indexed": 3460751,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
-    },
-    "65.108.211.139:26657": {
-        "voting_power": 199566,
-        "is_validator": true,
-        "moniker": "WellNode",
-        "network": "oasis-3",
-        "tx_index": "off",
-        "earliest_block_height": 2910658,
-        "latest_block_height": 3053263,
-        "blocks_indexed": 3053262,
-        "catching_up": true,
-        "data_since": "2023-09-28T22:43:51.342531202Z"
-    },
-    "5.181.190.76:22157": {
-        "voting_power": 197507,
-        "is_validator": true,
-        "moniker": "Nodeist-noria-test",
-        "network": "oasis-3",
-        "tx_index": "off",
-        "earliest_block_height": 3440622,
-        "latest_block_height": 3445742,
-        "blocks_indexed": 3445741,
-        "catching_up": false,
-        "data_since": "2023-11-02T17:29:50.967689199Z"
     },
     "46.17.250.108:61357": {
         "voting_power": 197755,
@@ -66,8 +54,8 @@
         "network": "oasis-3",
         "tx_index": "off",
         "earliest_block_height": 3361001,
-        "latest_block_height": 3445742,
-        "blocks_indexed": 3445741,
+        "latest_block_height": 3460751,
+        "blocks_indexed": 3460750,
         "catching_up": false,
         "data_since": "2023-10-28T12:35:51.703119175Z"
     },
@@ -78,8 +66,8 @@
         "network": "oasis-3",
         "tx_index": "on",
         "earliest_block_height": 1523231,
-        "latest_block_height": 3445741,
-        "blocks_indexed": 3445740,
+        "latest_block_height": 3460751,
+        "blocks_indexed": 3460750,
         "catching_up": false,
         "data_since": "2023-06-29T10:44:07.866686882Z"
     }
