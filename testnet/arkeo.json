@@ -6,8 +6,8 @@
         "network": "arkeo",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
         "catching_up": false,
         "data_since": "2023-08-16T07:18:30.409743734Z"
     },
@@ -18,32 +18,56 @@
         "network": "arkeo",
         "tx_index": "on",
         "earliest_block_height": 340001,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
         "catching_up": false,
         "data_since": "2023-09-06T05:21:58.959689975Z"
     },
-    "62.171.130.196:18657": {
-        "voting_power": 992,
-        "is_validator": true,
-        "moniker": "John_VNBnodes",
+    "65.109.33.48:27657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
         "network": "arkeo",
         "tx_index": "off",
-        "earliest_block_height": 609001,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "earliest_block_height": 1178753,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
         "catching_up": false,
-        "data_since": "2023-09-24T00:01:39.01868464Z"
+        "data_since": "2023-10-31T10:01:04.325525431Z"
+    },
+    "65.108.111.236:65197": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "rpc-1.testnet.arkeo.nodes.guru",
+        "network": "arkeo",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
+        "catching_up": false,
+        "data_since": "2023-08-16T07:18:30.409743734Z"
+    },
+    "65.109.116.119:15757": {
+        "voting_power": 1101008101,
+        "is_validator": true,
+        "moniker": "semalist",
+        "network": "arkeo",
+        "tx_index": "on",
+        "earliest_block_height": 332001,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
+        "catching_up": false,
+        "data_since": "2023-09-05T17:58:36.13647532Z"
     },
     "65.109.155.238:29657": {
-        "voting_power": 2072,
+        "voting_power": 2074,
         "is_validator": true,
         "moniker": "ksalab",
         "network": "arkeo",
         "tx_index": "off",
         "earliest_block_height": 452001,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
         "catching_up": false,
         "data_since": "2023-09-13T14:21:42.166423972Z"
     },
@@ -53,46 +77,34 @@
         "moniker": "Sr20de",
         "network": "arkeo",
         "tx_index": "off",
-        "earliest_block_height": 926001,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "earliest_block_height": 1276901,
+        "latest_block_height": 1278753,
+        "blocks_indexed": 1278752,
         "catching_up": false,
-        "data_since": "2023-10-14T21:15:51.394516099Z"
+        "data_since": "2023-11-06T22:09:15.7284487Z"
     },
-    "65.109.33.48:27657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
+    "62.171.130.196:18657": {
+        "voting_power": 992,
+        "is_validator": true,
+        "moniker": "John_VNBnodes",
         "network": "arkeo",
         "tx_index": "off",
-        "earliest_block_height": 1163862,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "earliest_block_height": 609001,
+        "latest_block_height": 1278754,
+        "blocks_indexed": 1278753,
         "catching_up": false,
-        "data_since": "2023-10-30T10:37:42.413201756Z"
+        "data_since": "2023-09-24T00:01:39.01868464Z"
     },
-    "65.109.116.119:15757": {
-        "voting_power": 1101008101,
+    "213.239.207.175:60657": {
+        "voting_power": 1010,
         "is_validator": true,
-        "moniker": "semalist",
+        "moniker": "StakeUp",
         "network": "arkeo",
-        "tx_index": "on",
-        "earliest_block_height": 332001,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
+        "tx_index": "off",
+        "earliest_block_height": 344001,
+        "latest_block_height": 1278754,
+        "blocks_indexed": 1278753,
         "catching_up": false,
-        "data_since": "2023-09-05T17:58:36.13647532Z"
-    },
-    "65.108.111.236:65197": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "rpc-1.testnet.arkeo.nodes.guru",
-        "network": "arkeo",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1263862,
-        "blocks_indexed": 1263861,
-        "catching_up": false,
-        "data_since": "2023-08-16T07:18:30.409743734Z"
+        "data_since": "2023-09-06T11:39:50.170016456Z"
     }
 }

@@ -1,16 +1,4 @@
 {
-    "46.17.250.108:61357": {
-        "voting_power": 197755,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "oasis-3",
-        "tx_index": "off",
-        "earliest_block_height": 3361001,
-        "latest_block_height": 3491228,
-        "blocks_indexed": 3491227,
-        "catching_up": false,
-        "data_since": "2023-10-28T12:35:51.703119175Z"
-    },
     "195.3.221.16:12057": {
         "voting_power": 200004,
         "is_validator": true,
@@ -18,22 +6,10 @@
         "network": "oasis-3",
         "tx_index": "off",
         "earliest_block_height": 2121200,
-        "latest_block_height": 3491229,
-        "blocks_indexed": 3491228,
+        "latest_block_height": 3506674,
+        "blocks_indexed": 3506673,
         "catching_up": false,
         "data_since": "2023-08-07T16:43:53.573851717Z"
-    },
-    "65.108.211.139:26657": {
-        "voting_power": 199566,
-        "is_validator": true,
-        "moniker": "WellNode",
-        "network": "oasis-3",
-        "tx_index": "off",
-        "earliest_block_height": 2910658,
-        "latest_block_height": 3019404,
-        "blocks_indexed": 3019403,
-        "catching_up": true,
-        "data_since": "2023-09-28T22:43:51.342531202Z"
     },
     "65.109.70.45:12657": {
         "voting_power": 199992,
@@ -42,8 +18,8 @@
         "network": "oasis-3",
         "tx_index": "off",
         "earliest_block_height": 1818001,
-        "latest_block_height": 3491229,
-        "blocks_indexed": 3491228,
+        "latest_block_height": 3506674,
+        "blocks_indexed": 3506673,
         "catching_up": false,
         "data_since": "2023-07-18T17:40:26.619498144Z"
     },
@@ -54,10 +30,22 @@
         "network": "oasis-3",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 3491229,
-        "blocks_indexed": 3491228,
+        "latest_block_height": 3506674,
+        "blocks_indexed": 3506673,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "46.17.250.108:61357": {
+        "voting_power": 197755,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "oasis-3",
+        "tx_index": "off",
+        "earliest_block_height": 3361001,
+        "latest_block_height": 3506674,
+        "blocks_indexed": 3506673,
+        "catching_up": false,
+        "data_since": "2023-10-28T12:35:51.703119175Z"
     },
     "78.46.45.174:25657": {
         "voting_power": 199992,
@@ -66,8 +54,8 @@
         "network": "oasis-3",
         "tx_index": "on",
         "earliest_block_height": 1523231,
-        "latest_block_height": 3491228,
-        "blocks_indexed": 3491227,
+        "latest_block_height": 3506673,
+        "blocks_indexed": 3506672,
         "catching_up": false,
         "data_since": "2023-06-29T10:44:07.866686882Z"
     }
