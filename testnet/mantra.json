@@ -47,6 +47,18 @@
         "catching_up": false,
         "data_since": "2023-10-15T00:30:36.395658207Z"
     },
+    "65.109.89.35:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "starnodes",
+        "network": "mantrachain-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 731474,
+        "blocks_indexed": 731473,
+        "catching_up": false,
+        "data_since": "2023-09-13T13:04:51.537530173Z"
+    },
     "95.217.91.158:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -66,8 +78,8 @@
         "network": "evmos_9001-2",
         "tx_index": "on",
         "earliest_block_height": 16890479,
-        "latest_block_height": 16953672,
-        "blocks_indexed": 16953671,
+        "latest_block_height": 16973706,
+        "blocks_indexed": 16973705,
         "catching_up": false,
         "data_since": "2023-11-03T22:04:16.817421997Z"
     },
@@ -75,18 +87,6 @@
         "voting_power": 0,
         "is_validator": false,
         "moniker": "cobrakin37",
-        "network": "mantrachain-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 731474,
-        "blocks_indexed": 731473,
-        "catching_up": false,
-        "data_since": "2023-09-13T13:04:51.537530173Z"
-    },
-    "65.109.89.35:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "starnodes",
         "network": "mantrachain-1",
         "tx_index": "off",
         "earliest_block_height": 1,
@@ -106,5 +106,41 @@
         "blocks_indexed": 731473,
         "catching_up": false,
         "data_since": "2023-10-05T21:50:11.074135596Z"
+    },
+    "34.136.169.18:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-05",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 8120,
+        "blocks_indexed": 8119,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
+    "34.172.80.207:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "seed-node-01",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 8120,
+        "blocks_indexed": 8119,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
+    "34.70.51.122:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "archive-node-01",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 8120,
+        "blocks_indexed": 8119,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
     }
 }
