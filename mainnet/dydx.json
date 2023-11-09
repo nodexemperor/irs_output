@@ -6,8 +6,8 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 760886,
-        "blocks_indexed": 760885,
+        "latest_block_height": 823225,
+        "blocks_indexed": 823224,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
@@ -17,11 +17,11 @@
         "moniker": "NodeStake",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
-        "earliest_block_height": 730001,
-        "latest_block_height": 758071,
-        "blocks_indexed": 758070,
+        "earliest_block_height": 790001,
+        "latest_block_height": 819720,
+        "blocks_indexed": 819719,
         "catching_up": true,
-        "data_since": "2023-11-07T12:49:08.507429515Z"
+        "data_since": "2023-11-08T12:19:37.407689255Z"
     },
     "65.108.137.22:26657": {
         "voting_power": 0,
@@ -30,8 +30,8 @@
         "network": "mantle-1",
         "tx_index": "on",
         "earliest_block_height": 7372856,
-        "latest_block_height": 8348804,
-        "blocks_indexed": 8348803,
+        "latest_block_height": 8363751,
+        "blocks_indexed": 8363750,
         "catching_up": false,
         "data_since": "2023-09-03T11:58:53.206825141Z"
     },
@@ -42,69 +42,33 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 175622,
-        "latest_block_height": 760897,
-        "blocks_indexed": 760896,
+        "latest_block_height": 823232,
+        "blocks_indexed": 823231,
         "catching_up": false,
         "data_since": "2023-10-29T07:59:36.4301956Z"
     },
-    "161.97.180.20:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Blockscope.net",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 760900,
-        "blocks_indexed": 760899,
-        "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
-    },
-    "103.219.171.71:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "KubikStaking",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 760905,
-        "blocks_indexed": 760904,
-        "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
-    },
-    "144.217.74.10:26657": {
-        "voting_power": 8067,
+    "65.109.112.162:26657": {
+        "voting_power": 500000,
         "is_validator": true,
-        "moniker": "Stake Frites",
-        "network": "dydx-mainnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 285159,
-        "latest_block_height": 760908,
-        "blocks_indexed": 760907,
+        "moniker": "StakeLab",
+        "network": "dydx-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1341562,
+        "blocks_indexed": 1341561,
         "catching_up": false,
-        "data_since": "2023-10-31T07:59:46.286778482Z"
+        "data_since": "2023-10-17T17:00:00Z"
     },
-    "64.176.48.105:26657": {
-        "voting_power": 5084,
-        "is_validator": true,
-        "moniker": "Artifact",
+    "67.209.54.60:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "440cd05598e1",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 760910,
-        "blocks_indexed": 760909,
+        "latest_block_height": 823239,
+        "blocks_indexed": 823238,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
-    },
-    "128.140.75.182:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Vault",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 41525,
-        "latest_block_height": 760913,
-        "blocks_indexed": 760912,
-        "catching_up": false,
-        "data_since": "2023-10-27T07:59:48.800118701Z"
     }
 }
