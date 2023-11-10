@@ -1,16 +1,4 @@
 {
-    "3.37.63.177:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sge-sentry-1",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 950914,
-        "blocks_indexed": 950913,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
     "3.39.189.46:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,20 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 950916,
-        "blocks_indexed": 950915,
+        "latest_block_height": 964370,
+        "blocks_indexed": 964369,
+        "catching_up": false,
+        "data_since": "2023-09-06T12:00:00Z"
+    },
+    "3.37.63.177:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sge-sentry-1",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 964372,
+        "blocks_indexed": 964371,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -30,20 +30,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 950914,
-        "blocks_indexed": 950913,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "89.117.56.126:23957": {
-        "voting_power": 29755009,
-        "is_validator": true,
-        "moniker": "a3f054a4782f8d45e10fd767ed51a7ec",
-        "network": "sgenet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 950914,
-        "blocks_indexed": 950913,
+        "latest_block_height": 964372,
+        "blocks_indexed": 964371,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -54,8 +42,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 950913,
-        "blocks_indexed": 950912,
+        "latest_block_height": 964370,
+        "blocks_indexed": 964369,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -66,22 +54,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 950916,
-        "blocks_indexed": 950915,
+        "latest_block_height": 964373,
+        "blocks_indexed": 964372,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
-    "212.22.70.9:60557": {
-        "voting_power": 2,
+    "89.117.56.126:23957": {
+        "voting_power": 29755009,
         "is_validator": true,
-        "moniker": "Sr20de",
+        "moniker": "a3f054a4782f8d45e10fd767ed51a7ec",
         "network": "sgenet-1",
         "tx_index": "off",
-        "earliest_block_height": 698001,
-        "latest_block_height": 950914,
-        "blocks_indexed": 950913,
+        "earliest_block_height": 1,
+        "latest_block_height": 964372,
+        "blocks_indexed": 964371,
         "catching_up": false,
-        "data_since": "2023-10-22T22:44:33.807488072Z"
+        "data_since": "2023-09-06T12:00:00Z"
     },
     "135.181.114.86:29057": {
         "voting_power": 0,
@@ -90,9 +78,21 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 840001,
-        "latest_block_height": 950914,
-        "blocks_indexed": 950913,
+        "latest_block_height": 964370,
+        "blocks_indexed": 964369,
         "catching_up": false,
         "data_since": "2023-11-01T09:29:34.204233658Z"
+    },
+    "5.39.249.16:36657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Sr20de service node",
+        "network": "sgenet-1",
+        "tx_index": "off",
+        "earliest_block_height": 954001,
+        "latest_block_height": 964372,
+        "blocks_indexed": 964371,
+        "catching_up": false,
+        "data_since": "2023-11-09T07:24:05.863982395Z"
     }
 }
