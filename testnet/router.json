@@ -6,10 +6,22 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 2996617,
-        "blocks_indexed": 2996616,
+        "latest_block_height": 3045765,
+        "blocks_indexed": 3045764,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
+    },
+    "15.206.157.168:26657": {
+        "voting_power": 2020525,
+        "is_validator": true,
+        "moniker": "node1",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3045764,
+        "blocks_indexed": 3045763,
+        "catching_up": false,
+        "data_since": "2023-08-24T07:56:17.315103Z"
     },
     "43.205.136.8:26657": {
         "voting_power": 1813703,
@@ -18,8 +30,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2996616,
-        "blocks_indexed": 2996615,
+        "latest_block_height": 3045764,
+        "blocks_indexed": 3045763,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     },
@@ -35,18 +47,6 @@
         "catching_up": true,
         "data_since": "2023-10-31T23:26:24.153466101Z"
     },
-    "15.206.157.168:26657": {
-        "voting_power": 2020525,
-        "is_validator": true,
-        "moniker": "node1",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2996615,
-        "blocks_indexed": 2996614,
-        "catching_up": false,
-        "data_since": "2023-08-24T07:56:17.315103Z"
-    },
     "13.235.115.79:26657": {
         "voting_power": 1703420,
         "is_validator": true,
@@ -54,8 +54,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2996612,
-        "blocks_indexed": 2996611,
+        "latest_block_height": 3045761,
+        "blocks_indexed": 3045760,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     }

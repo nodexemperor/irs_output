@@ -1,75 +1,15 @@
 {
-    "95.217.110.39:26457": {
+    "82.100.58.113:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Validator.run",
-        "network": "dydx-mainnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 369150,
-        "latest_block_height": 950595,
-        "blocks_indexed": 950594,
-        "catching_up": false,
-        "data_since": "2023-11-01T17:44:54.582158179Z"
-    },
-    "54.37.253.178:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Ledger API",
+        "moniker": "RockawayX Infra",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 950595,
-        "blocks_indexed": 950594,
+        "latest_block_height": 1010411,
+        "blocks_indexed": 1010410,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
-    },
-    "51.178.76.62:36657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Moonlet",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 845573,
-        "latest_block_height": 950597,
-        "blocks_indexed": 950596,
-        "catching_up": false,
-        "data_since": "2023-11-09T08:59:46.707399661Z"
-    },
-    "139.180.218.221:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "[NODERS]TEAM",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 112596,
-        "latest_block_height": 950608,
-        "blocks_indexed": 950607,
-        "catching_up": false,
-        "data_since": "2023-10-28T07:59:46.082798393Z"
-    },
-    "54.87.0.192:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "NodeStake",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 917001,
-        "latest_block_height": 947825,
-        "blocks_indexed": 947824,
-        "catching_up": true,
-        "data_since": "2023-11-10T11:46:03.810097796Z"
-    },
-    "65.109.112.162:26657": {
-        "voting_power": 500000,
-        "is_validator": true,
-        "moniker": "StakeLab",
-        "network": "dydx-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1457980,
-        "blocks_indexed": 1457979,
-        "catching_up": false,
-        "data_since": "2023-10-17T17:00:00Z"
     },
     "65.108.137.22:26657": {
         "voting_power": 0,
@@ -78,33 +18,45 @@
         "network": "mantle-1",
         "tx_index": "on",
         "earliest_block_height": 7372856,
-        "latest_block_height": 8393598,
-        "blocks_indexed": 8393597,
+        "latest_block_height": 8408565,
+        "blocks_indexed": 8408564,
         "catching_up": false,
         "data_since": "2023-09-03T11:58:53.206825141Z"
     },
     "65.21.237.117:27657": {
-        "voting_power": 0,
-        "is_validator": false,
+        "voting_power": 8183,
+        "is_validator": true,
         "moniker": "node",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 175622,
-        "latest_block_height": 950600,
-        "blocks_indexed": 950599,
+        "latest_block_height": 1010420,
+        "blocks_indexed": 1010419,
         "catching_up": false,
         "data_since": "2023-10-29T07:59:36.4301956Z"
     },
-    "5.9.102.58:26657": {
+    "139.180.218.221:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Nocturnal Labs",
+        "moniker": "[NODERS]TEAM",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 950612,
-        "blocks_indexed": 950611,
+        "earliest_block_height": 112596,
+        "latest_block_height": 1010420,
+        "blocks_indexed": 1010419,
         "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
+        "data_since": "2023-10-28T07:59:46.082798393Z"
+    },
+    "65.109.112.162:26657": {
+        "voting_power": 500000,
+        "is_validator": true,
+        "moniker": "StakeLab",
+        "network": "dydx-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1516005,
+        "blocks_indexed": 1516004,
+        "catching_up": false,
+        "data_since": "2023-10-17T17:00:00Z"
     }
 }
