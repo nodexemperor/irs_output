@@ -1,15 +1,15 @@
 {
-    "65.108.70.119:54657": {
-        "voting_power": 9,
+    "168.119.91.22:2261": {
+        "voting_power": 599999,
         "is_validator": true,
-        "moniker": "AlxVoy",
+        "moniker": "Notional",
         "network": "banksy-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 329248,
-        "latest_block_height": 646779,
-        "blocks_indexed": 646778,
+        "earliest_block_height": 1,
+        "latest_block_height": 663010,
+        "blocks_indexed": 663009,
         "catching_up": false,
-        "data_since": "2023-10-24T09:54:14.965955094Z"
+        "data_since": "2023-10-04T07:14:04.61613912Z"
     },
     "195.3.221.16:12257": {
         "voting_power": 1070,
@@ -18,22 +18,22 @@
         "network": "banksy-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 322567,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
+        "latest_block_height": 663010,
+        "blocks_indexed": 663009,
         "catching_up": false,
         "data_since": "2023-10-23T10:13:58.433161085Z"
     },
-    "168.119.91.22:2261": {
-        "voting_power": 599999,
+    "65.108.70.119:54657": {
+        "voting_power": 9,
         "is_validator": true,
-        "moniker": "Notional",
+        "moniker": "AlxVoy",
         "network": "banksy-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
+        "earliest_block_height": 329248,
+        "latest_block_height": 663009,
+        "blocks_indexed": 663008,
         "catching_up": false,
-        "data_since": "2023-10-04T07:14:04.61613912Z"
+        "data_since": "2023-10-24T09:54:14.965955094Z"
     },
     "65.109.117.208:2261": {
         "voting_power": 0,
@@ -42,8 +42,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 547829,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
+        "latest_block_height": 663010,
+        "blocks_indexed": 663009,
         "catching_up": false,
         "data_since": "2023-11-06T22:14:01.43821129Z"
     },
@@ -54,8 +54,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 223851,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
+        "latest_block_height": 663010,
+        "blocks_indexed": 663009,
         "catching_up": false,
         "data_since": "2023-10-17T08:26:30.517593316Z"
     },
@@ -66,20 +66,8 @@
         "network": "banksy-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
-        "catching_up": false,
-        "data_since": "2023-10-04T07:14:04.61613912Z"
-    },
-    "144.76.174.27:17757": {
-        "voting_power": 999,
-        "is_validator": true,
-        "moniker": "kokos",
-        "network": "banksy-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 646780,
-        "blocks_indexed": 646779,
+        "latest_block_height": 663011,
+        "blocks_indexed": 663010,
         "catching_up": false,
         "data_since": "2023-10-04T07:14:04.61613912Z"
     },
@@ -90,9 +78,21 @@
         "network": "public-testnet-14.5d79b6958580",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 135893,
-        "blocks_indexed": 135892,
+        "latest_block_height": 138633,
+        "blocks_indexed": 138632,
         "catching_up": false,
         "data_since": "2023-10-05T17:00:00Z"
+    },
+    "144.76.174.27:17757": {
+        "voting_power": 999,
+        "is_validator": true,
+        "moniker": "kokos",
+        "network": "banksy-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 663010,
+        "blocks_indexed": 663009,
+        "catching_up": false,
+        "data_since": "2023-10-04T07:14:04.61613912Z"
     }
 }
