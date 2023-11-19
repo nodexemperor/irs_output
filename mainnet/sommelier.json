@@ -6,21 +6,33 @@
         "network": "sommelier-3",
         "tx_index": "on",
         "earliest_block_height": 9057545,
-        "latest_block_height": 11781864,
-        "blocks_indexed": 11781863,
+        "latest_block_height": 11797024,
+        "blocks_indexed": 11797023,
         "catching_up": false,
         "data_since": "2023-05-21T10:28:56.75684959Z"
     },
     "148.113.6.121:34657": {
-        "voting_power": 1319464,
+        "voting_power": 1320077,
         "is_validator": true,
         "moniker": "Stakewolle",
         "network": "sommelier-3",
         "tx_index": "off",
         "earliest_block_height": 10535121,
-        "latest_block_height": 11781861,
-        "blocks_indexed": 11781860,
+        "latest_block_height": 11797021,
+        "blocks_indexed": 11797020,
         "catching_up": false,
         "data_since": "2023-08-27T10:28:56.281170162Z"
+    },
+    "95.217.202.49:48657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "rpc",
+        "network": "sommelier-3",
+        "tx_index": "on",
+        "earliest_block_height": 10474683,
+        "latest_block_height": 11797023,
+        "blocks_indexed": 11797022,
+        "catching_up": false,
+        "data_since": "2023-08-23T10:28:54.316839472Z"
     }
 }
