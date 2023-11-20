@@ -1,16 +1,4 @@
 {
-    "185.190.140.93:14657": {
-        "voting_power": 627074,
-        "is_validator": true,
-        "moniker": "geonodes",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 1763655,
-        "latest_block_height": 6069777,
-        "blocks_indexed": 6069776,
-        "catching_up": false,
-        "data_since": "2023-03-09T16:11:22.898121806Z"
-    },
     "65.109.35.50:20357": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,10 +6,22 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 5067437,
-        "latest_block_height": 6069777,
-        "blocks_indexed": 6069776,
+        "latest_block_height": 6086153,
+        "blocks_indexed": 6086152,
         "catching_up": false,
         "data_since": "2023-09-20T08:29:09.39809856Z"
+    },
+    "185.190.140.93:14657": {
+        "voting_power": 627081,
+        "is_validator": true,
+        "moniker": "geonodes",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 1763655,
+        "latest_block_height": 6086153,
+        "blocks_indexed": 6086152,
+        "catching_up": false,
+        "data_since": "2023-03-09T16:11:22.898121806Z"
     },
     "192.99.160.197:13657": {
         "voting_power": 0,
@@ -29,10 +29,10 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 6068501,
-        "latest_block_height": 6069775,
-        "blocks_indexed": 6069774,
+        "earliest_block_height": 6085001,
+        "latest_block_height": 6086152,
+        "blocks_indexed": 6086151,
         "catching_up": false,
-        "data_since": "2023-11-18T23:17:41.694529012Z"
+        "data_since": "2023-11-19T23:26:38.870851472Z"
     }
 }
