@@ -1,16 +1,4 @@
 {
-    "54.226.104.121:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-api-1",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 345834,
-        "blocks_indexed": 345833,
-        "catching_up": false,
-        "data_since": "2023-10-31T12:00:00Z"
-    },
     "34.203.237.64:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,20 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 345834,
-        "blocks_indexed": 345833,
+        "latest_block_height": 355300,
+        "blocks_indexed": 355299,
+        "catching_up": false,
+        "data_since": "2023-10-31T12:00:00Z"
+    },
+    "54.226.104.121:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-api-1",
+        "network": "sge-network-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 355300,
+        "blocks_indexed": 355299,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     },
@@ -29,11 +29,11 @@
         "moniker": "STAVR-Service",
         "network": "sge-network-4",
         "tx_index": "on",
-        "earliest_block_height": 344001,
-        "latest_block_height": 345834,
-        "blocks_indexed": 345833,
+        "earliest_block_height": 353001,
+        "latest_block_height": 355300,
+        "blocks_indexed": 355299,
         "catching_up": false,
-        "data_since": "2023-11-23T22:44:41.913790652Z"
+        "data_since": "2023-11-24T13:54:36.953833647Z"
     },
     "212.22.70.9:60557": {
         "voting_power": 99,
@@ -42,8 +42,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 138001,
-        "latest_block_height": 345834,
-        "blocks_indexed": 345833,
+        "latest_block_height": 355300,
+        "blocks_indexed": 355299,
         "catching_up": false,
         "data_since": "2023-11-09T21:47:54.523873842Z"
     }

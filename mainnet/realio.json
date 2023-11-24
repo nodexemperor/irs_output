@@ -1,15 +1,15 @@
 {
-    "135.181.210.171:21097": {
+    "192.99.160.197:10657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "BACKUP",
         "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3849101,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "tx_index": "off",
+        "earliest_block_height": 3859501,
+        "latest_block_height": 3862984,
+        "blocks_indexed": 3862983,
         "catching_up": false,
-        "data_since": "2023-11-23T20:55:28.357261057Z"
+        "data_since": "2023-11-24T11:57:02.350965017Z"
     },
     "135.181.114.86:25557": {
         "voting_power": 4234,
@@ -18,10 +18,22 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3529801,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "latest_block_height": 3862984,
+        "blocks_indexed": 3862983,
         "catching_up": false,
         "data_since": "2023-11-04T14:56:14.91048914Z"
+    },
+    "195.3.221.16:15257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Moonbridge",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3795001,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
+        "catching_up": false,
+        "data_since": "2023-11-20T14:58:09.080357576Z"
     },
     "159.223.176.211:26657": {
         "voting_power": 0,
@@ -30,8 +42,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "latest_block_height": 3862984,
+        "blocks_indexed": 3862983,
         "catching_up": false,
         "data_since": "2023-04-07T17:00:00Z"
     },
@@ -41,23 +53,23 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 3752046,
-        "latest_block_height": 3852046,
-        "blocks_indexed": 3852045,
+        "earliest_block_height": 3762983,
+        "latest_block_height": 3862983,
+        "blocks_indexed": 3862982,
         "catching_up": false,
-        "data_since": "2023-11-18T00:40:45.118703362Z"
+        "data_since": "2023-11-18T16:35:20.35035223Z"
     },
-    "46.17.250.108:56657": {
-        "voting_power": 68960,
-        "is_validator": true,
-        "moniker": "Sr20de",
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 3568001,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "earliest_block_height": 3859601,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
         "catching_up": false,
-        "data_since": "2023-11-06T22:02:48.494461447Z"
+        "data_since": "2023-11-24T12:06:01.253453711Z"
     },
     "65.109.28.177:30657": {
         "voting_power": 121223,
@@ -66,8 +78,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3560001,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
         "catching_up": false,
         "data_since": "2023-11-06T10:30:48.3467855Z"
     },
@@ -77,11 +89,11 @@
         "moniker": "SerGo",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 3752047,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "earliest_block_height": 3762984,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
         "catching_up": false,
-        "data_since": "2023-11-18T00:40:50.772715764Z"
+        "data_since": "2023-11-18T16:35:26.059286394Z"
     },
     "84.46.246.30:26657": {
         "voting_power": 0,
@@ -90,10 +102,22 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3846501,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "latest_block_height": 3862984,
+        "blocks_indexed": 3862983,
         "catching_up": false,
         "data_since": "2023-11-23T17:10:54.338186955Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 83520,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3568001,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
+        "catching_up": false,
+        "data_since": "2023-11-06T22:02:48.494461447Z"
     },
     "65.109.29.224:28657": {
         "voting_power": 0,
@@ -101,46 +125,22 @@
         "moniker": "Munris",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 3752047,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
+        "earliest_block_height": 3762985,
+        "latest_block_height": 3862985,
+        "blocks_indexed": 3862984,
         "catching_up": false,
-        "data_since": "2023-11-18T00:40:50.772715764Z"
-    },
-    "192.99.160.197:10657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BACKUP",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 3851201,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
-        "catching_up": false,
-        "data_since": "2023-11-23T23:57:16.628790874Z"
+        "data_since": "2023-11-18T16:35:31.681054517Z"
     },
     "5.9.61.78:11657": {
-        "voting_power": 567648,
+        "voting_power": 560739,
         "is_validator": true,
         "moniker": "Kynraze",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3717201,
-        "latest_block_height": 3852046,
-        "blocks_indexed": 3852045,
+        "latest_block_height": 3862983,
+        "blocks_indexed": 3862982,
         "catching_up": false,
         "data_since": "2023-11-15T22:06:53.187464053Z"
-    },
-    "195.3.221.16:15257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Moonbridge",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3795001,
-        "latest_block_height": 3852047,
-        "blocks_indexed": 3852046,
-        "catching_up": false,
-        "data_since": "2023-11-20T14:58:09.080357576Z"
     }
 }
