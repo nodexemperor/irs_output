@@ -1,38 +1,50 @@
 {
-    "194.233.73.163:12957": {
-        "voting_power": 12,
-        "is_validator": true,
-        "moniker": "BANYUMAS||NGAPAK",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 412001,
-        "latest_block_height": 437643,
-        "blocks_indexed": 437642,
-        "catching_up": false,
-        "data_since": "2023-11-20T10:54:52.976758439Z"
-    },
-    "65.108.206.118:61257": {
-        "voting_power": 100,
-        "is_validator": true,
-        "moniker": "UTSA_guide",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 437643,
-        "blocks_indexed": 437642,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
-    },
     "194.163.165.176:38657": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 404301,
-        "latest_block_height": 431113,
-        "blocks_indexed": 431112,
+        "earliest_block_height": 410001,
+        "latest_block_height": 469049,
+        "blocks_indexed": 469048,
         "catching_up": false,
-        "data_since": "2023-11-19T23:13:27.631301363Z"
+        "data_since": "2023-11-20T07:52:44.484938144Z"
+    },
+    "194.163.179.176:36157": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "2xStake.com",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 420001,
+        "latest_block_height": 469049,
+        "blocks_indexed": 469048,
+        "catching_up": false,
+        "data_since": "2023-11-20T23:03:07.425226948Z"
+    },
+    "194.233.73.163:12957": {
+        "voting_power": 100015,
+        "is_validator": true,
+        "moniker": "BANYUMAS||NGAPAK",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 412001,
+        "latest_block_height": 469049,
+        "blocks_indexed": 469048,
+        "catching_up": false,
+        "data_since": "2023-11-20T10:54:52.976758439Z"
+    },
+    "65.108.206.118:61257": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "UTSA_guide",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 469049,
+        "blocks_indexed": 469048,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
     }
 }
