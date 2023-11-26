@@ -1,15 +1,15 @@
 {
     "194.163.165.176:38657": {
-        "voting_power": 0,
-        "is_validator": false,
+        "voting_power": 98,
+        "is_validator": true,
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 410001,
-        "latest_block_height": 484448,
-        "blocks_indexed": 484447,
+        "earliest_block_height": 410736,
+        "latest_block_height": 510736,
+        "blocks_indexed": 510735,
         "catching_up": false,
-        "data_since": "2023-11-20T07:52:44.484938144Z"
+        "data_since": "2023-11-20T08:59:42.915309235Z"
     },
     "194.163.179.176:36157": {
         "voting_power": 100100,
@@ -18,22 +18,10 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 420001,
-        "latest_block_height": 484448,
-        "blocks_indexed": 484447,
+        "latest_block_height": 510736,
+        "blocks_indexed": 510735,
         "catching_up": false,
         "data_since": "2023-11-20T23:03:07.425226948Z"
-    },
-    "194.233.73.163:12957": {
-        "voting_power": 100015,
-        "is_validator": true,
-        "moniker": "BANYUMAS||NGAPAK",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 412001,
-        "latest_block_height": 484448,
-        "blocks_indexed": 484447,
-        "catching_up": false,
-        "data_since": "2023-11-20T10:54:52.976758439Z"
     },
     "65.108.206.118:61257": {
         "voting_power": 100100,
@@ -42,8 +30,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 484448,
-        "blocks_indexed": 484447,
+        "latest_block_height": 510736,
+        "blocks_indexed": 510735,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     }
