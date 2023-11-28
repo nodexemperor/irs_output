@@ -5,35 +5,11 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 6209001,
-        "latest_block_height": 6215794,
-        "blocks_indexed": 6215793,
+        "earliest_block_height": 6217501,
+        "latest_block_height": 6218513,
+        "blocks_indexed": 6218512,
         "catching_up": false,
-        "data_since": "2023-11-27T11:35:32.321708455Z"
-    },
-    "65.109.35.50:20357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "893t-agagd-asgd8asdg-d",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 5067437,
-        "latest_block_height": 6215796,
-        "blocks_indexed": 6215795,
-        "catching_up": false,
-        "data_since": "2023-09-20T08:29:09.39809856Z"
-    },
-    "185.190.140.93:14657": {
-        "voting_power": 628348,
-        "is_validator": true,
-        "moniker": "geonodes",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 1763655,
-        "latest_block_height": 6215796,
-        "blocks_indexed": 6215795,
-        "catching_up": false,
-        "data_since": "2023-03-09T16:11:22.898121806Z"
+        "data_since": "2023-11-27T23:56:27.974522117Z"
     },
     "65.108.66.174:31657": {
         "voting_power": 0,
@@ -42,9 +18,33 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 6064001,
-        "latest_block_height": 6215796,
-        "blocks_indexed": 6215795,
+        "latest_block_height": 6218515,
+        "blocks_indexed": 6218514,
         "catching_up": false,
         "data_since": "2023-11-18T16:45:41.465857446Z"
+    },
+    "65.109.35.50:20357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "893t-agagd-asgd8asdg-d",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 5067437,
+        "latest_block_height": 6218515,
+        "blocks_indexed": 6218514,
+        "catching_up": false,
+        "data_since": "2023-09-20T08:29:09.39809856Z"
+    },
+    "185.190.140.93:14657": {
+        "voting_power": 628356,
+        "is_validator": true,
+        "moniker": "geonodes",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 1763655,
+        "latest_block_height": 6218515,
+        "blocks_indexed": 6218514,
+        "catching_up": false,
+        "data_since": "2023-03-09T16:11:22.898121806Z"
     }
 }

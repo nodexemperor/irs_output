@@ -6,8 +6,8 @@
         "network": "quasar-1",
         "tx_index": "off",
         "earliest_block_height": 1760564,
-        "latest_block_height": 3768594,
-        "blocks_indexed": 3768593,
+        "latest_block_height": 3770977,
+        "blocks_indexed": 3770976,
         "catching_up": false,
         "data_since": "2023-07-16T08:28:57.923492309Z"
     },
@@ -18,8 +18,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3768593,
-        "blocks_indexed": 3768592,
+        "latest_block_height": 3770976,
+        "blocks_indexed": 3770975,
         "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
     },
@@ -30,9 +30,21 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3768594,
-        "blocks_indexed": 3768593,
+        "latest_block_height": 3770976,
+        "blocks_indexed": 3770975,
         "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
+    },
+    "162.251.238.6:26657": {
+        "voting_power": 1390284,
+        "is_validator": true,
+        "moniker": "quasar",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 1760001,
+        "latest_block_height": 3770975,
+        "blocks_indexed": 3770974,
+        "catching_up": false,
+        "data_since": "2023-07-16T07:35:14.236049754Z"
     }
 }

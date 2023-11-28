@@ -6,8 +6,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 19975001,
-        "latest_block_height": 23483757,
-        "blocks_indexed": 23483756,
+        "latest_block_height": 23489002,
+        "blocks_indexed": 23489001,
         "catching_up": false,
         "data_since": "2023-08-10T15:36:07.570098215Z"
     },
@@ -18,8 +18,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 20191963,
-        "latest_block_height": 23483757,
-        "blocks_indexed": 23483756,
+        "latest_block_height": 23489002,
+        "blocks_indexed": 23489001,
         "catching_up": false,
         "data_since": "2023-08-17T06:59:26.591701892Z"
     },
@@ -30,8 +30,8 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 23306380,
-        "latest_block_height": 23483759,
-        "blocks_indexed": 23483758,
+        "latest_block_height": 23489015,
+        "blocks_indexed": 23489014,
         "catching_up": false,
         "data_since": "2023-11-22T08:09:29.296304146Z"
     },
@@ -42,8 +42,8 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 21737961,
-        "latest_block_height": 23483766,
-        "blocks_indexed": 23483765,
+        "latest_block_height": 23489022,
+        "blocks_indexed": 23489021,
         "catching_up": false,
         "data_since": "2023-10-04T06:59:30.644432284Z"
     },
@@ -54,8 +54,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 21802559,
-        "latest_block_height": 23483771,
-        "blocks_indexed": 23483770,
+        "latest_block_height": 23489028,
+        "blocks_indexed": 23489027,
         "catching_up": false,
         "data_since": "2023-10-06T06:59:30.158871412Z"
     },
@@ -66,10 +66,22 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 17555001,
-        "latest_block_height": 23483775,
-        "blocks_indexed": 23483774,
+        "latest_block_height": 23489031,
+        "blocks_indexed": 23489030,
         "catching_up": false,
         "data_since": "2023-05-28T01:39:19.915156967Z"
+    },
+    "135.181.210.171:11067": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "laozi-mainnet",
+        "tx_index": "on",
+        "earliest_block_height": 23479818,
+        "latest_block_height": 23483510,
+        "blocks_indexed": 23483509,
+        "catching_up": false,
+        "data_since": "2023-11-27T18:14:30.672983269Z"
     },
     "135.181.166.19:26657": {
         "voting_power": 0,
@@ -78,22 +90,10 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 14578209,
-        "blocks_indexed": 14578208,
+        "latest_block_height": 14580356,
+        "blocks_indexed": 14580355,
         "catching_up": true,
         "data_since": "2021-09-23T12:00:00Z"
-    },
-    "176.9.147.146:46657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "band-sentry",
-        "network": "laozi-mainnet",
-        "tx_index": "on",
-        "earliest_block_height": 23450001,
-        "latest_block_height": 23483771,
-        "blocks_indexed": 23483770,
-        "catching_up": false,
-        "data_since": "2023-11-26T19:50:14.692676188Z"
     },
     "65.108.108.42:26657": {
         "voting_power": 0,
@@ -102,9 +102,21 @@
         "network": "cosmoshub-4",
         "tx_index": "on",
         "earliest_block_height": 17865048,
-        "latest_block_height": 18039295,
-        "blocks_indexed": 18039294,
+        "latest_block_height": 18041634,
+        "blocks_indexed": 18041633,
         "catching_up": false,
         "data_since": "2023-11-15T14:23:11.119403444Z"
+    },
+    "176.9.147.146:46657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "band-sentry",
+        "network": "laozi-mainnet",
+        "tx_index": "on",
+        "earliest_block_height": 23450001,
+        "latest_block_height": 23489031,
+        "blocks_indexed": 23489030,
+        "catching_up": false,
+        "data_since": "2023-11-26T19:50:14.692676188Z"
     }
 }

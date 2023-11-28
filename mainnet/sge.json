@@ -5,11 +5,11 @@
         "moniker": "STAVR-Service",
         "network": "sgenet-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "earliest_block_height": 1220501,
+        "latest_block_height": 1222979,
+        "blocks_indexed": 1222978,
+        "catching_up": false,
+        "data_since": "2023-11-27T21:25:15.327900511Z"
     },
     "65.109.88.254:32657": {
         "voting_power": 4000002,
@@ -18,8 +18,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1111001,
-        "latest_block_height": 1220609,
-        "blocks_indexed": 1220608,
+        "latest_block_height": 1223003,
+        "blocks_indexed": 1223002,
         "catching_up": false,
         "data_since": "2023-11-20T07:34:59.956266541Z"
     },
@@ -30,8 +30,8 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 1220585,
-        "blocks_indexed": 1220584,
+        "latest_block_height": 1222979,
+        "blocks_indexed": 1222978,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -42,8 +42,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1220585,
-        "blocks_indexed": 1220584,
+        "latest_block_height": 1222979,
+        "blocks_indexed": 1222978,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -54,8 +54,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1095001,
-        "latest_block_height": 1220609,
-        "blocks_indexed": 1220608,
+        "latest_block_height": 1223003,
+        "blocks_indexed": 1223002,
         "catching_up": false,
         "data_since": "2023-11-19T04:44:00.557167081Z"
     },
@@ -66,10 +66,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1206901,
-        "latest_block_height": 1220609,
-        "blocks_indexed": 1220608,
+        "latest_block_height": 1223002,
+        "blocks_indexed": 1223001,
         "catching_up": false,
         "data_since": "2023-11-26T22:53:40.158772995Z"
+    },
+    "5.39.249.16:36657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Sr20de service node",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 954001,
+        "latest_block_height": 1223002,
+        "blocks_indexed": 1223001,
+        "catching_up": false,
+        "data_since": "2023-11-09T07:24:05.863982395Z"
     },
     "54.226.104.121:26657": {
         "voting_power": 0,
@@ -78,8 +90,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 399920,
-        "blocks_indexed": 399919,
+        "latest_block_height": 402363,
+        "blocks_indexed": 402362,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     }
