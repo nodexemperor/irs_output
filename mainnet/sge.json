@@ -1,16 +1,4 @@
 {
-    "135.181.210.171:1157": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1220501,
-        "latest_block_height": 1222979,
-        "blocks_indexed": 1222978,
-        "catching_up": false,
-        "data_since": "2023-11-27T21:25:15.327900511Z"
-    },
     "65.109.88.254:32657": {
         "voting_power": 4000002,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1111001,
-        "latest_block_height": 1223003,
-        "blocks_indexed": 1223002,
+        "latest_block_height": 1237107,
+        "blocks_indexed": 1237106,
         "catching_up": false,
         "data_since": "2023-11-20T07:34:59.956266541Z"
     },
@@ -30,20 +18,8 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 1222979,
-        "blocks_indexed": 1222978,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "142.132.202.86:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ramuchi.tech",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1222979,
-        "blocks_indexed": 1222978,
+        "latest_block_height": 1237083,
+        "blocks_indexed": 1237082,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -54,8 +30,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1095001,
-        "latest_block_height": 1223003,
-        "blocks_indexed": 1223002,
+        "latest_block_height": 1237107,
+        "blocks_indexed": 1237106,
         "catching_up": false,
         "data_since": "2023-11-19T04:44:00.557167081Z"
     },
@@ -66,10 +42,34 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1206901,
-        "latest_block_height": 1223002,
-        "blocks_indexed": 1223001,
+        "latest_block_height": 1237106,
+        "blocks_indexed": 1237105,
         "catching_up": false,
         "data_since": "2023-11-26T22:53:40.158772995Z"
+    },
+    "142.132.202.86:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ramuchi.tech",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1237084,
+        "blocks_indexed": 1237083,
+        "catching_up": false,
+        "data_since": "2023-09-06T12:00:00Z"
+    },
+    "135.181.210.171:1157": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1236001,
+        "latest_block_height": 1237084,
+        "blocks_indexed": 1237083,
+        "catching_up": false,
+        "data_since": "2023-11-28T23:06:32.761085697Z"
     },
     "5.39.249.16:36657": {
         "voting_power": 0,
@@ -78,20 +78,20 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 954001,
-        "latest_block_height": 1223002,
-        "blocks_indexed": 1223001,
+        "latest_block_height": 1237106,
+        "blocks_indexed": 1237105,
         "catching_up": false,
         "data_since": "2023-11-09T07:24:05.863982395Z"
     },
-    "54.226.104.121:26657": {
+    "34.203.237.64:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "sentry-api-1",
+        "moniker": "testvld",
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 402363,
-        "blocks_indexed": 402362,
+        "latest_block_height": 416887,
+        "blocks_indexed": 416886,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     }
