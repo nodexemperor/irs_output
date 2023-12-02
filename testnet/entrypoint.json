@@ -1,13 +1,13 @@
 {
     "45.67.216.220:12957": {
-        "voting_power": 0,
-        "is_validator": false,
+        "voting_power": 6,
+        "is_validator": true,
         "moniker": "VTBNODE",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 554001,
-        "latest_block_height": 577815,
-        "blocks_indexed": 577814,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
         "catching_up": false,
         "data_since": "2023-11-29T12:29:41.023711577Z"
     },
@@ -18,8 +18,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 420001,
-        "latest_block_height": 577815,
-        "blocks_indexed": 577814,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
         "catching_up": false,
         "data_since": "2023-11-20T23:03:07.425226948Z"
     },
@@ -30,22 +30,34 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 577815,
-        "blocks_indexed": 577814,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
     "194.163.165.176:38657": {
-        "voting_power": 0,
-        "is_validator": false,
+        "voting_power": 98,
+        "is_validator": true,
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 477815,
-        "latest_block_height": 577815,
-        "blocks_indexed": 577814,
+        "earliest_block_height": 493540,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
         "catching_up": false,
-        "data_since": "2023-11-24T15:02:22.392328103Z"
+        "data_since": "2023-11-25T15:00:00.876724088Z"
+    },
+    "217.76.53.171:57": {
+        "voting_power": 9,
+        "is_validator": true,
+        "moniker": "VTB",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 586001,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
+        "catching_up": false,
+        "data_since": "2023-12-01T13:49:28.23957925Z"
     },
     "168.119.36.251:10257": {
         "voting_power": 0,
@@ -54,8 +66,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 514501,
-        "latest_block_height": 577815,
-        "blocks_indexed": 577814,
+        "latest_block_height": 593540,
+        "blocks_indexed": 593539,
         "catching_up": false,
         "data_since": "2023-11-26T22:54:06.34844898Z"
     }
