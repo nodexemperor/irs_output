@@ -1,16 +1,4 @@
 {
-    "65.109.88.254:33657": {
-        "voting_power": 28977,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2525508,
-        "latest_block_height": 3400956,
-        "blocks_indexed": 3400955,
-        "catching_up": true,
-        "data_since": "2023-09-26T05:37:12.373985711Z"
-    },
     "65.109.93.152:35657": {
         "voting_power": 107642,
         "is_validator": true,
@@ -22,6 +10,18 @@
         "blocks_indexed": 3412990,
         "catching_up": false,
         "data_since": "2023-11-22T06:41:23.091428335Z"
+    },
+    "65.109.88.254:33657": {
+        "voting_power": 28977,
+        "is_validator": true,
+        "moniker": "ksalab",
+        "network": "cascadia_6102-1",
+        "tx_index": "off",
+        "earliest_block_height": 2525508,
+        "latest_block_height": 3400956,
+        "blocks_indexed": 3400955,
+        "catching_up": true,
+        "data_since": "2023-09-26T05:37:12.373985711Z"
     },
     "89.116.31.184:28657": {
         "voting_power": 0,
@@ -35,39 +35,51 @@
         "catching_up": true,
         "data_since": "2023-11-08T07:25:15.597610519Z"
     },
-    "135.181.217.249:18657": {
+    "148.251.90.138:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "r1chaard",
+        "moniker": "D.valerievich7",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 2322501,
+        "earliest_block_height": 2822501,
+        "latest_block_height": 3412611,
+        "blocks_indexed": 3412610,
+        "catching_up": true,
+        "data_since": "2023-10-16T22:49:51.596665112Z"
+    },
+    "95.217.107.53:18657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "thomas1to",
+        "network": "cascadia_6102-1",
+        "tx_index": "off",
+        "earliest_block_height": 2394501,
         "latest_block_height": 3404188,
         "blocks_indexed": 3404187,
-        "catching_up": true,
-        "data_since": "2023-09-12T15:12:16.681138063Z"
+        "catching_up": false,
+        "data_since": "2023-09-17T10:35:00.405867531Z"
     },
-    "95.216.31.180:18657": {
+    "168.119.36.91:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "mariafrank",
+        "moniker": "nicolavallee",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 2869501,
-        "latest_block_height": 3412252,
-        "blocks_indexed": 3412251,
-        "catching_up": false,
-        "data_since": "2023-10-20T08:40:27.717290952Z"
+        "earliest_block_height": 3400044,
+        "latest_block_height": 3403270,
+        "blocks_indexed": 3403269,
+        "catching_up": true,
+        "data_since": "2023-11-22T11:19:51.892055987Z"
     },
-    "95.217.110.158:18657": {
+    "135.181.143.222:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "snektrone",
+        "moniker": "seidelmarta",
         "network": "cascadia_6102-1",
         "tx_index": "off",
         "earliest_block_height": 2844001,
-        "latest_block_height": 3412646,
-        "blocks_indexed": 3412645,
+        "latest_block_height": 3404188,
+        "blocks_indexed": 3404187,
         "catching_up": false,
         "data_since": "2023-10-18T12:31:22.443899241Z"
     },
@@ -83,77 +95,17 @@
         "catching_up": false,
         "data_since": "2023-11-22T11:19:51.892055987Z"
     },
-    "168.119.36.91:18657": {
+    "135.181.217.249:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "nicolavallee",
+        "moniker": "r1chaard",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 3400044,
-        "latest_block_height": 3403270,
-        "blocks_indexed": 3403269,
+        "earliest_block_height": 2322501,
+        "latest_block_height": 3404188,
+        "blocks_indexed": 3404187,
         "catching_up": true,
-        "data_since": "2023-11-22T11:19:51.892055987Z"
-    },
-    "95.217.192.228:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "vvmaksimka",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2844001,
-        "latest_block_height": 3400956,
-        "blocks_indexed": 3400955,
-        "catching_up": true,
-        "data_since": "2023-10-18T12:31:22.443899241Z"
-    },
-    "135.181.165.178:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "reyeskris",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 3400044,
-        "latest_block_height": 3412611,
-        "blocks_indexed": 3412610,
-        "catching_up": false,
-        "data_since": "2023-11-22T11:19:51.892055987Z"
-    },
-    "148.251.90.138:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "D.valerievich7",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2822501,
-        "latest_block_height": 3412611,
-        "blocks_indexed": 3412610,
-        "catching_up": true,
-        "data_since": "2023-10-16T22:49:51.596665112Z"
-    },
-    "65.21.202.149:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "contrerasnicolas",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2710001,
-        "latest_block_height": 3406153,
-        "blocks_indexed": 3406152,
-        "catching_up": false,
-        "data_since": "2023-10-08T19:28:32.018853694Z"
-    },
-    "94.130.135.112:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "aratealfre",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2631501,
-        "latest_block_height": 3406153,
-        "blocks_indexed": 3406152,
-        "catching_up": false,
-        "data_since": "2023-10-03T10:18:04.020219756Z"
+        "data_since": "2023-09-12T15:12:16.681138063Z"
     },
     "46.4.90.188:26657": {
         "voting_power": 150012,
@@ -227,17 +179,17 @@
         "catching_up": true,
         "data_since": "2023-04-04T22:54:36.930649582Z"
     },
-    "95.217.110.156:18657": {
+    "95.216.102.253:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "nikolhoss",
+        "moniker": "nietoperzs",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 2447001,
-        "latest_block_height": 3406153,
-        "blocks_indexed": 3406152,
+        "earliest_block_height": 2869501,
+        "latest_block_height": 3412611,
+        "blocks_indexed": 3412610,
         "catching_up": false,
-        "data_since": "2023-09-20T22:44:56.200041062Z"
+        "data_since": "2023-10-20T08:40:27.717290952Z"
     },
     "95.217.39.116:18657": {
         "voting_power": 0,
@@ -251,66 +203,6 @@
         "catching_up": false,
         "data_since": "2023-09-27T15:34:53.058606228Z"
     },
-    "148.251.88.8:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "vitmurphy",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2710001,
-        "latest_block_height": 3406153,
-        "blocks_indexed": 3406152,
-        "catching_up": false,
-        "data_since": "2023-10-08T19:28:32.018853694Z"
-    },
-    "195.201.195.183:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Viktorsinka",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2705001,
-        "latest_block_height": 3412611,
-        "blocks_indexed": 3412610,
-        "catching_up": false,
-        "data_since": "2023-10-08T11:13:36.808610424Z"
-    },
-    "65.109.26.21:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "AspirineCrypto",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2822501,
-        "latest_block_height": 3400708,
-        "blocks_indexed": 3400707,
-        "catching_up": true,
-        "data_since": "2023-10-16T22:49:51.596665112Z"
-    },
-    "135.181.181.120:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "mcdanielsherma",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2260501,
-        "latest_block_height": 3411068,
-        "blocks_indexed": 3411067,
-        "catching_up": false,
-        "data_since": "2023-09-08T11:36:22.929828624Z"
-    },
-    "135.181.216.54:3271": {
-        "voting_power": 150501,
-        "is_validator": true,
-        "moniker": "node",
-        "network": "cascadia_6102-1",
-        "tx_index": "on",
-        "earliest_block_height": 3397201,
-        "latest_block_height": 3412991,
-        "blocks_indexed": 3412990,
-        "catching_up": false,
-        "data_since": "2023-11-22T06:41:23.091428335Z"
-    },
     "95.216.71.205:18657": {
         "voting_power": 0,
         "is_validator": false,
@@ -322,6 +214,18 @@
         "blocks_indexed": 3412990,
         "catching_up": false,
         "data_since": "2023-09-30T16:34:00.4541875Z"
+    },
+    "144.76.202.205:18657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "alex_gin",
+        "network": "cascadia_6102-1",
+        "tx_index": "off",
+        "earliest_block_height": 2869501,
+        "latest_block_height": 3412646,
+        "blocks_indexed": 3412645,
+        "catching_up": true,
+        "data_since": "2023-10-20T08:40:27.717290952Z"
     },
     "95.217.11.20:26657": {
         "voting_power": 61105,
@@ -359,65 +263,29 @@
         "catching_up": false,
         "data_since": "2023-10-10T03:24:19.821560196Z"
     },
-    "78.46.19.102:18657": {
+    "135.181.216.112:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Seredavasok",
+        "moniker": "whitege0",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 2844001,
+        "earliest_block_height": 2322501,
         "latest_block_height": 3411068,
         "blocks_indexed": 3411067,
+        "catching_up": false,
+        "data_since": "2023-09-12T15:12:16.681138063Z"
+    },
+    "65.109.26.21:18657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AspirineCrypto",
+        "network": "cascadia_6102-1",
+        "tx_index": "off",
+        "earliest_block_height": 2822501,
+        "latest_block_height": 3400708,
+        "blocks_indexed": 3400707,
         "catching_up": true,
-        "data_since": "2023-10-18T12:31:22.443899241Z"
-    },
-    "116.202.210.90:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "miroshar",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2631501,
-        "latest_block_height": 3412611,
-        "blocks_indexed": 3412610,
-        "catching_up": false,
-        "data_since": "2023-10-03T10:18:04.020219756Z"
-    },
-    "95.216.102.253:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "nietoperzs",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2869501,
-        "latest_block_height": 3412611,
-        "blocks_indexed": 3412610,
-        "catching_up": false,
-        "data_since": "2023-10-20T08:40:27.717290952Z"
-    },
-    "135.181.138.231:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "anthonyanderson",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 3400044,
-        "latest_block_height": 3403269,
-        "blocks_indexed": 3403268,
-        "catching_up": false,
-        "data_since": "2023-11-22T11:19:51.892055987Z"
-    },
-    "95.217.62.177:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "lefebvr3",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2447001,
-        "latest_block_height": 3406153,
-        "blocks_indexed": 3406152,
-        "catching_up": true,
-        "data_since": "2023-09-20T22:44:56.200041062Z"
+        "data_since": "2023-10-16T22:49:51.596665112Z"
     },
     "135.181.210.139:18657": {
         "voting_power": 0,
@@ -431,18 +299,6 @@
         "catching_up": true,
         "data_since": "2023-10-18T12:31:22.443899241Z"
     },
-    "5.9.58.90:18657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "m1che1a",
-        "network": "cascadia_6102-1",
-        "tx_index": "off",
-        "earliest_block_height": 2856501,
-        "latest_block_height": 3412646,
-        "blocks_indexed": 3412645,
-        "catching_up": true,
-        "data_since": "2023-10-19T10:36:40.707764143Z"
-    },
     "95.216.39.122:18657": {
         "voting_power": 0,
         "is_validator": false,
@@ -452,19 +308,31 @@
         "earliest_block_height": 2844001,
         "latest_block_height": 3406270,
         "blocks_indexed": 3406269,
-        "catching_up": false,
+        "catching_up": true,
         "data_since": "2023-10-18T12:31:22.443899241Z"
     },
-    "144.76.219.221:18657": {
+    "135.181.165.178:18657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "patelcharless",
+        "moniker": "reyeskris",
         "network": "cascadia_6102-1",
         "tx_index": "off",
-        "earliest_block_height": 2869501,
+        "earliest_block_height": 3400044,
         "latest_block_height": 3412611,
         "blocks_indexed": 3412610,
-        "catching_up": true,
-        "data_since": "2023-10-20T08:40:27.717290952Z"
+        "catching_up": false,
+        "data_since": "2023-11-22T11:19:51.892055987Z"
+    },
+    "135.181.138.231:18657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "anthonyanderson",
+        "network": "cascadia_6102-1",
+        "tx_index": "off",
+        "earliest_block_height": 3400044,
+        "latest_block_height": 3403269,
+        "blocks_indexed": 3403268,
+        "catching_up": false,
+        "data_since": "2023-11-22T11:19:51.892055987Z"
     }
 }

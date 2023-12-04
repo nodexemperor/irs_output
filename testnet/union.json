@@ -1,13 +1,13 @@
 {
     "5.9.115.189:26657": {
-        "voting_power": 2000001,
+        "voting_power": 2000002,
         "is_validator": true,
         "moniker": "BwareLabs",
         "network": "union-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
@@ -18,8 +18,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
@@ -30,8 +30,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
@@ -42,8 +42,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
@@ -54,8 +54,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
@@ -66,8 +66,8 @@
         "network": "self-dev-1",
         "tx_index": "on",
         "earliest_block_height": 1426501,
-        "latest_block_height": 1488878,
-        "blocks_indexed": 1488877,
+        "latest_block_height": 1502683,
+        "blocks_indexed": 1502682,
         "catching_up": false,
         "data_since": "2023-11-28T12:23:57.284514718Z"
     },
@@ -78,33 +78,57 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389451,
+        "blocks_indexed": 389450,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
+    "65.21.69.53:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "testnet",
+        "network": "kenzvnn_9960679-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 2444,
+        "blocks_indexed": 2443,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
+    },
     "95.217.12.125:26657": {
-        "voting_power": 0,
-        "is_validator": false,
+        "voting_power": 1,
+        "is_validator": true,
         "moniker": "DinhCongTac221",
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 375058,
-        "blocks_indexed": 375057,
+        "latest_block_height": 389452,
+        "blocks_indexed": 389451,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
-    "14.167.137.75:26657": {
+    "14.167.138.116:26657": {
         "voting_power": 1,
         "is_validator": true,
         "moniker": "pn",
         "network": "mflow_9590711-1",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 6946,
-        "blocks_indexed": 6945,
+        "latest_block_height": 6985,
+        "blocks_indexed": 6984,
         "catching_up": false,
         "data_since": "0001-01-01T00:00:00Z"
+    },
+    "65.109.8.54:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "DinhCongTac221",
+        "network": "union-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 389452,
+        "blocks_indexed": 389451,
+        "catching_up": false,
+        "data_since": "2023-11-07T15:11:25.803021256Z"
     }
 }
