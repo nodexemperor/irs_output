@@ -1,16 +1,4 @@
 {
-    "148.251.235.130:14657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 660801,
-        "latest_block_height": 956109,
-        "blocks_indexed": 956108,
-        "catching_up": false,
-        "data_since": "2023-11-18T13:57:02.963621613Z"
-    },
     "144.76.236.211:23657": {
         "voting_power": 47049700500000000,
         "is_validator": true,
@@ -18,22 +6,22 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 956109,
-        "blocks_indexed": 956108,
+        "latest_block_height": 974708,
+        "blocks_indexed": 974707,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
     },
-    "136.243.33.177:26657": {
+    "148.251.235.130:14657": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "Staketab",
         "network": "entangle_33133-1",
         "tx_index": "on",
-        "earliest_block_height": 660001,
-        "latest_block_height": 956108,
-        "blocks_indexed": 956107,
+        "earliest_block_height": 660801,
+        "latest_block_height": 974708,
+        "blocks_indexed": 974707,
         "catching_up": false,
-        "data_since": "2023-11-18T12:49:14.960294528Z"
+        "data_since": "2023-11-18T13:57:02.963621613Z"
     },
     "149.102.146.157:17157": {
         "voting_power": 0,
@@ -42,9 +30,33 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 822001,
-        "latest_block_height": 956109,
-        "blocks_indexed": 956108,
+        "latest_block_height": 974708,
+        "blocks_indexed": 974707,
         "catching_up": false,
         "data_since": "2023-11-28T02:45:54.72405808Z"
+    },
+    "136.243.33.177:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 660001,
+        "latest_block_height": 974708,
+        "blocks_indexed": 974707,
+        "catching_up": false,
+        "data_since": "2023-11-18T12:49:14.960294528Z"
+    },
+    "212.22.70.9:56657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Sr20de",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 620601,
+        "latest_block_height": 974708,
+        "blocks_indexed": 974707,
+        "catching_up": false,
+        "data_since": "2023-11-16T05:26:08.673519621Z"
     }
 }
