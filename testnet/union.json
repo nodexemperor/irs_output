@@ -1,27 +1,15 @@
 {
-    "141.95.97.28:16957": {
-        "voting_power": 2000001,
+    "92.243.27.215:27657": {
+        "voting_power": 2000000,
         "is_validator": true,
-        "moniker": "B-Harvest",
+        "moniker": "abdullah-validator",
         "network": "union-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 197001,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
+        "earliest_block_height": 0,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
         "catching_up": false,
-        "data_since": "2023-11-21T01:02:48.74310948Z"
-    },
-    "95.217.107.96:26257": {
-        "voting_power": 2000001,
-        "is_validator": true,
-        "moniker": "Staketab",
-        "network": "union-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 251001,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
-        "catching_up": false,
-        "data_since": "2023-11-24T15:40:49.021132837Z"
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "148.251.235.130:15657": {
         "voting_power": 0,
@@ -30,8 +18,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 402001,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
         "catching_up": false,
         "data_since": "2023-12-04T22:34:57.208819149Z"
     },
@@ -42,10 +30,22 @@
         "network": "union-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 385001,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
         "catching_up": false,
         "data_since": "2023-12-03T17:54:13.456380571Z"
+    },
+    "95.217.107.96:26257": {
+        "voting_power": 2000001,
+        "is_validator": true,
+        "moniker": "Staketab",
+        "network": "union-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 251001,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
+        "catching_up": false,
+        "data_since": "2023-11-24T15:40:49.021132837Z"
     },
     "157.245.1.27:26657": {
         "voting_power": 0,
@@ -54,10 +54,22 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
+    },
+    "14.226.143.102:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "pn",
+        "network": "mflow_9590711-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 7179,
+        "blocks_indexed": 7178,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
     },
     "65.109.8.54:26657": {
         "voting_power": 1,
@@ -66,22 +78,22 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 431690,
-        "blocks_indexed": 431689,
+        "latest_block_height": 445691,
+        "blocks_indexed": 445690,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
-    "14.226.143.180:26657": {
-        "voting_power": 1,
-        "is_validator": true,
-        "moniker": "pn",
-        "network": "mflow_9590711-1",
+    "198.244.182.197:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Lightshift",
+        "network": "union-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 7130,
-        "blocks_indexed": 7129,
-        "catching_up": false,
-        "data_since": "0001-01-01T00:00:00Z"
+        "earliest_block_height": 1,
+        "latest_block_height": 163113,
+        "blocks_indexed": 163112,
+        "catching_up": true,
+        "data_since": "2023-11-07T15:11:25.803021256Z"
     },
     "95.217.12.125:26657": {
         "voting_power": 0,
@@ -90,8 +102,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 431691,
-        "blocks_indexed": 431690,
+        "latest_block_height": 445692,
+        "blocks_indexed": 445691,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     }
