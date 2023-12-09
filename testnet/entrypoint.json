@@ -6,10 +6,34 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 420001,
-        "latest_block_height": 687242,
-        "blocks_indexed": 687241,
+        "latest_block_height": 702966,
+        "blocks_indexed": 702965,
         "catching_up": false,
         "data_since": "2023-11-20T23:03:07.425226948Z"
+    },
+    "95.217.40.230:22227": {
+        "voting_power": 100099,
+        "is_validator": true,
+        "moniker": "Bonehook",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 702966,
+        "blocks_indexed": 702965,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
+    },
+    "49.12.123.87:21117": {
+        "voting_power": 100099,
+        "is_validator": true,
+        "moniker": "cxfbfdgb",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 702967,
+        "blocks_indexed": 702966,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
     },
     "65.109.88.254:37657": {
         "voting_power": 0,
@@ -18,8 +42,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 428101,
-        "latest_block_height": 687242,
-        "blocks_indexed": 687241,
+        "latest_block_height": 702967,
+        "blocks_indexed": 702966,
         "catching_up": false,
         "data_since": "2023-11-21T11:20:59.47263572Z"
     },
@@ -30,8 +54,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 687242,
-        "blocks_indexed": 687241,
+        "latest_block_height": 702967,
+        "blocks_indexed": 702966,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -42,8 +66,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 586001,
-        "latest_block_height": 687242,
-        "blocks_indexed": 687241,
+        "latest_block_height": 702967,
+        "blocks_indexed": 702966,
         "catching_up": false,
         "data_since": "2023-12-01T13:49:28.23957925Z"
     },
@@ -53,22 +77,10 @@
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 587242,
-        "latest_block_height": 687242,
-        "blocks_indexed": 687241,
+        "earliest_block_height": 602967,
+        "latest_block_height": 702967,
+        "blocks_indexed": 702966,
         "catching_up": false,
-        "data_since": "2023-12-01T15:42:55.373179323Z"
-    },
-    "65.109.48.247:0457": {
-        "voting_power": 10,
-        "is_validator": true,
-        "moniker": "Quadblock",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 593001,
-        "latest_block_height": 680000,
-        "blocks_indexed": 679999,
-        "catching_up": false,
-        "data_since": "2023-12-02T00:28:32.912079827Z"
+        "data_since": "2023-12-02T15:38:09.015831119Z"
     }
 }
