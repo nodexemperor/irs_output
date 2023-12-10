@@ -1,16 +1,4 @@
 {
-    "91.246.64.247:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "band4",
-        "network": "laozi-mainnet",
-        "tx_index": "off",
-        "earliest_block_height": 19975001,
-        "latest_block_height": 23840084,
-        "blocks_indexed": 23840083,
-        "catching_up": false,
-        "data_since": "2023-08-10T15:36:07.570098215Z"
-    },
     "23.88.91.115:22957": {
         "voting_power": 7,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 20191963,
-        "latest_block_height": 23840091,
-        "blocks_indexed": 23840090,
+        "latest_block_height": 23870377,
+        "blocks_indexed": 23870376,
         "catching_up": false,
         "data_since": "2023-08-17T06:59:26.591701892Z"
     },
@@ -30,22 +18,10 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 23306380,
-        "latest_block_height": 23840064,
-        "blocks_indexed": 23840063,
+        "latest_block_height": 23870350,
+        "blocks_indexed": 23870349,
         "catching_up": false,
         "data_since": "2023-11-22T08:09:29.296304146Z"
-    },
-    "213.239.192.52:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "laozi-mainnet",
-        "tx_index": "on",
-        "earliest_block_height": 21737961,
-        "latest_block_height": 23840090,
-        "blocks_indexed": 23840089,
-        "catching_up": false,
-        "data_since": "2023-10-04T06:59:30.644432284Z"
     },
     "209.182.237.121:28657": {
         "voting_power": 0,
@@ -54,8 +30,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 21802559,
-        "latest_block_height": 23716779,
-        "blocks_indexed": 23716778,
+        "latest_block_height": 23729809,
+        "blocks_indexed": 23729808,
         "catching_up": false,
         "data_since": "2023-10-06T06:59:30.158871412Z"
     },
@@ -66,10 +42,34 @@
         "network": "laozi-mainnet",
         "tx_index": "on",
         "earliest_block_height": 17555001,
-        "latest_block_height": 23840093,
-        "blocks_indexed": 23840092,
+        "latest_block_height": 23870375,
+        "blocks_indexed": 23870374,
         "catching_up": false,
         "data_since": "2023-05-28T01:39:19.915156967Z"
+    },
+    "213.239.192.52:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "node",
+        "network": "laozi-mainnet",
+        "tx_index": "on",
+        "earliest_block_height": 21737961,
+        "latest_block_height": 23870372,
+        "blocks_indexed": 23870371,
+        "catching_up": false,
+        "data_since": "2023-10-04T06:59:30.644432284Z"
+    },
+    "91.246.64.247:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "band4",
+        "network": "laozi-mainnet",
+        "tx_index": "off",
+        "earliest_block_height": 19975001,
+        "latest_block_height": 23870371,
+        "blocks_indexed": 23870370,
+        "catching_up": false,
+        "data_since": "2023-08-10T15:36:07.570098215Z"
     },
     "135.181.210.171:11067": {
         "voting_power": 0,
@@ -77,11 +77,11 @@
         "moniker": "STAVR-Service",
         "network": "laozi-mainnet",
         "tx_index": "on",
-        "earliest_block_height": 23753357,
-        "latest_block_height": 23780296,
-        "blocks_indexed": 23780295,
+        "earliest_block_height": 23567520,
+        "latest_block_height": 23576218,
+        "blocks_indexed": 23576217,
         "catching_up": true,
-        "data_since": "2023-12-06T07:59:29.64895949Z"
+        "data_since": "2023-11-30T12:14:29.864808281Z"
     },
     "176.9.147.146:46657": {
         "voting_power": 0,
@@ -89,11 +89,11 @@
         "moniker": "band-sentry",
         "network": "laozi-mainnet",
         "tx_index": "on",
-        "earliest_block_height": 23670001,
-        "latest_block_height": 23840093,
-        "blocks_indexed": 23840092,
+        "earliest_block_height": 23820001,
+        "latest_block_height": 23870378,
+        "blocks_indexed": 23870377,
         "catching_up": false,
-        "data_since": "2023-12-03T17:05:23.888153657Z"
+        "data_since": "2023-12-08T10:26:33.686464988Z"
     },
     "51.15.208.237:26657": {
         "voting_power": 59838,
@@ -102,8 +102,8 @@
         "network": "laozi-mainnet",
         "tx_index": "off",
         "earliest_block_height": 22890157,
-        "latest_block_height": 23840083,
-        "blocks_indexed": 23840082,
+        "latest_block_height": 23870370,
+        "blocks_indexed": 23870369,
         "catching_up": false,
         "data_since": "2023-11-09T07:59:29.811936649Z"
     }
