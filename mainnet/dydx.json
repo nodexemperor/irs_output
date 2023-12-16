@@ -1,51 +1,27 @@
 {
-    "37.27.48.110:26618": {
+    "64.176.48.105:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "bricks_dydx",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 2765314,
-        "latest_block_height": 3391422,
-        "blocks_indexed": 3391421,
-        "catching_up": false,
-        "data_since": "2023-12-06T08:59:48.257875872Z"
-    },
-    "54.37.253.178:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Ledger API",
+        "moniker": "Artifact",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3391455,
-        "blocks_indexed": 3391454,
+        "latest_block_height": 3471192,
+        "blocks_indexed": 3471191,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
     },
-    "82.100.58.113:26657": {
+    "103.219.171.71:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "RockawayX Infra",
+        "moniker": "KubikStaking",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3391433,
-        "blocks_indexed": 3391432,
-        "catching_up": false,
-        "data_since": "2023-10-26T17:00:00Z"
-    },
-    "51.178.76.62:36657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Moonlet",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 845573,
         "latest_block_height": 1805000,
         "blocks_indexed": 1804999,
         "catching_up": false,
-        "data_since": "2023-11-09T08:59:46.707399661Z"
+        "data_since": "2023-10-26T17:00:00Z"
     },
     "109.123.231.126:23857": {
         "voting_power": 0,
@@ -54,10 +30,22 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1594001,
-        "latest_block_height": 3391448,
-        "blocks_indexed": 3391447,
+        "latest_block_height": 3471200,
+        "blocks_indexed": 3471199,
         "catching_up": false,
         "data_since": "2023-11-20T17:40:57.143785851Z"
+    },
+    "65.21.237.117:27657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "node",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 2145842,
+        "latest_block_height": 3471174,
+        "blocks_indexed": 3471173,
+        "catching_up": false,
+        "data_since": "2023-11-28T08:59:49.622547807Z"
     },
     "132.145.200.213:26657": {
         "voting_power": 0,
@@ -66,8 +54,32 @@
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 2387501,
-        "latest_block_height": 3391459,
-        "blocks_indexed": 3391458,
+        "latest_block_height": 3471185,
+        "blocks_indexed": 3471184,
+        "catching_up": false,
+        "data_since": "2023-12-01T08:59:48.048569964Z"
+    },
+    "65.109.100.51:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "stakecat",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 678001,
+        "latest_block_height": 3471192,
+        "blocks_indexed": 3471191,
+        "catching_up": false,
+        "data_since": "2023-11-06T15:32:56.159163994Z"
+    },
+    "140.238.34.81:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "infstones",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 2387501,
+        "latest_block_height": 3471200,
+        "blocks_indexed": 3471199,
         "catching_up": false,
         "data_since": "2023-12-01T08:59:48.048569964Z"
     },
@@ -78,46 +90,34 @@
         "network": "dydx-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 3420247,
-        "blocks_indexed": 3420246,
+        "latest_block_height": 3477214,
+        "blocks_indexed": 3477213,
         "catching_up": false,
         "data_since": "2023-10-17T17:00:00Z"
     },
-    "65.21.237.117:27657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 2145842,
-        "latest_block_height": 3391443,
-        "blocks_indexed": 3391442,
-        "catching_up": false,
-        "data_since": "2023-11-28T08:59:49.622547807Z"
-    },
-    "140.238.34.81:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "infstones",
-        "network": "dydx-mainnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 2387501,
-        "latest_block_height": 3391443,
-        "blocks_indexed": 3391442,
-        "catching_up": false,
-        "data_since": "2023-12-01T08:59:48.048569964Z"
-    },
-    "67.209.54.60:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "440cd05598e1",
+    "46.250.249.51:26657": {
+        "voting_power": 50499,
+        "is_validator": true,
+        "moniker": "btcap",
         "network": "dydx-mainnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3391455,
-        "blocks_indexed": 3391454,
+        "latest_block_height": 3471180,
+        "blocks_indexed": 3471179,
         "catching_up": false,
         "data_since": "2023-10-26T17:00:00Z"
+    },
+    "35.73.148.138:26657": {
+        "voting_power": 201296,
+        "is_validator": true,
+        "moniker": "LTP",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1803001,
+        "latest_block_height": 3471181,
+        "blocks_indexed": 3471180,
+        "catching_up": false,
+        "data_since": "2023-11-23T20:25:16.047458673Z"
     },
     "65.108.137.22:26657": {
         "voting_power": 0,
@@ -126,9 +126,21 @@
         "network": "mantle-1",
         "tx_index": "on",
         "earliest_block_height": 7372856,
-        "latest_block_height": 8901709,
-        "blocks_indexed": 8901708,
+        "latest_block_height": 8916573,
+        "blocks_indexed": 8916572,
         "catching_up": false,
         "data_since": "2023-09-03T11:58:53.206825141Z"
+    },
+    "37.27.48.110:26618": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "bricks_dydx",
+        "network": "dydx-mainnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 2765314,
+        "latest_block_height": 3471201,
+        "blocks_indexed": 3471200,
+        "catching_up": false,
+        "data_since": "2023-12-06T08:59:48.257875872Z"
     }
 }
