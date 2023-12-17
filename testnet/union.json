@@ -1,16 +1,4 @@
 {
-    "92.243.27.215:27657": {
-        "voting_power": 2000000,
-        "is_validator": true,
-        "moniker": "abdullah-validator",
-        "network": "union-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
     "157.245.1.52:26657": {
         "voting_power": 2000000,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
     },
@@ -30,10 +18,22 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 401001,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
         "data_since": "2023-12-04T20:52:31.526317927Z"
+    },
+    "148.251.235.130:15657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "union-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 402001,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
+        "catching_up": false,
+        "data_since": "2023-12-04T22:34:57.208819149Z"
     },
     "95.217.107.96:26257": {
         "voting_power": 2000001,
@@ -42,8 +42,8 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 251001,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
         "data_since": "2023-11-24T15:40:49.021132837Z"
     },
@@ -54,22 +54,22 @@
         "network": "union-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 385001,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
         "data_since": "2023-12-03T17:54:13.456380571Z"
     },
-    "148.251.235.130:15657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
+    "92.243.27.215:27657": {
+        "voting_power": 2000000,
+        "is_validator": true,
+        "moniker": "abdullah-validator",
         "network": "union-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 402001,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "earliest_block_height": 0,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
-        "data_since": "2023-12-04T22:34:57.208819149Z"
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "157.245.1.27:26657": {
         "voting_power": 0,
@@ -78,57 +78,9 @@
         "network": "union-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
+        "latest_block_height": 569714,
+        "blocks_indexed": 569713,
         "catching_up": false,
         "data_since": "2023-11-07T15:11:25.803021256Z"
-    },
-    "95.111.240.82:17757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CryptoSJnet",
-        "network": "union-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 429491,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
-        "catching_up": false,
-        "data_since": "2023-12-06T21:37:53.976630689Z"
-    },
-    "213.239.214.73:26657": {
-        "voting_power": 2000001,
-        "is_validator": true,
-        "moniker": "Unionized Goblin",
-        "network": "union-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 491093,
-        "latest_block_height": 555753,
-        "blocks_indexed": 555752,
-        "catching_up": false,
-        "data_since": "2023-12-11T07:58:50.294803652Z"
-    },
-    "65.108.31.106:17757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CryptoSJnet",
-        "network": "union-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 429491,
-        "latest_block_height": 555754,
-        "blocks_indexed": 555753,
-        "catching_up": false,
-        "data_since": "2023-12-06T21:37:53.976630689Z"
-    },
-    "142.132.194.124:17757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CryptoSJnet",
-        "network": "union-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 429491,
-        "latest_block_height": 555754,
-        "blocks_indexed": 555753,
-        "catching_up": false,
-        "data_since": "2023-12-06T21:37:53.976630689Z"
     }
 }
