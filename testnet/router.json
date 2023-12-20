@@ -6,8 +6,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 4541863,
-        "blocks_indexed": 4541862,
+        "latest_block_height": 4579716,
+        "blocks_indexed": 4579715,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
     },
@@ -18,8 +18,20 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4541863,
-        "blocks_indexed": 4541862,
+        "latest_block_height": 4579717,
+        "blocks_indexed": 4579716,
+        "catching_up": false,
+        "data_since": "2023-08-24T07:56:17.315103Z"
+    },
+    "43.205.136.8:26657": {
+        "voting_power": 1813703,
+        "is_validator": true,
+        "moniker": "node2",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 4579717,
+        "blocks_indexed": 4579716,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     },
@@ -35,18 +47,6 @@
         "catching_up": true,
         "data_since": "2023-10-31T23:26:24.153466101Z"
     },
-    "43.205.136.8:26657": {
-        "voting_power": 1813703,
-        "is_validator": true,
-        "moniker": "node2",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 4541863,
-        "blocks_indexed": 4541862,
-        "catching_up": false,
-        "data_since": "2023-08-24T07:56:17.315103Z"
-    },
     "13.235.115.79:26657": {
         "voting_power": 1703420,
         "is_validator": true,
@@ -54,8 +54,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4541860,
-        "blocks_indexed": 4541859,
+        "latest_block_height": 4579710,
+        "blocks_indexed": 4579709,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     }
