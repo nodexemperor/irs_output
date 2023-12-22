@@ -1,15 +1,15 @@
 {
-    "104.198.184.137:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "athens3-archive-snapshot-rpc-0",
+    "78.46.45.174:21657": {
+        "voting_power": 107,
+        "is_validator": true,
+        "moniker": "[NODERS]TEAM",
         "network": "athens_7001-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2888237,
-        "blocks_indexed": 2888236,
+        "earliest_block_height": 2172951,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
         "catching_up": false,
-        "data_since": "2023-05-24T19:37:55.493738Z"
+        "data_since": "2023-10-24T15:23:50.181290635Z"
     },
     "91.194.30.204:28657": {
         "voting_power": 0,
@@ -18,10 +18,22 @@
         "network": "athens_7001-1",
         "tx_index": "on",
         "earliest_block_height": 2820001,
-        "latest_block_height": 2888262,
-        "blocks_indexed": 2888261,
+        "latest_block_height": 2899993,
+        "blocks_indexed": 2899992,
         "catching_up": false,
         "data_since": "2023-12-15T02:53:45.587734558Z"
+    },
+    "185.206.69.33:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "restake-zeta-test-00-0",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 2864801,
+        "latest_block_height": 2899970,
+        "blocks_indexed": 2899969,
+        "catching_up": false,
+        "data_since": "2023-12-18T20:13:01.898033331Z"
     },
     "65.108.66.247:26657": {
         "voting_power": 0,
@@ -35,27 +47,15 @@
         "catching_up": true,
         "data_since": "2023-05-24T19:37:55.493738Z"
     },
-    "135.181.115.175:26657": {
-        "voting_power": 895,
+    "88.218.226.79:26657": {
+        "voting_power": 959,
         "is_validator": true,
-        "moniker": "zig",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1797600,
-        "blocks_indexed": 1797599,
-        "catching_up": false,
-        "data_since": "2023-05-24T19:37:55.493738Z"
-    },
-    "95.216.149.230:26657": {
-        "voting_power": 87,
-        "is_validator": true,
-        "moniker": "lovali",
+        "moniker": "foreststaking",
         "network": "athens_7001-1",
         "tx_index": "on",
         "earliest_block_height": 2172951,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
         "catching_up": false,
         "data_since": "2023-10-24T15:23:50.181290635Z"
     },
@@ -102,10 +102,82 @@
         "network": "athens_7001-1",
         "tx_index": "on",
         "earliest_block_height": 2704001,
-        "latest_block_height": 2888261,
-        "blocks_indexed": 2888260,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
         "catching_up": false,
         "data_since": "2023-12-05T16:33:20.41714596Z"
+    },
+    "95.217.100.253:31461": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "node",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 1248001,
+        "latest_block_height": 2899993,
+        "blocks_indexed": 2899992,
+        "catching_up": false,
+        "data_since": "2023-08-19T05:47:11.964043305Z"
+    },
+    "141.94.214.137:26657": {
+        "voting_power": 92193,
+        "is_validator": true,
+        "moniker": "RockX",
+        "network": "athens_7001-1",
+        "tx_index": "off",
+        "earliest_block_height": 2786001,
+        "latest_block_height": 2899973,
+        "blocks_indexed": 2899972,
+        "catching_up": false,
+        "data_since": "2023-12-12T07:19:21.447503747Z"
+    },
+    "15.235.160.207:26657": {
+        "voting_power": 50098,
+        "is_validator": true,
+        "moniker": "node",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 2363001,
+        "latest_block_height": 2899993,
+        "blocks_indexed": 2899992,
+        "catching_up": false,
+        "data_since": "2023-11-09T06:54:24.6523804Z"
+    },
+    "95.216.149.230:26657": {
+        "voting_power": 86,
+        "is_validator": true,
+        "moniker": "lovali",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 2172951,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
+        "catching_up": false,
+        "data_since": "2023-10-24T15:23:50.181290635Z"
+    },
+    "195.154.91.86:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "restake-zeta-test-00-0",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 2894001,
+        "latest_block_height": 2899970,
+        "blocks_indexed": 2899969,
+        "catching_up": false,
+        "data_since": "2023-12-21T12:59:01.884690747Z"
+    },
+    "152.32.150.236:26657": {
+        "voting_power": 98060,
+        "is_validator": true,
+        "moniker": "HashQuark",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 2654001,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
+        "catching_up": false,
+        "data_since": "2023-12-01T13:21:56.567802738Z"
     },
     "46.4.15.110:26657": {
         "voting_power": 0,
@@ -113,11 +185,11 @@
         "moniker": "bm-ex44",
         "network": "athens_7001-1",
         "tx_index": "on",
-        "earliest_block_height": 2330101,
-        "latest_block_height": 2888261,
-        "blocks_indexed": 2888260,
+        "earliest_block_height": 2896001,
+        "latest_block_height": 2899992,
+        "blocks_indexed": 2899991,
         "catching_up": false,
-        "data_since": "2023-11-06T19:12:01.795492446Z"
+        "data_since": "2023-12-21T17:02:43.309543828Z"
     },
     "65.108.124.57:25657": {
         "voting_power": 32,
@@ -131,112 +203,28 @@
         "catching_up": false,
         "data_since": "2023-09-27T19:56:55.250339741Z"
     },
-    "78.46.45.174:21657": {
-        "voting_power": 107,
-        "is_validator": true,
-        "moniker": "[NODERS]TEAM",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2172951,
-        "latest_block_height": 2888261,
-        "blocks_indexed": 2888260,
-        "catching_up": false,
-        "data_since": "2023-10-24T15:23:50.181290635Z"
-    },
-    "135.148.148.240:26667": {
-        "voting_power": 105,
-        "is_validator": true,
-        "moniker": "ProtofireDAO",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2414001,
-        "latest_block_height": 2888239,
-        "blocks_indexed": 2888238,
-        "catching_up": false,
-        "data_since": "2023-11-13T03:46:18.530551461Z"
-    },
-    "141.94.214.137:26657": {
-        "voting_power": 92193,
-        "is_validator": true,
-        "moniker": "RockX",
-        "network": "athens_7001-1",
-        "tx_index": "off",
-        "earliest_block_height": 2786001,
-        "latest_block_height": 2888234,
-        "blocks_indexed": 2888233,
-        "catching_up": false,
-        "data_since": "2023-12-12T07:19:21.447503747Z"
-    },
-    "152.32.150.236:26657": {
-        "voting_power": 98060,
-        "is_validator": true,
-        "moniker": "HashQuark",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2654001,
-        "latest_block_height": 2888262,
-        "blocks_indexed": 2888261,
-        "catching_up": false,
-        "data_since": "2023-12-01T13:21:56.567802738Z"
-    },
-    "88.218.226.79:26657": {
-        "voting_power": 959,
-        "is_validator": true,
-        "moniker": "foreststaking",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2172951,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
-        "catching_up": false,
-        "data_since": "2023-10-24T15:23:50.181290635Z"
-    },
-    "89.116.31.117:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "cardex",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2362001,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
-        "catching_up": false,
-        "data_since": "2023-11-09T05:05:26.977579393Z"
-    },
-    "185.206.69.33:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "restake-zeta-test-00-0",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 2864801,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
-        "catching_up": false,
-        "data_since": "2023-12-18T20:13:01.898033331Z"
-    },
-    "95.217.100.253:31461": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "athens_7001-1",
-        "tx_index": "on",
-        "earliest_block_height": 1248001,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
-        "catching_up": false,
-        "data_since": "2023-08-19T05:47:11.964043305Z"
-    },
-    "15.235.160.207:26657": {
-        "voting_power": 98,
+    "5.161.116.76:26657": {
+        "voting_power": 96,
         "is_validator": true,
         "moniker": "node",
         "network": "athens_7001-1",
         "tx_index": "on",
-        "earliest_block_height": 2363001,
-        "latest_block_height": 2886900,
-        "blocks_indexed": 2886899,
+        "earliest_block_height": 2887701,
+        "latest_block_height": 2899972,
+        "blocks_indexed": 2899971,
         "catching_up": false,
-        "data_since": "2023-11-09T06:54:24.6523804Z"
+        "data_since": "2023-12-21T00:09:28.326887416Z"
+    },
+    "65.21.69.95:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "blockscout_zetachain_node_hw_1",
+        "network": "athens_7001-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2899993,
+        "blocks_indexed": 2899992,
+        "catching_up": false,
+        "data_since": "2023-05-24T19:37:55.493738Z"
     }
 }
