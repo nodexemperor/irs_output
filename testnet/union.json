@@ -1,4 +1,28 @@
 {
+    "5.9.115.189:26657": {
+        "voting_power": 2000002,
+        "is_validator": true,
+        "moniker": "BwareLabs",
+        "network": "union-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 675400,
+        "blocks_indexed": 675399,
+        "catching_up": false,
+        "data_since": "2023-11-07T15:11:25.803021256Z"
+    },
+    "198.244.179.173:26657": {
+        "voting_power": 2000001,
+        "is_validator": true,
+        "moniker": "Union",
+        "network": "union-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 675400,
+        "blocks_indexed": 675399,
+        "catching_up": false,
+        "data_since": "2023-11-07T15:11:25.803021256Z"
+    },
     "157.245.1.52:26657": {
         "voting_power": 2000000,
         "is_validator": true,
@@ -23,17 +47,17 @@
         "catching_up": false,
         "data_since": "2023-11-24T15:40:49.021132837Z"
     },
-    "5.9.115.189:26657": {
-        "voting_power": 2000002,
+    "92.243.27.215:27657": {
+        "voting_power": 2000000,
         "is_validator": true,
-        "moniker": "BwareLabs",
+        "moniker": "abdullah-validator",
         "network": "union-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 1,
+        "tx_index": "on",
+        "earliest_block_height": 0,
         "latest_block_height": 675400,
         "blocks_indexed": 675399,
         "catching_up": false,
-        "data_since": "2023-11-07T15:11:25.803021256Z"
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "95.216.10.232:21657": {
         "voting_power": 1,
@@ -71,40 +95,16 @@
         "catching_up": false,
         "data_since": "2023-12-04T22:34:57.208819149Z"
     },
-    "92.243.27.215:27657": {
-        "voting_power": 2000000,
-        "is_validator": true,
-        "moniker": "abdullah-validator",
-        "network": "union-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 675400,
-        "blocks_indexed": 675399,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "198.244.179.173:26657": {
-        "voting_power": 2000001,
-        "is_validator": true,
-        "moniker": "Union",
-        "network": "union-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 675400,
-        "blocks_indexed": 675399,
-        "catching_up": false,
-        "data_since": "2023-11-07T15:11:25.803021256Z"
-    },
-    "167.235.14.83:16857": {
+    "65.21.141.82:17157": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Ubuntu-2204-jammy-amd64-base",
+        "moniker": "kokos",
         "network": "union-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 422491,
+        "earliest_block_height": 335491,
         "latest_block_height": 631650,
         "blocks_indexed": 631649,
         "catching_up": false,
-        "data_since": "2023-12-06T09:38:37.894215739Z"
+        "data_since": "2023-11-30T07:58:53.577876586Z"
     }
 }
