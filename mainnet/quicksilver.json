@@ -6,8 +6,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 3397566,
-        "latest_block_height": 5321737,
-        "blocks_indexed": 5321736,
+        "latest_block_height": 5336464,
+        "blocks_indexed": 5336463,
         "catching_up": false,
         "data_since": "2023-08-24T11:58:57.598363492Z"
     },
@@ -18,8 +18,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 4987001,
-        "latest_block_height": 5321732,
-        "blocks_indexed": 5321731,
+        "latest_block_height": 5336461,
+        "blocks_indexed": 5336460,
         "catching_up": false,
         "data_since": "2023-12-10T10:12:01.554306032Z"
     },
@@ -30,8 +30,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 2174401,
-        "latest_block_height": 5321735,
-        "blocks_indexed": 5321734,
+        "latest_block_height": 5336464,
+        "blocks_indexed": 5336463,
         "catching_up": false,
         "data_since": "2023-06-01T07:11:02.883390276Z"
     },
@@ -42,8 +42,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5078001,
-        "latest_block_height": 5321733,
-        "blocks_indexed": 5321732,
+        "latest_block_height": 5336465,
+        "blocks_indexed": 5336464,
         "catching_up": false,
         "data_since": "2023-12-16T13:37:05.624391179Z"
     },
@@ -54,8 +54,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5195101,
-        "latest_block_height": 5321736,
-        "blocks_indexed": 5321735,
+        "latest_block_height": 5336464,
+        "blocks_indexed": 5336463,
         "catching_up": false,
         "data_since": "2023-12-24T11:28:09.702157133Z"
     },
@@ -66,22 +66,22 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5083501,
-        "latest_block_height": 5321733,
-        "blocks_indexed": 5321732,
+        "latest_block_height": 5336462,
+        "blocks_indexed": 5336461,
         "catching_up": false,
         "data_since": "2023-12-16T22:34:12.435496982Z"
     },
-    "65.108.66.174:48657": {
+    "135.181.210.171:21027": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
+        "moniker": "STAVR-Service",
         "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 5094001,
-        "latest_block_height": 5321737,
-        "blocks_indexed": 5321736,
+        "tx_index": "on",
+        "earliest_block_height": 5335101,
+        "latest_block_height": 5336465,
+        "blocks_indexed": 5336464,
         "catching_up": false,
-        "data_since": "2023-12-17T15:37:39.800704994Z"
+        "data_since": "2024-01-02T22:44:19.538735544Z"
     },
     "65.109.28.177:28657": {
         "voting_power": 0,
@@ -90,10 +90,22 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 5321733,
-        "blocks_indexed": 5321732,
+        "latest_block_height": 5336464,
+        "blocks_indexed": 5336463,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
+    },
+    "57.128.20.238:31657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "rpc",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5259659,
+        "latest_block_height": 5336462,
+        "blocks_indexed": 5336461,
+        "catching_up": false,
+        "data_since": "2023-12-28T20:13:53.006298995Z"
     },
     "207.180.231.123:11157": {
         "voting_power": 0,
@@ -107,41 +119,17 @@
         "catching_up": true,
         "data_since": "2023-08-14T02:13:50.415374915Z"
     },
-    "135.181.210.171:21027": {
+    "65.108.66.174:48657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5319001,
-        "latest_block_height": 5321736,
-        "blocks_indexed": 5321735,
-        "catching_up": false,
-        "data_since": "2024-01-01T20:34:44.013099568Z"
-    },
-    "65.108.195.29:31127": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
+        "moniker": "hello-BccNodesRPC",
         "network": "quicksilver-2",
         "tx_index": "off",
-        "earliest_block_height": 5097001,
-        "latest_block_height": 5321735,
-        "blocks_indexed": 5321734,
+        "earliest_block_height": 5094001,
+        "latest_block_height": 5336465,
+        "blocks_indexed": 5336464,
         "catching_up": false,
-        "data_since": "2023-12-17T20:28:53.085900403Z"
-    },
-    "46.4.121.72:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "nkbblocks",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 4900327,
-        "latest_block_height": 5321736,
-        "blocks_indexed": 5321735,
-        "catching_up": false,
-        "data_since": "2023-12-04T14:13:50.160814996Z"
+        "data_since": "2023-12-17T15:37:39.800704994Z"
     },
     "161.97.82.203:26257": {
         "voting_power": 0,
@@ -150,9 +138,21 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5248583,
-        "latest_block_height": 5321737,
-        "blocks_indexed": 5321736,
+        "latest_block_height": 5336463,
+        "blocks_indexed": 5336462,
         "catching_up": false,
         "data_since": "2023-12-28T02:13:50.47247838Z"
+    },
+    "46.4.121.72:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "nkbblocks",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 4900327,
+        "latest_block_height": 5336464,
+        "blocks_indexed": 5336463,
+        "catching_up": false,
+        "data_since": "2023-12-04T14:13:50.160814996Z"
     }
 }
