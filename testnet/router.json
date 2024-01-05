@@ -6,10 +6,22 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 5282252,
-        "blocks_indexed": 5282251,
+        "latest_block_height": 5333542,
+        "blocks_indexed": 5333541,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
+    },
+    "15.206.157.168:26657": {
+        "voting_power": 2020525,
+        "is_validator": true,
+        "moniker": "node1",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5333540,
+        "blocks_indexed": 5333539,
+        "catching_up": false,
+        "data_since": "2023-08-24T07:56:17.315103Z"
     },
     "3.110.198.189:26657": {
         "voting_power": 0,
@@ -23,18 +35,6 @@
         "catching_up": true,
         "data_since": "2023-12-29T06:50:02.985717577Z"
     },
-    "15.206.157.168:26657": {
-        "voting_power": 2020525,
-        "is_validator": true,
-        "moniker": "node1",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5282253,
-        "blocks_indexed": 5282252,
-        "catching_up": false,
-        "data_since": "2023-08-24T07:56:17.315103Z"
-    },
     "43.205.136.8:26657": {
         "voting_power": 1813703,
         "is_validator": true,
@@ -42,8 +42,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5282252,
-        "blocks_indexed": 5282251,
+        "latest_block_height": 5333542,
+        "blocks_indexed": 5333541,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     },
@@ -54,8 +54,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5282250,
-        "blocks_indexed": 5282249,
+        "latest_block_height": 5333540,
+        "blocks_indexed": 5333539,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     }

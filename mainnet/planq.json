@@ -1,15 +1,27 @@
 {
     "185.190.140.93:14657": {
-        "voting_power": 628864,
+        "voting_power": 628906,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 1763655,
-        "latest_block_height": 6819955,
-        "blocks_indexed": 6819954,
+        "latest_block_height": 6836153,
+        "blocks_indexed": 6836152,
         "catching_up": false,
         "data_since": "2023-03-09T16:11:22.898121806Z"
+    },
+    "135.181.114.86:13657": {
+        "voting_power": 24094,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 6518001,
+        "latest_block_height": 6836153,
+        "blocks_indexed": 6836152,
+        "catching_up": false,
+        "data_since": "2023-12-16T09:49:39.067123477Z"
     },
     "66.45.246.166:1077": {
         "voting_power": 0,
@@ -17,23 +29,11 @@
         "moniker": "STAVR-Service",
         "network": "planq_7070-2",
         "tx_index": "on",
-        "earliest_block_height": 6818001,
-        "latest_block_height": 6819955,
-        "blocks_indexed": 6819954,
+        "earliest_block_height": 6835501,
+        "latest_block_height": 6836153,
+        "blocks_indexed": 6836152,
         "catching_up": false,
-        "data_since": "2024-01-03T21:59:13.29458315Z"
-    },
-    "135.181.114.86:13657": {
-        "voting_power": 24073,
-        "is_validator": true,
-        "moniker": "NodeName",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 6518001,
-        "latest_block_height": 6819955,
-        "blocks_indexed": 6819954,
-        "catching_up": false,
-        "data_since": "2023-12-16T09:49:39.067123477Z"
+        "data_since": "2024-01-04T23:54:27.613295005Z"
     },
     "192.99.160.197:13657": {
         "voting_power": 0,
@@ -41,10 +41,10 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 6819001,
-        "latest_block_height": 6819177,
-        "blocks_indexed": 6819176,
+        "earliest_block_height": 6835501,
+        "latest_block_height": 6835723,
+        "blocks_indexed": 6835722,
         "catching_up": true,
-        "data_since": "2024-01-03T23:27:47.206551478Z"
+        "data_since": "2024-01-04T23:54:27.613295005Z"
     }
 }
