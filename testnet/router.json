@@ -6,10 +6,22 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 5333542,
-        "blocks_indexed": 5333541,
+        "latest_block_height": 5368606,
+        "blocks_indexed": 5368605,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
+    },
+    "43.205.136.8:26657": {
+        "voting_power": 1813703,
+        "is_validator": true,
+        "moniker": "node2",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5368607,
+        "blocks_indexed": 5368606,
+        "catching_up": false,
+        "data_since": "2023-08-24T07:56:17.315103Z"
     },
     "15.206.157.168:26657": {
         "voting_power": 2020525,
@@ -18,8 +30,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5333540,
-        "blocks_indexed": 5333539,
+        "latest_block_height": 5368607,
+        "blocks_indexed": 5368606,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     },
@@ -35,18 +47,6 @@
         "catching_up": true,
         "data_since": "2023-12-29T06:50:02.985717577Z"
     },
-    "43.205.136.8:26657": {
-        "voting_power": 1813703,
-        "is_validator": true,
-        "moniker": "node2",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5333542,
-        "blocks_indexed": 5333541,
-        "catching_up": false,
-        "data_since": "2023-08-24T07:56:17.315103Z"
-    },
     "13.235.115.79:26657": {
         "voting_power": 1703420,
         "is_validator": true,
@@ -54,8 +54,8 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5333540,
-        "blocks_indexed": 5333539,
+        "latest_block_height": 5347000,
+        "blocks_indexed": 5346999,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     }
