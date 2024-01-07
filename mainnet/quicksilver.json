@@ -6,8 +6,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 3397566,
-        "latest_block_height": 5380693,
-        "blocks_indexed": 5380692,
+        "latest_block_height": 5395382,
+        "blocks_indexed": 5395381,
         "catching_up": false,
         "data_since": "2023-08-24T11:58:57.598363492Z"
     },
@@ -18,8 +18,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 4987001,
-        "latest_block_height": 5380693,
-        "blocks_indexed": 5380692,
+        "latest_block_height": 5395382,
+        "blocks_indexed": 5395381,
         "catching_up": false,
         "data_since": "2023-12-10T10:12:01.554306032Z"
     },
@@ -35,18 +35,6 @@
         "catching_up": true,
         "data_since": "2023-08-14T02:13:50.415374915Z"
     },
-    "65.108.66.174:48657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
-        "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 5094001,
-        "latest_block_height": 5371150,
-        "blocks_indexed": 5371149,
-        "catching_up": true,
-        "data_since": "2023-12-17T15:37:39.800704994Z"
-    },
     "136.243.131.26:26657": {
         "voting_power": 154670,
         "is_validator": true,
@@ -54,8 +42,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5195101,
-        "latest_block_height": 5380697,
-        "blocks_indexed": 5380696,
+        "latest_block_height": 5395385,
+        "blocks_indexed": 5395384,
         "catching_up": false,
         "data_since": "2023-12-24T11:28:09.702157133Z"
     },
@@ -66,22 +54,10 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5083501,
-        "latest_block_height": 5380698,
-        "blocks_indexed": 5380697,
+        "latest_block_height": 5395382,
+        "blocks_indexed": 5395381,
         "catching_up": false,
         "data_since": "2023-12-16T22:34:12.435496982Z"
-    },
-    "65.108.195.29:31127": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 5097001,
-        "latest_block_height": 5380697,
-        "blocks_indexed": 5380696,
-        "catching_up": false,
-        "data_since": "2023-12-17T20:28:53.085900403Z"
     },
     "161.97.82.203:26257": {
         "voting_power": 0,
@@ -90,8 +66,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5248583,
-        "latest_block_height": 5380694,
-        "blocks_indexed": 5380693,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
         "catching_up": false,
         "data_since": "2023-12-28T02:13:50.47247838Z"
     },
@@ -102,8 +78,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 5380696,
-        "blocks_indexed": 5380695,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
     },
@@ -114,8 +90,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5259659,
-        "latest_block_height": 5380694,
-        "blocks_indexed": 5380693,
+        "latest_block_height": 5395383,
+        "blocks_indexed": 5395382,
         "catching_up": false,
         "data_since": "2023-12-28T20:13:53.006298995Z"
     },
@@ -126,8 +102,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5078001,
-        "latest_block_height": 5380696,
-        "blocks_indexed": 5380695,
+        "latest_block_height": 5395383,
+        "blocks_indexed": 5395382,
         "catching_up": false,
         "data_since": "2023-12-16T13:37:05.624391179Z"
     },
@@ -138,10 +114,22 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5326206,
-        "latest_block_height": 5380695,
-        "blocks_indexed": 5380694,
+        "latest_block_height": 5395383,
+        "blocks_indexed": 5395382,
         "catching_up": false,
         "data_since": "2024-01-02T08:13:54.924799678Z"
+    },
+    "65.108.66.174:48657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hello-BccNodesRPC",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 5094001,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
+        "catching_up": false,
+        "data_since": "2023-12-17T15:37:39.800704994Z"
     },
     "46.4.121.72:26657": {
         "voting_power": 0,
@@ -150,9 +138,45 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 4900327,
-        "latest_block_height": 5380697,
-        "blocks_indexed": 5380696,
+        "latest_block_height": 5395385,
+        "blocks_indexed": 5395384,
         "catching_up": false,
         "data_since": "2023-12-04T14:13:50.160814996Z"
+    },
+    "65.108.195.29:31127": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 5097001,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
+        "catching_up": false,
+        "data_since": "2023-12-17T20:28:53.085900403Z"
+    },
+    "135.181.210.171:21027": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5392501,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
+        "catching_up": false,
+        "data_since": "2024-01-06T20:22:50.695912116Z"
+    },
+    "62.171.132.152:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Kalia Network RPC",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5394401,
+        "latest_block_height": 5395386,
+        "blocks_indexed": 5395385,
+        "catching_up": false,
+        "data_since": "2024-01-06T23:29:02.951646943Z"
     }
 }

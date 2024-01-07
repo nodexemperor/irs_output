@@ -1,15 +1,15 @@
 {
-    "65.21.57.72:26657": {
-        "voting_power": 121785,
-        "is_validator": true,
-        "moniker": "WellNode",
+    "135.181.210.171:20057": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "source-1",
-        "tx_index": "off",
-        "earliest_block_height": 1029529,
-        "latest_block_height": 1330632,
-        "blocks_indexed": 1330631,
+        "tx_index": "on",
+        "earliest_block_height": 930001,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
         "catching_up": false,
-        "data_since": "2023-12-17T06:28:55.003117722Z"
+        "data_since": "2023-12-10T17:13:04.671092833Z"
     },
     "218.78.60.164:26657": {
         "voting_power": 4575,
@@ -18,20 +18,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1330632,
-        "blocks_indexed": 1330631,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
-    },
-    "88.99.145.188:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Sr20de Service node",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1330633,
-        "blocks_indexed": 1330632,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -42,8 +30,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1330633,
-        "blocks_indexed": 1330632,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -54,8 +42,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1330633,
-        "blocks_indexed": 1330632,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -66,32 +54,44 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1330585,
-        "blocks_indexed": 1330584,
+        "latest_block_height": 1345757,
+        "blocks_indexed": 1345756,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
-    "135.181.210.171:20057": {
+    "88.99.145.188:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "Sr20de Service node",
         "network": "source-1",
         "tx_index": "on",
-        "earliest_block_height": 930001,
-        "latest_block_height": 1330632,
-        "blocks_indexed": 1330631,
+        "earliest_block_height": 1,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
         "catching_up": false,
-        "data_since": "2023-12-10T17:13:04.671092833Z"
+        "data_since": "2023-10-01T17:43:25.352159823Z"
+    },
+    "65.21.57.72:26657": {
+        "voting_power": 122281,
+        "is_validator": true,
+        "moniker": "WellNode",
+        "network": "source-1",
+        "tx_index": "off",
+        "earliest_block_height": 1333943,
+        "latest_block_height": 1345805,
+        "blocks_indexed": 1345804,
+        "catching_up": false,
+        "data_since": "2024-01-06T06:28:53.407332682Z"
     },
     "101.91.119.133:26657": {
-        "voting_power": 163070,
+        "voting_power": 166070,
         "is_validator": true,
         "moniker": "XPool",
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1330585,
-        "blocks_indexed": 1330584,
+        "latest_block_height": 1345757,
+        "blocks_indexed": 1345756,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     }

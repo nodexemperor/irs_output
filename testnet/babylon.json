@@ -1,26 +1,14 @@
 {
-    "148.251.4.178:31657": {
+    "95.216.74.136:31657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "ProNodes2",
+        "moniker": "ProNodes4",
         "network": "bbn-test-2",
         "tx_index": "off",
-        "earliest_block_height": 1654376,
-        "latest_block_height": 1882494,
-        "blocks_indexed": 1882493,
-        "catching_up": false,
-        "data_since": "2023-12-10T23:28:17.26188426Z"
-    },
-    "3.18.176.128:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "babylon",
-        "network": "bbn-test-2",
-        "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1882494,
-        "blocks_indexed": 1882493,
-        "catching_up": false,
+        "latest_block_height": 130366,
+        "blocks_indexed": 130365,
+        "catching_up": true,
         "data_since": "2023-06-07T13:12:09Z"
     }
 }
