@@ -1,27 +1,27 @@
 {
-    "194.163.165.176:38657": {
-        "voting_power": 98,
+    "49.12.123.87:21117": {
+        "voting_power": 100099,
         "is_validator": true,
-        "moniker": "cryptobtcbuyer",
+        "moniker": "cxfbfdgb",
         "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 1072785,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
         "catching_up": false,
-        "data_since": "2024-01-01T15:44:22.343351594Z"
+        "data_since": "2023-10-25T11:00:00Z"
     },
-    "65.109.48.247:0457": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Quadblock",
+    "45.67.216.220:12957": {
+        "voting_power": 158,
+        "is_validator": true,
+        "moniker": "VTBNODE",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 593001,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
+        "earliest_block_height": 554001,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
         "catching_up": false,
-        "data_since": "2023-12-02T00:28:32.912079827Z"
+        "data_since": "2023-11-29T12:29:41.023711577Z"
     },
     "65.108.206.118:61257": {
         "voting_power": 100100,
@@ -30,46 +30,34 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
-    "49.12.123.87:21117": {
-        "voting_power": 100099,
-        "is_validator": true,
-        "moniker": "cxfbfdgb",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
-    },
-    "95.217.40.230:22227": {
-        "voting_power": 100099,
-        "is_validator": true,
-        "moniker": "Bonehook",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
-    },
-    "194.163.179.176:36157": {
-        "voting_power": 100100,
-        "is_validator": true,
-        "moniker": "2xStake.com",
+    "194.163.165.176:38657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 420001,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
+        "earliest_block_height": 1088335,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
         "catching_up": false,
-        "data_since": "2023-11-20T23:03:07.425226948Z"
+        "data_since": "2024-01-02T15:38:07.502952506Z"
+    },
+    "65.109.48.247:0457": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Quadblock",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 593001,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
+        "catching_up": false,
+        "data_since": "2023-12-02T00:28:32.912079827Z"
     },
     "217.76.53.171:57": {
         "voting_power": 160,
@@ -78,9 +66,21 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 586001,
-        "latest_block_height": 1172785,
-        "blocks_indexed": 1172784,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
         "catching_up": false,
         "data_since": "2023-12-01T13:49:28.23957925Z"
+    },
+    "95.217.40.230:22227": {
+        "voting_power": 100099,
+        "is_validator": true,
+        "moniker": "Bonehook",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1188335,
+        "blocks_indexed": 1188334,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
     }
 }
