@@ -1,13 +1,25 @@
 {
     "65.108.199.120:35457": {
-        "voting_power": 743639,
+        "voting_power": 743062,
         "is_validator": true,
         "moniker": "RAMZES",
         "network": "pirin-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3487419,
-        "blocks_indexed": 3487418,
+        "latest_block_height": 3488885,
+        "blocks_indexed": 3488884,
+        "catching_up": false,
+        "data_since": "2023-05-23T15:00:00Z"
+    },
+    "5.9.99.172:19757": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BRAND-nolus-relayer",
+        "network": "pirin-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3488885,
+        "blocks_indexed": 3488884,
         "catching_up": false,
         "data_since": "2023-05-23T15:00:00Z"
     },
@@ -18,21 +30,9 @@
         "network": "pirin-1",
         "tx_index": "off",
         "earliest_block_height": 3160001,
-        "latest_block_height": 3487418,
-        "blocks_indexed": 3487417,
+        "latest_block_height": 3488884,
+        "blocks_indexed": 3488883,
         "catching_up": false,
         "data_since": "2023-12-21T05:12:10.823049068Z"
-    },
-    "5.9.99.172:19757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BRAND-nolus-relayer",
-        "network": "pirin-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3487419,
-        "blocks_indexed": 3487418,
-        "catching_up": false,
-        "data_since": "2023-05-23T15:00:00Z"
     }
 }
