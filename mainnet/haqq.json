@@ -1,16 +1,4 @@
 {
-    "95.216.102.121:60757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "dteam",
-        "network": "haqq_11235-1",
-        "tx_index": "on",
-        "earliest_block_height": 9373501,
-        "latest_block_height": 9385567,
-        "blocks_indexed": 9385566,
-        "catching_up": false,
-        "data_since": "2024-01-14T04:41:45.610048962Z"
-    },
     "89.208.146.222:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,10 +6,22 @@
         "network": "haqq_11235-1",
         "tx_index": "on",
         "earliest_block_height": 8071001,
-        "latest_block_height": 9385570,
-        "blocks_indexed": 9385569,
+        "latest_block_height": 9400165,
+        "blocks_indexed": 9400164,
         "catching_up": false,
         "data_since": "2023-10-17T05:13:53.547021741Z"
+    },
+    "65.108.38.224:57657": {
+        "voting_power": 8060904,
+        "is_validator": true,
+        "moniker": "haqq-node",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 9277501,
+        "latest_block_height": 9374139,
+        "blocks_indexed": 9374138,
+        "catching_up": false,
+        "data_since": "2024-01-07T15:34:58.880001651Z"
     },
     "65.109.33.48:25657": {
         "voting_power": 0,
@@ -29,11 +29,59 @@
         "moniker": "L0vd.com | RPC",
         "network": "haqq_11235-1",
         "tx_index": "on",
-        "earliest_block_height": 9285570,
-        "latest_block_height": 9385570,
-        "blocks_indexed": 9385569,
+        "earliest_block_height": 9300165,
+        "latest_block_height": 9400165,
+        "blocks_indexed": 9400164,
         "catching_up": false,
-        "data_since": "2024-01-08T04:47:48.407417671Z"
+        "data_since": "2024-01-09T04:41:05.342529564Z"
+    },
+    "95.216.102.121:60757": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "dteam",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 9390001,
+        "latest_block_height": 9400164,
+        "blocks_indexed": 9400163,
+        "catching_up": false,
+        "data_since": "2024-01-15T07:54:52.389481834Z"
+    },
+    "199.247.18.253:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "mainnet_node",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 2840250,
+        "latest_block_height": 9400166,
+        "blocks_indexed": 9400165,
+        "catching_up": false,
+        "data_since": "2022-05-05T11:53:32.688282881Z"
+    },
+    "194.163.151.41:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "PBR",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 8871003,
+        "latest_block_height": 9400136,
+        "blocks_indexed": 9400135,
+        "catching_up": false,
+        "data_since": "2023-12-10T20:08:48.515230437Z"
+    },
+    "180.149.44.66:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "The Honeybadger",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 6956001,
+        "latest_block_height": 9400162,
+        "blocks_indexed": 9400161,
+        "catching_up": false,
+        "data_since": "2023-08-01T12:21:48.897218382Z"
     },
     "167.235.14.83:19657": {
         "voting_power": 1148,
@@ -42,8 +90,8 @@
         "network": "haqq_11235-1",
         "tx_index": "on",
         "earliest_block_height": 8857273,
-        "latest_block_height": 9385568,
-        "blocks_indexed": 9385567,
+        "latest_block_height": 9400163,
+        "blocks_indexed": 9400162,
         "catching_up": false,
         "data_since": "2023-12-09T21:29:23.376641064Z"
     },
@@ -54,10 +102,22 @@
         "network": "haqq_11235-1",
         "tx_index": "on",
         "earliest_block_height": 7770006,
-        "latest_block_height": 9385543,
-        "blocks_indexed": 9385542,
+        "latest_block_height": 9400137,
+        "blocks_indexed": 9400136,
         "catching_up": false,
         "data_since": "2023-09-27T04:07:04.774180511Z"
+    },
+    "88.218.226.171:26657": {
+        "voting_power": 18162716,
+        "is_validator": true,
+        "moniker": "mainnet_seed_node",
+        "network": "haqq_11235-1",
+        "tx_index": "on",
+        "earliest_block_height": 7767359,
+        "latest_block_height": 9400138,
+        "blocks_indexed": 9400137,
+        "catching_up": false,
+        "data_since": "2023-09-25T22:15:55.289494583Z"
     },
     "212.22.70.9:26657": {
         "voting_power": 9401,
@@ -66,46 +126,10 @@
         "network": "haqq_11235-1",
         "tx_index": "off",
         "earliest_block_height": 9296273,
-        "latest_block_height": 9385570,
-        "blocks_indexed": 9385569,
+        "latest_block_height": 9400165,
+        "blocks_indexed": 9400164,
         "catching_up": false,
         "data_since": "2024-01-08T22:19:22.054389811Z"
-    },
-    "88.218.226.171:26657": {
-        "voting_power": 18162617,
-        "is_validator": true,
-        "moniker": "mainnet_seed_node",
-        "network": "haqq_11235-1",
-        "tx_index": "on",
-        "earliest_block_height": 7767359,
-        "latest_block_height": 9385544,
-        "blocks_indexed": 9385543,
-        "catching_up": false,
-        "data_since": "2023-09-25T22:15:55.289494583Z"
-    },
-    "199.247.18.253:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "mainnet_node",
-        "network": "haqq_11235-1",
-        "tx_index": "on",
-        "earliest_block_height": 2840250,
-        "latest_block_height": 9385571,
-        "blocks_indexed": 9385570,
-        "catching_up": false,
-        "data_since": "2022-05-05T11:53:32.688282881Z"
-    },
-    "180.149.44.66:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "The Honeybadger",
-        "network": "haqq_11235-1",
-        "tx_index": "on",
-        "earliest_block_height": 6956001,
-        "latest_block_height": 9385567,
-        "blocks_indexed": 9385566,
-        "catching_up": false,
-        "data_since": "2023-08-01T12:21:48.897218382Z"
     },
     "148.251.88.145:11057": {
         "voting_power": 0,
@@ -114,8 +138,8 @@
         "network": "haqq_11235-1",
         "tx_index": "on",
         "earliest_block_height": 6956001,
-        "latest_block_height": 9385569,
-        "blocks_indexed": 9385568,
+        "latest_block_height": 9400164,
+        "blocks_indexed": 9400163,
         "catching_up": false,
         "data_since": "2023-08-01T12:21:48.897218382Z"
     }

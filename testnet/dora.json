@@ -1,15 +1,15 @@
 {
-    "65.109.117.219:29257": {
-        "voting_power": 9009100000000000,
-        "is_validator": true,
-        "moniker": "moodman",
+    "216.158.237.22:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BlockBeacon",
         "network": "vota-vk",
         "tx_index": "off",
-        "earliest_block_height": 287452,
-        "latest_block_height": 387452,
-        "blocks_indexed": 387451,
+        "earliest_block_height": 1,
+        "latest_block_height": 402811,
+        "blocks_indexed": 402810,
         "catching_up": false,
-        "data_since": "2024-01-08T13:07:07.685656818Z"
+        "data_since": "2023-12-20T14:32:44.396488746Z"
     },
     "38.242.202.163:27657": {
         "voting_power": 0,
@@ -17,11 +17,23 @@
         "moniker": "node",
         "network": "vota-vk",
         "tx_index": "on",
-        "earliest_block_height": 287452,
-        "latest_block_height": 387452,
-        "blocks_indexed": 387451,
+        "earliest_block_height": 302835,
+        "latest_block_height": 402835,
+        "blocks_indexed": 402834,
         "catching_up": false,
-        "data_since": "2024-01-08T13:07:07.685656818Z"
+        "data_since": "2024-01-09T13:04:57.857273051Z"
+    },
+    "65.109.117.219:29257": {
+        "voting_power": 9009100000000000,
+        "is_validator": true,
+        "moniker": "moodman",
+        "network": "vota-vk",
+        "tx_index": "off",
+        "earliest_block_height": 302835,
+        "latest_block_height": 402835,
+        "blocks_indexed": 402834,
+        "catching_up": false,
+        "data_since": "2024-01-09T13:04:57.857273051Z"
     },
     "135.181.210.171:32047": {
         "voting_power": 0,
@@ -30,8 +42,8 @@
         "network": "vota-vk",
         "tx_index": "on",
         "earliest_block_height": 314301,
-        "latest_block_height": 387428,
-        "blocks_indexed": 387427,
+        "latest_block_height": 402811,
+        "blocks_indexed": 402810,
         "catching_up": false,
         "data_since": "2024-01-10T06:52:55.444910663Z"
     },
@@ -42,8 +54,8 @@
         "network": "vota-vk",
         "tx_index": "on",
         "earliest_block_height": 197001,
-        "latest_block_height": 387452,
-        "blocks_indexed": 387451,
+        "latest_block_height": 402835,
+        "blocks_indexed": 402834,
         "catching_up": false,
         "data_since": "2024-01-02T13:49:25.973850589Z"
     },
@@ -54,20 +66,8 @@
         "network": "vota-vk",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 387452,
-        "blocks_indexed": 387451,
-        "catching_up": false,
-        "data_since": "2023-12-20T14:32:44.396488746Z"
-    },
-    "13.215.159.236:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "dorafactory",
-        "network": "vota-vk",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 387428,
-        "blocks_indexed": 387427,
+        "latest_block_height": 402835,
+        "blocks_indexed": 402834,
         "catching_up": false,
         "data_since": "2023-12-20T14:32:44.396488746Z"
     }
