@@ -5,35 +5,23 @@
         "moniker": "STAVR-Service",
         "network": "planq_7070-2",
         "tx_index": "on",
-        "earliest_block_height": 7041501,
-        "latest_block_height": 7044352,
-        "blocks_indexed": 7044351,
+        "earliest_block_height": 7058501,
+        "latest_block_height": 7060269,
+        "blocks_indexed": 7060268,
         "catching_up": false,
-        "data_since": "2024-01-17T20:37:55.874738189Z"
+        "data_since": "2024-01-18T22:12:14.676093464Z"
     },
     "185.190.140.93:14657": {
-        "voting_power": 630445,
+        "voting_power": 630486,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 1763655,
-        "latest_block_height": 7044352,
-        "blocks_indexed": 7044351,
+        "latest_block_height": 7060268,
+        "blocks_indexed": 7060267,
         "catching_up": false,
         "data_since": "2023-03-09T16:11:22.898121806Z"
-    },
-    "135.181.114.86:13657": {
-        "voting_power": 32656,
-        "is_validator": true,
-        "moniker": "NodeName",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 6518001,
-        "latest_block_height": 7044325,
-        "blocks_indexed": 7044324,
-        "catching_up": false,
-        "data_since": "2023-12-16T09:49:39.067123477Z"
     },
     "192.99.160.197:13657": {
         "voting_power": 0,
@@ -41,10 +29,22 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 7043501,
-        "latest_block_height": 7043996,
-        "blocks_indexed": 7043995,
-        "catching_up": true,
-        "data_since": "2024-01-17T23:37:15.808730184Z"
+        "earliest_block_height": 7059501,
+        "latest_block_height": 7060241,
+        "blocks_indexed": 7060240,
+        "catching_up": false,
+        "data_since": "2024-01-18T23:43:22.039037482Z"
+    },
+    "135.181.114.86:13657": {
+        "voting_power": 34341,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 6518001,
+        "latest_block_height": 7060242,
+        "blocks_indexed": 7060241,
+        "catching_up": false,
+        "data_since": "2023-12-16T09:49:39.067123477Z"
     }
 }

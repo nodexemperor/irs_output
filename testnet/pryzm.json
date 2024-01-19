@@ -6,8 +6,8 @@
         "network": "indigo-1",
         "tx_index": "off",
         "earliest_block_height": 166001,
-        "latest_block_height": 622880,
-        "blocks_indexed": 622879,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
         "data_since": "2023-12-18T15:36:04.773583391Z"
     },
@@ -17,11 +17,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "indigo-1",
         "tx_index": "on",
-        "earliest_block_height": 522880,
-        "latest_block_height": 622880,
-        "blocks_indexed": 622879,
+        "earliest_block_height": 538009,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
-        "data_since": "2024-01-11T10:35:19.411732099Z"
+        "data_since": "2024-01-12T10:51:04.929215466Z"
     },
     "65.109.70.45:36657": {
         "voting_power": 0,
@@ -30,20 +30,20 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 160001,
-        "latest_block_height": 622880,
-        "blocks_indexed": 622879,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
         "data_since": "2023-12-18T06:04:59.25339699Z"
     },
     "178.128.197.47:26657": {
-        "voting_power": 10000139,
+        "voting_power": 10000162,
         "is_validator": true,
         "moniker": "validator",
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 622880,
-        "blocks_indexed": 622879,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
         "data_since": "2023-12-06T14:21:41.606909Z"
     },
@@ -54,10 +54,22 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 160001,
-        "latest_block_height": 622882,
-        "blocks_indexed": 622881,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
         "data_since": "2023-12-18T06:04:59.25339699Z"
+    },
+    "206.221.176.90:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab",
+        "network": "indigo-1",
+        "tx_index": "on",
+        "earliest_block_height": 507001,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
+        "catching_up": false,
+        "data_since": "2024-01-10T09:12:51.169238213Z"
     },
     "66.45.236.14:16657": {
         "voting_power": 0,
@@ -66,8 +78,8 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 622881,
-        "blocks_indexed": 622880,
+        "latest_block_height": 638009,
+        "blocks_indexed": 638008,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
@@ -78,21 +90,9 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 622881,
-        "blocks_indexed": 622880,
+        "latest_block_height": 638010,
+        "blocks_indexed": 638009,
         "catching_up": false,
         "data_since": "2023-12-06T14:21:41.606909Z"
-    },
-    "86.48.0.190:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "AnatolianService",
-        "network": "indigo-1",
-        "tx_index": "off",
-        "earliest_block_height": 620001,
-        "latest_block_height": 622881,
-        "blocks_indexed": 622880,
-        "catching_up": false,
-        "data_since": "2024-01-17T20:56:41.192771851Z"
     }
 }

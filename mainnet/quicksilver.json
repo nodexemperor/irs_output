@@ -6,8 +6,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5467501,
-        "latest_block_height": 5558118,
-        "blocks_indexed": 5558117,
+        "latest_block_height": 5573009,
+        "blocks_indexed": 5573008,
         "catching_up": false,
         "data_since": "2024-01-11T22:21:40.576094158Z"
     },
@@ -42,8 +42,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5328101,
-        "latest_block_height": 5558119,
-        "blocks_indexed": 5558118,
+        "latest_block_height": 5573010,
+        "blocks_indexed": 5573009,
         "catching_up": false,
         "data_since": "2024-01-02T11:18:17.327224549Z"
     },
@@ -54,8 +54,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5195101,
-        "latest_block_height": 5558123,
-        "blocks_indexed": 5558122,
+        "latest_block_height": 5573013,
+        "blocks_indexed": 5573012,
         "catching_up": false,
         "data_since": "2023-12-24T11:28:09.702157133Z"
     },
@@ -71,6 +71,18 @@
         "catching_up": true,
         "data_since": "2023-11-20T11:48:56.858584224Z"
     },
+    "65.108.195.29:31127": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 5097001,
+        "latest_block_height": 5573011,
+        "blocks_indexed": 5573010,
+        "catching_up": false,
+        "data_since": "2023-12-17T20:28:53.085900403Z"
+    },
     "51.68.170.145:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -78,8 +90,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5503268,
-        "latest_block_height": 5558121,
-        "blocks_indexed": 5558120,
+        "latest_block_height": 5573011,
+        "blocks_indexed": 5573010,
         "catching_up": false,
         "data_since": "2024-01-14T08:14:05.629410683Z"
     },
@@ -90,22 +102,10 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 5558122,
-        "blocks_indexed": 5558121,
+        "latest_block_height": 5573013,
+        "blocks_indexed": 5573012,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
-    },
-    "57.128.20.238:31657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "rpc",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5259659,
-        "latest_block_height": 5558121,
-        "blocks_indexed": 5558120,
-        "catching_up": false,
-        "data_since": "2023-12-28T20:13:53.006298995Z"
     },
     "47.147.226.147:51657": {
         "voting_power": 0,
@@ -114,8 +114,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5151648,
-        "latest_block_height": 5558122,
-        "blocks_indexed": 5558121,
+        "latest_block_height": 5573012,
+        "blocks_indexed": 5573011,
         "catching_up": false,
         "data_since": "2023-12-21T12:58:55.232347947Z"
     },
@@ -125,10 +125,22 @@
         "moniker": "STAVR-Service",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5556601,
-        "latest_block_height": 5558122,
-        "blocks_indexed": 5558121,
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
+    "85.10.197.58:11157": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BRAND-quicksilver-relayer",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 3397566,
+        "latest_block_height": 5573013,
+        "blocks_indexed": 5573012,
         "catching_up": false,
-        "data_since": "2024-01-17T22:31:46.958638048Z"
+        "data_since": "2023-08-24T11:58:57.598363492Z"
     }
 }
