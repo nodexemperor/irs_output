@@ -1,39 +1,15 @@
 {
-    "66.45.246.166:1077": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7058501,
-        "latest_block_height": 7060269,
-        "blocks_indexed": 7060268,
-        "catching_up": false,
-        "data_since": "2024-01-18T22:12:14.676093464Z"
-    },
     "185.190.140.93:14657": {
-        "voting_power": 630486,
+        "voting_power": 630525,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 1763655,
-        "latest_block_height": 7060268,
-        "blocks_indexed": 7060267,
+        "latest_block_height": 7076108,
+        "blocks_indexed": 7076107,
         "catching_up": false,
         "data_since": "2023-03-09T16:11:22.898121806Z"
-    },
-    "192.99.160.197:13657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BACKUP_PLANQ",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 7059501,
-        "latest_block_height": 7060241,
-        "blocks_indexed": 7060240,
-        "catching_up": false,
-        "data_since": "2024-01-18T23:43:22.039037482Z"
     },
     "135.181.114.86:13657": {
         "voting_power": 34341,
@@ -42,9 +18,21 @@
         "network": "planq_7070-2",
         "tx_index": "off",
         "earliest_block_height": 6518001,
-        "latest_block_height": 7060242,
-        "blocks_indexed": 7060241,
+        "latest_block_height": 7076110,
+        "blocks_indexed": 7076109,
         "catching_up": false,
         "data_since": "2023-12-16T09:49:39.067123477Z"
+    },
+    "192.99.160.197:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BACKUP_PLANQ",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 7075501,
+        "latest_block_height": 7076102,
+        "blocks_indexed": 7076101,
+        "catching_up": false,
+        "data_since": "2024-01-19T23:57:25.620735349Z"
     }
 }

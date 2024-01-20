@@ -6,8 +6,8 @@
         "network": "indigo-1",
         "tx_index": "off",
         "earliest_block_height": 166001,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "2023-12-18T15:36:04.773583391Z"
     },
@@ -17,11 +17,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "indigo-1",
         "tx_index": "on",
-        "earliest_block_height": 538009,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "earliest_block_height": 553014,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
-        "data_since": "2024-01-12T10:51:04.929215466Z"
+        "data_since": "2024-01-13T10:37:11.883848487Z"
     },
     "65.109.70.45:36657": {
         "voting_power": 0,
@@ -30,34 +30,22 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 160001,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "2023-12-18T06:04:59.25339699Z"
     },
     "178.128.197.47:26657": {
-        "voting_power": 10000162,
+        "voting_power": 10000175,
         "is_validator": true,
         "moniker": "validator",
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "2023-12-06T14:21:41.606909Z"
-    },
-    "89.38.98.200:20257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR",
-        "network": "indigo-1",
-        "tx_index": "on",
-        "earliest_block_height": 160001,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
-        "catching_up": false,
-        "data_since": "2023-12-18T06:04:59.25339699Z"
     },
     "206.221.176.90:16657": {
         "voting_power": 0,
@@ -66,8 +54,8 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 507001,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "2024-01-10T09:12:51.169238213Z"
     },
@@ -78,10 +66,22 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 638009,
-        "blocks_indexed": 638008,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "89.38.98.200:20257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR",
+        "network": "indigo-1",
+        "tx_index": "on",
+        "earliest_block_height": 160001,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
+        "catching_up": false,
+        "data_since": "2023-12-18T06:04:59.25339699Z"
     },
     "34.65.224.175:26657": {
         "voting_power": 0,
@@ -90,9 +90,21 @@
         "network": "indigo-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 638010,
-        "blocks_indexed": 638009,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
         "catching_up": false,
         "data_since": "2023-12-06T14:21:41.606909Z"
+    },
+    "86.48.0.190:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AnatolianService",
+        "network": "indigo-1",
+        "tx_index": "off",
+        "earliest_block_height": 620001,
+        "latest_block_height": 653014,
+        "blocks_indexed": 653013,
+        "catching_up": false,
+        "data_since": "2024-01-17T20:56:41.192771851Z"
     }
 }
