@@ -6,8 +6,8 @@
         "network": "bitcanna-dev-1",
         "tx_index": "on",
         "earliest_block_height": 4952911,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
         "catching_up": false,
         "data_since": "2023-11-06T11:29:41.887730232Z"
     },
@@ -18,22 +18,10 @@
         "network": "bitcanna-dev-1",
         "tx_index": "on",
         "earliest_block_height": 4670391,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
         "catching_up": false,
         "data_since": "2023-10-19T09:06:45.6870791Z"
-    },
-    "65.109.70.45:30657": {
-        "voting_power": 7920,
-        "is_validator": true,
-        "moniker": "L0vd",
-        "network": "bitcanna-dev-1",
-        "tx_index": "on",
-        "earliest_block_height": 4828155,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
-        "catching_up": false,
-        "data_since": "2023-10-29T11:13:56.560564888Z"
     },
     "65.108.131.190:23857": {
         "voting_power": 82269,
@@ -41,11 +29,11 @@
         "moniker": "bitcanna",
         "network": "bitcanna-dev-1",
         "tx_index": "off",
-        "earliest_block_height": 6052800,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
+        "earliest_block_height": 6068112,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
         "catching_up": false,
-        "data_since": "2024-01-19T19:04:05.217618087Z"
+        "data_since": "2024-01-20T19:05:41.374436044Z"
     },
     "194.163.174.231:26667": {
         "voting_power": 1949865,
@@ -53,23 +41,11 @@
         "moniker": "AVIAONE",
         "network": "bitcanna-dev-1",
         "tx_index": "on",
-        "earliest_block_height": 6055311,
-        "latest_block_height": 6056799,
-        "blocks_indexed": 6056798,
+        "earliest_block_height": 6070611,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
         "catching_up": false,
-        "data_since": "2024-01-19T23:01:24.412703034Z"
-    },
-    "81.0.247.144:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "New_peer",
-        "network": "bitcanna-dev-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
-        "catching_up": false,
-        "data_since": "2022-12-22T14:55:55.413521948Z"
+        "data_since": "2024-01-20T23:01:41.175243903Z"
     },
     "89.116.31.184:26657": {
         "voting_power": 0,
@@ -78,9 +54,33 @@
         "network": "bitcanna-dev-1",
         "tx_index": "on",
         "earliest_block_height": 5185001,
-        "latest_block_height": 6056800,
-        "blocks_indexed": 6056799,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
         "catching_up": false,
         "data_since": "2023-11-23T05:46:10.43430223Z"
+    },
+    "81.0.247.144:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "New_peer",
+        "network": "bitcanna-dev-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
+        "catching_up": false,
+        "data_since": "2022-12-22T14:55:55.413521948Z"
+    },
+    "65.109.70.45:30657": {
+        "voting_power": 7920,
+        "is_validator": true,
+        "moniker": "L0vd",
+        "network": "bitcanna-dev-1",
+        "tx_index": "on",
+        "earliest_block_height": 4828155,
+        "latest_block_height": 6072112,
+        "blocks_indexed": 6072111,
+        "catching_up": false,
+        "data_since": "2023-10-29T11:13:56.560564888Z"
     }
 }

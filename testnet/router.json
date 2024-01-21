@@ -1,16 +1,4 @@
 {
-    "136.243.88.91:3101": {
-        "voting_power": 186,
-        "is_validator": true,
-        "moniker": "node",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1548001,
-        "latest_block_height": 6085711,
-        "blocks_indexed": 6085710,
-        "catching_up": false,
-        "data_since": "2023-10-15T18:48:19.538687188Z"
-    },
     "43.205.136.8:26657": {
         "voting_power": 1813703,
         "is_validator": true,
@@ -18,10 +6,34 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6085710,
-        "blocks_indexed": 6085709,
+        "latest_block_height": 6132443,
+        "blocks_indexed": 6132442,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
+    },
+    "136.243.88.91:3101": {
+        "voting_power": 186,
+        "is_validator": true,
+        "moniker": "node",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1548001,
+        "latest_block_height": 6132443,
+        "blocks_indexed": 6132442,
+        "catching_up": false,
+        "data_since": "2023-10-15T18:48:19.538687188Z"
+    },
+    "13.235.115.79:26657": {
+        "voting_power": 1686386,
+        "is_validator": true,
+        "moniker": "node0",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 6032443,
+        "latest_block_height": 6132443,
+        "blocks_indexed": 6132442,
+        "catching_up": false,
+        "data_since": "2024-01-19T02:00:27.658086967Z"
     },
     "15.206.157.168:26657": {
         "voting_power": 2020525,
@@ -30,21 +42,9 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6085711,
-        "blocks_indexed": 6085710,
+        "latest_block_height": 6127690,
+        "blocks_indexed": 6127689,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
-    },
-    "13.235.115.79:26657": {
-        "voting_power": 1686386,
-        "is_validator": true,
-        "moniker": "node0",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 5985710,
-        "latest_block_height": 6085710,
-        "blocks_indexed": 6085709,
-        "catching_up": false,
-        "data_since": "2024-01-18T05:16:20.316711784Z"
     }
 }
