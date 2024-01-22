@@ -6,8 +6,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5467501,
-        "latest_block_height": 5602771,
-        "blocks_indexed": 5602770,
+        "latest_block_height": 5617635,
+        "blocks_indexed": 5617634,
         "catching_up": false,
         "data_since": "2024-01-11T22:21:40.576094158Z"
     },
@@ -35,18 +35,6 @@
         "catching_up": true,
         "data_since": "2023-08-14T02:13:50.415374915Z"
     },
-    "65.108.195.29:31127": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 5097001,
-        "latest_block_height": 5602772,
-        "blocks_indexed": 5602771,
-        "catching_up": false,
-        "data_since": "2023-12-17T20:28:53.085900403Z"
-    },
     "94.130.13.187:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -54,8 +42,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5328101,
-        "latest_block_height": 5602772,
-        "blocks_indexed": 5602771,
+        "latest_block_height": 5617635,
+        "blocks_indexed": 5617634,
         "catching_up": false,
         "data_since": "2024-01-02T11:18:17.327224549Z"
     },
@@ -66,10 +54,22 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5195101,
-        "latest_block_height": 5602775,
-        "blocks_indexed": 5602774,
+        "latest_block_height": 5617639,
+        "blocks_indexed": 5617638,
         "catching_up": false,
         "data_since": "2023-12-24T11:28:09.702157133Z"
+    },
+    "135.181.210.171:21027": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5615001,
+        "latest_block_height": 5617640,
+        "blocks_indexed": 5617639,
+        "catching_up": false,
+        "data_since": "2024-01-21T20:49:06.453190571Z"
     },
     "142.132.136.106:22657": {
         "voting_power": 0,
@@ -90,8 +90,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5503268,
-        "latest_block_height": 5602773,
-        "blocks_indexed": 5602772,
+        "latest_block_height": 5617637,
+        "blocks_indexed": 5617636,
         "catching_up": false,
         "data_since": "2024-01-14T08:14:05.629410683Z"
     },
@@ -102,8 +102,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 5602774,
-        "blocks_indexed": 5602773,
+        "latest_block_height": 5617637,
+        "blocks_indexed": 5617636,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
     },
@@ -114,8 +114,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 3397566,
-        "latest_block_height": 5602774,
-        "blocks_indexed": 5602773,
+        "latest_block_height": 5617639,
+        "blocks_indexed": 5617638,
         "catching_up": false,
         "data_since": "2023-08-24T11:58:57.598363492Z"
     },
@@ -126,22 +126,10 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5151648,
-        "latest_block_height": 5602774,
-        "blocks_indexed": 5602773,
+        "latest_block_height": 5617637,
+        "blocks_indexed": 5617636,
         "catching_up": false,
         "data_since": "2023-12-21T12:58:55.232347947Z"
-    },
-    "135.181.210.171:21027": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5602001,
-        "latest_block_height": 5602775,
-        "blocks_indexed": 5602774,
-        "catching_up": false,
-        "data_since": "2024-01-20T23:49:08.165671088Z"
     },
     "116.202.217.20:26657": {
         "voting_power": 0,
@@ -150,9 +138,21 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5581001,
-        "latest_block_height": 5602775,
-        "blocks_indexed": 5602774,
+        "latest_block_height": 5617638,
+        "blocks_indexed": 5617637,
         "catching_up": false,
         "data_since": "2024-01-19T13:54:56.775490867Z"
+    },
+    "65.108.195.29:31127": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 5097001,
+        "latest_block_height": 5617638,
+        "blocks_indexed": 5617637,
+        "catching_up": false,
+        "data_since": "2023-12-17T20:28:53.085900403Z"
     }
 }

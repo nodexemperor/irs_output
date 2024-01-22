@@ -6,22 +6,10 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4811050,
-        "blocks_indexed": 4811049,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
         "catching_up": false,
         "data_since": "2023-04-07T17:00:00Z"
-    },
-    "135.181.114.86:25557": {
-        "voting_power": 384232,
-        "is_validator": true,
-        "moniker": "NodeName",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3529801,
-        "latest_block_height": 4811051,
-        "blocks_indexed": 4811050,
-        "catching_up": false,
-        "data_since": "2023-11-04T14:56:14.91048914Z"
     },
     "173.249.59.70:32657": {
         "voting_power": 107019,
@@ -29,11 +17,23 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4711049,
-        "latest_block_height": 4811049,
-        "blocks_indexed": 4811048,
+        "earliest_block_height": 4727381,
+        "latest_block_height": 4827381,
+        "blocks_indexed": 4827380,
         "catching_up": false,
-        "data_since": "2024-01-14T22:28:28.930603829Z"
+        "data_since": "2024-01-15T22:27:13.57315198Z"
+    },
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 4747001,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
+        "catching_up": false,
+        "data_since": "2024-01-17T03:12:30.753831829Z"
     },
     "65.21.90.141:12261": {
         "voting_power": 86877,
@@ -41,11 +41,11 @@
         "moniker": "SerGo",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4711050,
-        "latest_block_height": 4811050,
-        "blocks_indexed": 4811049,
+        "earliest_block_height": 4727382,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
         "catching_up": false,
-        "data_since": "2024-01-14T22:28:34.546225586Z"
+        "data_since": "2024-01-15T22:27:19.275233152Z"
     },
     "46.17.250.108:56657": {
         "voting_power": 129047,
@@ -54,8 +54,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4639101,
-        "latest_block_height": 4811051,
-        "blocks_indexed": 4811050,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
         "catching_up": false,
         "data_since": "2024-01-10T12:54:43.535684957Z"
     },
@@ -66,33 +66,21 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4224001,
-        "latest_block_height": 4811051,
-        "blocks_indexed": 4811050,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
         "catching_up": false,
         "data_since": "2023-12-16T08:31:11.302095326Z"
     },
     "95.168.173.33:33657": {
-        "voting_power": 44241,
+        "voting_power": 66636,
         "is_validator": true,
         "moniker": "RIO-mainnet-prod",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3944101,
-        "latest_block_height": 4811051,
-        "blocks_indexed": 4811050,
+        "latest_block_height": 4827382,
+        "blocks_indexed": 4827381,
         "catching_up": false,
         "data_since": "2023-11-29T13:55:55.686670609Z"
-    },
-    "135.181.210.171:21097": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 4747001,
-        "latest_block_height": 4811051,
-        "blocks_indexed": 4811050,
-        "catching_up": false,
-        "data_since": "2024-01-17T03:12:30.753831829Z"
     }
 }
