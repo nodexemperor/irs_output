@@ -6,8 +6,8 @@
         "network": "blockx_100-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 332725,
-        "blocks_indexed": 332724,
+        "latest_block_height": 343593,
+        "blocks_indexed": 343592,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 305001,
-        "latest_block_height": 332727,
-        "blocks_indexed": 332726,
+        "latest_block_height": 343596,
+        "blocks_indexed": 343595,
         "catching_up": false,
         "data_since": "2024-01-22T05:58:20.877007388Z"
     },
@@ -30,8 +30,8 @@
         "network": "blockx_100-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 332725,
-        "blocks_indexed": 332724,
+        "latest_block_height": 343594,
+        "blocks_indexed": 343593,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -42,8 +42,20 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 332727,
-        "blocks_indexed": 332726,
+        "latest_block_height": 343595,
+        "blocks_indexed": 343594,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
+    },
+    "194.163.167.138:48657": {
+        "voting_power": 42000,
+        "is_validator": true,
+        "moniker": "dnsarz",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 343596,
+        "blocks_indexed": 343595,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -54,21 +66,9 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 252383,
-        "blocks_indexed": 252382,
+        "latest_block_height": 254714,
+        "blocks_indexed": 254713,
         "catching_up": true,
-        "data_since": "2024-01-16T12:00:00Z"
-    },
-    "194.163.167.138:48657": {
-        "voting_power": 42000,
-        "is_validator": true,
-        "moniker": "dnsarz",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 332727,
-        "blocks_indexed": 332726,
-        "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     }
 }
