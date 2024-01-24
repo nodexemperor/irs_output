@@ -6,8 +6,8 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 660801,
-        "latest_block_height": 1817704,
-        "blocks_indexed": 1817703,
+        "latest_block_height": 1831033,
+        "blocks_indexed": 1831032,
         "catching_up": false,
         "data_since": "2023-11-18T13:57:02.963621613Z"
     },
@@ -18,22 +18,34 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 660001,
-        "latest_block_height": 1817704,
-        "blocks_indexed": 1817703,
+        "latest_block_height": 1831033,
+        "blocks_indexed": 1831032,
         "catching_up": false,
         "data_since": "2023-11-18T12:49:14.960294528Z"
     },
-    "89.117.63.35:14257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "VTB-ENTANGLE",
+    "144.76.236.211:23657": {
+        "voting_power": 27049800500000000,
+        "is_validator": true,
+        "moniker": "[NODERS]TEAM",
         "network": "entangle_33133-1",
         "tx_index": "off",
-        "earliest_block_height": 1162001,
-        "latest_block_height": 1817702,
-        "blocks_indexed": 1817701,
-        "catching_up": true,
-        "data_since": "2023-12-17T05:12:17.926639602Z"
+        "earliest_block_height": 1,
+        "latest_block_height": 1831033,
+        "blocks_indexed": 1831032,
+        "catching_up": false,
+        "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "158.220.91.214:17157": {
+        "voting_power": 298287408343724,
+        "is_validator": true,
+        "moniker": "Iryna2",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 1822001,
+        "latest_block_height": 1831033,
+        "blocks_indexed": 1831032,
+        "catching_up": false,
+        "data_since": "2024-01-23T09:16:28.177378874Z"
     },
     "149.102.146.157:17157": {
         "voting_power": 484417023854259,
@@ -42,21 +54,9 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1436001,
-        "latest_block_height": 1817704,
-        "blocks_indexed": 1817703,
+        "latest_block_height": 1831033,
+        "blocks_indexed": 1831032,
         "catching_up": false,
         "data_since": "2024-01-01T05:19:27.202667945Z"
-    },
-    "144.76.236.211:23657": {
-        "voting_power": 47049800500000000,
-        "is_validator": true,
-        "moniker": "[NODERS]TEAM",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 1817704,
-        "blocks_indexed": 1817703,
-        "catching_up": false,
-        "data_since": "2023-07-06T15:27:04.171971353Z"
     }
 }
