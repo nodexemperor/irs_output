@@ -6,22 +6,22 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 2580801,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "latest_block_height": 3003460,
+        "blocks_indexed": 3003459,
         "catching_up": false,
         "data_since": "2023-12-28T00:17:57.550584308Z"
     },
-    "65.109.88.254:31657": {
-        "voting_power": 1486,
+    "5.9.106.214:26679": {
+        "voting_power": 1475,
         "is_validator": true,
-        "moniker": "ksalab",
+        "moniker": "node",
         "network": "althea_417834-3",
-        "tx_index": "off",
-        "earliest_block_height": 1335001,
-        "latest_block_height": 2988461,
-        "blocks_indexed": 2988460,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3003460,
+        "blocks_indexed": 3003459,
         "catching_up": false,
-        "data_since": "2023-10-06T09:46:20.488287054Z"
+        "data_since": "2023-07-07T18:29:18.564520679Z"
     },
     "168.119.139.86:63657": {
         "voting_power": 1009,
@@ -30,8 +30,8 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 1957001,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
         "data_since": "2023-11-16T21:18:07.725089262Z"
     },
@@ -42,10 +42,22 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 1943001,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
         "data_since": "2023-11-15T23:03:53.595985854Z"
+    },
+    "65.109.88.254:31657": {
+        "voting_power": 1486,
+        "is_validator": true,
+        "moniker": "ksalab",
+        "network": "althea_417834-3",
+        "tx_index": "off",
+        "earliest_block_height": 1335001,
+        "latest_block_height": 3003438,
+        "blocks_indexed": 3003437,
+        "catching_up": false,
+        "data_since": "2023-10-06T09:46:20.488287054Z"
     },
     "49.12.84.248:19657": {
         "voting_power": 0,
@@ -54,32 +66,20 @@
         "network": "althea_417834-3",
         "tx_index": "off",
         "earliest_block_height": 542401,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
         "data_since": "2023-08-13T13:43:58.493283806Z"
     },
-    "5.9.106.214:26679": {
-        "voting_power": 1475,
-        "is_validator": true,
-        "moniker": "node",
-        "network": "althea_417834-3",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2988484,
-        "blocks_indexed": 2988483,
-        "catching_up": false,
-        "data_since": "2023-07-07T18:29:18.564520679Z"
-    },
     "35.201.194.177:26657": {
-        "voting_power": 1021,
+        "voting_power": 1024,
         "is_validator": true,
         "moniker": "althea-testnet-0",
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 2876301,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
         "data_since": "2024-01-16T13:02:55.526907267Z"
     },
@@ -90,8 +90,8 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 496001,
-        "latest_block_height": 2988461,
-        "blocks_indexed": 2988460,
+        "latest_block_height": 3003438,
+        "blocks_indexed": 3003437,
         "catching_up": false,
         "data_since": "2023-08-10T10:42:36.364376347Z"
     },
@@ -101,11 +101,11 @@
         "moniker": "STAVR-Service",
         "network": "althea_417834-3",
         "tx_index": "on",
-        "earliest_block_height": 2985501,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "earliest_block_height": 3001701,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
-        "data_since": "2024-01-23T20:32:41.061823951Z"
+        "data_since": "2024-01-24T22:31:01.356876775Z"
     },
     "142.132.202.50:47657": {
         "voting_power": 0,
@@ -113,23 +113,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "althea_417834-3",
         "tx_index": "off",
-        "earliest_block_height": 2888485,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "earliest_block_height": 2903461,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
-        "data_since": "2024-01-17T08:28:46.953541977Z"
-    },
-    "66.172.36.142:14657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "althea_417834-3",
-        "tx_index": "on",
-        "earliest_block_height": 165,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
-        "catching_up": false,
-        "data_since": "2023-07-07T18:56:51.014307056Z"
+        "data_since": "2024-01-18T08:28:38.467832372Z"
     },
     "94.130.26.9:26957": {
         "voting_power": 1580,
@@ -137,10 +125,10 @@
         "moniker": "Pro-Nodes75",
         "network": "althea_417834-3",
         "tx_index": "on",
-        "earliest_block_height": 2888485,
-        "latest_block_height": 2988485,
-        "blocks_indexed": 2988484,
+        "earliest_block_height": 2903461,
+        "latest_block_height": 3003461,
+        "blocks_indexed": 3003460,
         "catching_up": false,
-        "data_since": "2024-01-17T08:28:46.953541977Z"
+        "data_since": "2024-01-18T08:28:38.467832372Z"
     }
 }
