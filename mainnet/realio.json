@@ -1,27 +1,15 @@
 {
-    "95.168.173.33:33657": {
-        "voting_power": 68065,
-        "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
-        "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
-    },
     "173.249.59.70:32657": {
         "voting_power": 107019,
         "is_validator": true,
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4792487,
-        "latest_block_height": 4892487,
-        "blocks_indexed": 4892486,
+        "earliest_block_height": 4808784,
+        "latest_block_height": 4908784,
+        "blocks_indexed": 4908783,
         "catching_up": false,
-        "data_since": "2024-01-19T21:53:21.261650681Z"
+        "data_since": "2024-01-20T21:47:59.775784488Z"
     },
     "65.21.90.141:12261": {
         "voting_power": 88878,
@@ -29,11 +17,23 @@
         "moniker": "SerGo",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4792512,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
+        "earliest_block_height": 4808810,
+        "latest_block_height": 4908810,
+        "blocks_indexed": 4908809,
         "catching_up": false,
-        "data_since": "2024-01-19T21:55:31.399748153Z"
+        "data_since": "2024-01-20T21:50:15.805640263Z"
+    },
+    "95.168.173.33:33657": {
+        "voting_power": 68065,
+        "is_validator": true,
+        "moniker": "RIO-mainnet-prod",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3944101,
+        "latest_block_height": 4908809,
+        "blocks_indexed": 4908808,
+        "catching_up": false,
+        "data_since": "2023-11-29T13:55:55.686670609Z"
     },
     "158.69.27.233:25657": {
         "voting_power": 0,
@@ -42,10 +42,22 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4224001,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
+        "latest_block_height": 4908810,
+        "blocks_indexed": 4908809,
         "catching_up": false,
         "data_since": "2023-12-16T08:31:11.302095326Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 129064,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 4639101,
+        "latest_block_height": 4908809,
+        "blocks_indexed": 4908808,
+        "catching_up": false,
+        "data_since": "2024-01-10T12:54:43.535684957Z"
     },
     "157.245.8.211:26657": {
         "voting_power": 0,
@@ -54,8 +66,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4840801,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
+        "latest_block_height": 4908810,
+        "blocks_indexed": 4908809,
         "catching_up": false,
         "data_since": "2024-01-22T20:52:03.247765123Z"
     },
@@ -66,21 +78,9 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4747001,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
+        "latest_block_height": 4908810,
+        "blocks_indexed": 4908809,
         "catching_up": false,
         "data_since": "2024-01-17T03:12:30.753831829Z"
-    },
-    "46.17.250.108:56657": {
-        "voting_power": 129064,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 4639101,
-        "latest_block_height": 4892512,
-        "blocks_indexed": 4892511,
-        "catching_up": false,
-        "data_since": "2024-01-10T12:54:43.535684957Z"
     }
 }

@@ -1,16 +1,4 @@
 {
-    "135.181.210.171:4137": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "andromeda-1",
-        "tx_index": "on",
-        "earliest_block_height": 925001,
-        "latest_block_height": 926816,
-        "blocks_indexed": 926815,
-        "catching_up": false,
-        "data_since": "2024-01-25T21:25:39.129347881Z"
-    },
     "5.189.151.202:26677": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,21 @@
         "network": "andromeda-1",
         "tx_index": "on",
         "earliest_block_height": 911001,
-        "latest_block_height": 926815,
-        "blocks_indexed": 926814,
+        "latest_block_height": 941552,
+        "blocks_indexed": 941551,
         "catching_up": false,
         "data_since": "2024-01-24T22:42:07.181003003Z"
+    },
+    "135.181.210.171:4137": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "andromeda-1",
+        "tx_index": "on",
+        "earliest_block_height": 938001,
+        "latest_block_height": 941554,
+        "blocks_indexed": 941553,
+        "catching_up": false,
+        "data_since": "2024-01-26T18:35:58.534387126Z"
     }
 }
