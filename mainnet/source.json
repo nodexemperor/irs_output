@@ -1,15 +1,27 @@
 {
-    "182.42.88.202:26657": {
-        "voting_power": 25610,
+    "65.21.57.72:26657": {
+        "voting_power": 131890,
         "is_validator": true,
-        "moniker": "antennaa",
+        "moniker": "WellNode",
+        "network": "source-1",
+        "tx_index": "off",
+        "earliest_block_height": 1333943,
+        "latest_block_height": 1665411,
+        "blocks_indexed": 1665410,
+        "catching_up": false,
+        "data_since": "2024-01-06T06:28:53.407332682Z"
+    },
+    "135.181.210.171:20057": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "source-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1649671,
-        "blocks_indexed": 1649670,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "182.42.93.241:26657": {
         "voting_power": 27100,
@@ -18,20 +30,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1649696,
-        "blocks_indexed": 1649695,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
-    },
-    "88.99.145.188:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Sr20de Service node",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1649670,
-        "blocks_indexed": 1649669,
+        "latest_block_height": 1665435,
+        "blocks_indexed": 1665434,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -42,44 +42,44 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1649671,
-        "blocks_indexed": 1649670,
+        "latest_block_height": 1665411,
+        "blocks_indexed": 1665410,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
-    "135.181.210.171:20057": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
+    "182.42.88.202:26657": {
+        "voting_power": 25610,
+        "is_validator": true,
+        "moniker": "antennaa",
         "network": "source-1",
         "tx_index": "on",
-        "earliest_block_height": 1646501,
-        "latest_block_height": 1649696,
-        "blocks_indexed": 1649695,
+        "earliest_block_height": 1,
+        "latest_block_height": 1665435,
+        "blocks_indexed": 1665434,
         "catching_up": false,
-        "data_since": "2024-01-26T20:03:46.145271962Z"
+        "data_since": "2023-10-01T17:43:25.352159823Z"
     },
-    "65.21.57.72:26657": {
-        "voting_power": 131449,
-        "is_validator": true,
-        "moniker": "WellNode",
+    "88.99.145.188:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Sr20de Service node",
         "network": "source-1",
-        "tx_index": "off",
-        "earliest_block_height": 1333943,
-        "latest_block_height": 1649672,
-        "blocks_indexed": 1649671,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1665411,
+        "blocks_indexed": 1665410,
         "catching_up": false,
-        "data_since": "2024-01-06T06:28:53.407332682Z"
+        "data_since": "2023-10-01T17:43:25.352159823Z"
     },
     "65.108.41.177:22657": {
-        "voting_power": 641129,
+        "voting_power": 666812,
         "is_validator": true,
         "moniker": "STAVR_guide",
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1630001,
-        "latest_block_height": 1649670,
-        "blocks_indexed": 1649669,
+        "latest_block_height": 1665410,
+        "blocks_indexed": 1665409,
         "catching_up": false,
         "data_since": "2024-01-25T17:58:12.838853996Z"
     },
@@ -90,8 +90,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1649696,
-        "blocks_indexed": 1649695,
+        "latest_block_height": 1665435,
+        "blocks_indexed": 1665434,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     }

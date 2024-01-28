@@ -1,52 +1,4 @@
 {
-    "173.249.59.70:32657": {
-        "voting_power": 107019,
-        "is_validator": true,
-        "moniker": "moodman",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 4808784,
-        "latest_block_height": 4908784,
-        "blocks_indexed": 4908783,
-        "catching_up": false,
-        "data_since": "2024-01-20T21:47:59.775784488Z"
-    },
-    "65.21.90.141:12261": {
-        "voting_power": 88878,
-        "is_validator": true,
-        "moniker": "SerGo",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 4808810,
-        "latest_block_height": 4908810,
-        "blocks_indexed": 4908809,
-        "catching_up": false,
-        "data_since": "2024-01-20T21:50:15.805640263Z"
-    },
-    "95.168.173.33:33657": {
-        "voting_power": 68065,
-        "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 4908809,
-        "blocks_indexed": 4908808,
-        "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
-    },
-    "158.69.27.233:25657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "KYN-ENDPOINT",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 4224001,
-        "latest_block_height": 4908810,
-        "blocks_indexed": 4908809,
-        "catching_up": false,
-        "data_since": "2023-12-16T08:31:11.302095326Z"
-    },
     "46.17.250.108:56657": {
         "voting_power": 129064,
         "is_validator": true,
@@ -54,22 +6,34 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4639101,
-        "latest_block_height": 4908809,
-        "blocks_indexed": 4908808,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
         "catching_up": false,
         "data_since": "2024-01-10T12:54:43.535684957Z"
     },
-    "157.245.8.211:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Realio",
+    "173.249.59.70:32657": {
+        "voting_power": 107019,
+        "is_validator": true,
+        "moniker": "moodman",
         "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 4840801,
-        "latest_block_height": 4908810,
-        "blocks_indexed": 4908809,
+        "tx_index": "off",
+        "earliest_block_height": 4825103,
+        "latest_block_height": 4925103,
+        "blocks_indexed": 4925102,
         "catching_up": false,
-        "data_since": "2024-01-22T20:52:03.247765123Z"
+        "data_since": "2024-01-21T21:49:07.752024347Z"
+    },
+    "65.21.90.141:12261": {
+        "voting_power": 88878,
+        "is_validator": true,
+        "moniker": "SerGo",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 4825129,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
+        "catching_up": false,
+        "data_since": "2024-01-21T21:51:23.797801684Z"
     },
     "135.181.210.171:21097": {
         "voting_power": 0,
@@ -78,9 +42,45 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4747001,
-        "latest_block_height": 4908810,
-        "blocks_indexed": 4908809,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
         "catching_up": false,
         "data_since": "2024-01-17T03:12:30.753831829Z"
+    },
+    "157.245.8.211:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Realio",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 4840801,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
+        "catching_up": false,
+        "data_since": "2024-01-22T20:52:03.247765123Z"
+    },
+    "158.69.27.233:25657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "KYN-ENDPOINT",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 4224001,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
+        "catching_up": false,
+        "data_since": "2023-12-16T08:31:11.302095326Z"
+    },
+    "95.168.173.33:33657": {
+        "voting_power": 68065,
+        "is_validator": true,
+        "moniker": "RIO-mainnet-prod",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3944101,
+        "latest_block_height": 4925129,
+        "blocks_indexed": 4925128,
+        "catching_up": false,
+        "data_since": "2023-11-29T13:55:55.686670609Z"
     }
 }
