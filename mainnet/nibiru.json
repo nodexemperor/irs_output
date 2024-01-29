@@ -6,8 +6,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2174134,
-        "blocks_indexed": 2174133,
+        "latest_block_height": 2202615,
+        "blocks_indexed": 2202614,
         "catching_up": false,
         "data_since": "2023-11-08T20:09:48.842674Z"
     },
@@ -18,9 +18,21 @@
         "network": "cataclysm-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 2174134,
-        "blocks_indexed": 2174133,
+        "latest_block_height": 2202615,
+        "blocks_indexed": 2202614,
         "catching_up": false,
+        "data_since": "2023-11-08T20:09:48.842674Z"
+    },
+    "167.235.14.83:61657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "APPIE",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 625306,
+        "blocks_indexed": 625305,
+        "catching_up": true,
         "data_since": "2023-11-08T20:09:48.842674Z"
     }
 }
