@@ -6,22 +6,10 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 2027001,
-        "latest_block_height": 2230242,
-        "blocks_indexed": 2230241,
+        "latest_block_height": 2255307,
+        "blocks_indexed": 2255306,
         "catching_up": false,
         "data_since": "2024-01-22T19:55:09.726808861Z"
-    },
-    "174.138.180.190:60657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
-        "network": "cataclysm-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 2230242,
-        "blocks_indexed": 2230241,
-        "catching_up": false,
-        "data_since": "2023-11-08T20:09:48.842674Z"
     },
     "167.235.14.83:61657": {
         "voting_power": 0,
@@ -30,9 +18,21 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 854850,
-        "blocks_indexed": 854849,
+        "latest_block_height": 992440,
+        "blocks_indexed": 992439,
         "catching_up": true,
         "data_since": "2023-11-08T20:09:48.842674Z"
+    },
+    "144.76.29.90:60657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 2241001,
+        "latest_block_height": 2255308,
+        "blocks_indexed": 2255307,
+        "catching_up": false,
+        "data_since": "2024-01-30T10:59:07.564085179Z"
     }
 }

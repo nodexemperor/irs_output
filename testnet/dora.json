@@ -1,39 +1,27 @@
 {
-    "38.242.202.163:27657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "vota-vk",
-        "tx_index": "on",
-        "earliest_block_height": 517993,
-        "latest_block_height": 617993,
-        "blocks_indexed": 617992,
-        "catching_up": false,
-        "data_since": "2024-01-23T13:05:17.979226383Z"
-    },
     "65.109.117.219:29257": {
         "voting_power": 9009100000000000,
         "is_validator": true,
         "moniker": "moodman",
         "network": "vota-vk",
         "tx_index": "off",
-        "earliest_block_height": 517993,
-        "latest_block_height": 617993,
-        "blocks_indexed": 617992,
+        "earliest_block_height": 533390,
+        "latest_block_height": 633390,
+        "blocks_indexed": 633389,
         "catching_up": false,
-        "data_since": "2024-01-23T13:05:17.979226383Z"
+        "data_since": "2024-01-24T13:06:04.569032696Z"
     },
-    "135.181.210.171:32047": {
+    "38.242.202.163:27657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "node",
         "network": "vota-vk",
         "tx_index": "on",
-        "earliest_block_height": 314301,
-        "latest_block_height": 617970,
-        "blocks_indexed": 617969,
+        "earliest_block_height": 533390,
+        "latest_block_height": 633390,
+        "blocks_indexed": 633389,
         "catching_up": false,
-        "data_since": "2024-01-10T06:52:55.444910663Z"
+        "data_since": "2024-01-24T13:06:04.569032696Z"
     },
     "65.108.226.26:40657": {
         "voting_power": 0,
@@ -42,9 +30,21 @@
         "network": "vota-vk",
         "tx_index": "on",
         "earliest_block_height": 197001,
-        "latest_block_height": 617993,
-        "blocks_indexed": 617992,
+        "latest_block_height": 633390,
+        "blocks_indexed": 633389,
         "catching_up": false,
         "data_since": "2024-01-02T13:49:25.973850589Z"
+    },
+    "135.181.210.171:32047": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "vota-vk",
+        "tx_index": "on",
+        "earliest_block_height": 314301,
+        "latest_block_height": 633366,
+        "blocks_indexed": 633365,
+        "catching_up": false,
+        "data_since": "2024-01-10T06:52:55.444910663Z"
     }
 }
