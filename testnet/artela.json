@@ -6,22 +6,10 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 490001,
-        "latest_block_height": 1790320,
-        "blocks_indexed": 1790319,
+        "latest_block_height": 1856653,
+        "blocks_indexed": 1856652,
         "catching_up": true,
         "data_since": "2024-01-11T02:36:27.741240579Z"
-    },
-    "149.102.145.69:26657": {
-        "voting_power": 66,
-        "is_validator": true,
-        "moniker": "kenjohn",
-        "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 514446,
-        "latest_block_height": 2336424,
-        "blocks_indexed": 2336423,
-        "catching_up": false,
-        "data_since": "2024-01-11T08:21:52.521268583Z"
     },
     "65.109.33.48:45657": {
         "voting_power": 0,
@@ -35,30 +23,6 @@
         "catching_up": false,
         "data_since": "2024-01-17T11:47:57.272779101Z"
     },
-    "47.251.54.123:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "rpc4",
-        "network": "artela_11822-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2387962,
-        "blocks_indexed": 2387961,
-        "catching_up": false,
-        "data_since": "2024-01-06T11:06:55.019029934Z"
-    },
-    "50.114.185.80:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "St0lph",
-        "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 2337130,
-        "latest_block_height": 2387964,
-        "blocks_indexed": 2387963,
-        "catching_up": false,
-        "data_since": "2024-01-30T08:21:50.623326632Z"
-    },
     "43.242.96.234:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -71,28 +35,52 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "95.217.7.7:26657": {
+    "65.108.238.61:11657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "sifu",
+        "moniker": "AM Solutions Archive",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
+        "earliest_block_height": 2091001,
+        "latest_block_height": 2336424,
+        "blocks_indexed": 2336423,
         "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "data_since": "2024-01-27T15:11:51.360734582Z"
     },
-    "89.58.53.98:26657": {
+    "47.254.24.106:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "metastack",
+        "moniker": "yuan",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 1184001,
-        "latest_block_height": 1885760,
-        "blocks_indexed": 1885759,
+        "earliest_block_height": 1118001,
+        "latest_block_height": 2462971,
+        "blocks_indexed": 2462970,
         "catching_up": false,
-        "data_since": "2024-01-18T03:53:19.595009768Z"
+        "data_since": "2024-01-17T11:33:08.085298399Z"
+    },
+    "86.48.0.190:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AnatolianService",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 1593001,
+        "latest_block_height": 2336424,
+        "blocks_indexed": 2336423,
+        "catching_up": false,
+        "data_since": "2024-01-22T09:50:59.712718388Z"
+    },
+    "50.114.185.80:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "St0lph",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 2337130,
+        "latest_block_height": 2462978,
+        "blocks_indexed": 2462977,
+        "catching_up": false,
+        "data_since": "2024-01-30T08:21:50.623326632Z"
     }
 }

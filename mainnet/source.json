@@ -6,8 +6,20 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1710515,
-        "blocks_indexed": 1710514,
+        "latest_block_height": 1725779,
+        "blocks_indexed": 1725778,
+        "catching_up": false,
+        "data_since": "2023-10-01T17:43:25.352159823Z"
+    },
+    "182.42.88.202:26657": {
+        "voting_power": 5610,
+        "is_validator": true,
+        "moniker": "antennaa",
+        "network": "source-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1725803,
+        "blocks_indexed": 1725802,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -18,8 +30,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1710515,
-        "blocks_indexed": 1710514,
+        "latest_block_height": 1725778,
+        "blocks_indexed": 1725777,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -30,20 +42,20 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1710541,
-        "blocks_indexed": 1710540,
+        "latest_block_height": 1725803,
+        "blocks_indexed": 1725802,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
     "65.21.57.72:26657": {
-        "voting_power": 133164,
+        "voting_power": 133599,
         "is_validator": true,
         "moniker": "WellNode",
         "network": "source-1",
         "tx_index": "off",
         "earliest_block_height": 1675851,
-        "latest_block_height": 1710516,
-        "blocks_indexed": 1710515,
+        "latest_block_height": 1725804,
+        "blocks_indexed": 1725803,
         "catching_up": false,
         "data_since": "2024-01-28T18:29:09.194497769Z"
     },
@@ -53,23 +65,11 @@
         "moniker": "STAVR-Service",
         "network": "source-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "182.42.88.202:26657": {
-        "voting_power": 5610,
-        "is_validator": true,
-        "moniker": "antennaa",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1710540,
-        "blocks_indexed": 1710539,
+        "earliest_block_height": 1724001,
+        "latest_block_height": 1725804,
+        "blocks_indexed": 1725803,
         "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
+        "data_since": "2024-01-31T22:29:34.680550798Z"
     },
     "101.91.119.133:26657": {
         "voting_power": 151553,
@@ -78,8 +78,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1710540,
-        "blocks_indexed": 1710539,
+        "latest_block_height": 1725803,
+        "blocks_indexed": 1725802,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     }
