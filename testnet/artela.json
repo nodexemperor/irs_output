@@ -6,10 +6,22 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 490001,
-        "latest_block_height": 1856653,
-        "blocks_indexed": 1856652,
+        "latest_block_height": 1915051,
+        "blocks_indexed": 1915050,
         "catching_up": true,
         "data_since": "2024-01-11T02:36:27.741240579Z"
+    },
+    "147.45.41.63:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "0x4e12d870e0e841577a1d6ea08898b44cB1D0681C",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 2409118,
+        "latest_block_height": 2541348,
+        "blocks_indexed": 2541347,
+        "catching_up": true,
+        "data_since": "2024-01-31T08:21:48.738271158Z"
     },
     "65.109.33.48:45657": {
         "voting_power": 0,
@@ -47,17 +59,41 @@
         "catching_up": true,
         "data_since": "2024-01-27T15:11:51.360734582Z"
     },
-    "47.254.24.106:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "yuan",
+    "165.154.224.44:26657": {
+        "voting_power": 9000,
+        "is_validator": true,
+        "moniker": "HashKey Cloud",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 1118001,
-        "latest_block_height": 2462971,
-        "blocks_indexed": 2462970,
+        "earliest_block_height": 604001,
+        "latest_block_height": 2544173,
+        "blocks_indexed": 2544172,
         "catching_up": false,
-        "data_since": "2024-01-17T11:33:08.085298399Z"
+        "data_since": "2024-01-12T05:51:54.663360996Z"
+    },
+    "65.109.82.106:23457": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "2XS",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 717001,
+        "latest_block_height": 2544175,
+        "blocks_indexed": 2544174,
+        "catching_up": false,
+        "data_since": "2024-01-13T09:25:06.459379933Z"
+    },
+    "47.88.57.107:26657": {
+        "voting_power": 30000100,
+        "is_validator": true,
+        "moniker": "node0",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2544176,
+        "blocks_indexed": 2544175,
+        "catching_up": false,
+        "data_since": "2024-01-06T11:06:55.019029934Z"
     },
     "86.48.0.190:26657": {
         "voting_power": 0,
@@ -68,19 +104,55 @@
         "earliest_block_height": 1593001,
         "latest_block_height": 2336424,
         "blocks_indexed": 2336423,
-        "catching_up": false,
+        "catching_up": true,
         "data_since": "2024-01-22T09:50:59.712718388Z"
     },
-    "50.114.185.80:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "St0lph",
+    "84.247.188.187:26657": {
+        "voting_power": 66,
+        "is_validator": true,
+        "moniker": "HaloNode",
         "network": "artela_11822-1",
         "tx_index": "off",
-        "earliest_block_height": 2337130,
-        "latest_block_height": 2462978,
-        "blocks_indexed": 2462977,
+        "earliest_block_height": 1908001,
+        "latest_block_height": 2544184,
+        "blocks_indexed": 2544183,
         "catching_up": false,
-        "data_since": "2024-01-30T08:21:50.623326632Z"
+        "data_since": "2024-01-25T17:18:22.986727338Z"
+    },
+    "84.247.133.116:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ZZZZZVAL",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1672001,
+        "latest_block_height": 2336424,
+        "blocks_indexed": 2336423,
+        "catching_up": false,
+        "data_since": "2024-01-23T05:43:30.608270193Z"
+    },
+    "47.251.54.123:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "rpc4",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2544186,
+        "blocks_indexed": 2544185,
+        "catching_up": false,
+        "data_since": "2024-01-06T11:06:55.019029934Z"
+    },
+    "47.88.58.36:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "jerry",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1114001,
+        "latest_block_height": 2541205,
+        "blocks_indexed": 2541204,
+        "catching_up": false,
+        "data_since": "2024-01-17T10:33:56.925504213Z"
     }
 }

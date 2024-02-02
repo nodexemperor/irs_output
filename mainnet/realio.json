@@ -1,52 +1,4 @@
 {
-    "157.245.8.211:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Realio",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 4840801,
-        "latest_block_height": 4990567,
-        "blocks_indexed": 4990566,
-        "catching_up": false,
-        "data_since": "2024-01-22T20:52:03.247765123Z"
-    },
-    "173.249.59.70:32657": {
-        "voting_power": 113069,
-        "is_validator": true,
-        "moniker": "moodman",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 4890541,
-        "latest_block_height": 4990541,
-        "blocks_indexed": 4990540,
-        "catching_up": false,
-        "data_since": "2024-01-25T22:08:14.383292255Z"
-    },
-    "95.168.173.33:33657": {
-        "voting_power": 66448,
-        "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 4990568,
-        "blocks_indexed": 4990567,
-        "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
-    },
-    "65.21.90.141:12261": {
-        "voting_power": 88878,
-        "is_validator": true,
-        "moniker": "SerGo",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 4890567,
-        "latest_block_height": 4990567,
-        "blocks_indexed": 4990566,
-        "catching_up": false,
-        "data_since": "2024-01-25T22:10:34.253434593Z"
-    },
     "135.181.210.171:21097": {
         "voting_power": 0,
         "is_validator": false,
@@ -54,10 +6,46 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4747001,
-        "latest_block_height": 4990567,
-        "blocks_indexed": 4990566,
+        "latest_block_height": 5006899,
+        "blocks_indexed": 5006898,
         "catching_up": false,
         "data_since": "2024-01-17T03:12:30.753831829Z"
+    },
+    "173.249.59.70:32657": {
+        "voting_power": 113069,
+        "is_validator": true,
+        "moniker": "moodman",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 4906872,
+        "latest_block_height": 5006872,
+        "blocks_indexed": 5006871,
+        "catching_up": false,
+        "data_since": "2024-01-26T22:12:21.948489109Z"
+    },
+    "157.230.226.22:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Realio Network RPC",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5006873,
+        "blocks_indexed": 5006872,
+        "catching_up": false,
+        "data_since": "2023-04-07T17:00:00Z"
+    },
+    "65.21.90.141:12261": {
+        "voting_power": 88878,
+        "is_validator": true,
+        "moniker": "SerGo",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 4906898,
+        "latest_block_height": 5006898,
+        "blocks_indexed": 5006897,
+        "catching_up": false,
+        "data_since": "2024-01-26T22:14:37.37704969Z"
     },
     "158.69.27.233:25657": {
         "voting_power": 0,
@@ -66,10 +54,22 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4224001,
-        "latest_block_height": 4990568,
-        "blocks_indexed": 4990567,
+        "latest_block_height": 5006899,
+        "blocks_indexed": 5006898,
         "catching_up": false,
         "data_since": "2023-12-16T08:31:11.302095326Z"
+    },
+    "95.168.173.33:33657": {
+        "voting_power": 66851,
+        "is_validator": true,
+        "moniker": "RIO-mainnet-prod",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3944101,
+        "latest_block_height": 5006899,
+        "blocks_indexed": 5006898,
+        "catching_up": false,
+        "data_since": "2023-11-29T13:55:55.686670609Z"
     },
     "46.17.250.108:56657": {
         "voting_power": 129064,
@@ -78,8 +78,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4639101,
-        "latest_block_height": 4990568,
-        "blocks_indexed": 4990567,
+        "latest_block_height": 5006899,
+        "blocks_indexed": 5006898,
         "catching_up": false,
         "data_since": "2024-01-10T12:54:43.535684957Z"
     }
