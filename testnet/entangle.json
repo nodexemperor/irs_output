@@ -1,16 +1,4 @@
 {
-    "148.251.235.130:14657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 660801,
-        "latest_block_height": 1988039,
-        "blocks_indexed": 1988038,
-        "catching_up": false,
-        "data_since": "2023-11-18T13:57:02.963621613Z"
-    },
     "136.243.33.177:26657": {
         "voting_power": 123694976944316,
         "is_validator": true,
@@ -18,21 +6,57 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 660001,
-        "latest_block_height": 1988039,
-        "blocks_indexed": 1988038,
+        "latest_block_height": 1990416,
+        "blocks_indexed": 1990415,
         "catching_up": false,
         "data_since": "2023-11-18T12:49:14.960294528Z"
     },
+    "148.251.235.130:14657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 660801,
+        "latest_block_height": 1990416,
+        "blocks_indexed": 1990415,
+        "catching_up": false,
+        "data_since": "2023-11-18T13:57:02.963621613Z"
+    },
     "149.102.146.157:17157": {
-        "voting_power": 477135783200301,
+        "voting_power": 477140539434549,
         "is_validator": true,
         "moniker": "warren4",
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1958001,
-        "latest_block_height": 1988039,
-        "blocks_indexed": 1988038,
+        "latest_block_height": 1990416,
+        "blocks_indexed": 1990415,
         "catching_up": false,
         "data_since": "2024-02-01T05:17:16.451016851Z"
+    },
+    "89.117.63.35:14257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "VTB-ENTANGLE",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 1162001,
+        "latest_block_height": 1990416,
+        "blocks_indexed": 1990415,
+        "catching_up": false,
+        "data_since": "2023-12-17T05:12:17.926639602Z"
+    },
+    "34.118.79.149:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "validator",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1990416,
+        "blocks_indexed": 1990415,
+        "catching_up": false,
+        "data_since": "2023-07-06T15:27:04.171971353Z"
     }
 }
