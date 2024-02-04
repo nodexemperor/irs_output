@@ -1,16 +1,4 @@
 {
-    "136.243.33.177:26657": {
-        "voting_power": 123694976944316,
-        "is_validator": true,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 660001,
-        "latest_block_height": 1990416,
-        "blocks_indexed": 1990415,
-        "catching_up": false,
-        "data_since": "2023-11-18T12:49:14.960294528Z"
-    },
     "148.251.235.130:14657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,20 +6,32 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 660801,
-        "latest_block_height": 1990416,
-        "blocks_indexed": 1990415,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
         "catching_up": false,
         "data_since": "2023-11-18T13:57:02.963621613Z"
     },
+    "136.243.33.177:26657": {
+        "voting_power": 124318967955615,
+        "is_validator": true,
+        "moniker": "Staketab",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 660001,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
+        "catching_up": false,
+        "data_since": "2023-11-18T12:49:14.960294528Z"
+    },
     "149.102.146.157:17157": {
-        "voting_power": 477140539434549,
+        "voting_power": 477172649290426,
         "is_validator": true,
         "moniker": "warren4",
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1958001,
-        "latest_block_height": 1990416,
-        "blocks_indexed": 1990415,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
         "catching_up": false,
         "data_since": "2024-02-01T05:17:16.451016851Z"
     },
@@ -42,10 +42,22 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 1162001,
-        "latest_block_height": 1990416,
-        "blocks_indexed": 1990415,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
         "catching_up": false,
         "data_since": "2023-12-17T05:12:17.926639602Z"
+    },
+    "167.235.14.83:14657": {
+        "voting_power": 43682191868197074,
+        "is_validator": true,
+        "moniker": "Appieasahbie",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 1716001,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
+        "catching_up": false,
+        "data_since": "2024-01-16T16:09:51.065703071Z"
     },
     "34.118.79.149:26657": {
         "voting_power": 0,
@@ -54,9 +66,21 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1990416,
-        "blocks_indexed": 1990415,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "65.109.82.17:12357": {
+        "voting_power": 461441271597170,
+        "is_validator": true,
+        "moniker": "ruangnode",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 1312001,
+        "latest_block_height": 2007713,
+        "blocks_indexed": 2007712,
+        "catching_up": false,
+        "data_since": "2023-12-25T10:05:09.429057566Z"
     }
 }
