@@ -1,52 +1,4 @@
 {
-    "147.135.138.180:26727": {
-        "voting_power": 744728,
-        "is_validator": true,
-        "moniker": "CryptoNet",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 7193472,
-        "latest_block_height": 7315337,
-        "blocks_indexed": 7315336,
-        "catching_up": false,
-        "data_since": "2024-01-27T09:29:02.11241401Z"
-    },
-    "185.190.140.93:14657": {
-        "voting_power": 632634,
-        "is_validator": true,
-        "moniker": "geonodes",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 1763655,
-        "latest_block_height": 7315338,
-        "blocks_indexed": 7315337,
-        "catching_up": false,
-        "data_since": "2023-03-09T16:11:22.898121806Z"
-    },
-    "95.217.16.83:34657": {
-        "voting_power": 14536,
-        "is_validator": true,
-        "moniker": "MONIKER",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7240001,
-        "latest_block_height": 7315289,
-        "blocks_indexed": 7315288,
-        "catching_up": false,
-        "data_since": "2024-01-30T07:19:06.369207187Z"
-    },
-    "192.99.160.197:13657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BACKUP_PLANQ",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 7314001,
-        "latest_block_height": 7314123,
-        "blocks_indexed": 7314122,
-        "catching_up": true,
-        "data_since": "2024-02-03T22:57:49.666038602Z"
-    },
     "65.108.66.174:31657": {
         "voting_power": 0,
         "is_validator": false,
@@ -54,10 +6,46 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 6064001,
-        "latest_block_height": 7315338,
-        "blocks_indexed": 7315337,
+        "latest_block_height": 7331194,
+        "blocks_indexed": 7331193,
         "catching_up": false,
         "data_since": "2023-11-18T16:45:41.465857446Z"
+    },
+    "147.135.138.180:26727": {
+        "voting_power": 745289,
+        "is_validator": true,
+        "moniker": "CryptoNet",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 7193472,
+        "latest_block_height": 7331194,
+        "blocks_indexed": 7331193,
+        "catching_up": false,
+        "data_since": "2024-01-27T09:29:02.11241401Z"
+    },
+    "185.190.140.93:14657": {
+        "voting_power": 632674,
+        "is_validator": true,
+        "moniker": "geonodes",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 1763655,
+        "latest_block_height": 7331194,
+        "blocks_indexed": 7331193,
+        "catching_up": false,
+        "data_since": "2023-03-09T16:11:22.898121806Z"
+    },
+    "95.217.16.83:34657": {
+        "voting_power": 14739,
+        "is_validator": true,
+        "moniker": "MONIKER",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 7240001,
+        "latest_block_height": 7331143,
+        "blocks_indexed": 7331142,
+        "catching_up": false,
+        "data_since": "2024-01-30T07:19:06.369207187Z"
     },
     "66.45.246.166:1077": {
         "voting_power": 0,
@@ -65,10 +53,22 @@
         "moniker": "STAVR-Service",
         "network": "planq_7070-2",
         "tx_index": "on",
-        "earliest_block_height": 7315001,
-        "latest_block_height": 7315338,
-        "blocks_indexed": 7315337,
+        "earliest_block_height": 7328501,
+        "latest_block_height": 7331194,
+        "blocks_indexed": 7331193,
         "catching_up": false,
-        "data_since": "2024-02-04T00:28:22.56764096Z"
+        "data_since": "2024-02-04T20:52:05.084729709Z"
+    },
+    "192.99.160.197:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BACKUP_PLANQ",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 7330501,
+        "latest_block_height": 7330679,
+        "blocks_indexed": 7330678,
+        "catching_up": true,
+        "data_since": "2024-02-04T23:53:36.478390397Z"
     }
 }
