@@ -6,8 +6,8 @@
         "network": "cascadia_11029-1",
         "tx_index": "on",
         "earliest_block_height": 180943,
-        "latest_block_height": 1484223,
-        "blocks_indexed": 1484222,
+        "latest_block_height": 1509463,
+        "blocks_indexed": 1509462,
         "catching_up": false,
         "data_since": "2023-12-07T01:30:18.909277028Z"
     },
@@ -18,8 +18,8 @@
         "network": "cascadia_11029-1",
         "tx_index": "on",
         "earliest_block_height": 1244973,
-        "latest_block_height": 1484224,
-        "blocks_indexed": 1484223,
+        "latest_block_height": 1509464,
+        "blocks_indexed": 1509463,
         "catching_up": false,
         "data_since": "2024-01-24T23:11:04.209850266Z"
     },
@@ -30,22 +30,10 @@
         "network": "cascadia_11029-1",
         "tx_index": "off",
         "earliest_block_height": 169943,
-        "latest_block_height": 1484224,
-        "blocks_indexed": 1484223,
+        "latest_block_height": 1509464,
+        "blocks_indexed": 1509463,
         "catching_up": false,
         "data_since": "2023-12-06T13:42:52.696743954Z"
-    },
-    "65.109.93.152:35657": {
-        "voting_power": 67948,
-        "is_validator": true,
-        "moniker": "AlxVoy",
-        "network": "cascadia_11029-1",
-        "tx_index": "on",
-        "earliest_block_height": 987943,
-        "latest_block_height": 1484224,
-        "blocks_indexed": 1484223,
-        "catching_up": false,
-        "data_since": "2024-01-13T06:54:59.925781277Z"
     },
     "206.221.176.90:21657": {
         "voting_power": 1,
@@ -54,9 +42,21 @@
         "network": "cascadia_11029-1",
         "tx_index": "on",
         "earliest_block_height": 275001,
-        "latest_block_height": 1484224,
-        "blocks_indexed": 1484223,
+        "latest_block_height": 1509464,
+        "blocks_indexed": 1509463,
         "catching_up": false,
         "data_since": "2023-12-11T10:37:25.808797282Z"
+    },
+    "65.109.93.152:35657": {
+        "voting_power": 67948,
+        "is_validator": true,
+        "moniker": "AlxVoy",
+        "network": "cascadia_11029-1",
+        "tx_index": "on",
+        "earliest_block_height": 987943,
+        "latest_block_height": 1509464,
+        "blocks_indexed": 1509463,
+        "catching_up": false,
+        "data_since": "2024-01-13T06:54:59.925781277Z"
     }
 }
