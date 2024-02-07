@@ -1,27 +1,51 @@
 {
-    "86.48.0.190:26657": {
+    "167.86.93.193:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "AnatolianService",
-        "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 1593001,
-        "latest_block_height": 2336424,
-        "blocks_indexed": 2336423,
-        "catching_up": true,
-        "data_since": "2024-01-22T09:50:59.712718388Z"
-    },
-    "43.242.96.234:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "OpenBuild",
+        "moniker": "p10node",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
+        "earliest_block_height": 490001,
+        "latest_block_height": 2206653,
+        "blocks_indexed": 2206652,
         "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "data_since": "2024-01-11T02:36:27.741240579Z"
+    },
+    "47.251.14.108:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "rpc1",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2830919,
+        "blocks_indexed": 2830918,
+        "catching_up": false,
+        "data_since": "2024-01-06T11:06:55.019029934Z"
+    },
+    "47.254.24.106:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "yuan",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 1118001,
+        "latest_block_height": 2830919,
+        "blocks_indexed": 2830918,
+        "catching_up": false,
+        "data_since": "2024-01-17T11:33:08.085298399Z"
+    },
+    "157.90.226.23:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Crypton",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 2830919,
+        "blocks_indexed": 2830918,
+        "catching_up": false,
+        "data_since": "2024-01-06T11:06:55.019029934Z"
     },
     "84.247.133.116:26657": {
         "voting_power": 0,
@@ -35,6 +59,18 @@
         "catching_up": false,
         "data_since": "2024-01-23T05:43:30.608270193Z"
     },
+    "43.242.96.234:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "OpenBuild",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
     "47.88.58.36:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -42,58 +78,34 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 1114001,
-        "latest_block_height": 2796582,
-        "blocks_indexed": 2796581,
+        "latest_block_height": 2830924,
+        "blocks_indexed": 2830923,
         "catching_up": false,
         "data_since": "2024-01-17T10:33:56.925504213Z"
     },
-    "47.251.14.47:26657": {
+    "50.114.185.80:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "rpc1",
+        "moniker": "St0lph",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2796579,
-        "blocks_indexed": 2796578,
+        "earliest_block_height": 2682001,
+        "latest_block_height": 2830922,
+        "blocks_indexed": 2830921,
         "catching_up": false,
-        "data_since": "2024-01-06T11:06:55.019029934Z"
+        "data_since": "2024-02-03T20:17:58.077047226Z"
     },
-    "165.154.224.44:26657": {
-        "voting_power": 20009000,
-        "is_validator": true,
-        "moniker": "HashKey Cloud",
-        "network": "artela_11822-1",
-        "tx_index": "on",
-        "earliest_block_height": 604001,
-        "latest_block_height": 2796579,
-        "blocks_indexed": 2796578,
-        "catching_up": false,
-        "data_since": "2024-01-12T05:51:54.663360996Z"
-    },
-    "84.247.172.100:45657": {
+    "86.48.0.190:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "brkc",
+        "moniker": "AnatolianService",
         "network": "artela_11822-1",
         "tx_index": "off",
-        "earliest_block_height": 987001,
-        "latest_block_height": 2796580,
-        "blocks_indexed": 2796579,
-        "catching_up": false,
-        "data_since": "2024-01-16T03:17:34.206657017Z"
-    },
-    "167.86.93.193:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "p10node",
-        "network": "artela_11822-1",
-        "tx_index": "on",
-        "earliest_block_height": 490001,
-        "latest_block_height": 2145574,
-        "blocks_indexed": 2145573,
+        "earliest_block_height": 1593001,
+        "latest_block_height": 2336424,
+        "blocks_indexed": 2336423,
         "catching_up": true,
-        "data_since": "2024-01-11T02:36:27.741240579Z"
+        "data_since": "2024-01-22T09:50:59.712718388Z"
     },
     "84.247.188.187:26657": {
         "voting_power": 99,
@@ -102,9 +114,21 @@
         "network": "artela_11822-1",
         "tx_index": "off",
         "earliest_block_height": 1908001,
-        "latest_block_height": 2796583,
-        "blocks_indexed": 2796582,
+        "latest_block_height": 2830924,
+        "blocks_indexed": 2830923,
         "catching_up": false,
         "data_since": "2024-01-25T17:18:22.986727338Z"
+    },
+    "65.109.82.106:23457": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "2XS",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 717001,
+        "latest_block_height": 2830924,
+        "blocks_indexed": 2830923,
+        "catching_up": false,
+        "data_since": "2024-01-13T09:25:06.459379933Z"
     }
 }

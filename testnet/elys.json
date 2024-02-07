@@ -1,4 +1,16 @@
 {
+    "46.4.102.40:11002": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "CryptoSJnet",
+        "network": "elystestnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4122965,
+        "latest_block_height": 5620832,
+        "blocks_indexed": 5620831,
+        "catching_up": true,
+        "data_since": "2023-11-28T11:29:17.663041927Z"
+    },
     "95.217.107.96:26157": {
         "voting_power": 33598,
         "is_validator": true,
@@ -6,8 +18,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 5297501,
-        "latest_block_height": 5692669,
-        "blocks_indexed": 5692668,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
         "catching_up": false,
         "data_since": "2024-01-19T00:11:34.334359023Z"
     },
@@ -18,8 +30,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5692669,
-        "blocks_indexed": 5692668,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
         "catching_up": false,
         "data_since": "2023-04-10T18:42:34Z"
     },
@@ -29,11 +41,11 @@
         "moniker": "Pro-Nodes75",
         "network": "elystestnet-1",
         "tx_index": "on",
-        "earliest_block_height": 5592670,
-        "latest_block_height": 5692670,
-        "blocks_indexed": 5692669,
+        "earliest_block_height": 5615542,
+        "latest_block_height": 5715543,
+        "blocks_indexed": 5715542,
         "catching_up": false,
-        "data_since": "2024-02-01T02:47:43.68151083Z"
+        "data_since": "2024-02-02T03:57:37.613925408Z"
     },
     "78.110.161.69:26657": {
         "voting_power": 42002,
@@ -42,22 +54,10 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5692670,
-        "blocks_indexed": 5692669,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
         "catching_up": false,
         "data_since": "2023-04-10T18:42:34Z"
-    },
-    "5.189.151.202:26667": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "AviaDoc",
-        "network": "elystestnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 5689501,
-        "latest_block_height": 5692669,
-        "blocks_indexed": 5692668,
-        "catching_up": false,
-        "data_since": "2024-02-05T22:24:50.823498595Z"
     },
     "78.46.103.246:36657": {
         "voting_power": 38867,
@@ -66,8 +66,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 5068161,
-        "latest_block_height": 5692670,
-        "blocks_indexed": 5692669,
+        "latest_block_height": 5715542,
+        "blocks_indexed": 5715541,
         "catching_up": false,
         "data_since": "2024-01-09T00:18:13.31427053Z"
     },
@@ -78,8 +78,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5692670,
-        "blocks_indexed": 5692669,
+        "latest_block_height": 5715542,
+        "blocks_indexed": 5715541,
         "catching_up": false,
         "data_since": "2023-04-10T18:42:34Z"
     },
@@ -90,8 +90,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 1637501,
-        "latest_block_height": 5692669,
-        "blocks_indexed": 5692668,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
         "catching_up": false,
         "data_since": "2023-07-17T13:38:14.371480845Z"
     },
@@ -102,8 +102,8 @@
         "network": "elystestnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5692667,
-        "blocks_indexed": 5692666,
+        "latest_block_height": 5715540,
+        "blocks_indexed": 5715539,
         "catching_up": false,
         "data_since": "2023-04-10T18:42:34Z"
     },
@@ -114,9 +114,21 @@
         "network": "elystestnet-1",
         "tx_index": "off",
         "earliest_block_height": 5556001,
-        "latest_block_height": 5692669,
-        "blocks_indexed": 5692668,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
         "catching_up": false,
         "data_since": "2024-01-30T12:13:16.675618289Z"
+    },
+    "5.189.151.202:26667": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AviaDoc",
+        "network": "elystestnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 5712501,
+        "latest_block_height": 5715541,
+        "blocks_indexed": 5715540,
+        "catching_up": false,
+        "data_since": "2024-02-06T22:25:15.547540053Z"
     }
 }
