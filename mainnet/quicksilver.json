@@ -1,16 +1,4 @@
 {
-    "65.108.195.29:31127": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 5705001,
-        "latest_block_height": 5855324,
-        "blocks_indexed": 5855323,
-        "catching_up": false,
-        "data_since": "2024-01-27T22:04:23.769890819Z"
-    },
     "116.202.217.20:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,9 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5581001,
-        "latest_block_height": 5853332,
-        "blocks_indexed": 5853331,
-        "catching_up": true,
+        "latest_block_height": 5870068,
+        "blocks_indexed": 5870067,
+        "catching_up": false,
         "data_since": "2024-01-19T13:54:56.775490867Z"
     },
     "51.68.170.145:26657": {
@@ -30,8 +18,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5815350,
-        "latest_block_height": 5855324,
-        "blocks_indexed": 5855323,
+        "latest_block_height": 5870065,
+        "blocks_indexed": 5870064,
         "catching_up": false,
         "data_since": "2024-02-04T08:13:50.394847432Z"
     },
@@ -42,8 +30,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5434601,
-        "latest_block_height": 5855324,
-        "blocks_indexed": 5855323,
+        "latest_block_height": 5870065,
+        "blocks_indexed": 5870064,
         "catching_up": false,
         "data_since": "2024-01-09T17:07:48.954069786Z"
     },
@@ -66,8 +54,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5799001,
-        "latest_block_height": 5855329,
-        "blocks_indexed": 5855328,
+        "latest_block_height": 5870069,
+        "blocks_indexed": 5870068,
         "catching_up": false,
         "data_since": "2024-02-03T05:54:12.964278565Z"
     },
@@ -90,8 +78,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5743301,
-        "latest_block_height": 5855325,
-        "blocks_indexed": 5855324,
+        "latest_block_height": 5870066,
+        "blocks_indexed": 5870065,
         "catching_up": false,
         "data_since": "2024-01-30T12:03:33.415103712Z"
     },
@@ -102,8 +90,8 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 5855328,
-        "blocks_indexed": 5855327,
+        "latest_block_height": 5870068,
+        "blocks_indexed": 5870067,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
     },
@@ -114,8 +102,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5807001,
-        "latest_block_height": 5855325,
-        "blocks_indexed": 5855324,
+        "latest_block_height": 5870067,
+        "blocks_indexed": 5870066,
         "catching_up": false,
         "data_since": "2024-02-03T18:47:11.937754564Z"
     },
@@ -126,22 +114,34 @@
         "network": "dymension_1100-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6723,
-        "blocks_indexed": 6722,
+        "latest_block_height": 21165,
+        "blocks_indexed": 21164,
         "catching_up": false,
         "data_since": "2024-02-06T12:00:00Z"
     },
-    "75.119.144.167:26657": {
+    "65.108.195.29:31127": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "mahof",
+        "moniker": "Staketab-snap",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 5705001,
+        "latest_block_height": 5870070,
+        "blocks_indexed": 5870069,
+        "catching_up": false,
+        "data_since": "2024-01-27T22:04:23.769890819Z"
+    },
+    "161.97.82.203:26257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Fort",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5654794,
-        "latest_block_height": 5855329,
-        "blocks_indexed": 5855328,
+        "earliest_block_height": 5863421,
+        "latest_block_height": 5870068,
+        "blocks_indexed": 5870067,
         "catching_up": false,
-        "data_since": "2024-01-24T12:58:52.442535209Z"
+        "data_since": "2024-02-07T14:13:54.207366942Z"
     },
     "135.181.210.171:21027": {
         "voting_power": 0,
@@ -149,10 +149,10 @@
         "moniker": "STAVR-Service",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5853701,
-        "latest_block_height": 5855329,
-        "blocks_indexed": 5855328,
-        "catching_up": false,
-        "data_since": "2024-02-06T22:25:58.702893953Z"
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }

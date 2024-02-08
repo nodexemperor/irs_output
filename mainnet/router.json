@@ -6,8 +6,8 @@
         "network": "router_9600-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3224854,
-        "blocks_indexed": 3224853,
+        "latest_block_height": 3256924,
+        "blocks_indexed": 3256923,
         "catching_up": false,
         "data_since": "2023-11-30T11:40:25.059847Z"
     },
@@ -18,10 +18,22 @@
         "network": "router_9600-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3224853,
-        "blocks_indexed": 3224852,
+        "latest_block_height": 3256925,
+        "blocks_indexed": 3256924,
         "catching_up": false,
         "data_since": "2023-11-30T11:40:25.059847Z"
+    },
+    "34.93.217.50:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "router",
+        "network": "router_9600-1",
+        "tx_index": "on",
+        "earliest_block_height": 3156924,
+        "latest_block_height": 3256924,
+        "blocks_indexed": 3256923,
+        "catching_up": false,
+        "data_since": "2024-02-04T22:17:13.280987272Z"
     },
     "3.145.186.251:26657": {
         "voting_power": 0,
@@ -29,10 +41,22 @@
         "moniker": "1",
         "network": "router_9600-1",
         "tx_index": "on",
-        "earliest_block_height": 3199477,
-        "latest_block_height": 3224853,
-        "blocks_indexed": 3224852,
+        "earliest_block_height": 3231477,
+        "latest_block_height": 3256923,
+        "blocks_indexed": 3256922,
         "catching_up": false,
-        "data_since": "2024-02-06T06:09:05.503260678Z"
+        "data_since": "2024-02-07T06:06:54.012369573Z"
+    },
+    "35.246.54.107:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "1",
+        "network": "router_9600-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3256925,
+        "blocks_indexed": 3256924,
+        "catching_up": false,
+        "data_since": "2023-11-30T11:40:25.059847Z"
     }
 }

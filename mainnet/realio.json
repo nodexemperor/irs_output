@@ -6,46 +6,34 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4224001,
-        "latest_block_height": 5088144,
-        "blocks_indexed": 5088143,
+        "latest_block_height": 5104326,
+        "blocks_indexed": 5104325,
         "catching_up": false,
         "data_since": "2023-12-16T08:31:11.302095326Z"
     },
     "95.168.173.33:33657": {
-        "voting_power": 67125,
+        "voting_power": 68306,
         "is_validator": true,
         "moniker": "RIO-mainnet-prod",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 3944101,
-        "latest_block_height": 5088144,
-        "blocks_indexed": 5088143,
+        "latest_block_height": 5104326,
+        "blocks_indexed": 5104325,
         "catching_up": false,
         "data_since": "2023-11-29T13:55:55.686670609Z"
     },
-    "46.17.250.108:56657": {
-        "voting_power": 129852,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 5047701,
-        "latest_block_height": 5088144,
-        "blocks_indexed": 5088143,
-        "catching_up": false,
-        "data_since": "2024-02-04T13:16:53.492913382Z"
-    },
     "173.249.59.70:32657": {
-        "voting_power": 113069,
+        "voting_power": 113169,
         "is_validator": true,
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4988120,
-        "latest_block_height": 5088120,
-        "blocks_indexed": 5088119,
+        "earliest_block_height": 5004301,
+        "latest_block_height": 5104301,
+        "blocks_indexed": 5104300,
         "catching_up": false,
-        "data_since": "2024-01-31T21:34:32.911292746Z"
+        "data_since": "2024-02-01T21:17:14.397823443Z"
     },
     "157.230.226.22:26657": {
         "voting_power": 0,
@@ -54,8 +42,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5088095,
-        "blocks_indexed": 5088094,
+        "latest_block_height": 5104275,
+        "blocks_indexed": 5104274,
         "catching_up": false,
         "data_since": "2023-04-07T17:00:00Z"
     },
@@ -65,11 +53,23 @@
         "moniker": "SerGo",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 4988144,
-        "latest_block_height": 5088144,
-        "blocks_indexed": 5088143,
+        "earliest_block_height": 5004326,
+        "latest_block_height": 5104326,
+        "blocks_indexed": 5104325,
         "catching_up": false,
-        "data_since": "2024-01-31T21:36:37.760091989Z"
+        "data_since": "2024-02-01T21:19:28.362615188Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 130016,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 5047701,
+        "latest_block_height": 5104327,
+        "blocks_indexed": 5104326,
+        "catching_up": false,
+        "data_since": "2024-02-04T13:16:53.492913382Z"
     },
     "135.181.210.171:21097": {
         "voting_power": 0,
@@ -78,9 +78,21 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 4747001,
-        "latest_block_height": 5088144,
-        "blocks_indexed": 5088143,
+        "latest_block_height": 5104327,
+        "blocks_indexed": 5104326,
         "catching_up": false,
         "data_since": "2024-01-17T03:12:30.753831829Z"
+    },
+    "65.108.41.177:29657": {
+        "voting_power": 407206,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 5095001,
+        "latest_block_height": 5104326,
+        "blocks_indexed": 5104325,
+        "catching_up": false,
+        "data_since": "2024-02-07T11:22:16.916426932Z"
     }
 }
