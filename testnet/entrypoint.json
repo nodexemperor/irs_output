@@ -6,8 +6,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1683400,
-        "blocks_indexed": 1683399,
+        "latest_block_height": 1713605,
+        "blocks_indexed": 1713604,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1683400,
-        "blocks_indexed": 1683399,
+        "latest_block_height": 1713605,
+        "blocks_indexed": 1713604,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -29,10 +29,22 @@
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 1583401,
-        "latest_block_height": 1683401,
-        "blocks_indexed": 1683400,
+        "earliest_block_height": 1613605,
+        "latest_block_height": 1713605,
+        "blocks_indexed": 1713604,
         "catching_up": false,
-        "data_since": "2024-02-03T10:21:29.257168453Z"
+        "data_since": "2024-02-05T10:22:21.124636039Z"
+    },
+    "89.163.231.23:12957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ERP",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 1584001,
+        "latest_block_height": 1713606,
+        "blocks_indexed": 1713605,
+        "catching_up": false,
+        "data_since": "2024-02-03T11:18:58.923298587Z"
     }
 }

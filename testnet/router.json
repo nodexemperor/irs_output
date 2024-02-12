@@ -6,8 +6,20 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7223398,
-        "blocks_indexed": 7223397,
+        "latest_block_height": 7334089,
+        "blocks_indexed": 7334088,
+        "catching_up": false,
+        "data_since": "2023-08-24T07:56:17.315103Z"
+    },
+    "15.206.157.168:26657": {
+        "voting_power": 3320858,
+        "is_validator": true,
+        "moniker": "node1",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 7334090,
+        "blocks_indexed": 7334089,
         "catching_up": false,
         "data_since": "2023-08-24T07:56:17.315103Z"
     },
@@ -18,22 +30,10 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 7223400,
-        "blocks_indexed": 7223399,
+        "latest_block_height": 7334088,
+        "blocks_indexed": 7334087,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
-    },
-    "15.206.157.168:26657": {
-        "voting_power": 3320858,
-        "is_validator": true,
-        "moniker": "node1",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 7223400,
-        "blocks_indexed": 7223399,
-        "catching_up": false,
-        "data_since": "2023-08-24T07:56:17.315103Z"
     },
     "13.235.115.79:26657": {
         "voting_power": 1197692,
@@ -41,10 +41,10 @@
         "moniker": "node0",
         "network": "router_9601-1",
         "tx_index": "on",
-        "earliest_block_height": 7123394,
-        "latest_block_height": 7223394,
-        "blocks_indexed": 7223393,
+        "earliest_block_height": 7234085,
+        "latest_block_height": 7334085,
+        "blocks_indexed": 7334084,
         "catching_up": false,
-        "data_since": "2024-02-08T06:00:52.062592448Z"
+        "data_since": "2024-02-10T06:43:01.362655524Z"
     }
 }

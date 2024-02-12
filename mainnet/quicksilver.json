@@ -6,22 +6,22 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5581001,
-        "latest_block_height": 5899392,
-        "blocks_indexed": 5899391,
+        "latest_block_height": 5928728,
+        "blocks_indexed": 5928727,
         "catching_up": false,
         "data_since": "2024-01-19T13:54:56.775490867Z"
     },
-    "51.68.170.145:26657": {
+    "142.132.136.106:22657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "openbitlab",
+        "moniker": "SERVICES",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5815350,
-        "latest_block_height": 5899388,
-        "blocks_indexed": 5899387,
+        "earliest_block_height": 5920001,
+        "latest_block_height": 5928731,
+        "blocks_indexed": 5928730,
         "catching_up": false,
-        "data_since": "2024-02-04T08:13:50.394847432Z"
+        "data_since": "2024-02-11T10:47:33.376633055Z"
     },
     "46.4.121.72:26657": {
         "voting_power": 0,
@@ -30,8 +30,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5434601,
-        "latest_block_height": 5899389,
-        "blocks_indexed": 5899388,
+        "latest_block_height": 5928727,
+        "blocks_indexed": 5928726,
         "catching_up": false,
         "data_since": "2024-01-09T17:07:48.954069786Z"
     },
@@ -54,8 +54,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5799001,
-        "latest_block_height": 5899392,
-        "blocks_indexed": 5899391,
+        "latest_block_height": 5928730,
+        "blocks_indexed": 5928729,
         "catching_up": false,
         "data_since": "2024-02-03T05:54:12.964278565Z"
     },
@@ -78,34 +78,22 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5743301,
-        "latest_block_height": 5899389,
-        "blocks_indexed": 5899388,
+        "latest_block_height": 5928727,
+        "blocks_indexed": 5928726,
         "catching_up": false,
         "data_since": "2024-01-30T12:03:33.415103712Z"
     },
-    "65.109.28.177:28657": {
+    "51.68.170.145:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "AlxVoy",
-        "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 3562001,
-        "latest_block_height": 5899392,
-        "blocks_indexed": 5899391,
-        "catching_up": false,
-        "data_since": "2023-09-04T19:27:45.16549128Z"
-    },
-    "135.181.133.16:26657": {
-        "voting_power": 154670,
-        "is_validator": true,
-        "moniker": "DStake",
+        "moniker": "openbitlab",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5807001,
-        "latest_block_height": 5899392,
-        "blocks_indexed": 5899391,
+        "earliest_block_height": 5815350,
+        "latest_block_height": 5928727,
+        "blocks_indexed": 5928726,
         "catching_up": false,
-        "data_since": "2024-02-03T18:47:11.937754564Z"
+        "data_since": "2024-02-04T08:13:50.394847432Z"
     },
     "65.108.195.29:31127": {
         "voting_power": 0,
@@ -114,46 +102,58 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 5705001,
-        "latest_block_height": 5899392,
-        "blocks_indexed": 5899391,
+        "latest_block_height": 5928730,
+        "blocks_indexed": 5928729,
         "catching_up": false,
         "data_since": "2024-01-27T22:04:23.769890819Z"
     },
-    "142.132.136.106:22657": {
+    "65.109.28.177:28657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "SERVICES",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5805501,
-        "latest_block_height": 5848000,
-        "blocks_indexed": 5847999,
-        "catching_up": false,
-        "data_since": "2024-02-03T16:22:04.666542914Z"
-    },
-    "57.128.175.133:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "joe",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5669666,
-        "latest_block_height": 5672115,
-        "blocks_indexed": 5672114,
-        "catching_up": true,
-        "data_since": "2024-01-25T12:58:54.272678125Z"
-    },
-    "65.108.66.174:48657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
+        "moniker": "AlxVoy",
         "network": "quicksilver-2",
         "tx_index": "off",
-        "earliest_block_height": 5702001,
-        "latest_block_height": 5702329,
-        "blocks_indexed": 5702328,
-        "catching_up": true,
-        "data_since": "2024-01-27T17:13:28.742086253Z"
+        "earliest_block_height": 3562001,
+        "latest_block_height": 5928730,
+        "blocks_indexed": 5928729,
+        "catching_up": false,
+        "data_since": "2023-09-04T19:27:45.16549128Z"
+    },
+    "135.181.210.171:21027": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5927001,
+        "latest_block_height": 5928731,
+        "blocks_indexed": 5928730,
+        "catching_up": false,
+        "data_since": "2024-02-11T22:15:20.818138066Z"
+    },
+    "135.181.133.16:26657": {
+        "voting_power": 154670,
+        "is_validator": true,
+        "moniker": "DStake",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5807001,
+        "latest_block_height": 5928730,
+        "blocks_indexed": 5928729,
+        "catching_up": false,
+        "data_since": "2024-02-03T18:47:11.937754564Z"
+    },
+    "161.97.82.203:26257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Fort",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5863421,
+        "latest_block_height": 5928729,
+        "blocks_indexed": 5928728,
+        "catching_up": false,
+        "data_since": "2024-02-07T14:13:54.207366942Z"
     },
     "94.130.13.187:26657": {
         "voting_power": 0,
@@ -167,28 +167,28 @@
         "catching_up": false,
         "data_since": "2024-01-02T11:18:17.327224549Z"
     },
-    "135.181.210.171:21027": {
+    "65.108.66.174:48657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "hello-BccNodesRPC",
         "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5898501,
-        "latest_block_height": 5899393,
-        "blocks_indexed": 5899392,
-        "catching_up": false,
-        "data_since": "2024-02-09T23:37:00.813000414Z"
+        "tx_index": "off",
+        "earliest_block_height": 5702001,
+        "latest_block_height": 5702329,
+        "blocks_indexed": 5702328,
+        "catching_up": true,
+        "data_since": "2024-01-27T17:13:28.742086253Z"
     },
-    "161.97.82.203:26257": {
+    "75.119.144.167:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Fort",
+        "moniker": "mahof",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5863421,
-        "latest_block_height": 5899393,
-        "blocks_indexed": 5899392,
+        "earliest_block_height": 5654794,
+        "latest_block_height": 5928729,
+        "blocks_indexed": 5928728,
         "catching_up": false,
-        "data_since": "2024-02-07T14:13:54.207366942Z"
+        "data_since": "2024-01-24T12:58:52.442535209Z"
     }
 }
