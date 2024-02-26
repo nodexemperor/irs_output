@@ -6,8 +6,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1743746,
-        "blocks_indexed": 1743745,
+        "latest_block_height": 1924534,
+        "blocks_indexed": 1924533,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -18,10 +18,34 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1743747,
-        "blocks_indexed": 1743746,
+        "latest_block_height": 1924534,
+        "blocks_indexed": 1924533,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
+    },
+    "217.76.53.171:12957": {
+        "voting_power": 809,
+        "is_validator": true,
+        "moniker": "vtbentry",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 1795001,
+        "latest_block_height": 1924535,
+        "blocks_indexed": 1924534,
+        "catching_up": false,
+        "data_since": "2024-02-17T11:41:21.569691201Z"
+    },
+    "194.163.179.176:36157": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "2xStake.com",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 420001,
+        "latest_block_height": 1924535,
+        "blocks_indexed": 1924534,
+        "catching_up": false,
+        "data_since": "2023-11-20T23:03:07.425226948Z"
     },
     "194.163.165.176:38657": {
         "voting_power": 0,
@@ -29,10 +53,10 @@
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 1643747,
-        "latest_block_height": 1743747,
-        "blocks_indexed": 1743746,
+        "earliest_block_height": 1824535,
+        "latest_block_height": 1924535,
+        "blocks_indexed": 1924534,
         "catching_up": false,
-        "data_since": "2024-02-07T10:27:45.639356777Z"
+        "data_since": "2024-02-19T10:25:32.389377178Z"
     }
 }
