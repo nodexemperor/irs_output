@@ -18,8 +18,8 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5807001,
-        "latest_block_height": 6165669,
-        "blocks_indexed": 6165668,
+        "latest_block_height": 6180311,
+        "blocks_indexed": 6180310,
         "catching_up": false,
         "data_since": "2024-02-03T18:47:11.937754564Z"
     },
@@ -35,17 +35,29 @@
         "catching_up": true,
         "data_since": "2023-08-14T02:13:50.415374915Z"
     },
-    "75.119.144.167:26657": {
+    "65.108.195.29:31127": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "mahof",
+        "moniker": "Staketab-snap",
+        "network": "quicksilver-2",
+        "tx_index": "off",
+        "earliest_block_height": 6075001,
+        "latest_block_height": 6180312,
+        "blocks_indexed": 6180311,
+        "catching_up": false,
+        "data_since": "2024-02-21T21:46:59.602123177Z"
+    },
+    "116.202.217.20:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "dteam",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 5654794,
-        "latest_block_height": 6165669,
-        "blocks_indexed": 6165668,
+        "earliest_block_height": 6169501,
+        "latest_block_height": 6180314,
+        "blocks_indexed": 6180313,
         "catching_up": false,
-        "data_since": "2024-01-24T12:58:52.442535209Z"
+        "data_since": "2024-02-28T07:27:07.674656567Z"
     },
     "142.132.136.106:22657": {
         "voting_power": 0,
@@ -54,22 +66,10 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 5920001,
-        "latest_block_height": 6165670,
-        "blocks_indexed": 6165669,
+        "latest_block_height": 6180312,
+        "blocks_indexed": 6180311,
         "catching_up": false,
         "data_since": "2024-02-11T10:47:33.376633055Z"
-    },
-    "51.68.170.145:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "openbitlab",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5981220,
-        "latest_block_height": 6165670,
-        "blocks_indexed": 6165669,
-        "catching_up": false,
-        "data_since": "2024-02-15T14:13:55.486471742Z"
     },
     "95.216.102.121:61057": {
         "voting_power": 0,
@@ -90,10 +90,22 @@
         "network": "quicksilver-2",
         "tx_index": "on",
         "earliest_block_height": 6056301,
-        "latest_block_height": 6165672,
-        "blocks_indexed": 6165671,
+        "latest_block_height": 6180314,
+        "blocks_indexed": 6180313,
         "catching_up": false,
         "data_since": "2024-02-20T15:36:34.29682465Z"
+    },
+    "75.119.144.167:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "mahof",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 5654794,
+        "latest_block_height": 6180313,
+        "blocks_indexed": 6180312,
+        "catching_up": false,
+        "data_since": "2024-01-24T12:58:52.442535209Z"
     },
     "65.109.28.177:28657": {
         "voting_power": 0,
@@ -102,22 +114,34 @@
         "network": "quicksilver-2",
         "tx_index": "off",
         "earliest_block_height": 3562001,
-        "latest_block_height": 6165673,
-        "blocks_indexed": 6165672,
+        "latest_block_height": 6180315,
+        "blocks_indexed": 6180314,
         "catching_up": false,
         "data_since": "2023-09-04T19:27:45.16549128Z"
     },
-    "65.108.195.29:31127": {
+    "158.69.27.233:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Staketab-snap",
+        "moniker": "KYN-SIDE",
         "network": "quicksilver-2",
-        "tx_index": "off",
-        "earliest_block_height": 6075001,
-        "latest_block_height": 6165671,
-        "blocks_indexed": 6165670,
+        "tx_index": "on",
+        "earliest_block_height": 6159001,
+        "latest_block_height": 6180313,
+        "blocks_indexed": 6180312,
         "catching_up": false,
-        "data_since": "2024-02-21T21:46:59.602123177Z"
+        "data_since": "2024-02-27T13:51:51.921690354Z"
+    },
+    "51.68.170.145:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "openbitlab",
+        "network": "quicksilver-2",
+        "tx_index": "on",
+        "earliest_block_height": 6169975,
+        "latest_block_height": 6180313,
+        "blocks_indexed": 6180312,
+        "catching_up": false,
+        "data_since": "2024-02-28T08:13:54.162988921Z"
     },
     "65.108.66.174:48657": {
         "voting_power": 0,
@@ -131,40 +155,16 @@
         "catching_up": true,
         "data_since": "2024-01-27T17:13:28.742086253Z"
     },
-    "158.69.27.233:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "KYN-SIDE",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 6159001,
-        "latest_block_height": 6165671,
-        "blocks_indexed": 6165670,
-        "catching_up": false,
-        "data_since": "2024-02-27T13:51:51.921690354Z"
-    },
     "135.181.210.171:21027": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "STAVR-Service",
         "network": "quicksilver-2",
         "tx_index": "on",
-        "earliest_block_height": 6159001,
-        "latest_block_height": 6165669,
-        "blocks_indexed": 6165668,
+        "earliest_block_height": 6179501,
+        "latest_block_height": 6180314,
+        "blocks_indexed": 6180313,
         "catching_up": false,
-        "data_since": "2024-02-27T13:51:51.921690354Z"
-    },
-    "116.202.217.20:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "dteam",
-        "network": "quicksilver-2",
-        "tx_index": "on",
-        "earliest_block_height": 5581001,
-        "latest_block_height": 6160915,
-        "blocks_indexed": 6160914,
-        "catching_up": false,
-        "data_since": "2024-01-19T13:54:56.775490867Z"
+        "data_since": "2024-02-28T23:47:25.541505875Z"
     }
 }
