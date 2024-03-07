@@ -1,51 +1,15 @@
 {
-    "88.99.145.188:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Sr20de Service node",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2243468,
-        "blocks_indexed": 2243467,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
-    },
-    "65.108.41.177:42657": {
-        "voting_power": 937565,
+    "65.21.57.72:26657": {
+        "voting_power": 153175,
         "is_validator": true,
-        "moniker": "NodeName",
+        "moniker": "WellNode",
         "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 2143001,
-        "latest_block_height": 2243463,
-        "blocks_indexed": 2243462,
+        "tx_index": "off",
+        "earliest_block_height": 2002875,
+        "latest_block_height": 2258620,
+        "blocks_indexed": 2258619,
         "catching_up": false,
-        "data_since": "2024-02-28T10:31:46.929114812Z"
-    },
-    "101.91.119.133:26657": {
-        "voting_power": 177590,
-        "is_validator": true,
-        "moniker": "XPool",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2243467,
-        "blocks_indexed": 2243466,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
-    },
-    "182.42.93.241:26657": {
-        "voting_power": 58864,
-        "is_validator": true,
-        "moniker": "1024dao",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2243466,
-        "blocks_indexed": 2243465,
-        "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
+        "data_since": "2024-02-19T06:28:52.329829158Z"
     },
     "135.181.210.171:20057": {
         "voting_power": 0,
@@ -59,16 +23,52 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "65.21.57.72:26657": {
-        "voting_power": 152774,
+    "101.91.119.133:26657": {
+        "voting_power": 177590,
         "is_validator": true,
-        "moniker": "WellNode",
+        "moniker": "XPool",
         "network": "source-1",
-        "tx_index": "off",
-        "earliest_block_height": 2002875,
-        "latest_block_height": 2243468,
-        "blocks_indexed": 2243467,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2258620,
+        "blocks_indexed": 2258619,
         "catching_up": false,
-        "data_since": "2024-02-19T06:28:52.329829158Z"
+        "data_since": "2023-10-01T17:43:25.352159823Z"
+    },
+    "182.42.93.241:26657": {
+        "voting_power": 58864,
+        "is_validator": true,
+        "moniker": "1024dao",
+        "network": "source-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2258619,
+        "blocks_indexed": 2258618,
+        "catching_up": false,
+        "data_since": "2023-10-01T17:43:25.352159823Z"
+    },
+    "65.108.41.177:42657": {
+        "voting_power": 887308,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "source-1",
+        "tx_index": "on",
+        "earliest_block_height": 2143001,
+        "latest_block_height": 2258617,
+        "blocks_indexed": 2258616,
+        "catching_up": false,
+        "data_since": "2024-02-28T10:31:46.929114812Z"
+    },
+    "88.99.145.188:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Sr20de Service node",
+        "network": "source-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2258619,
+        "blocks_indexed": 2258618,
+        "catching_up": false,
+        "data_since": "2023-10-01T17:43:25.352159823Z"
     }
 }
