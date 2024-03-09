@@ -1,16 +1,4 @@
 {
-    "65.108.96.108:61057": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "SiriusNodes_rpc",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 3155001,
-        "latest_block_height": 3548012,
-        "blocks_indexed": 3548011,
-        "catching_up": false,
-        "data_since": "2024-02-26T19:48:57.833960331Z"
-    },
     "144.76.236.49:60557": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,10 +6,34 @@
         "network": "cataclysm-1",
         "tx_index": "off",
         "earliest_block_height": 3540001,
-        "latest_block_height": 3548004,
-        "blocks_indexed": 3548003,
+        "latest_block_height": 3586592,
+        "blocks_indexed": 3586591,
         "catching_up": false,
         "data_since": "2024-03-07T19:10:32.904110565Z"
+    },
+    "65.108.96.108:61057": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "SiriusNodes_rpc",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 3155001,
+        "latest_block_height": 3586600,
+        "blocks_indexed": 3586599,
+        "catching_up": false,
+        "data_since": "2024-02-26T19:48:57.833960331Z"
+    },
+    "167.235.14.83:61657": {
+        "voting_power": 4,
+        "is_validator": true,
+        "moniker": "APPIE",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 3503001,
+        "latest_block_height": 3586594,
+        "blocks_indexed": 3586593,
+        "catching_up": false,
+        "data_since": "2024-03-06T19:55:44.360943685Z"
     },
     "144.76.29.90:60657": {
         "voting_power": 0,
@@ -30,8 +42,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 2241001,
-        "latest_block_height": 3548013,
-        "blocks_indexed": 3548012,
+        "latest_block_height": 3586601,
+        "blocks_indexed": 3586600,
         "catching_up": false,
         "data_since": "2024-01-30T10:59:07.564085179Z"
     }

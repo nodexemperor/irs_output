@@ -1,28 +1,4 @@
 {
-    "65.108.41.177:42657": {
-        "voting_power": 887135,
-        "is_validator": true,
-        "moniker": "NodeName",
-        "network": "source-1",
-        "tx_index": "on",
-        "earliest_block_height": 2261986,
-        "latest_block_height": 2273814,
-        "blocks_indexed": 2273813,
-        "catching_up": false,
-        "data_since": "2024-03-07T06:28:47.050783443Z"
-    },
-    "65.21.57.72:26657": {
-        "voting_power": 153606,
-        "is_validator": true,
-        "moniker": "WellNode",
-        "network": "source-1",
-        "tx_index": "off",
-        "earliest_block_height": 2002875,
-        "latest_block_height": 2273816,
-        "blocks_indexed": 2273815,
-        "catching_up": false,
-        "data_since": "2024-02-19T06:28:52.329829158Z"
-    },
     "182.42.93.241:26657": {
         "voting_power": 58864,
         "is_validator": true,
@@ -30,8 +6,8 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2273814,
-        "blocks_indexed": 2273813,
+        "latest_block_height": 2288933,
+        "blocks_indexed": 2288932,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
@@ -42,22 +18,34 @@
         "network": "source-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2273816,
-        "blocks_indexed": 2273815,
+        "latest_block_height": 2288933,
+        "blocks_indexed": 2288932,
         "catching_up": false,
         "data_since": "2023-10-01T17:43:25.352159823Z"
     },
-    "101.91.119.133:26657": {
-        "voting_power": 177687,
+    "65.108.41.177:42657": {
+        "voting_power": 888898,
         "is_validator": true,
-        "moniker": "XPool",
+        "moniker": "NodeName",
         "network": "source-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2273816,
-        "blocks_indexed": 2273815,
+        "earliest_block_height": 2261986,
+        "latest_block_height": 2288932,
+        "blocks_indexed": 2288931,
         "catching_up": false,
-        "data_since": "2023-10-01T17:43:25.352159823Z"
+        "data_since": "2024-03-07T06:28:47.050783443Z"
+    },
+    "65.21.57.72:26657": {
+        "voting_power": 154003,
+        "is_validator": true,
+        "moniker": "WellNode",
+        "network": "source-1",
+        "tx_index": "off",
+        "earliest_block_height": 2002875,
+        "latest_block_height": 2288934,
+        "blocks_indexed": 2288933,
+        "catching_up": false,
+        "data_since": "2024-02-19T06:28:52.329829158Z"
     },
     "135.181.210.171:20057": {
         "voting_power": 0,
