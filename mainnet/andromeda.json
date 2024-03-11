@@ -1,4 +1,16 @@
 {
+    "135.181.210.171:4137": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "andromeda-1",
+        "tx_index": "on",
+        "earliest_block_height": 1584001,
+        "latest_block_height": 1586055,
+        "blocks_indexed": 1586054,
+        "catching_up": false,
+        "data_since": "2024-03-10T20:56:44.996440301Z"
+    },
     "65.108.238.215:27357": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +18,8 @@
         "network": "andromeda-1",
         "tx_index": "on",
         "earliest_block_height": 756001,
-        "latest_block_height": 1571460,
-        "blocks_indexed": 1571459,
+        "latest_block_height": 1586054,
+        "blocks_indexed": 1586053,
         "catching_up": false,
         "data_since": "2024-01-14T10:53:30.742744091Z"
     },
@@ -17,22 +29,10 @@
         "moniker": "AVIAONE",
         "network": "andromeda-1",
         "tx_index": "on",
-        "earliest_block_height": 1570001,
-        "latest_block_height": 1571460,
-        "blocks_indexed": 1571459,
-        "catching_up": false,
-        "data_since": "2024-03-09T22:01:08.603507959Z"
-    },
-    "135.181.210.171:4137": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "andromeda-1",
-        "tx_index": "on",
-        "earliest_block_height": 1568001,
-        "latest_block_height": 1571461,
-        "blocks_indexed": 1571460,
-        "catching_up": false,
-        "data_since": "2024-03-09T18:44:57.554244471Z"
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
