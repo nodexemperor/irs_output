@@ -1,15 +1,27 @@
 {
-    "136.243.33.177:26657": {
-        "voting_power": 180885006858259,
-        "is_validator": true,
+    "148.251.235.130:14657": {
+        "voting_power": 0,
+        "is_validator": false,
         "moniker": "Staketab",
         "network": "entangle_33133-1",
         "tx_index": "on",
-        "earliest_block_height": 660001,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
+        "earliest_block_height": 2272001,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
         "catching_up": false,
-        "data_since": "2023-11-18T12:49:14.960294528Z"
+        "data_since": "2024-02-19T17:03:39.241621906Z"
+    },
+    "149.102.146.157:17157": {
+        "voting_power": 505673281997311,
+        "is_validator": true,
+        "moniker": "warren4",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 2558001,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
+        "catching_up": false,
+        "data_since": "2024-03-09T06:02:28.737512365Z"
     },
     "34.118.79.149:26657": {
         "voting_power": 0,
@@ -18,8 +30,20 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
+        "catching_up": false,
+        "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "161.97.180.20:36657": {
+        "voting_power": 309649665375947,
+        "is_validator": true,
+        "moniker": "Blockscope",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
     },
@@ -30,57 +54,33 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 2304001,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
         "catching_up": false,
         "data_since": "2024-02-21T23:43:02.710843215Z"
     },
-    "149.102.146.157:17157": {
-        "voting_power": 505474935486266,
+    "136.243.33.177:26657": {
+        "voting_power": 180993773348913,
         "is_validator": true,
-        "moniker": "warren4",
+        "moniker": "Staketab",
         "network": "entangle_33133-1",
         "tx_index": "on",
-        "earliest_block_height": 2558001,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
+        "earliest_block_height": 660001,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
         "catching_up": false,
-        "data_since": "2024-03-09T06:02:28.737512365Z"
+        "data_since": "2023-11-18T12:49:14.960294528Z"
     },
     "65.109.82.17:12357": {
-        "voting_power": 658268514588208,
+        "voting_power": 659404150139219,
         "is_validator": true,
         "moniker": "ruangnode",
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 1312001,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
+        "latest_block_height": 2602824,
+        "blocks_indexed": 2602823,
         "catching_up": false,
         "data_since": "2023-12-25T10:05:09.429057566Z"
-    },
-    "161.97.180.20:36657": {
-        "voting_power": 309598243262652,
-        "is_validator": true,
-        "moniker": "Blockscope",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
-        "catching_up": false,
-        "data_since": "2023-07-06T15:27:04.171971353Z"
-    },
-    "148.251.235.130:14657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 2272001,
-        "latest_block_height": 2585368,
-        "blocks_indexed": 2585367,
-        "catching_up": false,
-        "data_since": "2024-02-19T17:03:39.241621906Z"
     }
 }
