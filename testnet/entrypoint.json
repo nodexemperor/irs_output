@@ -5,11 +5,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 2076863,
-        "latest_block_height": 2176863,
-        "blocks_indexed": 2176862,
+        "earliest_block_height": 2079381,
+        "latest_block_height": 2179381,
+        "blocks_indexed": 2179380,
         "catching_up": false,
-        "data_since": "2024-03-07T05:16:51.506742988Z"
+        "data_since": "2024-03-07T09:17:58.496146012Z"
     },
     "95.217.40.230:22227": {
         "voting_power": 100099,
@@ -18,32 +18,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2176864,
-        "blocks_indexed": 2176863,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
-    },
-    "65.108.206.118:61257": {
-        "voting_power": 100100,
-        "is_validator": true,
-        "moniker": "UTSA_guide",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2176864,
-        "blocks_indexed": 2176863,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
-    },
-    "49.12.123.87:21117": {
-        "voting_power": 100099,
-        "is_validator": true,
-        "moniker": "cxfbfdgb",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2176864,
-        "blocks_indexed": 2176863,
+        "latest_block_height": 2179381,
+        "blocks_indexed": 2179380,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -54,9 +30,33 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 554001,
-        "latest_block_height": 2176864,
-        "blocks_indexed": 2176863,
+        "latest_block_height": 2179381,
+        "blocks_indexed": 2179380,
         "catching_up": false,
         "data_since": "2023-11-29T12:29:41.023711577Z"
+    },
+    "65.108.206.118:61257": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "UTSA_guide",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2179381,
+        "blocks_indexed": 2179380,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
+    },
+    "49.12.123.87:21117": {
+        "voting_power": 100099,
+        "is_validator": true,
+        "moniker": "cxfbfdgb",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2179382,
+        "blocks_indexed": 2179381,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
     }
 }

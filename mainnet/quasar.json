@@ -6,8 +6,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 5179062,
-        "latest_block_height": 5371789,
-        "blocks_indexed": 5371788,
+        "latest_block_height": 5374313,
+        "blocks_indexed": 5374312,
         "catching_up": false,
         "data_since": "2024-02-29T23:59:46.013123558Z"
     },
@@ -18,21 +18,9 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5371790,
-        "blocks_indexed": 5371789,
+        "latest_block_height": 5374313,
+        "blocks_indexed": 5374312,
         "catching_up": false,
-        "data_since": "2023-03-22T20:00:00Z"
-    },
-    "34.175.55.194:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "quasar-node-3",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5308002,
-        "blocks_indexed": 5308001,
-        "catching_up": true,
         "data_since": "2023-03-22T20:00:00Z"
     },
     "143.198.172.109:26657": {
@@ -42,9 +30,21 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 4689220,
-        "latest_block_height": 5371790,
-        "blocks_indexed": 5371789,
+        "latest_block_height": 5374313,
+        "blocks_indexed": 5374312,
         "catching_up": false,
         "data_since": "2024-01-28T09:28:51.637534367Z"
+    },
+    "34.175.55.194:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "quasar-node-3",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5329526,
+        "blocks_indexed": 5329525,
+        "catching_up": true,
+        "data_since": "2023-03-22T20:00:00Z"
     }
 }
