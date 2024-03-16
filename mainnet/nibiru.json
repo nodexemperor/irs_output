@@ -1,16 +1,4 @@
 {
-    "144.76.236.49:60557": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "F5 Nodes",
-        "network": "cataclysm-1",
-        "tx_index": "off",
-        "earliest_block_height": 3666001,
-        "latest_block_height": 3822063,
-        "blocks_indexed": 3822062,
-        "catching_up": false,
-        "data_since": "2024-03-11T01:54:54.187764044Z"
-    },
     "65.108.96.108:61057": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,21 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 3155001,
-        "latest_block_height": 3822072,
-        "blocks_indexed": 3822071,
+        "latest_block_height": 3861636,
+        "blocks_indexed": 3861635,
         "catching_up": false,
         "data_since": "2024-02-26T19:48:57.833960331Z"
+    },
+    "144.76.236.49:60557": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "F5 Nodes",
+        "network": "cataclysm-1",
+        "tx_index": "off",
+        "earliest_block_height": 3666001,
+        "latest_block_height": 3861627,
+        "blocks_indexed": 3861626,
+        "catching_up": false,
+        "data_since": "2024-03-11T01:54:54.187764044Z"
     }
 }
