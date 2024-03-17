@@ -1,4 +1,28 @@
 {
+    "136.243.33.177:26657": {
+        "voting_power": 181152470618817,
+        "is_validator": true,
+        "moniker": "Staketab",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 660001,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
+        "catching_up": false,
+        "data_since": "2023-11-18T12:49:14.960294528Z"
+    },
+    "65.109.82.17:12357": {
+        "voting_power": 661261205895222,
+        "is_validator": true,
+        "moniker": "ruangnode",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 1312001,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
+        "catching_up": false,
+        "data_since": "2023-12-25T10:05:09.429057566Z"
+    },
     "148.251.235.130:14657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +30,8 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 2617001,
-        "latest_block_height": 2661413,
-        "blocks_indexed": 2661412,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
         "catching_up": false,
         "data_since": "2024-03-12T22:28:18.702372612Z"
     },
@@ -17,71 +41,23 @@
         "moniker": "L0vd.com | RPC",
         "network": "entangle_33133-1",
         "tx_index": "off",
-        "earliest_block_height": 2561411,
-        "latest_block_height": 2661411,
-        "blocks_indexed": 2661410,
+        "earliest_block_height": 2575619,
+        "latest_block_height": 2675619,
+        "blocks_indexed": 2675618,
         "catching_up": false,
-        "data_since": "2024-03-09T11:15:39.348617186Z"
+        "data_since": "2024-03-10T10:52:43.275879949Z"
     },
-    "136.243.33.177:26657": {
-        "voting_power": 181128559072965,
+    "144.76.236.211:23657": {
+        "voting_power": 26809518609480680,
         "is_validator": true,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 660001,
-        "latest_block_height": 2661413,
-        "blocks_indexed": 2661412,
-        "catching_up": false,
-        "data_since": "2023-11-18T12:49:14.960294528Z"
-    },
-    "149.102.146.157:17157": {
-        "voting_power": 505849050783707,
-        "is_validator": true,
-        "moniker": "warren4",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 2558001,
-        "latest_block_height": 2661411,
-        "blocks_indexed": 2661410,
-        "catching_up": false,
-        "data_since": "2024-03-09T06:02:28.737512365Z"
-    },
-    "34.118.79.149:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "validator",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2661412,
-        "blocks_indexed": 2661411,
-        "catching_up": false,
-        "data_since": "2023-07-06T15:27:04.171971353Z"
-    },
-    "65.109.82.17:12357": {
-        "voting_power": 661261205895222,
-        "is_validator": true,
-        "moniker": "ruangnode",
+        "moniker": "[NODERS]TEAM",
         "network": "entangle_33133-1",
         "tx_index": "off",
-        "earliest_block_height": 1312001,
-        "latest_block_height": 2661413,
-        "blocks_indexed": 2661412,
+        "earliest_block_height": 2304001,
+        "latest_block_height": 2675619,
+        "blocks_indexed": 2675618,
         "catching_up": false,
-        "data_since": "2023-12-25T10:05:09.429057566Z"
-    },
-    "142.132.202.50:33657": {
-        "voting_power": 38886577247155343,
-        "is_validator": true,
-        "moniker": "cryptobtcbuyer",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 2619001,
-        "latest_block_height": 2661413,
-        "blocks_indexed": 2661412,
-        "catching_up": false,
-        "data_since": "2024-03-13T01:43:11.194750529Z"
+        "data_since": "2024-02-21T23:43:02.710843215Z"
     },
     "34.118.4.252:26657": {
         "voting_power": 0,
@@ -94,5 +70,41 @@
         "blocks_indexed": 2617123,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "34.118.79.149:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "validator",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
+        "catching_up": false,
+        "data_since": "2023-07-06T15:27:04.171971353Z"
+    },
+    "149.102.146.157:17157": {
+        "voting_power": 505849050783707,
+        "is_validator": true,
+        "moniker": "warren4",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 2558001,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
+        "catching_up": false,
+        "data_since": "2024-03-09T06:02:28.737512365Z"
+    },
+    "142.132.202.50:33657": {
+        "voting_power": 38886577247155343,
+        "is_validator": true,
+        "moniker": "cryptobtcbuyer",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 2619001,
+        "latest_block_height": 2675620,
+        "blocks_indexed": 2675619,
+        "catching_up": false,
+        "data_since": "2024-03-13T01:43:11.194750529Z"
     }
 }
