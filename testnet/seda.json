@@ -1,16 +1,4 @@
 {
-    "51.79.79.194:26657": {
-        "voting_power": 1000000,
-        "is_validator": true,
-        "moniker": "StakingCabin",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 62001,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
-        "catching_up": false,
-        "data_since": "2024-02-28T06:59:32.461520174Z"
-    },
     "185.182.194.239:26657": {
         "voting_power": 1000000,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -30,8 +18,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -42,8 +30,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -54,10 +42,22 @@
         "network": "seda-1-testnet",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
+    },
+    "51.79.79.194:26657": {
+        "voting_power": 1000000,
+        "is_validator": true,
+        "moniker": "StakingCabin",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 62001,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
+        "catching_up": false,
+        "data_since": "2024-02-28T06:59:32.461520174Z"
     },
     "95.217.16.83:26657": {
         "voting_power": 0,
@@ -71,6 +71,18 @@
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
+    "161.97.141.169:11657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BlockHunters.dev",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 273111,
+        "blocks_indexed": 273110,
+        "catching_up": false,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
     "168.119.10.134:22657": {
         "voting_power": 0,
         "is_validator": false,
@@ -78,9 +90,21 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 67001,
-        "latest_block_height": 262374,
-        "blocks_indexed": 262373,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
         "catching_up": false,
         "data_since": "2024-02-28T17:53:03.907564638Z"
+    },
+    "198.244.254.16:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sharpdarts",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 273110,
+        "blocks_indexed": 273109,
+        "catching_up": false,
+        "data_since": "2024-02-22T14:00:00Z"
     }
 }

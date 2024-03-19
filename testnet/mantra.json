@@ -1,4 +1,28 @@
 {
+    "65.109.82.17:26657": {
+        "voting_power": 1000,
+        "is_validator": true,
+        "moniker": "ruangnode",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "off",
+        "earliest_block_height": 269001,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2023-11-27T04:18:24.740507771Z"
+    },
+    "34.136.169.18:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-05",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
     "172.93.185.122:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -11,18 +35,6 @@
         "catching_up": true,
         "data_since": "2024-02-01T23:37:15.854764457Z"
     },
-    "34.136.169.18:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-05",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
-        "catching_up": false,
-        "data_since": "2023-11-07T09:21:39.524528382Z"
-    },
     "95.217.40.230:22657": {
         "voting_power": 0,
         "is_validator": false,
@@ -30,46 +42,10 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "off",
         "earliest_block_height": 1492001,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
         "catching_up": false,
         "data_since": "2024-02-24T20:54:05.426611817Z"
-    },
-    "65.109.82.17:26657": {
-        "voting_power": 1000,
-        "is_validator": true,
-        "moniker": "ruangnode",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 269001,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
-        "catching_up": false,
-        "data_since": "2023-11-27T04:18:24.740507771Z"
-    },
-    "142.132.202.50:29657": {
-        "voting_power": 86257,
-        "is_validator": true,
-        "moniker": "cryptobtcbuyer",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1694668,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
-        "catching_up": false,
-        "data_since": "2024-03-10T17:39:40.226012951Z"
-    },
-    "34.70.189.2:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-02",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
-        "catching_up": false,
-        "data_since": "2023-11-07T09:21:39.524528382Z"
     },
     "161.97.149.123:29657": {
         "voting_power": 940,
@@ -78,22 +54,10 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "off",
         "earliest_block_height": 1392001,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
         "catching_up": false,
         "data_since": "2024-02-17T12:54:37.884873009Z"
-    },
-    "35.222.198.102:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node-04",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1794667,
-        "blocks_indexed": 1794666,
-        "catching_up": false,
-        "data_since": "2023-11-07T09:21:39.524528382Z"
     },
     "34.123.40.240:26657": {
         "voting_power": 0,
@@ -102,8 +66,44 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
+    "142.132.202.50:29657": {
+        "voting_power": 86257,
+        "is_validator": true,
+        "moniker": "cryptobtcbuyer",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "off",
+        "earliest_block_height": 1708296,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2024-03-11T17:38:52.214249175Z"
+    },
+    "34.70.189.2:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-02",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
+    "35.222.198.102:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-node-04",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1808295,
+        "blocks_indexed": 1808294,
         "catching_up": false,
         "data_since": "2023-11-07T09:21:39.524528382Z"
     },
@@ -114,8 +114,8 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
         "catching_up": false,
         "data_since": "2023-11-07T09:21:39.524528382Z"
     },
@@ -126,8 +126,8 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "off",
         "earliest_block_height": 1285001,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
         "catching_up": false,
         "data_since": "2024-02-09T16:32:03.041468952Z"
     },
@@ -138,8 +138,20 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
+        "catching_up": false,
+        "data_since": "2023-11-07T09:21:39.524528382Z"
+    },
+    "34.70.51.122:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "archive-node-01",
+        "network": "mantrachain-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1808296,
+        "blocks_indexed": 1808295,
         "catching_up": false,
         "data_since": "2023-11-07T09:21:39.524528382Z"
     },
@@ -150,21 +162,9 @@
         "network": "mantrachain-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1568001,
-        "latest_block_height": 1794665,
-        "blocks_indexed": 1794664,
+        "latest_block_height": 1808295,
+        "blocks_indexed": 1808294,
         "catching_up": false,
         "data_since": "2024-03-01T10:40:07.243202024Z"
-    },
-    "34.70.51.122:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "archive-node-01",
-        "network": "mantrachain-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1794668,
-        "blocks_indexed": 1794667,
-        "catching_up": false,
-        "data_since": "2023-11-07T09:21:39.524528382Z"
     }
 }
