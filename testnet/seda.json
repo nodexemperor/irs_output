@@ -6,8 +6,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -42,22 +42,10 @@
         "network": "seda-1-testnet",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
-    },
-    "51.79.79.194:26657": {
-        "voting_power": 1000000,
-        "is_validator": true,
-        "moniker": "StakingCabin",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 62001,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
-        "catching_up": false,
-        "data_since": "2024-02-28T06:59:32.461520174Z"
     },
     "95.217.16.83:26657": {
         "voting_power": 0,
@@ -71,29 +59,17 @@
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "46.226.167.124:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "eatable-harborn6.aeza.network",
+    "51.79.79.194:26657": {
+        "voting_power": 1000000,
+        "is_validator": true,
+        "moniker": "StakingCabin",
         "network": "seda-1-testnet",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 244643,
-        "blocks_indexed": 244642,
-        "catching_up": true,
-        "data_since": "2024-02-22T14:00:00Z"
-    },
-    "168.119.10.134:22657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "TrustedPoint",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 67001,
-        "latest_block_height": 283949,
-        "blocks_indexed": 283948,
+        "earliest_block_height": 62001,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
         "catching_up": false,
-        "data_since": "2024-02-28T17:53:03.907564638Z"
+        "data_since": "2024-02-28T06:59:32.461520174Z"
     },
     "161.97.141.169:11657": {
         "voting_power": 0,
@@ -106,5 +82,29 @@
         "blocks_indexed": 277805,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "168.119.10.134:22657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "TrustedPoint",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 67001,
+        "latest_block_height": 294782,
+        "blocks_indexed": 294781,
+        "catching_up": false,
+        "data_since": "2024-02-28T17:53:03.907564638Z"
+    },
+    "213.199.53.75:17357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ZLKCyber",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 294001,
+        "latest_block_height": 294783,
+        "blocks_indexed": 294782,
+        "catching_up": false,
+        "data_since": "2024-03-21T00:21:24.009488734Z"
     }
 }

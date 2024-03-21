@@ -1,4 +1,16 @@
 {
+    "118.70.170.144:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "phuc",
+        "network": "avail_9429136-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 174673,
+        "blocks_indexed": 174672,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
+    },
     "65.109.88.254:33657": {
         "voting_power": 559,
         "is_validator": true,
@@ -6,9 +18,21 @@
         "network": "alfama",
         "tx_index": "on",
         "earliest_block_height": 185001,
-        "latest_block_height": 278447,
-        "blocks_indexed": 278446,
+        "latest_block_height": 293496,
+        "blocks_indexed": 293495,
         "catching_up": false,
         "data_since": "2024-03-13T18:37:55.896966878Z"
+    },
+    "27.79.180.109:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "phuc",
+        "network": "avail_6562732-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 174597,
+        "blocks_indexed": 174596,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
     }
 }
