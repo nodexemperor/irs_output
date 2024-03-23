@@ -1,14 +1,26 @@
 {
-    "148.251.88.40:45657": {
+    "176.9.53.156:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Viktorsinka",
+        "moniker": "daic_public_1",
         "network": "bbn-test-3",
-        "tx_index": "off",
-        "earliest_block_height": 47001,
-        "latest_block_height": 116962,
-        "blocks_indexed": 116961,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 119840,
+        "blocks_indexed": 119839,
         "catching_up": false,
-        "data_since": "2024-02-26T06:36:11.271017393Z"
+        "data_since": "2024-02-08T14:11:01Z"
+    },
+    "93.159.130.38:29657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "bro_n_bro",
+        "network": "bbn-test-3",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 119840,
+        "blocks_indexed": 119839,
+        "catching_up": false,
+        "data_since": "2024-02-08T14:11:01Z"
     }
 }

@@ -1,16 +1,4 @@
 {
-    "15.235.87.88:56657": {
-        "voting_power": 2000181,
-        "is_validator": true,
-        "moniker": "xion",
-        "network": "xion-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 7008449,
-        "blocks_indexed": 7008448,
-        "catching_up": false,
-        "data_since": "2023-04-01T00:00:00Z"
-    },
     "144.76.28.47:15257": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,21 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 6501401,
-        "latest_block_height": 7008450,
-        "blocks_indexed": 7008449,
+        "latest_block_height": 7024877,
+        "blocks_indexed": 7024876,
         "catching_up": false,
         "data_since": "2024-02-19T09:29:29.426816107Z"
+    },
+    "15.235.87.88:56657": {
+        "voting_power": 2001149,
+        "is_validator": true,
+        "moniker": "xion",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 7024876,
+        "blocks_indexed": 7024875,
+        "catching_up": false,
+        "data_since": "2023-04-01T00:00:00Z"
     }
 }
