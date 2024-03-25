@@ -6,8 +6,8 @@
         "network": "avail_9429136-1",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 174817,
-        "blocks_indexed": 174816,
+        "latest_block_height": 174865,
+        "blocks_indexed": 174864,
         "catching_up": false,
         "data_since": "0001-01-01T00:00:00Z"
     },
@@ -18,9 +18,21 @@
         "network": "alfama",
         "tx_index": "on",
         "earliest_block_height": 185001,
-        "latest_block_height": 338381,
-        "blocks_indexed": 338380,
+        "latest_block_height": 353247,
+        "blocks_indexed": 353246,
         "catching_up": false,
         "data_since": "2024-03-13T18:37:55.896966878Z"
+    },
+    "144.76.29.90:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "alfama",
+        "tx_index": "on",
+        "earliest_block_height": 314001,
+        "latest_block_height": 353247,
+        "blocks_indexed": 353246,
+        "catching_up": false,
+        "data_since": "2024-03-22T10:51:14.064342156Z"
     }
 }

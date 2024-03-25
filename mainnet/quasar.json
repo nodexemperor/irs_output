@@ -1,16 +1,4 @@
 {
-    "198.244.182.195:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "lsarch",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5525270,
-        "blocks_indexed": 5525269,
-        "catching_up": false,
-        "data_since": "2023-03-22T20:00:00Z"
-    },
     "34.175.37.59:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,22 +6,10 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 5456001,
-        "latest_block_height": 5525267,
-        "blocks_indexed": 5525266,
+        "latest_block_height": 5540396,
+        "blocks_indexed": 5540395,
         "catching_up": false,
         "data_since": "2024-03-19T10:59:38.308626452Z"
-    },
-    "34.175.55.194:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "quasar-node-3",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5455251,
-        "blocks_indexed": 5455250,
-        "catching_up": false,
-        "data_since": "2023-03-22T20:00:00Z"
     },
     "51.75.146.179:8091": {
         "voting_power": 0,
@@ -42,8 +18,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 5179062,
-        "latest_block_height": 5525268,
-        "blocks_indexed": 5525267,
+        "latest_block_height": 5540397,
+        "blocks_indexed": 5540396,
         "catching_up": false,
         "data_since": "2024-02-29T23:59:46.013123558Z"
     },
@@ -54,9 +30,21 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 4689220,
-        "latest_block_height": 5525269,
-        "blocks_indexed": 5525268,
+        "latest_block_height": 5540398,
+        "blocks_indexed": 5540397,
         "catching_up": false,
         "data_since": "2024-01-28T09:28:51.637534367Z"
+    },
+    "198.244.182.195:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "lsarch",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5540399,
+        "blocks_indexed": 5540398,
+        "catching_up": false,
+        "data_since": "2023-03-22T20:00:00Z"
     }
 }
