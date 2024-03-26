@@ -6,8 +6,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -30,8 +30,20 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
+        "catching_up": false,
+        "data_since": "2024-02-22T14:00:00Z"
+    },
+    "65.21.32.200:44657": {
+        "voting_power": 999900,
+        "is_validator": true,
+        "moniker": "StakeLab",
+        "network": "seda-1-testnet",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -42,10 +54,22 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 62001,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
         "catching_up": false,
         "data_since": "2024-02-28T06:59:32.461520174Z"
+    },
+    "168.119.10.134:22657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "TrustedPoint",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 67001,
+        "latest_block_height": 348895,
+        "blocks_indexed": 348894,
+        "catching_up": false,
+        "data_since": "2024-02-28T17:53:03.907564638Z"
     },
     "95.217.16.83:26657": {
         "voting_power": 0,
@@ -56,43 +80,7 @@
         "earliest_block_height": 0,
         "latest_block_height": 316984,
         "blocks_indexed": 316983,
-        "catching_up": false,
+        "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
-    },
-    "65.21.32.200:44657": {
-        "voting_power": 999900,
-        "is_validator": true,
-        "moniker": "StakeLab",
-        "network": "seda-1-testnet",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
-        "catching_up": false,
-        "data_since": "2024-02-22T14:00:00Z"
-    },
-    "168.119.10.134:22657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "TrustedPoint",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 67001,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
-        "catching_up": false,
-        "data_since": "2024-02-28T17:53:03.907564638Z"
-    },
-    "23.88.74.54:17357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "JeTrix",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 338098,
-        "blocks_indexed": 338097,
-        "catching_up": false,
-        "data_since": "2024-02-22T14:00:00Z"
     }
 }
