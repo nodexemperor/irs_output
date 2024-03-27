@@ -6,46 +6,10 @@
         "network": "entangle_33133-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2807792,
-        "blocks_indexed": 2807791,
+        "latest_block_height": 2822764,
+        "blocks_indexed": 2822763,
         "catching_up": false,
         "data_since": "2023-07-06T15:27:04.171971353Z"
-    },
-    "142.132.202.50:33657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "cryptobtcbuyer",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 2707792,
-        "latest_block_height": 2807792,
-        "blocks_indexed": 2807791,
-        "catching_up": false,
-        "data_since": "2024-03-19T07:39:14.705531541Z"
-    },
-    "65.109.82.17:12357": {
-        "voting_power": 661282770041220,
-        "is_validator": true,
-        "moniker": "ruangnode",
-        "network": "entangle_33133-1",
-        "tx_index": "off",
-        "earliest_block_height": 1312001,
-        "latest_block_height": 2807792,
-        "blocks_indexed": 2807791,
-        "catching_up": false,
-        "data_since": "2023-12-25T10:05:09.429057566Z"
-    },
-    "136.243.33.177:26657": {
-        "voting_power": 181153136618817,
-        "is_validator": true,
-        "moniker": "Staketab",
-        "network": "entangle_33133-1",
-        "tx_index": "on",
-        "earliest_block_height": 660001,
-        "latest_block_height": 2807792,
-        "blocks_indexed": 2807791,
-        "catching_up": false,
-        "data_since": "2023-11-18T12:49:14.960294528Z"
     },
     "148.251.235.130:14657": {
         "voting_power": 0,
@@ -54,9 +18,45 @@
         "network": "entangle_33133-1",
         "tx_index": "off",
         "earliest_block_height": 2617001,
-        "latest_block_height": 2807792,
-        "blocks_indexed": 2807791,
+        "latest_block_height": 2822764,
+        "blocks_indexed": 2822763,
         "catching_up": false,
         "data_since": "2024-03-12T22:28:18.702372612Z"
+    },
+    "136.243.33.177:26657": {
+        "voting_power": 181153136618817,
+        "is_validator": true,
+        "moniker": "Staketab",
+        "network": "entangle_33133-1",
+        "tx_index": "on",
+        "earliest_block_height": 660001,
+        "latest_block_height": 2822764,
+        "blocks_indexed": 2822763,
+        "catching_up": false,
+        "data_since": "2023-11-18T12:49:14.960294528Z"
+    },
+    "65.109.82.17:12357": {
+        "voting_power": 661282970041220,
+        "is_validator": true,
+        "moniker": "ruangnode",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 1312001,
+        "latest_block_height": 2822764,
+        "blocks_indexed": 2822763,
+        "catching_up": false,
+        "data_since": "2023-12-25T10:05:09.429057566Z"
+    },
+    "142.132.202.50:33657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "cryptobtcbuyer",
+        "network": "entangle_33133-1",
+        "tx_index": "off",
+        "earliest_block_height": 2722764,
+        "latest_block_height": 2822764,
+        "blocks_indexed": 2822763,
+        "catching_up": false,
+        "data_since": "2024-03-20T08:23:59.017466097Z"
     }
 }

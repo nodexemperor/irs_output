@@ -1,26 +1,26 @@
 {
-    "144.217.68.182:26357": {
-        "voting_power": 20071166,
-        "is_validator": true,
-        "moniker": "Nodeist-side-test",
-        "network": "side-testnet-2",
-        "tx_index": "off",
-        "earliest_block_height": 123001,
-        "latest_block_height": 400322,
-        "blocks_indexed": 400321,
+    "202.182.119.24:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "freebird",
+        "network": "side-testnet-3",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 6,
+        "blocks_indexed": 5,
         "catching_up": false,
-        "data_since": "2024-03-01T15:24:08.508270069Z"
+        "data_since": "2024-03-26T15:00:00Z"
     },
     "135.181.210.171:21307": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "STAVR-Service",
-        "network": "side-testnet-2",
+        "network": "side-testnet-3",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "earliest_block_height": 1,
+        "latest_block_height": 6,
+        "blocks_indexed": 5,
+        "catching_up": false,
+        "data_since": "2024-03-26T15:00:00Z"
     }
 }
