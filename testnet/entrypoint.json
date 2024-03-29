@@ -5,11 +5,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 2289899,
-        "latest_block_height": 2389899,
-        "blocks_indexed": 2389898,
+        "earliest_block_height": 2304763,
+        "latest_block_height": 2404763,
+        "blocks_indexed": 2404762,
         "catching_up": false,
-        "data_since": "2024-03-21T10:25:18.394679284Z"
+        "data_since": "2024-03-22T10:11:00.363721574Z"
     },
     "49.12.123.87:21117": {
         "voting_power": 100099,
@@ -18,8 +18,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2389899,
-        "blocks_indexed": 2389898,
+        "latest_block_height": 2404763,
+        "blocks_indexed": 2404762,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2389899,
-        "blocks_indexed": 2389898,
+        "latest_block_height": 2404764,
+        "blocks_indexed": 2404763,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -42,9 +42,21 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2389899,
-        "blocks_indexed": 2389898,
+        "latest_block_height": 2404764,
+        "blocks_indexed": 2404763,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
+    },
+    "217.76.53.171:12957": {
+        "voting_power": 1419,
+        "is_validator": true,
+        "moniker": "vtbentry",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 1795001,
+        "latest_block_height": 2373485,
+        "blocks_indexed": 2373484,
+        "catching_up": false,
+        "data_since": "2024-02-17T11:41:21.569691201Z"
     }
 }

@@ -1,40 +1,4 @@
 {
-    "148.251.235.130:11657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "snap-gitopia",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 14941501,
-        "latest_block_height": 16031339,
-        "blocks_indexed": 16031338,
-        "catching_up": false,
-        "data_since": "2024-03-07T10:12:23.345131992Z"
-    },
-    "142.132.202.86:20001": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ramuchi.tech",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 6548337,
-        "latest_block_height": 16031322,
-        "blocks_indexed": 16031321,
-        "catching_up": false,
-        "data_since": "2023-09-26T06:52:56.377866367Z"
-    },
-    "144.126.200.166:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "tester-121",
-        "network": "gitopia",
-        "tx_index": "off",
-        "earliest_block_height": 12832814,
-        "latest_block_height": 16031334,
-        "blocks_indexed": 16031333,
-        "catching_up": false,
-        "data_since": "2024-01-26T09:59:44.619286633Z"
-    },
     "65.108.75.107:30657": {
         "voting_power": 0,
         "is_validator": false,
@@ -42,8 +6,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 15146660,
-        "latest_block_height": 16031336,
-        "blocks_indexed": 16031335,
+        "latest_block_height": 16084133,
+        "blocks_indexed": 16084132,
         "catching_up": false,
         "data_since": "2024-03-11T08:59:42.384453616Z"
     },
@@ -54,10 +18,46 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 15787601,
-        "latest_block_height": 16031331,
-        "blocks_indexed": 16031330,
+        "latest_block_height": 16084129,
+        "blocks_indexed": 16084128,
         "catching_up": false,
         "data_since": "2024-03-23T10:52:00.0882186Z"
+    },
+    "142.132.202.86:20001": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ramuchi.tech",
+        "network": "gitopia",
+        "tx_index": "on",
+        "earliest_block_height": 6548337,
+        "latest_block_height": 16084120,
+        "blocks_indexed": 16084119,
+        "catching_up": false,
+        "data_since": "2023-09-26T06:52:56.377866367Z"
+    },
+    "148.251.235.130:11657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "snap-gitopia",
+        "network": "gitopia",
+        "tx_index": "on",
+        "earliest_block_height": 14941501,
+        "latest_block_height": 16084131,
+        "blocks_indexed": 16084130,
+        "catching_up": false,
+        "data_since": "2024-03-07T10:12:23.345131992Z"
+    },
+    "144.126.200.166:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "tester-121",
+        "network": "gitopia",
+        "tx_index": "off",
+        "earliest_block_height": 12832814,
+        "latest_block_height": 16084131,
+        "blocks_indexed": 16084130,
+        "catching_up": false,
+        "data_since": "2024-01-26T09:59:44.619286633Z"
     },
     "66.45.246.166:51057": {
         "voting_power": 0,
@@ -65,23 +65,11 @@
         "moniker": "STAVR-Service",
         "network": "gitopia",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "135.181.133.249:12857": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "StakeUp_rpc",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 8010001,
-        "latest_block_height": 16031333,
-        "blocks_indexed": 16031332,
+        "earliest_block_height": 16071301,
+        "latest_block_height": 16083854,
+        "blocks_indexed": 16083853,
         "catching_up": false,
-        "data_since": "2023-10-24T13:48:21.095777866Z"
+        "data_since": "2024-03-28T18:52:27.197296478Z"
     },
     "138.201.21.197:26657": {
         "voting_power": 0,
@@ -90,22 +78,10 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 12733501,
-        "latest_block_height": 16031335,
-        "blocks_indexed": 16031334,
+        "latest_block_height": 16084138,
+        "blocks_indexed": 16084137,
         "catching_up": false,
         "data_since": "2024-01-24T10:51:45.085072712Z"
-    },
-    "188.165.232.199:26667": {
-        "voting_power": 18667,
-        "is_validator": true,
-        "moniker": "CyrptoNet",
-        "network": "gitopia",
-        "tx_index": "off",
-        "earliest_block_height": 15044042,
-        "latest_block_height": 16031335,
-        "blocks_indexed": 16031334,
-        "catching_up": false,
-        "data_since": "2024-03-09T09:59:43.67884871Z"
     },
     "144.76.29.90:46657": {
         "voting_power": 0,
@@ -114,10 +90,22 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 13035301,
-        "latest_block_height": 16031322,
-        "blocks_indexed": 16031321,
+        "latest_block_height": 16084115,
+        "blocks_indexed": 16084114,
         "catching_up": false,
         "data_since": "2024-01-30T09:19:13.306575374Z"
+    },
+    "135.181.133.249:12857": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "StakeUp_rpc",
+        "network": "gitopia",
+        "tx_index": "on",
+        "earliest_block_height": 8010001,
+        "latest_block_height": 16084132,
+        "blocks_indexed": 16084131,
+        "catching_up": false,
+        "data_since": "2023-10-24T13:48:21.095777866Z"
     },
     "65.108.141.109:30657": {
         "voting_power": 0,
@@ -126,10 +114,22 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 15095965,
-        "latest_block_height": 16031340,
-        "blocks_indexed": 16031339,
+        "latest_block_height": 16084131,
+        "blocks_indexed": 16084130,
         "catching_up": false,
         "data_since": "2024-03-10T09:59:43.5595131Z"
+    },
+    "188.165.232.199:26667": {
+        "voting_power": 18667,
+        "is_validator": true,
+        "moniker": "CyrptoNet",
+        "network": "gitopia",
+        "tx_index": "off",
+        "earliest_block_height": 15044042,
+        "latest_block_height": 16084132,
+        "blocks_indexed": 16084131,
+        "catching_up": false,
+        "data_since": "2024-03-09T09:59:43.67884871Z"
     },
     "152.53.16.81:27057": {
         "voting_power": 0,
@@ -138,21 +138,9 @@
         "network": "gitopia",
         "tx_index": "off",
         "earliest_block_height": 15970501,
-        "latest_block_height": 16031324,
-        "blocks_indexed": 16031323,
+        "latest_block_height": 16084122,
+        "blocks_indexed": 16084121,
         "catching_up": false,
         "data_since": "2024-03-26T21:26:35.315431887Z"
-    },
-    "176.9.48.38:40257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 15437001,
-        "latest_block_height": 16031338,
-        "blocks_indexed": 16031337,
-        "catching_up": false,
-        "data_since": "2024-03-16T20:11:35.948621731Z"
     }
 }

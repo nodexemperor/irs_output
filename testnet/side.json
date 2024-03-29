@@ -6,8 +6,8 @@
         "network": "side-testnet-3",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 14495,
-        "blocks_indexed": 14494,
+        "latest_block_height": 28548,
+        "blocks_indexed": 28547,
         "catching_up": false,
         "data_since": "2024-03-26T15:00:00Z"
     },
@@ -18,9 +18,21 @@
         "network": "side-testnet-3",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 14496,
-        "blocks_indexed": 14495,
+        "latest_block_height": 28546,
+        "blocks_indexed": 28545,
         "catching_up": false,
         "data_since": "2024-03-26T15:00:00Z"
+    },
+    "185.188.249.46:45657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BonyNodePublic",
+        "network": "side-testnet-3",
+        "tx_index": "off",
+        "earliest_block_height": 1001,
+        "latest_block_height": 28545,
+        "blocks_indexed": 28544,
+        "catching_up": false,
+        "data_since": "2024-03-27T03:49:10.247203329Z"
     }
 }

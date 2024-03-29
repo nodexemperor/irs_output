@@ -5,23 +5,11 @@
         "moniker": "node1",
         "network": "router_9601-1",
         "tx_index": "on",
-        "earliest_block_height": 10246728,
-        "latest_block_height": 10346728,
-        "blocks_indexed": 10346727,
+        "earliest_block_height": 10308908,
+        "latest_block_height": 10408908,
+        "blocks_indexed": 10408907,
         "catching_up": false,
-        "data_since": "2024-03-26T18:40:54.770717487Z"
-    },
-    "13.235.115.79:26657": {
-        "voting_power": 1197692,
-        "is_validator": true,
-        "moniker": "node0",
-        "network": "router_9601-1",
-        "tx_index": "on",
-        "earliest_block_height": 10246723,
-        "latest_block_height": 10346723,
-        "blocks_indexed": 10346722,
-        "catching_up": false,
-        "data_since": "2024-03-26T18:40:49.770717487Z"
+        "data_since": "2024-03-27T11:57:14.770717487Z"
     },
     "43.205.136.8:26657": {
         "voting_power": 1338654,
@@ -29,11 +17,11 @@
         "moniker": "node2",
         "network": "router_9601-1",
         "tx_index": "on",
-        "earliest_block_height": 10246726,
-        "latest_block_height": 10346726,
-        "blocks_indexed": 10346725,
+        "earliest_block_height": 10308907,
+        "latest_block_height": 10408908,
+        "blocks_indexed": 10408907,
         "catching_up": false,
-        "data_since": "2024-03-26T18:40:52.770717487Z"
+        "data_since": "2024-03-27T11:57:13.770717487Z"
     },
     "136.243.88.91:3101": {
         "voting_power": 186,
@@ -42,9 +30,21 @@
         "network": "router_9601-1",
         "tx_index": "on",
         "earliest_block_height": 1548001,
-        "latest_block_height": 10346726,
-        "blocks_indexed": 10346725,
+        "latest_block_height": 10408907,
+        "blocks_indexed": 10408906,
         "catching_up": false,
         "data_since": "2023-10-15T18:48:19.538687188Z"
+    },
+    "13.235.115.79:26657": {
+        "voting_power": 1197692,
+        "is_validator": true,
+        "moniker": "node0",
+        "network": "router_9601-1",
+        "tx_index": "on",
+        "earliest_block_height": 10308904,
+        "latest_block_height": 10408904,
+        "blocks_indexed": 10408903,
+        "catching_up": false,
+        "data_since": "2024-03-27T11:57:10.770717487Z"
     }
 }
