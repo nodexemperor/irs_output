@@ -1,15 +1,15 @@
 {
     "194.163.165.176:38657": {
-        "voting_power": 98,
-        "is_validator": true,
+        "voting_power": 0,
+        "is_validator": false,
         "moniker": "cryptobtcbuyer",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 2334867,
-        "latest_block_height": 2434867,
-        "blocks_indexed": 2434866,
+        "earliest_block_height": 2349967,
+        "latest_block_height": 2449967,
+        "blocks_indexed": 2449966,
         "catching_up": false,
-        "data_since": "2024-03-24T10:09:48.781939371Z"
+        "data_since": "2024-03-25T10:17:52.994813289Z"
     },
     "49.12.123.87:21117": {
         "voting_power": 100099,
@@ -18,8 +18,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2434867,
-        "blocks_indexed": 2434866,
+        "latest_block_height": 2449967,
+        "blocks_indexed": 2449966,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2434867,
-        "blocks_indexed": 2434866,
+        "latest_block_height": 2449967,
+        "blocks_indexed": 2449966,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -42,21 +42,9 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2434867,
-        "blocks_indexed": 2434866,
+        "latest_block_height": 2449967,
+        "blocks_indexed": 2449966,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
-    },
-    "217.76.53.171:12957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "vtbentry",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 1795001,
-        "latest_block_height": 2434868,
-        "blocks_indexed": 2434867,
-        "catching_up": false,
-        "data_since": "2024-02-17T11:41:21.569691201Z"
     }
 }
