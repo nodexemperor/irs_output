@@ -1,4 +1,28 @@
 {
+    "95.216.242.118:36657": {
+        "voting_power": 1049053,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "side-testnet-3",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 98095,
+        "blocks_indexed": 98094,
+        "catching_up": false,
+        "data_since": "2024-03-26T15:00:00Z"
+    },
+    "95.217.41.157:46657": {
+        "voting_power": 1147,
+        "is_validator": true,
+        "moniker": "verajuanluis",
+        "network": "side-testnet-3",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 98096,
+        "blocks_indexed": 98095,
+        "catching_up": false,
+        "data_since": "2024-03-26T15:00:00Z"
+    },
     "202.182.119.24:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,44 +30,20 @@
         "network": "side-testnet-3",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 84218,
-        "blocks_indexed": 84217,
+        "latest_block_height": 98096,
+        "blocks_indexed": 98095,
         "catching_up": false,
         "data_since": "2024-03-26T15:00:00Z"
     },
-    "95.216.242.118:36657": {
-        "voting_power": 1045973,
-        "is_validator": true,
-        "moniker": "Sr20de",
+    "135.181.210.171:21307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "side-testnet-3",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 84218,
-        "blocks_indexed": 84217,
-        "catching_up": false,
-        "data_since": "2024-03-26T15:00:00Z"
-    },
-    "135.181.138.231:46657": {
-        "voting_power": 2246,
-        "is_validator": true,
-        "moniker": "anthonyanderson",
-        "network": "side-testnet-3",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 84218,
-        "blocks_indexed": 84217,
-        "catching_up": false,
-        "data_since": "2024-03-26T15:00:00Z"
-    },
-    "95.217.41.157:46657": {
-        "voting_power": 1101,
-        "is_validator": true,
-        "moniker": "verajuanluis",
-        "network": "side-testnet-3",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 84218,
-        "blocks_indexed": 84217,
+        "latest_block_height": 98092,
+        "blocks_indexed": 98091,
         "catching_up": false,
         "data_since": "2024-03-26T15:00:00Z"
     }
