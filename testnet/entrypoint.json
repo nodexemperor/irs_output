@@ -1,27 +1,15 @@
 {
-    "194.163.165.176:38657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "cryptobtcbuyer",
+    "217.76.53.171:12957": {
+        "voting_power": 1419,
+        "is_validator": true,
+        "moniker": "vtbentry",
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
-        "earliest_block_height": 2382856,
-        "latest_block_height": 2482856,
-        "blocks_indexed": 2482855,
+        "earliest_block_height": 1795001,
+        "latest_block_height": 2495215,
+        "blocks_indexed": 2495214,
         "catching_up": false,
-        "data_since": "2024-03-27T14:42:09.701243603Z"
-    },
-    "49.12.123.87:21117": {
-        "voting_power": 100099,
-        "is_validator": true,
-        "moniker": "cxfbfdgb",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2482856,
-        "blocks_indexed": 2482855,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
+        "data_since": "2024-02-17T11:41:21.569691201Z"
     },
     "65.108.206.118:61257": {
         "voting_power": 100100,
@@ -30,10 +18,22 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2482856,
-        "blocks_indexed": 2482855,
+        "latest_block_height": 2495216,
+        "blocks_indexed": 2495215,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
+    },
+    "194.163.165.176:38657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "cryptobtcbuyer",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "off",
+        "earliest_block_height": 2395216,
+        "latest_block_height": 2495216,
+        "blocks_indexed": 2495215,
+        "catching_up": false,
+        "data_since": "2024-03-28T10:27:17.945646461Z"
     },
     "95.217.40.230:22227": {
         "voting_power": 100099,
@@ -42,21 +42,9 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2482856,
-        "blocks_indexed": 2482855,
+        "latest_block_height": 2495216,
+        "blocks_indexed": 2495215,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
-    },
-    "217.76.53.171:12957": {
-        "voting_power": 1419,
-        "is_validator": true,
-        "moniker": "vtbentry",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "off",
-        "earliest_block_height": 1795001,
-        "latest_block_height": 2482856,
-        "blocks_indexed": 2482855,
-        "catching_up": false,
-        "data_since": "2024-02-17T11:41:21.569691201Z"
     }
 }

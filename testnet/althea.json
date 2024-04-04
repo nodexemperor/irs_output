@@ -6,22 +6,10 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 1943001,
-        "latest_block_height": 4047604,
-        "blocks_indexed": 4047603,
+        "latest_block_height": 4059972,
+        "blocks_indexed": 4059971,
         "catching_up": false,
         "data_since": "2023-11-15T23:03:53.595985854Z"
-    },
-    "49.12.84.248:56657": {
-        "voting_power": 1,
-        "is_validator": true,
-        "moniker": "[NODERS]TEAM",
-        "network": "althea_417834-4",
-        "tx_index": "off",
-        "earliest_block_height": 362001,
-        "latest_block_height": 395473,
-        "blocks_indexed": 395472,
-        "catching_up": false,
-        "data_since": "2024-03-31T23:58:07.81345216Z"
     },
     "65.19.136.133:23297": {
         "voting_power": 0,
@@ -30,9 +18,21 @@
         "network": "althea_417834-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 395473,
-        "blocks_indexed": 395472,
+        "latest_block_height": 407695,
+        "blocks_indexed": 407694,
         "catching_up": false,
         "data_since": "2024-02-28T01:10:12.364408194Z"
+    },
+    "49.12.84.248:56657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "[NODERS]TEAM",
+        "network": "althea_417834-4",
+        "tx_index": "off",
+        "earliest_block_height": 362001,
+        "latest_block_height": 407695,
+        "blocks_indexed": 407694,
+        "catching_up": false,
+        "data_since": "2024-03-31T23:58:07.81345216Z"
     }
 }
