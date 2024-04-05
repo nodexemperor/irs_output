@@ -1,16 +1,4 @@
 {
-    "116.202.162.188:12657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "[NODERS]TEAM",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 354001,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
-        "catching_up": false,
-        "data_since": "2024-03-26T13:22:40.106813Z"
-    },
     "94.130.35.35:13657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,10 +6,22 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "116.202.162.188:12657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "[NODERS]TEAM",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 354001,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
+        "catching_up": false,
+        "data_since": "2024-03-26T13:22:40.106813Z"
     },
     "185.182.194.239:26657": {
         "voting_power": 999900,
@@ -30,8 +30,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
@@ -42,34 +42,22 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 445004,
-        "blocks_indexed": 445003,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
-    "13.41.125.154:26657": {
-        "voting_power": 2000000,
-        "is_validator": true,
-        "moniker": "SEDA-node1",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
-        "catching_up": false,
-        "data_since": "2024-02-22T14:00:00Z"
-    },
-    "95.217.200.98:24657": {
+    "65.21.28.22:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "[NODERS]SERVICES",
+        "moniker": "BlackNodes",
         "network": "seda-1-testnet",
         "tx_index": "on",
-        "earliest_block_height": 352001,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "earliest_block_height": 0,
+        "latest_block_height": 455784,
+        "blocks_indexed": 455783,
         "catching_up": false,
-        "data_since": "2024-03-26T08:56:46.698983064Z"
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "65.21.32.200:44657": {
         "voting_power": 999800,
@@ -78,8 +66,8 @@
         "network": "seda-1-testnet",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455784,
+        "blocks_indexed": 455783,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -90,22 +78,10 @@
         "network": "seda-1-testnet",
         "tx_index": "off",
         "earliest_block_height": 377001,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455784,
+        "blocks_indexed": 455783,
         "catching_up": false,
         "data_since": "2024-03-28T17:42:52.590767107Z"
-    },
-    "65.21.28.22:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BlackNodes",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
     },
     "51.79.79.194:26657": {
         "voting_power": 1000000,
@@ -114,22 +90,34 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 62001,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455784,
+        "blocks_indexed": 455783,
         "catching_up": false,
         "data_since": "2024-02-28T06:59:32.461520174Z"
     },
-    "51.159.191.177:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Meria",
+    "13.41.125.154:26657": {
+        "voting_power": 2000000,
+        "is_validator": true,
+        "moniker": "SEDA-node1",
         "network": "seda-1-testnet",
         "tx_index": "on",
-        "earliest_block_height": 420001,
-        "latest_block_height": 437684,
-        "blocks_indexed": 437683,
+        "earliest_block_height": 1,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
         "catching_up": false,
-        "data_since": "2024-04-01T18:32:42.399697039Z"
+        "data_since": "2024-02-22T14:00:00Z"
+    },
+    "95.217.200.98:24657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "[NODERS]SERVICES",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 352001,
+        "latest_block_height": 455784,
+        "blocks_indexed": 455783,
+        "catching_up": false,
+        "data_since": "2024-03-26T08:56:46.698983064Z"
     },
     "168.119.10.134:22657": {
         "voting_power": 0,
@@ -138,8 +126,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 67001,
-        "latest_block_height": 445003,
-        "blocks_indexed": 445002,
+        "latest_block_height": 455785,
+        "blocks_indexed": 455784,
         "catching_up": false,
         "data_since": "2024-02-28T17:53:03.907564638Z"
     }
