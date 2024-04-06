@@ -1,4 +1,16 @@
 {
+    "148.251.235.130:22657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "alfama",
+        "tx_index": "off",
+        "earliest_block_height": 406001,
+        "latest_block_height": 533543,
+        "blocks_indexed": 533542,
+        "catching_up": false,
+        "data_since": "2024-03-28T15:42:01.274999826Z"
+    },
     "65.109.88.254:33657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,10 +18,34 @@
         "network": "alfama",
         "tx_index": "on",
         "earliest_block_height": 185001,
-        "latest_block_height": 518404,
-        "blocks_indexed": 518403,
+        "latest_block_height": 533543,
+        "blocks_indexed": 533542,
         "catching_up": false,
         "data_since": "2024-03-13T18:37:55.896966878Z"
+    },
+    "27.79.232.240:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "phuc",
+        "network": "avail_6562732-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 175327,
+        "blocks_indexed": 175326,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
+    },
+    "118.70.236.106:26657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "phuc",
+        "network": "avail_9429136-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 175401,
+        "blocks_indexed": 175400,
+        "catching_up": false,
+        "data_since": "0001-01-01T00:00:00Z"
     },
     "144.76.29.90:26657": {
         "voting_power": 0,
@@ -18,8 +54,8 @@
         "network": "alfama",
         "tx_index": "on",
         "earliest_block_height": 314001,
-        "latest_block_height": 518404,
-        "blocks_indexed": 518403,
+        "latest_block_height": 533544,
+        "blocks_indexed": 533543,
         "catching_up": false,
         "data_since": "2024-03-22T10:51:14.064342156Z"
     },
@@ -30,8 +66,8 @@
         "network": "alfama",
         "tx_index": "on",
         "earliest_block_height": 384001,
-        "latest_block_height": 518404,
-        "blocks_indexed": 518403,
+        "latest_block_height": 533544,
+        "blocks_indexed": 533543,
         "catching_up": false,
         "data_since": "2024-03-27T04:25:45.174912718Z"
     }

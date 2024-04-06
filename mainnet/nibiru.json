@@ -1,15 +1,15 @@
 {
-    "167.235.14.83:27657": {
+    "65.108.96.108:61057": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "APPIE | AKNodes",
+        "moniker": "SiriusNodes_rpc",
         "network": "cataclysm-1",
         "tx_index": "on",
-        "earliest_block_height": 4586001,
-        "latest_block_height": 4664750,
-        "blocks_indexed": 4664749,
+        "earliest_block_height": 3155001,
+        "latest_block_height": 4704449,
+        "blocks_indexed": 4704448,
         "catching_up": false,
-        "data_since": "2024-04-03T01:49:42.164461422Z"
+        "data_since": "2024-02-26T19:48:57.833960331Z"
     },
     "144.76.236.49:60557": {
         "voting_power": 0,
@@ -18,22 +18,10 @@
         "network": "cataclysm-1",
         "tx_index": "off",
         "earliest_block_height": 4599001,
-        "latest_block_height": 4664749,
-        "blocks_indexed": 4664748,
+        "latest_block_height": 4704456,
+        "blocks_indexed": 4704455,
         "catching_up": false,
         "data_since": "2024-04-03T09:35:56.02346922Z"
-    },
-    "65.108.96.108:61057": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "SiriusNodes_rpc",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 3155001,
-        "latest_block_height": 4664750,
-        "blocks_indexed": 4664749,
-        "catching_up": false,
-        "data_since": "2024-02-26T19:48:57.833960331Z"
     },
     "144.76.29.90:60657": {
         "voting_power": 0,
@@ -42,9 +30,21 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 2241001,
-        "latest_block_height": 4664739,
-        "blocks_indexed": 4664738,
+        "latest_block_height": 4704450,
+        "blocks_indexed": 4704449,
         "catching_up": false,
         "data_since": "2024-01-30T10:59:07.564085179Z"
+    },
+    "167.235.14.83:27657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "APPIE | AKNodes",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 4586001,
+        "latest_block_height": 4704450,
+        "blocks_indexed": 4704449,
+        "catching_up": false,
+        "data_since": "2024-04-03T01:49:42.164461422Z"
     }
 }

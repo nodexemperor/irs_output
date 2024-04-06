@@ -5,11 +5,11 @@
         "moniker": "STAVR-Service",
         "network": "andromeda-1",
         "tx_index": "on",
-        "earliest_block_height": 1951001,
-        "latest_block_height": 1951791,
-        "blocks_indexed": 1951790,
+        "earliest_block_height": 1964001,
+        "latest_block_height": 1966637,
+        "blocks_indexed": 1966636,
         "catching_up": false,
-        "data_since": "2024-04-04T23:18:05.194512098Z"
+        "data_since": "2024-04-05T20:17:43.412669487Z"
     },
     "5.189.151.202:26677": {
         "voting_power": 0,
@@ -17,10 +17,22 @@
         "moniker": "AVIAONE",
         "network": "andromeda-1",
         "tx_index": "on",
-        "earliest_block_height": 1950001,
-        "latest_block_height": 1951790,
-        "blocks_indexed": 1951789,
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
+    "65.108.233.103:14757": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "mainnet-rpc-2",
+        "network": "andromeda-1",
+        "tx_index": "on",
+        "earliest_block_height": 1696401,
+        "latest_block_height": 1966637,
+        "blocks_indexed": 1966636,
         "catching_up": false,
-        "data_since": "2024-04-04T21:41:20.726728528Z"
+        "data_since": "2023-11-15T07:53:19.057139134Z"
     }
 }
