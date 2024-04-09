@@ -1,4 +1,76 @@
 {
+    "95.168.173.33:33657": {
+        "voting_power": 110651,
+        "is_validator": true,
+        "moniker": "RIO-mainnet-prod",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 3944101,
+        "latest_block_height": 6096754,
+        "blocks_indexed": 6096753,
+        "catching_up": false,
+        "data_since": "2023-11-29T13:55:55.686670609Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 137153,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 5987101,
+        "latest_block_height": 6096754,
+        "blocks_indexed": 6096753,
+        "catching_up": false,
+        "data_since": "2024-04-01T17:26:31.569720854Z"
+    },
+    "173.249.59.70:32657": {
+        "voting_power": 104096,
+        "is_validator": true,
+        "moniker": "moodman",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 5996726,
+        "latest_block_height": 6096726,
+        "blocks_indexed": 6096725,
+        "catching_up": false,
+        "data_since": "2024-04-03T02:11:04.344335746Z"
+    },
+    "65.108.41.177:29657": {
+        "voting_power": 406501,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 5987101,
+        "latest_block_height": 6096754,
+        "blocks_indexed": 6096753,
+        "catching_up": false,
+        "data_since": "2024-04-01T17:26:31.569720854Z"
+    },
+    "157.230.226.22:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Realio Network RPC",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 6096699,
+        "blocks_indexed": 6096698,
+        "catching_up": false,
+        "data_since": "2023-04-07T17:00:00Z"
+    },
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 6093901,
+        "latest_block_height": 6096754,
+        "blocks_indexed": 6096753,
+        "catching_up": false,
+        "data_since": "2024-04-08T21:30:16.385058845Z"
+    },
     "65.108.66.174:45657": {
         "voting_power": 0,
         "is_validator": false,
@@ -10,77 +82,5 @@
         "blocks_indexed": 5988999,
         "catching_up": false,
         "data_since": "2024-02-25T10:30:11.116763254Z"
-    },
-    "173.249.59.70:32657": {
-        "voting_power": 104096,
-        "is_validator": true,
-        "moniker": "moodman",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 5979873,
-        "latest_block_height": 6079873,
-        "blocks_indexed": 6079872,
-        "catching_up": false,
-        "data_since": "2024-04-01T07:00:06.200457343Z"
-    },
-    "65.108.41.177:29657": {
-        "voting_power": 406501,
-        "is_validator": true,
-        "moniker": "NodeName",
-        "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 5987101,
-        "latest_block_height": 6079901,
-        "blocks_indexed": 6079900,
-        "catching_up": false,
-        "data_since": "2024-04-01T17:26:31.569720854Z"
-    },
-    "95.168.173.33:33657": {
-        "voting_power": 110650,
-        "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 6079901,
-        "blocks_indexed": 6079900,
-        "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
-    },
-    "157.230.226.22:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Realio Network RPC",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 6079846,
-        "blocks_indexed": 6079845,
-        "catching_up": false,
-        "data_since": "2023-04-07T17:00:00Z"
-    },
-    "46.17.250.108:56657": {
-        "voting_power": 137128,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 5987101,
-        "latest_block_height": 6079901,
-        "blocks_indexed": 6079900,
-        "catching_up": false,
-        "data_since": "2024-04-01T17:26:31.569720854Z"
-    },
-    "135.181.210.171:21097": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 6079701,
-        "latest_block_height": 6079902,
-        "blocks_indexed": 6079901,
-        "catching_up": false,
-        "data_since": "2024-04-08T01:11:21.767660338Z"
     }
 }
