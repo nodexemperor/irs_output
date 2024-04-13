@@ -1,16 +1,4 @@
 {
-    "65.109.33.48:23657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 1408001,
-        "latest_block_height": 4675546,
-        "blocks_indexed": 4675545,
-        "catching_up": false,
-        "data_since": "2023-09-07T17:28:22.459390544Z"
-    },
     "93.159.130.4:36657": {
         "voting_power": 13216640,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 2026379,
-        "latest_block_height": 4675571,
-        "blocks_indexed": 4675570,
+        "latest_block_height": 4690727,
+        "blocks_indexed": 4690726,
         "catching_up": false,
         "data_since": "2023-10-19T09:36:50.238403569Z"
     },
@@ -30,9 +18,21 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 1537001,
-        "latest_block_height": 4675545,
-        "blocks_indexed": 4675544,
+        "latest_block_height": 4690702,
+        "blocks_indexed": 4690701,
         "catching_up": false,
         "data_since": "2023-09-16T09:45:38.032641722Z"
+    },
+    "65.109.33.48:23657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 1408001,
+        "latest_block_height": 4690702,
+        "blocks_indexed": 4690701,
+        "catching_up": false,
+        "data_since": "2023-09-07T17:28:22.459390544Z"
     }
 }
