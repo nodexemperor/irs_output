@@ -6,22 +6,10 @@
         "network": "althea_417834-3",
         "tx_index": "on",
         "earliest_block_height": 1943001,
-        "latest_block_height": 4197865,
-        "blocks_indexed": 4197864,
+        "latest_block_height": 4213361,
+        "blocks_indexed": 4213360,
         "catching_up": false,
         "data_since": "2023-11-15T23:03:53.595985854Z"
-    },
-    "49.12.84.248:56657": {
-        "voting_power": 1,
-        "is_validator": true,
-        "moniker": "[NODERS]TEAM",
-        "network": "althea_417834-4",
-        "tx_index": "off",
-        "earliest_block_height": 362001,
-        "latest_block_height": 539425,
-        "blocks_indexed": 539424,
-        "catching_up": false,
-        "data_since": "2024-03-31T23:58:07.81345216Z"
     },
     "65.19.136.133:23297": {
         "voting_power": 0,
@@ -30,9 +18,33 @@
         "network": "althea_417834-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 539425,
-        "blocks_indexed": 539424,
+        "latest_block_height": 554072,
+        "blocks_indexed": 554071,
         "catching_up": false,
         "data_since": "2024-02-28T01:10:12.364408194Z"
+    },
+    "49.12.84.248:56657": {
+        "voting_power": 1,
+        "is_validator": true,
+        "moniker": "[NODERS]TEAM",
+        "network": "althea_417834-4",
+        "tx_index": "off",
+        "earliest_block_height": 362001,
+        "latest_block_height": 554072,
+        "blocks_indexed": 554071,
+        "catching_up": false,
+        "data_since": "2024-03-31T23:58:07.81345216Z"
+    },
+    "135.181.210.171:17887": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "althea_417834-4",
+        "tx_index": "on",
+        "earliest_block_height": 551001,
+        "latest_block_height": 554072,
+        "blocks_indexed": 554071,
+        "catching_up": false,
+        "data_since": "2024-04-13T20:44:32.15572507Z"
     }
 }

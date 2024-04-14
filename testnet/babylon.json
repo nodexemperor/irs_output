@@ -1,16 +1,4 @@
 {
-    "176.9.30.14:45657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Gnatukroman",
-        "network": "bbn-test-3",
-        "tx_index": "off",
-        "earliest_block_height": 47001,
-        "latest_block_height": 179510,
-        "blocks_indexed": 179509,
-        "catching_up": false,
-        "data_since": "2024-02-26T06:36:11.271017393Z"
-    },
     "130.185.239.124:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,21 +6,57 @@
         "network": "bbn-test-3",
         "tx_index": "off",
         "earliest_block_height": 135119,
-        "latest_block_height": 150527,
-        "blocks_indexed": 150526,
+        "latest_block_height": 150801,
+        "blocks_indexed": 150800,
         "catching_up": true,
         "data_since": "2024-03-28T08:54:24.802908486Z"
     },
-    "148.251.90.138:45657": {
+    "149.248.7.247:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "D.valerievich7",
+        "moniker": "babylon",
         "network": "bbn-test-3",
         "tx_index": "on",
-        "earliest_block_height": 117639,
-        "latest_block_height": 179510,
-        "blocks_indexed": 179509,
+        "earliest_block_height": 174001,
+        "latest_block_height": 182286,
+        "blocks_indexed": 182285,
         "catching_up": false,
-        "data_since": "2024-03-22T07:06:56.584079222Z"
+        "data_since": "2024-04-11T02:11:47.357043941Z"
+    },
+    "65.109.113.233:20657": {
+        "voting_power": 7204470,
+        "is_validator": true,
+        "moniker": "hello-babylon-testrelay",
+        "network": "bbn-test-3",
+        "tx_index": "on",
+        "earliest_block_height": 141606,
+        "latest_block_height": 182286,
+        "blocks_indexed": 182285,
+        "catching_up": false,
+        "data_since": "2024-03-30T15:55:15.03540917Z"
+    },
+    "3.136.240.237:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "babylon",
+        "network": "bbn-test-3",
+        "tx_index": "on",
+        "earliest_block_height": 66001,
+        "latest_block_height": 182286,
+        "blocks_indexed": 182285,
+        "catching_up": false,
+        "data_since": "2024-03-04T09:25:39.384173817Z"
+    },
+    "135.181.162.182:45657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "jasonturner",
+        "network": "bbn-test-3",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 182286,
+        "blocks_indexed": 182285,
+        "catching_up": false,
+        "data_since": "2024-02-08T14:11:01Z"
     }
 }
