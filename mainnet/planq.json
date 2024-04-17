@@ -1,25 +1,25 @@
 {
-    "66.45.246.166:1077": {
+    "65.108.66.174:31657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "hello-BccNodesRPC",
         "network": "planq_7070-2",
         "tx_index": "on",
-        "earliest_block_height": 8452501,
-        "latest_block_height": 8455091,
-        "blocks_indexed": 8455090,
+        "earliest_block_height": 7650501,
+        "latest_block_height": 8470927,
+        "blocks_indexed": 8470926,
         "catching_up": false,
-        "data_since": "2024-04-15T21:23:29.100751541Z"
+        "data_since": "2024-02-25T07:17:35.323314651Z"
     },
     "185.190.140.93:14657": {
-        "voting_power": 658171,
+        "voting_power": 658513,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8455091,
-        "blocks_indexed": 8455090,
+        "latest_block_height": 8470926,
+        "blocks_indexed": 8470925,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -29,34 +29,10 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 8454001,
-        "latest_block_height": 8454633,
-        "blocks_indexed": 8454632,
+        "earliest_block_height": 8470001,
+        "latest_block_height": 8470249,
+        "blocks_indexed": 8470248,
         "catching_up": true,
-        "data_since": "2024-04-15T23:40:39.826127837Z"
-    },
-    "95.217.16.83:34657": {
-        "voting_power": 416761,
-        "is_validator": true,
-        "moniker": "MONIKER",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 8112001,
-        "latest_block_height": 8455091,
-        "blocks_indexed": 8455090,
-        "catching_up": false,
-        "data_since": "2024-03-25T09:49:30.597392124Z"
-    },
-    "65.108.66.174:31657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7650501,
-        "latest_block_height": 8455091,
-        "blocks_indexed": 8455090,
-        "catching_up": false,
-        "data_since": "2024-02-25T07:17:35.323314651Z"
+        "data_since": "2024-04-16T23:55:17.311370443Z"
     }
 }

@@ -6,20 +6,32 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 6501401,
-        "latest_block_height": 7415319,
-        "blocks_indexed": 7415318,
+        "latest_block_height": 7431392,
+        "blocks_indexed": 7431391,
         "catching_up": false,
         "data_since": "2024-02-19T09:29:29.426816107Z"
     },
+    "51.15.191.141:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hillsthy-moniker",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 7320755,
+        "latest_block_height": 7431393,
+        "blocks_indexed": 7431392,
+        "catching_up": false,
+        "data_since": "2024-04-10T08:29:01.041483238Z"
+    },
     "15.235.87.88:56657": {
-        "voting_power": 2029950,
+        "voting_power": 2030712,
         "is_validator": true,
         "moniker": "xion",
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7415318,
-        "blocks_indexed": 7415317,
+        "latest_block_height": 7431391,
+        "blocks_indexed": 7431390,
         "catching_up": false,
         "data_since": "2023-04-01T00:00:00Z"
     }
