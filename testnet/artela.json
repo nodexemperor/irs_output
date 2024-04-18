@@ -1,51 +1,27 @@
 {
-    "155.133.26.10:26657": {
+    "194.163.173.76:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "vinidh",
+        "moniker": "alex.duduman",
         "network": "artela_11822-1",
         "tx_index": "off",
         "earliest_block_height": 2850001,
-        "latest_block_height": 5714982,
-        "blocks_indexed": 5714981,
+        "latest_block_height": 5761373,
+        "blocks_indexed": 5761372,
         "catching_up": false,
         "data_since": "2024-02-07T12:32:48.657462813Z"
     },
-    "149.202.124.43:26697": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "shroot",
+    "47.254.93.86:26657": {
+        "voting_power": 10000100,
+        "is_validator": true,
+        "moniker": "node2",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 4385130,
-        "latest_block_height": 5113709,
-        "blocks_indexed": 5113708,
-        "catching_up": true,
-        "data_since": "2024-03-19T21:55:24.154436164Z"
-    },
-    "185.209.223.10:16457": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "babylong",
-        "network": "artela_11822-1",
-        "tx_index": "on",
-        "earliest_block_height": 4657130,
-        "latest_block_height": 5714982,
-        "blocks_indexed": 5714981,
+        "earliest_block_height": 1,
+        "latest_block_height": 5761373,
+        "blocks_indexed": 5761372,
         "catching_up": false,
-        "data_since": "2024-03-25T09:37:39.173217984Z"
-    },
-    "173.212.225.19:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "alexsz3gang",
-        "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 3840001,
-        "latest_block_height": 5714982,
-        "blocks_indexed": 5714981,
-        "catching_up": false,
-        "data_since": "2024-03-06T06:35:14.885092484Z"
+        "data_since": "2024-01-06T11:06:55.019029934Z"
     },
     "47.88.57.107:26657": {
         "voting_power": 10000100,
@@ -54,21 +30,9 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5714984,
-        "blocks_indexed": 5714983,
+        "latest_block_height": 5761376,
+        "blocks_indexed": 5761375,
         "catching_up": false,
-        "data_since": "2024-01-06T11:06:55.019029934Z"
-    },
-    "47.88.91.135:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "forlxdao",
-        "network": "artela_11822-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 906503,
-        "blocks_indexed": 906502,
-        "catching_up": true,
         "data_since": "2024-01-06T11:06:55.019029934Z"
     },
     "47.254.66.177:26657": {
@@ -78,33 +42,81 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5714984,
-        "blocks_indexed": 5714983,
+        "latest_block_height": 5761373,
+        "blocks_indexed": 5761372,
         "catching_up": false,
         "data_since": "2024-01-06T11:06:55.019029934Z"
     },
-    "119.131.216.65:26657": {
+    "185.209.223.10:16457": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "3633",
+        "moniker": "babylong",
         "network": "artela_11822-1",
         "tx_index": "on",
-        "earliest_block_height": 5669001,
-        "latest_block_height": 5704427,
-        "blocks_indexed": 5704426,
-        "catching_up": true,
-        "data_since": "2024-04-16T00:34:10.052980226Z"
+        "earliest_block_height": 4657130,
+        "latest_block_height": 5761374,
+        "blocks_indexed": 5761373,
+        "catching_up": false,
+        "data_since": "2024-03-25T09:37:39.173217984Z"
     },
-    "47.89.230.117:26657": {
-        "voting_power": 10000100,
+    "109.123.235.122:14657": {
+        "voting_power": 16382,
         "is_validator": true,
-        "moniker": "node3",
+        "moniker": "captrep",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 4295130,
+        "latest_block_height": 5761374,
+        "blocks_indexed": 5761373,
+        "catching_up": false,
+        "data_since": "2024-03-18T03:59:47.381282349Z"
+    },
+    "173.212.225.19:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "alexsz3gang",
+        "network": "artela_11822-1",
+        "tx_index": "off",
+        "earliest_block_height": 3840001,
+        "latest_block_height": 5761374,
+        "blocks_indexed": 5761373,
+        "catching_up": false,
+        "data_since": "2024-03-06T06:35:14.885092484Z"
+    },
+    "149.202.124.43:26697": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "shroot",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 4385130,
+        "latest_block_height": 5145949,
+        "blocks_indexed": 5145948,
+        "catching_up": true,
+        "data_since": "2024-03-19T21:55:24.154436164Z"
+    },
+    "47.88.91.135:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "forlxdao",
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5714985,
-        "blocks_indexed": 5714984,
-        "catching_up": false,
+        "latest_block_height": 908477,
+        "blocks_indexed": 908476,
+        "catching_up": true,
         "data_since": "2024-01-06T11:06:55.019029934Z"
+    },
+    "5.196.198.35:26697": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "shroot",
+        "network": "artela_11822-1",
+        "tx_index": "on",
+        "earliest_block_height": 4385130,
+        "latest_block_height": 4915340,
+        "blocks_indexed": 4915339,
+        "catching_up": false,
+        "data_since": "2024-03-19T21:55:24.154436164Z"
     }
 }
