@@ -1,13 +1,13 @@
 {
     "65.109.70.38:26657": {
-        "voting_power": 197718,
+        "voting_power": 198085,
         "is_validator": true,
         "moniker": "Junkers",
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 0,
-        "latest_block_height": 18585913,
-        "blocks_indexed": 18585912,
+        "latest_block_height": 18654461,
+        "blocks_indexed": 18654460,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
@@ -18,8 +18,8 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 16103383,
-        "latest_block_height": 18585798,
-        "blocks_indexed": 18585797,
+        "latest_block_height": 18654341,
+        "blocks_indexed": 18654340,
         "catching_up": false,
         "data_since": "2024-03-07T18:28:55.187247264Z"
     },
@@ -30,22 +30,10 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 15960001,
-        "latest_block_height": 18585909,
-        "blocks_indexed": 18585908,
+        "latest_block_height": 18654458,
+        "blocks_indexed": 18654457,
         "catching_up": false,
         "data_since": "2024-02-27T08:17:44.473040593Z"
-    },
-    "3.134.19.98:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "mainnet-sentry9",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 17434801,
-        "latest_block_height": 18585910,
-        "blocks_indexed": 18585909,
-        "catching_up": false,
-        "data_since": "2024-04-01T03:10:41.488969978Z"
     },
     "65.21.15.100:36002": {
         "voting_power": 0,
@@ -54,22 +42,46 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 15848470,
-        "latest_block_height": 18585908,
-        "blocks_indexed": 18585907,
+        "latest_block_height": 18654457,
+        "blocks_indexed": 18654456,
         "catching_up": false,
         "data_since": "2024-02-19T22:58:58.213078174Z"
     },
-    "95.217.227.117:26657": {
+    "161.97.83.183:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "light8",
+        "moniker": "ORAI_Vanguard_SENTRY",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 16899001,
+        "latest_block_height": 18654466,
+        "blocks_indexed": 18654465,
+        "catching_up": false,
+        "data_since": "2024-03-24T18:27:13.584291911Z"
+    },
+    "161.35.68.114:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Tendermint",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 17434801,
-        "latest_block_height": 18585913,
-        "blocks_indexed": 18585912,
+        "earliest_block_height": 18605462,
+        "latest_block_height": 18654460,
+        "blocks_indexed": 18654459,
         "catching_up": false,
-        "data_since": "2024-04-01T03:10:41.488969978Z"
+        "data_since": "2024-04-19T07:59:48.242125847Z"
+    },
+    "213.199.54.195:26657": {
+        "voting_power": 1823,
+        "is_validator": true,
+        "moniker": "Ubik69",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 17566001,
+        "latest_block_height": 18654464,
+        "blocks_indexed": 18654463,
+        "catching_up": false,
+        "data_since": "2024-04-03T03:43:42.108056975Z"
     },
     "18.191.171.150:26657": {
         "voting_power": 0,
@@ -78,8 +90,32 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 17434801,
-        "latest_block_height": 18585917,
-        "blocks_indexed": 18585916,
+        "latest_block_height": 18654465,
+        "blocks_indexed": 18654464,
+        "catching_up": false,
+        "data_since": "2024-04-01T03:10:41.488969978Z"
+    },
+    "18.198.141.150:26657": {
+        "voting_power": 32613,
+        "is_validator": true,
+        "moniker": "oraichain-validator-01",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 16650390,
+        "latest_block_height": 18654458,
+        "blocks_indexed": 18654457,
+        "catching_up": false,
+        "data_since": "2024-03-21T07:59:49.139018303Z"
+    },
+    "95.217.227.117:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "light8",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 17434801,
+        "latest_block_height": 18654461,
+        "blocks_indexed": 18654460,
         "catching_up": false,
         "data_since": "2024-04-01T03:10:41.488969978Z"
     },
@@ -94,41 +130,5 @@
         "blocks_indexed": -1,
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
-    },
-    "18.198.141.150:26657": {
-        "voting_power": 32607,
-        "is_validator": true,
-        "moniker": "oraichain-validator-01",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 16650390,
-        "latest_block_height": 18585908,
-        "blocks_indexed": 18585907,
-        "catching_up": false,
-        "data_since": "2024-03-21T07:59:49.139018303Z"
-    },
-    "213.199.54.195:26657": {
-        "voting_power": 1823,
-        "is_validator": true,
-        "moniker": "Ubik69",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 17566001,
-        "latest_block_height": 18585916,
-        "blocks_indexed": 18585915,
-        "catching_up": false,
-        "data_since": "2024-04-03T03:43:42.108056975Z"
-    },
-    "167.99.122.42:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "seed",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 17566001,
-        "latest_block_height": 18585917,
-        "blocks_indexed": 18585916,
-        "catching_up": false,
-        "data_since": "2024-04-03T03:43:42.108056975Z"
     }
 }
