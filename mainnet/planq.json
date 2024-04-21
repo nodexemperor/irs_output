@@ -1,25 +1,25 @@
 {
+    "192.99.160.197:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BACKUP_PLANQ",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 8533501,
+        "latest_block_height": 8534019,
+        "blocks_indexed": 8534018,
+        "catching_up": true,
+        "data_since": "2024-04-20T23:53:39.25489449Z"
+    },
     "185.190.140.93:14657": {
-        "voting_power": 658639,
+        "voting_power": 658681,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8518617,
-        "blocks_indexed": 8518616,
-        "catching_up": false,
-        "data_since": "2024-02-25T07:17:35.323314651Z"
-    },
-    "65.108.66.174:31657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7650501,
-        "latest_block_height": 8518617,
-        "blocks_indexed": 8518616,
+        "latest_block_height": 8534485,
+        "blocks_indexed": 8534484,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -29,22 +29,22 @@
         "moniker": "STAVR-Service",
         "network": "planq_7070-2",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "earliest_block_height": 8531001,
+        "latest_block_height": 8534484,
+        "blocks_indexed": 8534483,
+        "catching_up": false,
+        "data_since": "2024-04-20T20:06:59.96111011Z"
     },
-    "192.99.160.197:13657": {
+    "65.108.66.174:31657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "BACKUP_PLANQ",
+        "moniker": "hello-BccNodesRPC",
         "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 8517001,
-        "latest_block_height": 8517777,
-        "blocks_indexed": 8517776,
-        "catching_up": true,
-        "data_since": "2024-04-19T22:59:49.027547096Z"
+        "tx_index": "on",
+        "earliest_block_height": 7650501,
+        "latest_block_height": 8534485,
+        "blocks_indexed": 8534484,
+        "catching_up": false,
+        "data_since": "2024-02-25T07:17:35.323314651Z"
     }
 }

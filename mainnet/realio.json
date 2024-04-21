@@ -1,15 +1,15 @@
 {
-    "135.181.210.171:21097": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
+    "95.168.173.33:33657": {
+        "voting_power": 120592,
+        "is_validator": true,
+        "moniker": "RIO-mainnet-prod",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 6280401,
-        "latest_block_height": 6281965,
-        "blocks_indexed": 6281964,
+        "earliest_block_height": 3944101,
+        "latest_block_height": 6299018,
+        "blocks_indexed": 6299017,
         "catching_up": false,
-        "data_since": "2024-04-19T23:29:22.680600174Z"
+        "data_since": "2023-11-29T13:55:55.686670609Z"
     },
     "173.249.59.70:32657": {
         "voting_power": 104096,
@@ -17,33 +17,21 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 6181938,
-        "latest_block_height": 6281938,
-        "blocks_indexed": 6281937,
+        "earliest_block_height": 6198990,
+        "latest_block_height": 6298990,
+        "blocks_indexed": 6298989,
         "catching_up": false,
-        "data_since": "2024-04-14T03:52:14.869454458Z"
-    },
-    "46.17.250.108:56657": {
-        "voting_power": 185188,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 5987101,
-        "latest_block_height": 6281965,
-        "blocks_indexed": 6281964,
-        "catching_up": false,
-        "data_since": "2024-04-01T17:26:31.569720854Z"
+        "data_since": "2024-04-15T04:15:26.569399435Z"
     },
     "65.108.41.177:29657": {
-        "voting_power": 430587,
+        "voting_power": 430591,
         "is_validator": true,
         "moniker": "NodeName",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 5987101,
-        "latest_block_height": 6281966,
-        "blocks_indexed": 6281965,
+        "latest_block_height": 6299018,
+        "blocks_indexed": 6299017,
         "catching_up": false,
         "data_since": "2024-04-01T17:26:31.569720854Z"
     },
@@ -54,21 +42,33 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6281910,
-        "blocks_indexed": 6281909,
+        "latest_block_height": 6298963,
+        "blocks_indexed": 6298962,
         "catching_up": false,
         "data_since": "2023-04-07T17:00:00Z"
     },
-    "95.168.173.33:33657": {
-        "voting_power": 120206,
+    "46.17.250.108:56657": {
+        "voting_power": 185190,
         "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
+        "moniker": "Sr20de",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 6281966,
-        "blocks_indexed": 6281965,
+        "earliest_block_height": 5987101,
+        "latest_block_height": 6299018,
+        "blocks_indexed": 6299017,
         "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
+        "data_since": "2024-04-01T17:26:31.569720854Z"
+    },
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 6298601,
+        "latest_block_height": 6299018,
+        "blocks_indexed": 6299017,
+        "catching_up": false,
+        "data_since": "2024-04-21T01:02:02.075132431Z"
     }
 }
