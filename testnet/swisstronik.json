@@ -1,15 +1,15 @@
 {
-    "198.244.215.141:25657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "KYN_PUBLIC",
+    "148.113.8.228:26657": {
+        "voting_power": 90000000001002000,
+        "is_validator": true,
+        "moniker": "validator",
         "network": "swisstronik_1291-1",
         "tx_index": "on",
-        "earliest_block_height": 3440001,
-        "latest_block_height": 4627047,
-        "blocks_indexed": 4627046,
+        "earliest_block_height": 780378,
+        "latest_block_height": 4644909,
+        "blocks_indexed": 4644908,
         "catching_up": false,
-        "data_since": "2024-02-14T14:37:01.917238956Z"
+        "data_since": "2023-07-11T18:35:36.615463102Z"
     },
     "141.95.169.103:16657": {
         "voting_power": 0,
@@ -18,8 +18,8 @@
         "network": "swisstronik_1291-1",
         "tx_index": "on",
         "earliest_block_height": 3459001,
-        "latest_block_height": 4627047,
-        "blocks_indexed": 4627046,
+        "latest_block_height": 4644910,
+        "blocks_indexed": 4644909,
         "catching_up": false,
         "data_since": "2024-02-15T19:24:18.99729244Z"
     },
@@ -30,22 +30,10 @@
         "network": "swisstronik_1291-1",
         "tx_index": "on",
         "earliest_block_height": 4583401,
-        "latest_block_height": 4627047,
-        "blocks_indexed": 4627046,
+        "latest_block_height": 4644910,
+        "blocks_indexed": 4644909,
         "catching_up": false,
         "data_since": "2024-04-18T17:12:09.507405121Z"
-    },
-    "148.113.1.172:26657": {
-        "voting_power": 90005093740417135,
-        "is_validator": true,
-        "moniker": "validator2",
-        "network": "swisstronik_1291-1",
-        "tx_index": "on",
-        "earliest_block_height": 780378,
-        "latest_block_height": 4627047,
-        "blocks_indexed": 4627046,
-        "catching_up": false,
-        "data_since": "2023-07-11T18:35:36.615463102Z"
     },
     "37.59.22.150:26657": {
         "voting_power": 10000300000000001,
@@ -54,9 +42,33 @@
         "network": "swisstronik_1291-1",
         "tx_index": "on",
         "earliest_block_height": 3440001,
-        "latest_block_height": 4627047,
-        "blocks_indexed": 4627046,
+        "latest_block_height": 4644910,
+        "blocks_indexed": 4644909,
         "catching_up": false,
         "data_since": "2024-02-14T14:37:01.917238956Z"
+    },
+    "198.244.215.141:25657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "KYN_PUBLIC",
+        "network": "swisstronik_1291-1",
+        "tx_index": "on",
+        "earliest_block_height": 3440001,
+        "latest_block_height": 4644910,
+        "blocks_indexed": 4644909,
+        "catching_up": false,
+        "data_since": "2024-02-14T14:37:01.917238956Z"
+    },
+    "148.113.1.172:26657": {
+        "voting_power": 90005093740417135,
+        "is_validator": true,
+        "moniker": "validator2",
+        "network": "swisstronik_1291-1",
+        "tx_index": "on",
+        "earliest_block_height": 780378,
+        "latest_block_height": 4644910,
+        "blocks_indexed": 4644909,
+        "catching_up": false,
+        "data_since": "2023-07-11T18:35:36.615463102Z"
     }
 }
