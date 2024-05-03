@@ -1,37 +1,25 @@
 {
     "142.132.202.50:29657": {
-        "voting_power": 2,
-        "is_validator": true,
+        "voting_power": 0,
+        "is_validator": false,
         "moniker": "cryptobtcbuyer",
         "network": "mantra-hongbai-1",
         "tx_index": "off",
-        "earliest_block_height": 189589,
-        "latest_block_height": 289589,
-        "blocks_indexed": 289588,
+        "earliest_block_height": 202606,
+        "latest_block_height": 302606,
+        "blocks_indexed": 302605,
         "catching_up": false,
-        "data_since": "2024-04-24T08:58:40.608896957Z"
+        "data_since": "2024-04-25T09:01:25.354209207Z"
     },
     "88.99.254.62:23657": {
-        "voting_power": 2,
+        "voting_power": 3,
         "is_validator": true,
         "moniker": "CryptoNodeID",
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 289590,
-        "blocks_indexed": 289589,
-        "catching_up": false,
-        "data_since": "2024-04-09T14:14:27.188089661Z"
-    },
-    "65.109.88.254:31657": {
-        "voting_power": 13,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 289590,
-        "blocks_indexed": 289589,
+        "latest_block_height": 302607,
+        "blocks_indexed": 302606,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
     },

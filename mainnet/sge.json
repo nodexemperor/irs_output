@@ -6,8 +6,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 2868001,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504422,
+        "blocks_indexed": 3504421,
         "catching_up": false,
         "data_since": "2024-03-20T06:18:00.875302093Z"
     },
@@ -18,8 +18,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3489836,
-        "blocks_indexed": 3489835,
+        "latest_block_height": 3504419,
+        "blocks_indexed": 3504418,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 3232888,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504419,
+        "blocks_indexed": 3504418,
         "catching_up": false,
         "data_since": "2024-04-14T09:28:51.73406551Z"
     },
@@ -42,8 +42,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504422,
+        "blocks_indexed": 3504421,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -54,8 +54,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 2957501,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504423,
+        "blocks_indexed": 3504422,
         "catching_up": false,
         "data_since": "2024-03-26T11:00:51.904739084Z"
     },
@@ -66,8 +66,8 @@
         "network": "sgenet-1",
         "tx_index": "off",
         "earliest_block_height": 3429635,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504422,
+        "blocks_indexed": 3504421,
         "catching_up": false,
         "data_since": "2024-04-27T22:15:06.186865952Z"
     },
@@ -78,8 +78,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
+        "latest_block_height": 3504423,
+        "blocks_indexed": 3504422,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -89,11 +89,11 @@
         "moniker": "STAVR-Service",
         "network": "sgenet-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "earliest_block_height": 3501001,
+        "latest_block_height": 3504422,
+        "blocks_indexed": 3504421,
+        "catching_up": false,
+        "data_since": "2024-05-02T19:59:20.230025067Z"
     },
     "3.37.63.177:26657": {
         "voting_power": 0,
@@ -102,8 +102,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3489838,
-        "blocks_indexed": 3489837,
+        "latest_block_height": 3504420,
+        "blocks_indexed": 3504419,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -119,30 +119,6 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "3.39.189.46:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-node",
-        "network": "sgenet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 3489839,
-        "blocks_indexed": 3489838,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "213.239.207.175:13257": {
-        "voting_power": 100,
-        "is_validator": true,
-        "moniker": "StakeUp",
-        "network": "sge-network-4",
-        "tx_index": "off",
-        "earliest_block_height": 411001,
-        "latest_block_height": 2745302,
-        "blocks_indexed": 2745301,
-        "catching_up": false,
-        "data_since": "2023-11-28T15:28:39.285025262Z"
-    },
     "65.109.88.254:30657": {
         "voting_power": 3497,
         "is_validator": true,
@@ -150,22 +126,10 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 890001,
-        "latest_block_height": 2745302,
-        "blocks_indexed": 2745301,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
         "catching_up": false,
         "data_since": "2023-12-31T07:14:59.400345959Z"
-    },
-    "34.203.237.64:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "testvld",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2745302,
-        "blocks_indexed": 2745301,
-        "catching_up": false,
-        "data_since": "2023-10-31T12:00:00Z"
     },
     "3.93.36.178:26657": {
         "voting_power": 0,
@@ -174,8 +138,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2745302,
-        "blocks_indexed": 2745301,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     },
@@ -186,10 +150,22 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2745302,
-        "blocks_indexed": 2745301,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
+    },
+    "213.239.207.175:13257": {
+        "voting_power": 100,
+        "is_validator": true,
+        "moniker": "StakeUp",
+        "network": "sge-network-4",
+        "tx_index": "off",
+        "earliest_block_height": 411001,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
+        "catching_up": false,
+        "data_since": "2023-11-28T15:28:39.285025262Z"
     },
     "135.181.210.171:1147": {
         "voting_power": 0,
@@ -197,11 +173,23 @@
         "moniker": "STAVR-Service",
         "network": "sge-network-4",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
+        "earliest_block_height": 2757001,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
+        "catching_up": false,
+        "data_since": "2024-05-02T20:04:28.425759793Z"
+    },
+    "34.203.237.64:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "testvld",
+        "network": "sge-network-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2760507,
+        "blocks_indexed": 2760506,
+        "catching_up": false,
+        "data_since": "2023-10-31T12:00:00Z"
     },
     "3.208.94.29:26657": {
         "voting_power": 0,

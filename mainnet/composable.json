@@ -1,16 +1,4 @@
 {
-    "135.181.210.171:20307": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 4975501,
-        "latest_block_height": 4978352,
-        "blocks_indexed": 4978351,
-        "catching_up": false,
-        "data_since": "2024-05-01T20:16:00.820304488Z"
-    },
     "65.109.117.113:27957": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,22 +6,10 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 1537001,
-        "latest_block_height": 4978325,
-        "blocks_indexed": 4978324,
+        "latest_block_height": 4993568,
+        "blocks_indexed": 4993567,
         "catching_up": false,
         "data_since": "2023-09-16T09:45:38.032641722Z"
-    },
-    "93.159.130.4:36657": {
-        "voting_power": 13729500,
-        "is_validator": true,
-        "moniker": "kjgno2uht93",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 2026379,
-        "latest_block_height": 4978352,
-        "blocks_indexed": 4978351,
-        "catching_up": false,
-        "data_since": "2023-10-19T09:36:50.238403569Z"
     },
     "65.109.33.48:23657": {
         "voting_power": 0,
@@ -42,9 +18,33 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 1408001,
-        "latest_block_height": 4978325,
-        "blocks_indexed": 4978324,
+        "latest_block_height": 4993568,
+        "blocks_indexed": 4993567,
         "catching_up": false,
         "data_since": "2023-09-07T17:28:22.459390544Z"
+    },
+    "93.159.130.4:36657": {
+        "voting_power": 13729600,
+        "is_validator": true,
+        "moniker": "kjgno2uht93",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 2026379,
+        "latest_block_height": 4993594,
+        "blocks_indexed": 4993593,
+        "catching_up": false,
+        "data_since": "2023-10-19T09:36:50.238403569Z"
+    },
+    "135.181.210.171:20307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
