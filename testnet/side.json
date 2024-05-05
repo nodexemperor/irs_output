@@ -1,39 +1,15 @@
 {
     "95.216.242.118:36657": {
-        "voting_power": 1339802,
+        "voting_power": 1482372,
         "is_validator": true,
         "moniker": "Sr20de",
         "network": "side-testnet-3",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 530259,
-        "blocks_indexed": 530258,
+        "latest_block_height": 544412,
+        "blocks_indexed": 544411,
         "catching_up": false,
         "data_since": "2024-03-26T15:00:00Z"
-    },
-    "142.132.152.46:32657": {
-        "voting_power": 1162501,
-        "is_validator": true,
-        "moniker": "stakr-space",
-        "network": "side-testnet-3",
-        "tx_index": "on",
-        "earliest_block_height": 367001,
-        "latest_block_height": 530259,
-        "blocks_indexed": 530258,
-        "catching_up": false,
-        "data_since": "2024-04-22T09:49:19.993717103Z"
-    },
-    "95.165.89.222:26637": {
-        "voting_power": 908559,
-        "is_validator": true,
-        "moniker": "maxfoton",
-        "network": "gravity-bridge-3",
-        "tx_index": "on",
-        "earliest_block_height": 11494267,
-        "latest_block_height": 11594267,
-        "blocks_indexed": 11594266,
-        "catching_up": false,
-        "data_since": "2024-04-26T20:53:22.462128522Z"
     },
     "95.217.148.179:26657": {
         "voting_power": 751,
@@ -42,9 +18,21 @@
         "network": "side-testnet-3",
         "tx_index": "off",
         "earliest_block_height": 43656,
-        "latest_block_height": 530260,
-        "blocks_indexed": 530259,
+        "latest_block_height": 544412,
+        "blocks_indexed": 544411,
         "catching_up": false,
         "data_since": "2024-03-30T03:58:48.206696304Z"
+    },
+    "157.90.0.102:32657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "DTEAM_GUIDE",
+        "network": "side-testnet-3",
+        "tx_index": "on",
+        "earliest_block_height": 392001,
+        "latest_block_height": 544412,
+        "blocks_indexed": 544411,
+        "catching_up": false,
+        "data_since": "2024-04-24T05:00:33.914298755Z"
     }
 }

@@ -6,22 +6,22 @@
         "network": "artela_11822-1",
         "tx_index": "off",
         "earliest_block_height": 2850001,
-        "latest_block_height": 6551987,
-        "blocks_indexed": 6551986,
+        "latest_block_height": 6599973,
+        "blocks_indexed": 6599972,
         "catching_up": false,
         "data_since": "2024-02-07T12:32:48.657462813Z"
     },
-    "194.163.173.76:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "alex.duduman",
+    "47.254.66.177:26657": {
+        "voting_power": 10000100,
+        "is_validator": true,
+        "moniker": "node1",
         "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 2850001,
-        "latest_block_height": 6551987,
-        "blocks_indexed": 6551986,
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 6599973,
+        "blocks_indexed": 6599972,
         "catching_up": false,
-        "data_since": "2024-02-07T12:32:48.657462813Z"
+        "data_since": "2024-01-06T11:06:55.019029934Z"
     },
     "47.254.93.86:26657": {
         "voting_power": 10000100,
@@ -30,21 +30,9 @@
         "network": "artela_11822-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6551990,
-        "blocks_indexed": 6551989,
+        "latest_block_height": 6599973,
+        "blocks_indexed": 6599972,
         "catching_up": false,
         "data_since": "2024-01-06T11:06:55.019029934Z"
-    },
-    "167.235.115.119:38657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "artela-testnet",
-        "network": "artela_11822-1",
-        "tx_index": "off",
-        "earliest_block_height": 5068001,
-        "latest_block_height": 6551990,
-        "blocks_indexed": 6551989,
-        "catching_up": false,
-        "data_since": "2024-04-03T00:26:58.477708065Z"
     }
 }
