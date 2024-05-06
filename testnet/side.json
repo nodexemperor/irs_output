@@ -1,38 +1,50 @@
 {
-    "95.216.242.118:36657": {
-        "voting_power": 1482372,
+    "54.249.68.205:26657": {
+        "voting_power": 500000216,
         "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "side-testnet-3",
+        "moniker": "Side Labs",
+        "network": "S2-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 544412,
-        "blocks_indexed": 544411,
+        "latest_block_height": 95422,
+        "blocks_indexed": 95421,
         "catching_up": false,
-        "data_since": "2024-03-26T15:00:00Z"
+        "data_since": "2024-04-30T10:46:52.806888105Z"
     },
-    "95.217.148.179:26657": {
-        "voting_power": 751,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "side-testnet-3",
-        "tx_index": "off",
-        "earliest_block_height": 43656,
-        "latest_block_height": 544412,
-        "blocks_indexed": 544411,
-        "catching_up": false,
-        "data_since": "2024-03-30T03:58:48.206696304Z"
-    },
-    "157.90.0.102:32657": {
+    "54.39.107.180:45657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "DTEAM_GUIDE",
-        "network": "side-testnet-3",
+        "moniker": "lankou",
+        "network": "S2-testnet-1",
         "tx_index": "on",
-        "earliest_block_height": 392001,
-        "latest_block_height": 544412,
-        "blocks_indexed": 544411,
+        "earliest_block_height": 1,
+        "latest_block_height": 95422,
+        "blocks_indexed": 95421,
         "catching_up": false,
-        "data_since": "2024-04-24T05:00:33.914298755Z"
+        "data_since": "2024-04-30T10:46:52.806888105Z"
+    },
+    "146.59.53.93:45657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "warrior",
+        "network": "S2-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 95422,
+        "blocks_indexed": 95421,
+        "catching_up": false,
+        "data_since": "2024-04-30T10:46:52.806888105Z"
+    },
+    "138.201.51.154:32002": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "CryptoSJnetRPC",
+        "network": "S2-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 95422,
+        "blocks_indexed": 95421,
+        "catching_up": false,
+        "data_since": "2024-04-30T10:46:52.806888105Z"
     }
 }

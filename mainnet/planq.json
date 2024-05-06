@@ -1,15 +1,27 @@
 {
     "185.190.140.93:14657": {
-        "voting_power": 659253,
+        "voting_power": 659294,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8753543,
-        "blocks_indexed": 8753542,
+        "latest_block_height": 8767512,
+        "blocks_indexed": 8767511,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
+    },
+    "192.99.160.197:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BACKUP_PLANQ",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 8760001,
+        "latest_block_height": 8765734,
+        "blocks_indexed": 8765733,
+        "catching_up": true,
+        "data_since": "2024-05-05T11:31:43.390536152Z"
     },
     "65.108.66.174:31657": {
         "voting_power": 0,
@@ -18,33 +30,9 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8753543,
-        "blocks_indexed": 8753542,
+        "latest_block_height": 8767513,
+        "blocks_indexed": 8767512,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
-    },
-    "66.45.246.166:1077": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 8752501,
-        "latest_block_height": 8753491,
-        "blocks_indexed": 8753490,
-        "catching_up": false,
-        "data_since": "2024-05-04T23:45:07.493898637Z"
-    },
-    "192.99.160.197:13657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BACKUP_PLANQ",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 8752501,
-        "latest_block_height": 8752778,
-        "blocks_indexed": 8752777,
-        "catching_up": true,
-        "data_since": "2024-05-04T23:45:07.493898637Z"
     }
 }
