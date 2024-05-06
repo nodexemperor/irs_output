@@ -6,22 +6,10 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 5962595,
-        "blocks_indexed": 5962594,
+        "latest_block_height": 5965637,
+        "blocks_indexed": 5965636,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
-    },
-    "144.76.236.49:60557": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "F5 Nodes",
-        "network": "cataclysm-1",
-        "tx_index": "off",
-        "earliest_block_height": 4599001,
-        "latest_block_height": 5962594,
-        "blocks_indexed": 5962593,
-        "catching_up": false,
-        "data_since": "2024-04-03T09:35:56.02346922Z"
     },
     "65.108.75.107:34657": {
         "voting_power": 0,
@@ -30,8 +18,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 5962593,
-        "blocks_indexed": 5962592,
+        "latest_block_height": 5965637,
+        "blocks_indexed": 5965636,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
     },
@@ -42,9 +30,33 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5960001,
-        "latest_block_height": 5962508,
-        "blocks_indexed": 5962507,
-        "catching_up": true,
+        "latest_block_height": 5965626,
+        "blocks_indexed": 5965625,
+        "catching_up": false,
         "data_since": "2024-05-05T21:22:50.173434079Z"
+    },
+    "144.76.29.90:60657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 2241001,
+        "latest_block_height": 5965637,
+        "blocks_indexed": 5965636,
+        "catching_up": false,
+        "data_since": "2024-01-30T10:59:07.564085179Z"
+    },
+    "144.76.236.49:60557": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "F5 Nodes",
+        "network": "cataclysm-1",
+        "tx_index": "off",
+        "earliest_block_height": 4599001,
+        "latest_block_height": 5965637,
+        "blocks_indexed": 5965636,
+        "catching_up": false,
+        "data_since": "2024-04-03T09:35:56.02346922Z"
     }
 }
