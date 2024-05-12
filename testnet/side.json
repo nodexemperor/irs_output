@@ -1,4 +1,16 @@
 {
+    "138.201.51.154:32002": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "CryptoSJnetRPC",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
     "202.182.119.24:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +18,8 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -18,8 +30,20 @@
         "network": "S2-testnet-2",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
+    "65.109.78.246:17657": {
+        "voting_power": 5000856,
+        "is_validator": true,
+        "moniker": "AMS",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -29,59 +53,23 @@
         "moniker": "maxfoton",
         "network": "gravity-bridge-3",
         "tx_index": "on",
-        "earliest_block_height": 11592140,
-        "latest_block_height": 11692141,
-        "blocks_indexed": 11692140,
+        "earliest_block_height": 11606129,
+        "latest_block_height": 11706129,
+        "blocks_indexed": 11706128,
         "catching_up": false,
-        "data_since": "2024-05-03T22:22:11.9349758Z"
+        "data_since": "2024-05-04T22:37:28.551870757Z"
     },
-    "138.201.51.154:32002": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CryptoSJnetRPC",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "135.181.216.54:3451": {
-        "voting_power": 5000007,
+    "93.159.130.38:36657": {
+        "voting_power": 5000009,
         "is_validator": true,
-        "moniker": "node",
-        "network": "S2-testnet-2",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "65.109.78.246:17657": {
-        "voting_power": 5000681,
-        "is_validator": true,
-        "moniker": "AMS",
+        "moniker": "bro",
         "network": "S2-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
+        "earliest_block_height": 3313,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
         "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "157.90.0.102:32657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "DTEAM_GUIDE",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 60496,
-        "blocks_indexed": 60495,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
+        "data_since": "2024-05-07T05:33:39.200951362Z"
     },
     "135.181.210.171:21307": {
         "voting_power": 0,
@@ -89,10 +77,10 @@
         "moniker": "STAVR-Service",
         "network": "S2-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 57001,
-        "latest_block_height": 60497,
-        "blocks_indexed": 60496,
+        "earliest_block_height": 73001,
+        "latest_block_height": 75260,
+        "blocks_indexed": 75259,
         "catching_up": false,
-        "data_since": "2024-05-10T20:22:50.185893839Z"
+        "data_since": "2024-05-11T22:18:22.050694401Z"
     }
 }
