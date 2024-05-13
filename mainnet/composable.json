@@ -1,4 +1,16 @@
 {
+    "65.109.117.113:27957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "CroutonDigital",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 1537001,
+        "latest_block_height": 5144572,
+        "blocks_indexed": 5144571,
+        "catching_up": false,
+        "data_since": "2023-09-16T09:45:38.032641722Z"
+    },
     "93.159.130.4:36657": {
         "voting_power": 13729828,
         "is_validator": true,
@@ -6,10 +18,22 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 2026379,
-        "latest_block_height": 5129302,
-        "blocks_indexed": 5129301,
+        "latest_block_height": 5144571,
+        "blocks_indexed": 5144570,
         "catching_up": false,
         "data_since": "2023-10-19T09:36:50.238403569Z"
+    },
+    "135.181.210.171:20307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 5142001,
+        "latest_block_height": 5144571,
+        "blocks_indexed": 5144570,
+        "catching_up": false,
+        "data_since": "2024-05-12T20:25:06.268435456Z"
     },
     "65.109.33.48:23657": {
         "voting_power": 0,
@@ -18,33 +42,9 @@
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 1408001,
-        "latest_block_height": 5129277,
-        "blocks_indexed": 5129276,
+        "latest_block_height": 5144546,
+        "blocks_indexed": 5144545,
         "catching_up": false,
         "data_since": "2023-09-07T17:28:22.459390544Z"
-    },
-    "135.181.210.171:20307": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 5128001,
-        "latest_block_height": 5129302,
-        "blocks_indexed": 5129301,
-        "catching_up": false,
-        "data_since": "2024-05-11T22:25:28.477100083Z"
-    },
-    "65.109.117.113:27957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CroutonDigital",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 1537001,
-        "latest_block_height": 5129303,
-        "blocks_indexed": 5129302,
-        "catching_up": false,
-        "data_since": "2023-09-16T09:45:38.032641722Z"
     }
 }
