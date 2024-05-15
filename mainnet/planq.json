@@ -1,13 +1,13 @@
 {
     "185.190.140.93:14657": {
-        "voting_power": 659630,
+        "voting_power": 659672,
         "is_validator": true,
         "moniker": "geonodes",
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8891898,
-        "blocks_indexed": 8891897,
+        "latest_block_height": 8907177,
+        "blocks_indexed": 8907176,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -18,8 +18,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 8804260,
-        "latest_block_height": 8891870,
-        "blocks_indexed": 8891869,
+        "latest_block_height": 8907151,
+        "blocks_indexed": 8907150,
         "catching_up": false,
         "data_since": "2024-05-08T08:29:01.420264766Z"
     },
@@ -42,8 +42,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8891898,
-        "blocks_indexed": 8891897,
+        "latest_block_height": 8907178,
+        "blocks_indexed": 8907177,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -53,10 +53,22 @@
         "moniker": "BACKUP_PLANQ",
         "network": "planq_7070-2",
         "tx_index": "off",
-        "earliest_block_height": 8890501,
-        "latest_block_height": 8890714,
-        "blocks_indexed": 8890713,
+        "earliest_block_height": 8906501,
+        "latest_block_height": 8907144,
+        "blocks_indexed": 8907143,
         "catching_up": true,
-        "data_since": "2024-05-13T22:46:26.926626714Z"
+        "data_since": "2024-05-14T23:53:50.981648193Z"
+    },
+    "66.45.246.166:1077": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
