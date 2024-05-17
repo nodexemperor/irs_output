@@ -1,4 +1,16 @@
 {
+    "148.251.235.130:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "S2-testnet-2",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
     "138.201.51.154:32002": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +18,20 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 134571,
-        "blocks_indexed": 134570,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
+    "202.182.119.24:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "testnet-rpc",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -18,44 +42,32 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 134571,
-        "blocks_indexed": 134570,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
-    "148.251.235.130:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "S2-testnet-2",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 134571,
-        "blocks_indexed": 134570,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "188.172.229.24:17457": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "equinxDAO",
-        "network": "S2-testnet-2",
+    "95.165.89.222:26637": {
+        "voting_power": 908559,
+        "is_validator": true,
+        "moniker": "maxfoton",
+        "network": "gravity-bridge-3",
         "tx_index": "on",
-        "earliest_block_height": 3313,
-        "latest_block_height": 134572,
-        "blocks_indexed": 134571,
+        "earliest_block_height": 11676315,
+        "latest_block_height": 11776315,
+        "blocks_indexed": 11776314,
         "catching_up": false,
-        "data_since": "2024-05-07T05:33:39.200951362Z"
+        "data_since": "2024-05-09T23:02:04.988825648Z"
     },
-    "202.182.119.24:26657": {
+    "142.132.152.46:32657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "testnet-rpc",
+        "moniker": "stakr-space",
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 134572,
-        "blocks_indexed": 134571,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -65,22 +77,10 @@
         "moniker": "STAVR-Service",
         "network": "S2-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 131801,
-        "latest_block_height": 134572,
-        "blocks_indexed": 134571,
+        "earliest_block_height": 147901,
+        "latest_block_height": 149288,
+        "blocks_indexed": 149287,
         "catching_up": false,
-        "data_since": "2024-05-15T21:24:20.0905333Z"
-    },
-    "95.165.89.222:26637": {
-        "voting_power": 908559,
-        "is_validator": true,
-        "moniker": "maxfoton",
-        "network": "gravity-bridge-3",
-        "tx_index": "on",
-        "earliest_block_height": 11662303,
-        "latest_block_height": 11762304,
-        "blocks_indexed": 11762303,
-        "catching_up": false,
-        "data_since": "2024-05-08T23:08:55.234228827Z"
+        "data_since": "2024-05-16T23:36:59.140503101Z"
     }
 }
