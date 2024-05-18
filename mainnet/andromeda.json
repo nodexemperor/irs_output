@@ -1,16 +1,4 @@
 {
-    "5.189.151.202:26677": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "AviaOne_Blockchains_Services",
-        "network": "andromeda-1",
-        "tx_index": "on",
-        "earliest_block_height": 2556001,
-        "latest_block_height": 2558027,
-        "blocks_indexed": 2558026,
-        "catching_up": false,
-        "data_since": "2024-05-16T20:54:19.87439593Z"
-    },
     "65.108.238.215:27357": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,33 @@
         "network": "andromeda-1",
         "tx_index": "on",
         "earliest_block_height": 2474142,
-        "latest_block_height": 2558027,
-        "blocks_indexed": 2558026,
+        "latest_block_height": 2572464,
+        "blocks_indexed": 2572463,
         "catching_up": false,
         "data_since": "2024-05-11T06:58:51.089949885Z"
+    },
+    "135.181.210.171:4137": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "andromeda-1",
+        "tx_index": "on",
+        "earliest_block_height": 2570001,
+        "latest_block_height": 2572463,
+        "blocks_indexed": 2572462,
+        "catching_up": false,
+        "data_since": "2024-05-17T20:10:58.762078297Z"
+    },
+    "5.189.151.202:26677": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AviaOne_Blockchains_Services",
+        "network": "andromeda-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }

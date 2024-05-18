@@ -6,8 +6,20 @@
         "network": "buenavista-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 436251,
-        "blocks_indexed": 436250,
+        "latest_block_height": 450483,
+        "blocks_indexed": 450482,
+        "catching_up": false,
+        "data_since": "2024-04-16T12:14:11.6928963Z"
+    },
+    "109.199.110.42:26657": {
+        "voting_power": 20628,
+        "is_validator": true,
+        "moniker": "NodeName",
+        "network": "buenavista-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 450483,
+        "blocks_indexed": 450482,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
     }
