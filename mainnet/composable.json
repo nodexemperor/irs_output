@@ -1,13 +1,25 @@
 {
+    "65.109.33.48:23657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "L0vd.com | RPC",
+        "network": "centauri-1",
+        "tx_index": "on",
+        "earliest_block_height": 1408001,
+        "latest_block_height": 5236242,
+        "blocks_indexed": 5236241,
+        "catching_up": false,
+        "data_since": "2023-09-07T17:28:22.459390544Z"
+    },
     "93.159.130.4:36657": {
-        "voting_power": 13729828,
+        "voting_power": 13730058,
         "is_validator": true,
         "moniker": "kjgno2uht93",
         "network": "centauri-1",
         "tx_index": "on",
         "earliest_block_height": 2026379,
-        "latest_block_height": 5220977,
-        "blocks_indexed": 5220976,
+        "latest_block_height": 5236268,
+        "blocks_indexed": 5236267,
         "catching_up": false,
         "data_since": "2023-10-19T09:36:50.238403569Z"
     },
@@ -17,34 +29,10 @@
         "moniker": "STAVR-Service",
         "network": "centauri-1",
         "tx_index": "on",
-        "earliest_block_height": 5218001,
-        "latest_block_height": 5220978,
-        "blocks_indexed": 5220977,
-        "catching_up": false,
-        "data_since": "2024-05-17T19:45:51.731267962Z"
-    },
-    "65.109.33.48:23657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "L0vd.com | RPC",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 1408001,
-        "latest_block_height": 5220953,
-        "blocks_indexed": 5220952,
-        "catching_up": false,
-        "data_since": "2023-09-07T17:28:22.459390544Z"
-    },
-    "65.109.117.113:27957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "CroutonDigital",
-        "network": "centauri-1",
-        "tx_index": "on",
-        "earliest_block_height": 1537001,
-        "latest_block_height": 5220978,
-        "blocks_indexed": 5220977,
-        "catching_up": false,
-        "data_since": "2023-09-16T09:45:38.032641722Z"
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
