@@ -1,16 +1,4 @@
 {
-    "135.181.210.171:11037": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 6510001,
-        "latest_block_height": 6513114,
-        "blocks_indexed": 6513113,
-        "catching_up": false,
-        "data_since": "2024-05-18T22:53:53.65247271Z"
-    },
     "65.108.141.109:34657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 6513200,
-        "blocks_indexed": 6513199,
+        "latest_block_height": 6557910,
+        "blocks_indexed": 6557909,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
     },
@@ -30,10 +18,22 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 6401001,
-        "latest_block_height": 6513201,
-        "blocks_indexed": 6513200,
+        "latest_block_height": 6557914,
+        "blocks_indexed": 6557913,
         "catching_up": false,
         "data_since": "2024-05-16T09:04:12.80286777Z"
+    },
+    "135.181.210.171:11037": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "144.76.29.90:60657": {
         "voting_power": 0,
@@ -42,8 +42,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 2241001,
-        "latest_block_height": 6513206,
-        "blocks_indexed": 6513205,
+        "latest_block_height": 6557911,
+        "blocks_indexed": 6557910,
         "catching_up": false,
         "data_since": "2024-01-30T10:59:07.564085179Z"
     },
@@ -56,18 +56,6 @@
         "earliest_block_height": 6290001,
         "latest_block_height": 6472001,
         "blocks_indexed": 6472000,
-        "catching_up": false,
-        "data_since": "2024-05-13T18:27:53.694699616Z"
-    },
-    "65.108.75.107:34657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 6290001,
-        "latest_block_height": 6513205,
-        "blocks_indexed": 6513204,
         "catching_up": false,
         "data_since": "2024-05-13T18:27:53.694699616Z"
     }
