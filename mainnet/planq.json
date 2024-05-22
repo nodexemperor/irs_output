@@ -1,28 +1,4 @@
 {
-    "192.99.160.197:13657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BACKUP_PLANQ",
-        "network": "planq_7070-2",
-        "tx_index": "off",
-        "earliest_block_height": 8998001,
-        "latest_block_height": 8998530,
-        "blocks_indexed": 8998529,
-        "catching_up": true,
-        "data_since": "2024-05-20T23:30:19.166055144Z"
-    },
-    "65.108.66.174:31657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7650501,
-        "latest_block_height": 8998921,
-        "blocks_indexed": 8998920,
-        "catching_up": false,
-        "data_since": "2024-02-25T07:17:35.323314651Z"
-    },
     "185.190.140.93:14657": {
         "voting_power": 660309,
         "is_validator": true,
@@ -30,8 +6,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 8998920,
-        "blocks_indexed": 8998919,
+        "latest_block_height": 9014289,
+        "blocks_indexed": 9014288,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -42,10 +18,22 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 8804260,
-        "latest_block_height": 8998894,
-        "blocks_indexed": 8998893,
+        "latest_block_height": 9014264,
+        "blocks_indexed": 9014263,
         "catching_up": false,
         "data_since": "2024-05-08T08:29:01.420264766Z"
+    },
+    "66.45.246.166:1077": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 9012001,
+        "latest_block_height": 9014290,
+        "blocks_indexed": 9014289,
+        "catching_up": false,
+        "data_since": "2024-05-21T21:21:44.982201588Z"
     },
     "65.109.35.50:20357": {
         "voting_power": 0,
@@ -58,5 +46,41 @@
         "blocks_indexed": 7516699,
         "catching_up": true,
         "data_since": "2023-09-20T08:29:09.39809856Z"
+    },
+    "87.212.22.230:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "DFCnodes",
+        "network": "initiation-1",
+        "tx_index": "off",
+        "earliest_block_height": 228330,
+        "latest_block_height": 232610,
+        "blocks_indexed": 232609,
+        "catching_up": true,
+        "data_since": "2024-05-21T18:30:08.203767248Z"
+    },
+    "65.108.66.174:31657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hello-BccNodesRPC",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 7650501,
+        "latest_block_height": 9014289,
+        "blocks_indexed": 9014288,
+        "catching_up": false,
+        "data_since": "2024-02-25T07:17:35.323314651Z"
+    },
+    "192.99.160.197:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BACKUP_PLANQ",
+        "network": "planq_7070-2",
+        "tx_index": "off",
+        "earliest_block_height": 9013501,
+        "latest_block_height": 9013688,
+        "blocks_indexed": 9013687,
+        "catching_up": true,
+        "data_since": "2024-05-21T23:41:36.125600884Z"
     }
 }
