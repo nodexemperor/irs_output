@@ -6,8 +6,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 6725600,
-        "blocks_indexed": 6725599,
+        "latest_block_height": 6767910,
+        "blocks_indexed": 6767909,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
     },
@@ -18,8 +18,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 6588001,
-        "latest_block_height": 6725599,
-        "blocks_indexed": 6725598,
+        "latest_block_height": 6767909,
+        "blocks_indexed": 6767908,
         "catching_up": false,
         "data_since": "2024-05-20T18:52:07.387514259Z"
     },
@@ -29,23 +29,11 @@
         "moniker": "STAVR-Service",
         "network": "cataclysm-1",
         "tx_index": "on",
-        "earliest_block_height": 6723001,
-        "latest_block_height": 6725542,
-        "blocks_indexed": 6725541,
-        "catching_up": true,
-        "data_since": "2024-05-23T23:13:49.842752259Z"
-    },
-    "144.76.29.90:60657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 2241001,
-        "latest_block_height": 6725602,
-        "blocks_indexed": 6725601,
+        "earliest_block_height": 6760001,
+        "latest_block_height": 6767730,
+        "blocks_indexed": 6767729,
         "catching_up": false,
-        "data_since": "2024-01-30T10:59:07.564085179Z"
+        "data_since": "2024-05-24T20:11:26.805303786Z"
     },
     "144.76.236.49:60557": {
         "voting_power": 0,
@@ -58,5 +46,17 @@
         "blocks_indexed": 6472000,
         "catching_up": false,
         "data_since": "2024-05-13T18:27:53.694699616Z"
+    },
+    "144.76.29.90:60657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 2241001,
+        "latest_block_height": 6767914,
+        "blocks_indexed": 6767913,
+        "catching_up": false,
+        "data_since": "2024-01-30T10:59:07.564085179Z"
     }
 }
