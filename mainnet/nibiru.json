@@ -6,46 +6,10 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 6851945,
-        "blocks_indexed": 6851944,
+        "latest_block_height": 6894072,
+        "blocks_indexed": 6894071,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
-    },
-    "135.181.210.171:11037": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 6846001,
-        "latest_block_height": 6851844,
-        "blocks_indexed": 6851843,
-        "catching_up": false,
-        "data_since": "2024-05-26T21:18:36.261623452Z"
-    },
-    "144.76.236.49:60557": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "F5 Nodes",
-        "network": "cataclysm-1",
-        "tx_index": "off",
-        "earliest_block_height": 6290001,
-        "latest_block_height": 6472001,
-        "blocks_indexed": 6472000,
-        "catching_up": false,
-        "data_since": "2024-05-13T18:27:53.694699616Z"
-    },
-    "144.76.29.90:60657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 2241001,
-        "latest_block_height": 6851940,
-        "blocks_indexed": 6851939,
-        "catching_up": false,
-        "data_since": "2024-01-30T10:59:07.564085179Z"
     },
     "65.108.75.107:34657": {
         "voting_power": 0,
@@ -54,9 +18,45 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 6588001,
-        "latest_block_height": 6851947,
-        "blocks_indexed": 6851946,
+        "latest_block_height": 6894074,
+        "blocks_indexed": 6894073,
         "catching_up": false,
         "data_since": "2024-05-20T18:52:07.387514259Z"
+    },
+    "144.76.236.49:60557": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "F5 Nodes",
+        "network": "cataclysm-1",
+        "tx_index": "off",
+        "earliest_block_height": 6588001,
+        "latest_block_height": 6894075,
+        "blocks_indexed": 6894074,
+        "catching_up": false,
+        "data_since": "2024-05-20T18:52:07.387514259Z"
+    },
+    "135.181.210.171:11037": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
+    "144.76.29.90:60657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 2241001,
+        "latest_block_height": 6894067,
+        "blocks_indexed": 6894066,
+        "catching_up": false,
+        "data_since": "2024-01-30T10:59:07.564085179Z"
     }
 }
