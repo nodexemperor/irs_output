@@ -1,27 +1,15 @@
 {
-    "135.181.210.171:21097": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 6941201,
-        "latest_block_height": 6944774,
-        "blocks_indexed": 6944773,
-        "catching_up": false,
-        "data_since": "2024-05-28T20:06:28.222255076Z"
-    },
-    "46.17.250.108:56657": {
-        "voting_power": 176915,
+    "95.168.173.33:33657": {
+        "voting_power": 163217,
         "is_validator": true,
-        "moniker": "Sr20de",
+        "moniker": "RIO-mainnet-prod",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 6925901,
-        "latest_block_height": 6944774,
-        "blocks_indexed": 6944773,
+        "earliest_block_height": 3944101,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
         "catching_up": false,
-        "data_since": "2024-05-27T22:20:12.750594513Z"
+        "data_since": "2023-11-29T13:55:55.686670609Z"
     },
     "65.108.41.177:29657": {
         "voting_power": 670806,
@@ -30,8 +18,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 5987101,
-        "latest_block_height": 6944773,
-        "blocks_indexed": 6944772,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
         "catching_up": false,
         "data_since": "2024-04-01T17:26:31.569720854Z"
     },
@@ -42,8 +30,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 6223001,
-        "latest_block_height": 6944721,
-        "blocks_indexed": 6944720,
+        "latest_block_height": 6961467,
+        "blocks_indexed": 6961466,
         "catching_up": false,
         "data_since": "2024-04-16T14:19:59.006070951Z"
     },
@@ -54,10 +42,22 @@
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 6494001,
-        "latest_block_height": 6944773,
-        "blocks_indexed": 6944772,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
         "catching_up": false,
         "data_since": "2024-05-02T11:04:36.395546727Z"
+    },
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 6958901,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
+        "catching_up": false,
+        "data_since": "2024-05-29T21:28:28.725595538Z"
     },
     "142.132.202.50:39657": {
         "voting_power": 1723497,
@@ -65,11 +65,11 @@
         "moniker": "rpc",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 6844721,
-        "latest_block_height": 6944721,
-        "blocks_indexed": 6944720,
+        "earliest_block_height": 6861467,
+        "latest_block_height": 6961467,
+        "blocks_indexed": 6961466,
         "catching_up": false,
-        "data_since": "2024-05-23T02:43:10.822892154Z"
+        "data_since": "2024-05-24T02:31:40.65700667Z"
     },
     "173.249.59.70:32657": {
         "voting_power": 104096,
@@ -77,11 +77,23 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 6844747,
-        "latest_block_height": 6944747,
-        "blocks_indexed": 6944746,
+        "earliest_block_height": 6861494,
+        "latest_block_height": 6961494,
+        "blocks_indexed": 6961493,
         "catching_up": false,
-        "data_since": "2024-05-23T02:45:24.956909153Z"
+        "data_since": "2024-05-24T02:34:00.805531273Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 176892,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 6925901,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
+        "catching_up": false,
+        "data_since": "2024-05-27T22:20:12.750594513Z"
     },
     "65.109.112.144:2021": {
         "voting_power": 0,
@@ -90,21 +102,9 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 6243001,
-        "latest_block_height": 6944774,
-        "blocks_indexed": 6944773,
+        "latest_block_height": 6961522,
+        "blocks_indexed": 6961521,
         "catching_up": false,
         "data_since": "2024-04-17T18:44:26.460671957Z"
-    },
-    "95.168.173.33:33657": {
-        "voting_power": 163212,
-        "is_validator": true,
-        "moniker": "RIO-mainnet-prod",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 3944101,
-        "latest_block_height": 6944774,
-        "blocks_indexed": 6944773,
-        "catching_up": false,
-        "data_since": "2023-11-29T13:55:55.686670609Z"
     }
 }
