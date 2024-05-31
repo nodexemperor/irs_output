@@ -5,35 +5,11 @@
         "moniker": "Nodeist-blockx-main",
         "network": "blockx_100-1",
         "tx_index": "off",
-        "earliest_block_height": 6655002,
-        "latest_block_height": 6703717,
-        "blocks_indexed": 6703716,
+        "earliest_block_height": 6704913,
+        "latest_block_height": 6753170,
+        "blocks_indexed": 6753169,
         "catching_up": false,
-        "data_since": "2024-05-29T00:59:42.598483841Z"
-    },
-    "158.220.117.55:26657": {
-        "voting_power": 6313592,
-        "is_validator": true,
-        "moniker": "OneNov",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 2468001,
-        "latest_block_height": 6703718,
-        "blocks_indexed": 6703717,
-        "catching_up": false,
-        "data_since": "2024-03-06T00:51:15.393315704Z"
-    },
-    "158.220.98.12:49657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Vnode-RPC",
-        "network": "blockx_100-1",
-        "tx_index": "off",
-        "earliest_block_height": 4609001,
-        "latest_block_height": 6703717,
-        "blocks_indexed": 6703716,
-        "catching_up": false,
-        "data_since": "2024-04-18T00:41:53.495917869Z"
+        "data_since": "2024-05-30T00:59:42.70130551Z"
     },
     "5.9.87.231:60957": {
         "voting_power": 0,
@@ -42,9 +18,21 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 6071001,
-        "latest_block_height": 6703718,
-        "blocks_indexed": 6703717,
+        "latest_block_height": 6753170,
+        "blocks_indexed": 6753169,
         "catching_up": false,
         "data_since": "2024-05-17T06:10:02.483505463Z"
+    },
+    "158.220.117.55:26657": {
+        "voting_power": 6313592,
+        "is_validator": true,
+        "moniker": "OneNov",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 2468001,
+        "latest_block_height": 6753097,
+        "blocks_indexed": 6753096,
+        "catching_up": false,
+        "data_since": "2024-03-06T00:51:15.393315704Z"
     }
 }
