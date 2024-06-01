@@ -1,15 +1,15 @@
 {
-    "88.198.27.51:60657": {
-        "voting_power": 1009,
+    "185.111.159.185:18257": {
+        "voting_power": 10000,
         "is_validator": true,
-        "moniker": "Ubuntu-2204-jammy-amd64-base",
+        "moniker": "quasar-test",
         "network": "quasar-test-1",
         "tx_index": "on",
-        "earliest_block_height": 4776311,
-        "latest_block_height": 6115636,
-        "blocks_indexed": 6115635,
+        "earliest_block_height": 0,
+        "latest_block_height": 6131581,
+        "blocks_indexed": 6131580,
         "catching_up": false,
-        "data_since": "2024-03-08T07:13:56.649703052Z"
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "141.94.138.48:26662": {
         "voting_power": 112,
@@ -18,8 +18,8 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 4611412,
-        "latest_block_height": 6115611,
-        "blocks_indexed": 6115610,
+        "latest_block_height": 6131555,
+        "blocks_indexed": 6131554,
         "catching_up": false,
         "data_since": "2024-02-27T01:29:01.593015173Z"
     },
@@ -30,8 +30,8 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6115636,
-        "blocks_indexed": 6115635,
+        "latest_block_height": 6131581,
+        "blocks_indexed": 6131580,
         "catching_up": false,
         "data_since": "2023-05-19T00:00:00Z"
     },
@@ -42,8 +42,8 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 4611412,
-        "latest_block_height": 6115636,
-        "blocks_indexed": 6115635,
+        "latest_block_height": 6131581,
+        "blocks_indexed": 6131580,
         "catching_up": false,
         "data_since": "2024-02-27T01:29:01.593015173Z"
     },
@@ -54,21 +54,21 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 4595424,
-        "latest_block_height": 6115636,
-        "blocks_indexed": 6115635,
+        "latest_block_height": 6131581,
+        "blocks_indexed": 6131580,
         "catching_up": false,
         "data_since": "2024-02-26T01:29:02.175935611Z"
     },
-    "185.111.159.185:18257": {
-        "voting_power": 10000,
+    "88.198.27.51:60657": {
+        "voting_power": 1009,
         "is_validator": true,
-        "moniker": "quasar-test",
+        "moniker": "Ubuntu-2204-jammy-amd64-base",
         "network": "quasar-test-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 6115636,
-        "blocks_indexed": 6115635,
+        "earliest_block_height": 4776311,
+        "latest_block_height": 6131581,
+        "blocks_indexed": 6131580,
         "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
+        "data_since": "2024-03-08T07:13:56.649703052Z"
     }
 }

@@ -1,14 +1,26 @@
 {
-    "185.185.80.16:26657": {
-        "voting_power": 2977,
-        "is_validator": true,
-        "moniker": "p10node",
+    "167.235.198.57:11257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "peertodev",
         "network": "buenavista-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 636430,
-        "blocks_indexed": 636429,
+        "latest_block_height": 650795,
+        "blocks_indexed": 650794,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
+    },
+    "37.27.127.220:36657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "HerculesNode",
+        "network": "buenavista-1",
+        "tx_index": "on",
+        "earliest_block_height": 631001,
+        "latest_block_height": 650795,
+        "blocks_indexed": 650794,
+        "catching_up": false,
+        "data_since": "2024-05-30T16:53:28.633103413Z"
     }
 }

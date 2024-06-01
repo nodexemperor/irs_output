@@ -1,15 +1,15 @@
 {
-    "158.69.125.73:11357": {
-        "voting_power": 10190246,
+    "65.109.52.56:32331": {
+        "voting_power": 14461743,
         "is_validator": true,
-        "moniker": "Nodeist-blockx-main",
+        "moniker": "??Stigga??",
         "network": "blockx_100-1",
         "tx_index": "off",
-        "earliest_block_height": 6704913,
-        "latest_block_height": 6753170,
-        "blocks_indexed": 6753169,
+        "earliest_block_height": 1,
+        "latest_block_height": 6803202,
+        "blocks_indexed": 6803201,
         "catching_up": false,
-        "data_since": "2024-05-30T00:59:42.70130551Z"
+        "data_since": "2024-01-16T12:00:00Z"
     },
     "5.9.87.231:60957": {
         "voting_power": 0,
@@ -18,10 +18,22 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 6071001,
-        "latest_block_height": 6753170,
-        "blocks_indexed": 6753169,
+        "latest_block_height": 6803210,
+        "blocks_indexed": 6803209,
         "catching_up": false,
         "data_since": "2024-05-17T06:10:02.483505463Z"
+    },
+    "192.99.160.197:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "KYN-ARCHIVE",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 746139,
+        "blocks_indexed": 746138,
+        "catching_up": true,
+        "data_since": "2024-01-16T12:00:00Z"
     },
     "158.220.117.55:26657": {
         "voting_power": 6313592,
@@ -30,9 +42,21 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 2468001,
-        "latest_block_height": 6753097,
-        "blocks_indexed": 6753096,
+        "latest_block_height": 6803209,
+        "blocks_indexed": 6803208,
         "catching_up": false,
         "data_since": "2024-03-06T00:51:15.393315704Z"
+    },
+    "158.69.125.73:11357": {
+        "voting_power": 10190246,
+        "is_validator": true,
+        "moniker": "Nodeist-blockx-main",
+        "network": "blockx_100-1",
+        "tx_index": "off",
+        "earliest_block_height": 6754398,
+        "latest_block_height": 6803208,
+        "blocks_indexed": 6803207,
+        "catching_up": false,
+        "data_since": "2024-05-31T00:59:43.224203138Z"
     }
 }

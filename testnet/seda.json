@@ -6,22 +6,10 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 354001,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-03-26T13:22:40.106813Z"
-    },
-    "18.171.36.35:26657": {
-        "voting_power": 3001061,
-        "is_validator": true,
-        "moniker": "SEDA-node0",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
-        "catching_up": false,
-        "data_since": "2024-02-22T14:00:00Z"
     },
     "198.244.254.16:26657": {
         "voting_power": 100000,
@@ -30,8 +18,20 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
+        "catching_up": false,
+        "data_since": "2024-02-22T14:00:00Z"
+    },
+    "18.171.36.35:26657": {
+        "voting_power": 3001061,
+        "is_validator": true,
+        "moniker": "SEDA-node0",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -42,8 +42,8 @@
         "network": "seda-1-testnet",
         "tx_index": "off",
         "earliest_block_height": 377001,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-03-28T17:42:52.590767107Z"
     },
@@ -53,11 +53,11 @@
         "moniker": "0188587b-cfa1-5a67-869a-4ca9b2236da0",
         "network": "seda-1-testnet",
         "tx_index": "off",
-        "earliest_block_height": 1040001,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "earliest_block_height": 1060001,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
-        "data_since": "2024-05-29T19:13:20.922162383Z"
+        "data_since": "2024-05-31T16:03:47.826211685Z"
     },
     "51.79.79.194:26657": {
         "voting_power": 1000000,
@@ -66,22 +66,10 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 62001,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-02-28T06:59:32.461520174Z"
-    },
-    "94.130.35.35:13657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "BlackNodes",
-        "network": "seda-1-testnet",
-        "tx_index": "on",
-        "earliest_block_height": 587001,
-        "latest_block_height": 1053766,
-        "blocks_indexed": 1053765,
-        "catching_up": false,
-        "data_since": "2024-04-17T09:08:52.19413775Z"
     },
     "13.41.125.154:26657": {
         "voting_power": 1999814,
@@ -90,8 +78,8 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-02-22T14:00:00Z"
     },
@@ -102,9 +90,21 @@
         "network": "seda-1-testnet",
         "tx_index": "on",
         "earliest_block_height": 352001,
-        "latest_block_height": 1053765,
-        "blocks_indexed": 1053764,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
         "catching_up": false,
         "data_since": "2024-03-26T08:56:46.698983064Z"
+    },
+    "94.130.35.35:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "BlackNodes",
+        "network": "seda-1-testnet",
+        "tx_index": "on",
+        "earliest_block_height": 587001,
+        "latest_block_height": 1064492,
+        "blocks_indexed": 1064491,
+        "catching_up": false,
+        "data_since": "2024-04-17T09:08:52.19413775Z"
     }
 }
