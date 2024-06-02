@@ -1,14 +1,26 @@
 {
-    "65.109.52.56:32331": {
-        "voting_power": 14461743,
+    "158.220.117.55:26657": {
+        "voting_power": 6313592,
         "is_validator": true,
-        "moniker": "??Stigga??",
+        "moniker": "OneNov",
         "network": "blockx_100-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 6803202,
-        "blocks_indexed": 6803201,
+        "tx_index": "on",
+        "earliest_block_height": 2468001,
+        "latest_block_height": 6831373,
+        "blocks_indexed": 6831372,
         "catching_up": false,
+        "data_since": "2024-03-06T00:51:15.393315704Z"
+    },
+    "192.99.160.197:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "KYN-ARCHIVE",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 769844,
+        "blocks_indexed": 769843,
+        "catching_up": true,
         "data_since": "2024-01-16T12:00:00Z"
     },
     "5.9.87.231:60957": {
@@ -18,34 +30,10 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 6071001,
-        "latest_block_height": 6803210,
-        "blocks_indexed": 6803209,
+        "latest_block_height": 6851379,
+        "blocks_indexed": 6851378,
         "catching_up": false,
         "data_since": "2024-05-17T06:10:02.483505463Z"
-    },
-    "192.99.160.197:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "KYN-ARCHIVE",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 746139,
-        "blocks_indexed": 746138,
-        "catching_up": true,
-        "data_since": "2024-01-16T12:00:00Z"
-    },
-    "158.220.117.55:26657": {
-        "voting_power": 6313592,
-        "is_validator": true,
-        "moniker": "OneNov",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 2468001,
-        "latest_block_height": 6803209,
-        "blocks_indexed": 6803208,
-        "catching_up": false,
-        "data_since": "2024-03-06T00:51:15.393315704Z"
     },
     "158.69.125.73:11357": {
         "voting_power": 10190246,
@@ -53,10 +41,22 @@
         "moniker": "Nodeist-blockx-main",
         "network": "blockx_100-1",
         "tx_index": "off",
-        "earliest_block_height": 6754398,
-        "latest_block_height": 6803208,
-        "blocks_indexed": 6803207,
+        "earliest_block_height": 0,
+        "latest_block_height": 6851377,
+        "blocks_indexed": 6851376,
         "catching_up": false,
-        "data_since": "2024-05-31T00:59:43.224203138Z"
+        "data_since": "1970-01-01T00:00:00Z"
+    },
+    "65.109.52.56:32331": {
+        "voting_power": 14461743,
+        "is_validator": true,
+        "moniker": "??Stigga??",
+        "network": "blockx_100-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 6851373,
+        "blocks_indexed": 6851372,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
     }
 }
