@@ -6,8 +6,8 @@
         "network": "buenavista-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 679706,
-        "blocks_indexed": 679705,
+        "latest_block_height": 693829,
+        "blocks_indexed": 693828,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
     },
@@ -18,9 +18,21 @@
         "network": "buenavista-1",
         "tx_index": "on",
         "earliest_block_height": 631001,
-        "latest_block_height": 679706,
-        "blocks_indexed": 679705,
+        "latest_block_height": 693829,
+        "blocks_indexed": 693828,
         "catching_up": false,
         "data_since": "2024-05-30T16:53:28.633103413Z"
+    },
+    "37.60.240.206:26657": {
+        "voting_power": 19257,
+        "is_validator": true,
+        "moniker": "NodeSafe",
+        "network": "buenavista-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 693829,
+        "blocks_indexed": 693828,
+        "catching_up": false,
+        "data_since": "2024-04-16T12:14:11.6928963Z"
     }
 }
