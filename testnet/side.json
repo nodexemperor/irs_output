@@ -5,11 +5,35 @@
         "moniker": "Staketab-snap",
         "network": "S2-testnet-2",
         "tx_index": "off",
-        "earliest_block_height": 401001,
-        "latest_block_height": 415526,
-        "blocks_indexed": 415525,
+        "earliest_block_height": 415001,
+        "latest_block_height": 430249,
+        "blocks_indexed": 430248,
         "catching_up": false,
-        "data_since": "2024-06-03T02:35:57.240165787Z"
+        "data_since": "2024-06-04T01:22:39.126220295Z"
+    },
+    "135.181.210.171:21307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 428001,
+        "latest_block_height": 430249,
+        "blocks_indexed": 430248,
+        "catching_up": false,
+        "data_since": "2024-06-04T22:36:55.75643635Z"
+    },
+    "146.190.144.6:26657": {
+        "voting_power": 5002769,
+        "is_validator": true,
+        "moniker": "S16 Research Ventures",
+        "network": "S2-testnet-2",
+        "tx_index": "off",
+        "earliest_block_height": 380001,
+        "latest_block_height": 430250,
+        "blocks_indexed": 430249,
+        "catching_up": false,
+        "data_since": "2024-06-01T16:26:48.987021718Z"
     },
     "157.90.0.102:32657": {
         "voting_power": 0,
@@ -18,22 +42,10 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 415526,
-        "blocks_indexed": 415525,
+        "latest_block_height": 430250,
+        "blocks_indexed": 430249,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "135.181.210.171:21307": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 413301,
-        "latest_block_height": 415527,
-        "blocks_indexed": 415526,
-        "catching_up": false,
-        "data_since": "2024-06-03T22:36:33.836743519Z"
     },
     "202.182.119.24:26657": {
         "voting_power": 0,
@@ -42,8 +54,8 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 415527,
-        "blocks_indexed": 415526,
+        "latest_block_height": 430250,
+        "blocks_indexed": 430249,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     }
