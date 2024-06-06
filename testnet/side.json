@@ -5,45 +5,33 @@
         "moniker": "Staketab-snap",
         "network": "S2-testnet-2",
         "tx_index": "off",
-        "earliest_block_height": 415001,
-        "latest_block_height": 430249,
-        "blocks_indexed": 430248,
+        "earliest_block_height": 430001,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
         "catching_up": false,
-        "data_since": "2024-06-04T01:22:39.126220295Z"
+        "data_since": "2024-06-05T01:51:51.618301731Z"
     },
-    "135.181.210.171:21307": {
+    "37.60.240.206:55657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 428001,
-        "latest_block_height": 430249,
-        "blocks_indexed": 430248,
-        "catching_up": false,
-        "data_since": "2024-06-04T22:36:55.75643635Z"
-    },
-    "146.190.144.6:26657": {
-        "voting_power": 5002769,
-        "is_validator": true,
-        "moniker": "S16 Research Ventures",
+        "moniker": "NodeSafe",
         "network": "S2-testnet-2",
         "tx_index": "off",
-        "earliest_block_height": 380001,
-        "latest_block_height": 430250,
-        "blocks_indexed": 430249,
+        "earliest_block_height": 1,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
         "catching_up": false,
-        "data_since": "2024-06-01T16:26:48.987021718Z"
+        "data_since": "2024-05-07T00:29:31.924951801Z"
     },
-    "157.90.0.102:32657": {
+    "138.201.51.154:32002": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "DTEAM_GUIDE",
+        "moniker": "CryptoSJnetRPC",
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 430250,
-        "blocks_indexed": 430249,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -54,8 +42,44 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 430250,
-        "blocks_indexed": 430249,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
+    "135.181.210.171:21307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 442801,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
+        "catching_up": false,
+        "data_since": "2024-06-05T22:41:41.369469419Z"
+    },
+    "49.13.123.160:17457": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STC Capital RPC",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 317235,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
+        "catching_up": false,
+        "data_since": "2024-05-28T09:58:50.71964229Z"
+    },
+    "157.90.0.102:32657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "DTEAM_GUIDE",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 445070,
+        "blocks_indexed": 445069,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     }

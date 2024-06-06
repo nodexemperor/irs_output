@@ -1,4 +1,16 @@
 {
+    "5.9.87.231:60957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 6071001,
+        "latest_block_height": 7049788,
+        "blocks_indexed": 7049787,
+        "catching_up": false,
+        "data_since": "2024-05-17T06:10:02.483505463Z"
+    },
     "158.220.117.55:26657": {
         "voting_power": 6190952,
         "is_validator": true,
@@ -6,10 +18,22 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 2468001,
-        "latest_block_height": 7000180,
-        "blocks_indexed": 7000179,
+        "latest_block_height": 7049788,
+        "blocks_indexed": 7049787,
         "catching_up": false,
         "data_since": "2024-03-06T00:51:15.393315704Z"
+    },
+    "158.69.125.73:11357": {
+        "voting_power": 10200268,
+        "is_validator": true,
+        "moniker": "Nodeist-blockx-main",
+        "network": "blockx_100-1",
+        "tx_index": "off",
+        "earliest_block_height": 7001418,
+        "latest_block_height": 7049788,
+        "blocks_indexed": 7049787,
+        "catching_up": false,
+        "data_since": "2024-06-05T00:59:42.093183738Z"
     },
     "65.109.52.56:32331": {
         "voting_power": 14461743,
@@ -18,33 +42,9 @@
         "network": "blockx_100-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 7000169,
-        "blocks_indexed": 7000168,
+        "latest_block_height": 7049782,
+        "blocks_indexed": 7049781,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
-    },
-    "5.9.87.231:60957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 6071001,
-        "latest_block_height": 7000179,
-        "blocks_indexed": 7000178,
-        "catching_up": false,
-        "data_since": "2024-05-17T06:10:02.483505463Z"
-    },
-    "158.69.125.73:11357": {
-        "voting_power": 10200268,
-        "is_validator": true,
-        "moniker": "Nodeist-blockx-main",
-        "network": "blockx_100-1",
-        "tx_index": "off",
-        "earliest_block_height": 6951604,
-        "latest_block_height": 7000180,
-        "blocks_indexed": 7000179,
-        "catching_up": false,
-        "data_since": "2024-06-04T00:59:42.631649518Z"
     }
 }
