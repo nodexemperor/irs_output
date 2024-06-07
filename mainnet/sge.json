@@ -1,28 +1,4 @@
 {
-    "65.21.226.187:60557": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Sr20de service node",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3997264,
-        "blocks_indexed": 3997263,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "65.109.88.254:32657": {
-        "voting_power": 4000102,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 2868001,
-        "latest_block_height": 3997263,
-        "blocks_indexed": 3997262,
-        "catching_up": false,
-        "data_since": "2024-03-20T06:18:00.875302093Z"
-    },
     "3.34.129.58:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -30,70 +6,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3997263,
-        "blocks_indexed": 3997262,
+        "latest_block_height": 4006450,
+        "blocks_indexed": 4006449,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
-    "3.37.63.177:26657": {
+    "54.226.104.121:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "sge-sentry-1",
-        "network": "sgenet-1",
+        "moniker": "sentry-api-1",
+        "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3997264,
-        "blocks_indexed": 3997263,
+        "latest_block_height": 3291979,
+        "blocks_indexed": 3291978,
         "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "5.39.249.16:36657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Sr20de service node 2",
-        "network": "sgenet-1",
-        "tx_index": "off",
-        "earliest_block_height": 0,
-        "latest_block_height": 0,
-        "blocks_indexed": -1,
-        "catching_up": true,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "142.132.202.86:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ramuchi.tech",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3997239,
-        "blocks_indexed": 3997238,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "135.181.210.171:1157": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 3994001,
-        "latest_block_height": 3997239,
-        "blocks_indexed": 3997238,
-        "catching_up": false,
-        "data_since": "2024-06-05T20:02:20.730839944Z"
-    },
-    "65.109.88.254:34657": {
-        "voting_power": 696,
-        "is_validator": true,
-        "moniker": "tankis",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 3196635,
-        "latest_block_height": 3997240,
-        "blocks_indexed": 3997239,
-        "catching_up": false,
-        "data_since": "2024-04-11T21:52:25.447241976Z"
+        "data_since": "2023-10-31T12:00:00Z"
     },
     "213.239.207.175:13257": {
         "voting_power": 100,
@@ -102,8 +30,8 @@
         "network": "sge-network-4",
         "tx_index": "off",
         "earliest_block_height": 411001,
-        "latest_block_height": 3276726,
-        "blocks_indexed": 3276725,
+        "latest_block_height": 3291979,
+        "blocks_indexed": 3291978,
         "catching_up": false,
         "data_since": "2023-11-28T15:28:39.285025262Z"
     },
@@ -126,21 +54,9 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 890001,
-        "latest_block_height": 3276726,
-        "blocks_indexed": 3276725,
+        "latest_block_height": 3291979,
+        "blocks_indexed": 3291978,
         "catching_up": false,
         "data_since": "2023-12-31T07:14:59.400345959Z"
-    },
-    "54.226.104.121:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-api-1",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3276726,
-        "blocks_indexed": 3276725,
-        "catching_up": false,
-        "data_since": "2023-10-31T12:00:00Z"
     }
 }
