@@ -6,22 +6,10 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 6501401,
-        "latest_block_height": 8233139,
-        "blocks_indexed": 8233138,
+        "latest_block_height": 8248505,
+        "blocks_indexed": 8248504,
         "catching_up": false,
         "data_since": "2024-02-19T09:29:29.426816107Z"
-    },
-    "65.109.112.144:1021": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Decentrio",
-        "network": "xion-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 7547354,
-        "latest_block_height": 8233140,
-        "blocks_indexed": 8233139,
-        "catching_up": false,
-        "data_since": "2024-04-24T08:28:59.362612938Z"
     },
     "15.235.87.88:56657": {
         "voting_power": 0,
@@ -30,9 +18,21 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 8233139,
-        "blocks_indexed": 8233138,
+        "latest_block_height": 8248504,
+        "blocks_indexed": 8248503,
         "catching_up": false,
         "data_since": "2023-04-01T00:00:00Z"
+    },
+    "65.109.112.144:1021": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Decentrio",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 7547354,
+        "latest_block_height": 8248505,
+        "blocks_indexed": 8248504,
+        "catching_up": false,
+        "data_since": "2024-04-24T08:28:59.362612938Z"
     }
 }
