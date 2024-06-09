@@ -6,10 +6,22 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 7287001,
-        "latest_block_height": 7353283,
-        "blocks_indexed": 7353282,
+        "latest_block_height": 7395783,
+        "blocks_indexed": 7395782,
         "catching_up": false,
         "data_since": "2024-06-06T10:41:01.618544363Z"
+    },
+    "45.92.9.210:26657": {
+        "voting_power": 1331,
+        "is_validator": true,
+        "moniker": "AppleJuice",
+        "network": "cataclysm-1",
+        "tx_index": "off",
+        "earliest_block_height": 6884001,
+        "latest_block_height": 7395784,
+        "blocks_indexed": 7395783,
+        "catching_up": false,
+        "data_since": "2024-05-27T18:56:58.634815763Z"
     },
     "65.108.141.109:34657": {
         "voting_power": 0,
@@ -18,22 +30,22 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 7353285,
-        "blocks_indexed": 7353284,
+        "latest_block_height": 7395857,
+        "blocks_indexed": 7395856,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
     },
-    "45.92.9.210:26657": {
-        "voting_power": 1324,
-        "is_validator": true,
-        "moniker": "AppleJuice",
+    "135.181.210.171:11037": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "cataclysm-1",
-        "tx_index": "off",
-        "earliest_block_height": 6884001,
-        "latest_block_height": 7353285,
-        "blocks_indexed": 7353284,
+        "tx_index": "on",
+        "earliest_block_height": 7391001,
+        "latest_block_height": 7395849,
+        "blocks_indexed": 7395848,
         "catching_up": false,
-        "data_since": "2024-05-27T18:56:58.634815763Z"
+        "data_since": "2024-06-08T22:03:08.446914593Z"
     },
     "144.76.236.49:60557": {
         "voting_power": 0,
@@ -47,18 +59,6 @@
         "catching_up": false,
         "data_since": "2024-05-20T18:52:07.387514259Z"
     },
-    "84.247.172.224:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "chelo-nibiru-mainnet",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 7353355,
-        "blocks_indexed": 7353354,
-        "catching_up": false,
-        "data_since": "2023-11-08T20:09:48.842674Z"
-    },
     "65.108.75.107:34657": {
         "voting_power": 0,
         "is_validator": false,
@@ -66,8 +66,8 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 7174001,
-        "latest_block_height": 7353355,
-        "blocks_indexed": 7353354,
+        "latest_block_height": 7395856,
+        "blocks_indexed": 7395855,
         "catching_up": false,
         "data_since": "2024-06-03T17:51:08.339872407Z"
     }
