@@ -1,16 +1,4 @@
 {
-    "158.220.117.55:26657": {
-        "voting_power": 6190952,
-        "is_validator": true,
-        "moniker": "OneNov",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 2468001,
-        "latest_block_height": 7200660,
-        "blocks_indexed": 7200659,
-        "catching_up": false,
-        "data_since": "2024-03-06T00:51:15.393315704Z"
-    },
     "65.109.52.56:32331": {
         "voting_power": 14461743,
         "is_validator": true,
@@ -18,22 +6,22 @@
         "network": "blockx_100-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 7200649,
-        "blocks_indexed": 7200648,
+        "latest_block_height": 7250960,
+        "blocks_indexed": 7250959,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
     "158.69.125.73:11357": {
-        "voting_power": 10200311,
+        "voting_power": 10200322,
         "is_validator": true,
         "moniker": "Nodeist-blockx-main",
         "network": "blockx_100-1",
         "tx_index": "off",
-        "earliest_block_height": 7151095,
-        "latest_block_height": 7200654,
-        "blocks_indexed": 7200653,
+        "earliest_block_height": 7201802,
+        "latest_block_height": 7250967,
+        "blocks_indexed": 7250966,
         "catching_up": false,
-        "data_since": "2024-06-08T00:59:43.488071076Z"
+        "data_since": "2024-06-09T00:59:42.149448467Z"
     },
     "5.9.87.231:60957": {
         "voting_power": 0,
@@ -42,9 +30,21 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 6071001,
-        "latest_block_height": 7200659,
-        "blocks_indexed": 7200658,
+        "latest_block_height": 7250968,
+        "blocks_indexed": 7250967,
         "catching_up": false,
         "data_since": "2024-05-17T06:10:02.483505463Z"
+    },
+    "158.220.117.55:26657": {
+        "voting_power": 6190952,
+        "is_validator": true,
+        "moniker": "OneNov",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 2468001,
+        "latest_block_height": 7250967,
+        "blocks_indexed": 7250966,
+        "catching_up": false,
+        "data_since": "2024-03-06T00:51:15.393315704Z"
     }
 }
