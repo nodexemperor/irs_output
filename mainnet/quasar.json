@@ -1,16 +1,4 @@
 {
-    "34.175.37.59:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "quasar",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 5456001,
-        "latest_block_height": 6561670,
-        "blocks_indexed": 6561669,
-        "catching_up": true,
-        "data_since": "2024-03-19T10:59:38.308626452Z"
-    },
     "34.175.55.194:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,10 +6,22 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 6519979,
-        "blocks_indexed": 6519978,
+        "latest_block_height": 6561272,
+        "blocks_indexed": 6561271,
         "catching_up": true,
         "data_since": "2023-03-22T20:00:00Z"
+    },
+    "34.175.37.59:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "quasar",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 5456001,
+        "latest_block_height": 6561686,
+        "blocks_indexed": 6561685,
+        "catching_up": true,
+        "data_since": "2024-03-19T10:59:38.308626452Z"
     },
     "65.109.92.148:60557": {
         "voting_power": 0,
@@ -30,21 +30,9 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 6489811,
-        "latest_block_height": 6689048,
-        "blocks_indexed": 6689047,
+        "latest_block_height": 6704100,
+        "blocks_indexed": 6704099,
         "catching_up": false,
         "data_since": "2024-05-27T13:13:56.852243167Z"
-    },
-    "143.198.172.109:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "voiwjew",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 6564470,
-        "latest_block_height": 6664471,
-        "blocks_indexed": 6664470,
-        "catching_up": false,
-        "data_since": "2024-06-01T18:14:42.07738973Z"
     }
 }
