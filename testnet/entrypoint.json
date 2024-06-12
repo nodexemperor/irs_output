@@ -6,8 +6,20 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 3510460,
-        "blocks_indexed": 3510459,
+        "latest_block_height": 3525292,
+        "blocks_indexed": 3525291,
+        "catching_up": false,
+        "data_since": "2023-10-25T11:00:00Z"
+    },
+    "65.108.206.118:61257": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "UTSA_guide",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3525292,
+        "blocks_indexed": 3525291,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -18,21 +30,9 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "off",
         "earliest_block_height": 1795001,
-        "latest_block_height": 3510460,
-        "blocks_indexed": 3510459,
+        "latest_block_height": 3525292,
+        "blocks_indexed": 3525291,
         "catching_up": false,
         "data_since": "2024-02-17T11:41:21.569691201Z"
-    },
-    "65.108.206.118:61257": {
-        "voting_power": 100100,
-        "is_validator": true,
-        "moniker": "UTSA_guide",
-        "network": "entrypoint-pubtest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3510460,
-        "blocks_indexed": 3510459,
-        "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
     }
 }

@@ -6,8 +6,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 2868001,
-        "latest_block_height": 4056534,
-        "blocks_indexed": 4056533,
+        "latest_block_height": 4071163,
+        "blocks_indexed": 4071162,
         "catching_up": false,
         "data_since": "2024-03-20T06:18:00.875302093Z"
     },
@@ -18,8 +18,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4056510,
-        "blocks_indexed": 4056509,
+        "latest_block_height": 4071138,
+        "blocks_indexed": 4071137,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -30,8 +30,8 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4056534,
-        "blocks_indexed": 4056533,
+        "latest_block_height": 4071163,
+        "blocks_indexed": 4071162,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
     },
@@ -41,59 +41,23 @@
         "moniker": "STAVR-Service",
         "network": "sgenet-1",
         "tx_index": "on",
-        "earliest_block_height": 4053501,
-        "latest_block_height": 4056534,
-        "blocks_indexed": 4056533,
+        "earliest_block_height": 4068001,
+        "latest_block_height": 4071139,
+        "blocks_indexed": 4071138,
         "catching_up": false,
-        "data_since": "2024-06-10T20:27:52.149058477Z"
+        "data_since": "2024-06-11T20:16:20.726539735Z"
     },
-    "3.34.129.58:26657": {
+    "65.108.121.227:12757": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "6s-sentry-2",
+        "moniker": "StakeUp-rpc",
         "network": "sgenet-1",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 4056534,
-        "blocks_indexed": 4056533,
+        "earliest_block_height": 3232888,
+        "latest_block_height": 4071139,
+        "blocks_indexed": 4071138,
         "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "54.226.104.121:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-api-1",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3352861,
-        "blocks_indexed": 3352860,
-        "catching_up": false,
-        "data_since": "2023-10-31T12:00:00Z"
-    },
-    "213.239.207.175:13257": {
-        "voting_power": 100,
-        "is_validator": true,
-        "moniker": "StakeUp",
-        "network": "sge-network-4",
-        "tx_index": "off",
-        "earliest_block_height": 411001,
-        "latest_block_height": 3352861,
-        "blocks_indexed": 3352860,
-        "catching_up": false,
-        "data_since": "2023-11-28T15:28:39.285025262Z"
-    },
-    "65.109.88.254:30657": {
-        "voting_power": 3497,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 890001,
-        "latest_block_height": 3352861,
-        "blocks_indexed": 3352860,
-        "catching_up": false,
-        "data_since": "2023-12-31T07:14:59.400345959Z"
+        "data_since": "2024-04-14T09:28:51.73406551Z"
     },
     "135.181.210.171:1147": {
         "voting_power": 0,
@@ -106,5 +70,41 @@
         "blocks_indexed": -1,
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "54.226.104.121:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-api-1",
+        "network": "sge-network-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3368111,
+        "blocks_indexed": 3368110,
+        "catching_up": false,
+        "data_since": "2023-10-31T12:00:00Z"
+    },
+    "65.109.88.254:30657": {
+        "voting_power": 3497,
+        "is_validator": true,
+        "moniker": "ksalab",
+        "network": "sge-network-4",
+        "tx_index": "on",
+        "earliest_block_height": 890001,
+        "latest_block_height": 3368112,
+        "blocks_indexed": 3368111,
+        "catching_up": false,
+        "data_since": "2023-12-31T07:14:59.400345959Z"
+    },
+    "213.239.207.175:13257": {
+        "voting_power": 100,
+        "is_validator": true,
+        "moniker": "StakeUp",
+        "network": "sge-network-4",
+        "tx_index": "off",
+        "earliest_block_height": 411001,
+        "latest_block_height": 3368112,
+        "blocks_indexed": 3368111,
+        "catching_up": false,
+        "data_since": "2023-11-28T15:28:39.285025262Z"
     }
 }
