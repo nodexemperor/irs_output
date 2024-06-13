@@ -1,39 +1,15 @@
 {
-    "158.220.117.55:26657": {
-        "voting_power": 6190952,
-        "is_validator": true,
-        "moniker": "OneNov",
-        "network": "blockx_100-1",
-        "tx_index": "on",
-        "earliest_block_height": 2468001,
-        "latest_block_height": 7352829,
-        "blocks_indexed": 7352828,
-        "catching_up": false,
-        "data_since": "2024-03-06T00:51:15.393315704Z"
-    },
     "158.69.125.73:11357": {
-        "voting_power": 10200334,
+        "voting_power": 10200345,
         "is_validator": true,
         "moniker": "Nodeist-blockx-main",
         "network": "blockx_100-1",
         "tx_index": "off",
-        "earliest_block_height": 0,
-        "latest_block_height": 7352829,
-        "blocks_indexed": 7352828,
+        "earliest_block_height": 7354044,
+        "latest_block_height": 7404118,
+        "blocks_indexed": 7404117,
         "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "65.109.52.56:32331": {
-        "voting_power": 14461743,
-        "is_validator": true,
-        "moniker": "??Stigga??",
-        "network": "blockx_100-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 7352823,
-        "blocks_indexed": 7352822,
-        "catching_up": false,
-        "data_since": "2024-01-16T12:00:00Z"
+        "data_since": "2024-06-12T00:59:44.32326045Z"
     },
     "5.9.87.231:60957": {
         "voting_power": 0,
@@ -42,9 +18,33 @@
         "network": "blockx_100-1",
         "tx_index": "on",
         "earliest_block_height": 6071001,
-        "latest_block_height": 7352829,
-        "blocks_indexed": 7352828,
+        "latest_block_height": 7404120,
+        "blocks_indexed": 7404119,
         "catching_up": false,
         "data_since": "2024-05-17T06:10:02.483505463Z"
+    },
+    "158.220.117.55:26657": {
+        "voting_power": 6190952,
+        "is_validator": true,
+        "moniker": "OneNov",
+        "network": "blockx_100-1",
+        "tx_index": "on",
+        "earliest_block_height": 2468001,
+        "latest_block_height": 7404119,
+        "blocks_indexed": 7404118,
+        "catching_up": false,
+        "data_since": "2024-03-06T00:51:15.393315704Z"
+    },
+    "65.109.52.56:32331": {
+        "voting_power": 14461743,
+        "is_validator": true,
+        "moniker": "??Stigga??",
+        "network": "blockx_100-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 7404114,
+        "blocks_indexed": 7404113,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
     }
 }
