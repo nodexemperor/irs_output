@@ -5,11 +5,35 @@
         "moniker": "Staketab-snap",
         "network": "S2-testnet-2",
         "tx_index": "off",
-        "earliest_block_height": 548001,
-        "latest_block_height": 563263,
-        "blocks_indexed": 563262,
+        "earliest_block_height": 563001,
+        "latest_block_height": 578027,
+        "blocks_indexed": 578026,
         "catching_up": false,
-        "data_since": "2024-06-13T01:40:26.597632864Z"
+        "data_since": "2024-06-14T02:04:56.620966503Z"
+    },
+    "202.182.119.24:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "testnet-rpc",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 578027,
+        "blocks_indexed": 578026,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
+    "157.90.0.102:32657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "DTEAM_GUIDE",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 578027,
+        "blocks_indexed": 578026,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
     },
     "138.201.51.154:32002": {
         "voting_power": 0,
@@ -18,8 +42,8 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 563264,
-        "blocks_indexed": 563263,
+        "latest_block_height": 578027,
+        "blocks_indexed": 578026,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -29,34 +53,10 @@
         "moniker": "STAVR-Service",
         "network": "S2-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 560401,
-        "latest_block_height": 563264,
-        "blocks_indexed": 563263,
-        "catching_up": false,
-        "data_since": "2024-06-13T21:51:04.169343833Z"
-    },
-    "157.90.0.102:32657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "DTEAM_GUIDE",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 563264,
-        "blocks_indexed": 563263,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
-    "202.182.119.24:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "testnet-rpc",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 563264,
-        "blocks_indexed": 563263,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
+        "earliest_block_height": 576601,
+        "latest_block_height": 577900,
+        "blocks_indexed": 577899,
+        "catching_up": true,
+        "data_since": "2024-06-15T00:09:36.164029981Z"
     }
 }
