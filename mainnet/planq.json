@@ -1,4 +1,16 @@
 {
+    "95.168.173.33:48657": {
+        "voting_power": 1136077,
+        "is_validator": true,
+        "moniker": "PLQ-mainnet-prod",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 9217501,
+        "latest_block_height": 9399291,
+        "blocks_indexed": 9399290,
+        "catching_up": false,
+        "data_since": "2024-06-04T06:26:19.506037265Z"
+    },
     "89.39.106.38:20357": {
         "voting_power": 257,
         "is_validator": true,
@@ -6,8 +18,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 8804260,
-        "latest_block_height": 9383763,
-        "blocks_indexed": 9383762,
+        "latest_block_height": 9399288,
+        "blocks_indexed": 9399287,
         "catching_up": false,
         "data_since": "2024-05-08T08:29:01.420264766Z"
     },
@@ -18,10 +30,22 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 9383768,
-        "blocks_indexed": 9383767,
+        "latest_block_height": 9399292,
+        "blocks_indexed": 9399291,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
+    },
+    "66.45.246.166:1077": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 9396501,
+        "latest_block_height": 9399292,
+        "blocks_indexed": 9399291,
+        "catching_up": false,
+        "data_since": "2024-06-15T20:44:11.84240094Z"
     },
     "65.108.66.174:31657": {
         "voting_power": 0,
@@ -30,33 +54,9 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 9383766,
-        "blocks_indexed": 9383765,
+        "latest_block_height": 9399290,
+        "blocks_indexed": 9399289,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
-    },
-    "95.168.173.33:48657": {
-        "voting_power": 1136005,
-        "is_validator": true,
-        "moniker": "PLQ-mainnet-prod",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 9217501,
-        "latest_block_height": 9383766,
-        "blocks_indexed": 9383765,
-        "catching_up": false,
-        "data_since": "2024-06-04T06:26:19.506037265Z"
-    },
-    "66.45.246.166:1077": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 9383001,
-        "latest_block_height": 9383768,
-        "blocks_indexed": 9383767,
-        "catching_up": false,
-        "data_since": "2024-06-14T23:51:20.967555291Z"
     }
 }
