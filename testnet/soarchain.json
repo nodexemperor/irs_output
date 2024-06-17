@@ -1,13 +1,25 @@
 {
-    "34.141.178.93:26657": {
-        "voting_power": 9000011,
+    "142.132.152.46:13657": {
+        "voting_power": 119,
         "is_validator": true,
-        "moniker": "technode",
+        "moniker": "stakrspace",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 1176001,
+        "latest_block_height": 1667880,
+        "blocks_indexed": 1667879,
+        "catching_up": false,
+        "data_since": "2024-05-08T10:05:16.363791141Z"
+    },
+    "23.88.108.193:26657": {
+        "voting_power": 908390,
+        "is_validator": true,
+        "moniker": "soarchaind start --log_level info --minimum-gas-prices=0.0001utmotus",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1511531,
-        "latest_block_height": 1655382,
-        "blocks_indexed": 1655381,
+        "latest_block_height": 1667880,
+        "blocks_indexed": 1667879,
         "catching_up": false,
         "data_since": "2024-06-04T08:28:48.481817183Z"
     },
@@ -18,46 +30,46 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1655383,
-        "blocks_indexed": 1655382,
+        "latest_block_height": 1667879,
+        "blocks_indexed": 1667878,
         "catching_up": false,
         "data_since": "2023-11-10T23:37:59.40031734Z"
     },
-    "23.88.108.193:26657": {
-        "voting_power": 908168,
+    "109.199.99.165:26657": {
+        "voting_power": 1243670,
         "is_validator": true,
-        "moniker": "soarchaind start --log_level info --minimum-gas-prices=0.0001utmotus",
+        "moniker": "NinjaTraders",
         "network": "soarchaintestnet",
         "tx_index": "on",
-        "earliest_block_height": 1511531,
-        "latest_block_height": 1655382,
-        "blocks_indexed": 1655381,
+        "earliest_block_height": 1,
+        "latest_block_height": 1667880,
+        "blocks_indexed": 1667879,
         "catching_up": false,
-        "data_since": "2024-06-04T08:28:48.481817183Z"
-    },
-    "65.109.115.45:25657": {
-        "voting_power": 1594980,
-        "is_validator": true,
-        "moniker": "Huginn",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 115932,
-        "latest_block_height": 1655382,
-        "blocks_indexed": 1655381,
-        "catching_up": false,
-        "data_since": "2023-12-01T09:27:04.084421773Z"
+        "data_since": "2023-11-10T23:37:59.40031734Z"
     },
     "34.165.238.45:26657": {
-        "voting_power": 8113815,
+        "voting_power": 8115615,
         "is_validator": true,
         "moniker": "cartel",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1655383,
-        "blocks_indexed": 1655382,
+        "latest_block_height": 1667879,
+        "blocks_indexed": 1667878,
         "catching_up": false,
         "data_since": "2023-11-10T23:37:59.40031734Z"
+    },
+    "35.247.176.247:26657": {
+        "voting_power": 920381,
+        "is_validator": true,
+        "moniker": "Chainbase",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 485001,
+        "latest_block_height": 1667880,
+        "blocks_indexed": 1667879,
+        "catching_up": false,
+        "data_since": "2024-02-03T04:59:36.660354864Z"
     },
     "35.203.93.221:26657": {
         "voting_power": 7579452,
@@ -66,56 +78,44 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1584657,
-        "latest_block_height": 1655382,
-        "blocks_indexed": 1655381,
+        "latest_block_height": 1667879,
+        "blocks_indexed": 1667878,
         "catching_up": false,
         "data_since": "2024-06-10T08:27:53.66611733Z"
     },
-    "35.247.176.247:26657": {
-        "voting_power": 919920,
+    "65.109.115.45:25657": {
+        "voting_power": 1605328,
         "is_validator": true,
-        "moniker": "Chainbase",
+        "moniker": "Huginn",
         "network": "soarchaintestnet",
         "tx_index": "on",
-        "earliest_block_height": 485001,
-        "latest_block_height": 1655383,
-        "blocks_indexed": 1655382,
+        "earliest_block_height": 115932,
+        "latest_block_height": 1667879,
+        "blocks_indexed": 1667878,
         "catching_up": false,
-        "data_since": "2024-02-03T04:59:36.660354864Z"
+        "data_since": "2023-12-01T09:27:04.084421773Z"
     },
-    "142.132.152.46:13657": {
-        "voting_power": 119,
+    "34.141.178.93:26657": {
+        "voting_power": 9000011,
         "is_validator": true,
-        "moniker": "stakrspace",
+        "moniker": "technode",
         "network": "soarchaintestnet",
         "tx_index": "on",
-        "earliest_block_height": 1176001,
-        "latest_block_height": 1655382,
-        "blocks_indexed": 1655381,
+        "earliest_block_height": 1511531,
+        "latest_block_height": 1667879,
+        "blocks_indexed": 1667878,
         "catching_up": false,
-        "data_since": "2024-05-08T10:05:16.363791141Z"
-    },
-    "109.199.99.165:26657": {
-        "voting_power": 1236880,
-        "is_validator": true,
-        "moniker": "NinjaTraders",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1655383,
-        "blocks_indexed": 1655382,
-        "catching_up": false,
-        "data_since": "2023-11-10T23:37:59.40031734Z"
+        "data_since": "2024-06-04T08:28:48.481817183Z"
     },
     "37.60.233.235:26657": {
-        "voting_power": 1736,
+        "voting_power": 1886,
         "is_validator": true,
         "moniker": "soarchaind version",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1176001,
-        "latest_block_height": 1655383,
-        "blocks_indexed": 1655382,
+        "latest_block_height": 1667880,
+        "blocks_indexed": 1667879,
         "catching_up": false,
         "data_since": "2024-05-08T10:05:16.363791141Z"
     }
