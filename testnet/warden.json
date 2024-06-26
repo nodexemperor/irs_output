@@ -1,49 +1,61 @@
 {
-    "188.40.85.207:12757": {
-        "voting_power": 35450,
-        "is_validator": true,
-        "moniker": "Perfect",
+    "109.199.117.4:10657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "GadroeNode",
+        "network": "buenavista-1",
+        "tx_index": "on",
+        "earliest_block_height": 464001,
+        "latest_block_height": 1010710,
+        "blocks_indexed": 1010709,
+        "catching_up": false,
+        "data_since": "2024-05-19T00:40:17.127324813Z"
+    },
+    "57.128.193.18:21106": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "node",
         "network": "buenavista-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 895021,
-        "blocks_indexed": 895020,
+        "latest_block_height": 1010710,
+        "blocks_indexed": 1010709,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
     },
     "88.99.254.62:24657": {
-        "voting_power": 1026624,
+        "voting_power": 1026763,
         "is_validator": true,
         "moniker": "CryptoNodeID",
         "network": "buenavista-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 895021,
-        "blocks_indexed": 895020,
+        "latest_block_height": 1010710,
+        "blocks_indexed": 1010709,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
     },
-    "37.27.127.220:36657": {
-        "voting_power": 990031,
-        "is_validator": true,
-        "moniker": "HerculesNode",
-        "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 631001,
-        "latest_block_height": 895021,
-        "blocks_indexed": 895020,
-        "catching_up": false,
-        "data_since": "2024-05-30T16:53:28.633103413Z"
-    },
-    "37.60.240.206:26657": {
-        "voting_power": 19257,
-        "is_validator": true,
-        "moniker": "NodeSafe",
+    "95.216.217.164:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Starlight",
         "network": "buenavista-1",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 895021,
-        "blocks_indexed": 895020,
+        "latest_block_height": 1010710,
+        "blocks_indexed": 1010709,
+        "catching_up": false,
+        "data_since": "2024-04-16T12:14:11.6928963Z"
+    },
+    "185.185.80.16:26657": {
+        "voting_power": 2980,
+        "is_validator": true,
+        "moniker": "p10node",
+        "network": "buenavista-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1010710,
+        "blocks_indexed": 1010709,
         "catching_up": false,
         "data_since": "2024-04-16T12:14:11.6928963Z"
     }
