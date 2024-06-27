@@ -1,39 +1,27 @@
 {
+    "142.132.152.46:13657": {
+        "voting_power": 253,
+        "is_validator": true,
+        "moniker": "stakrspace",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 1176001,
+        "latest_block_height": 1793165,
+        "blocks_indexed": 1793164,
+        "catching_up": false,
+        "data_since": "2024-05-08T10:05:16.363791141Z"
+    },
     "23.88.108.193:26657": {
-        "voting_power": 910664,
+        "voting_power": 912197,
         "is_validator": true,
         "moniker": "soarchaind start --log_level info --minimum-gas-prices=0.0001utmotus",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1745895,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
+        "latest_block_height": 1793165,
+        "blocks_indexed": 1793164,
         "catching_up": false,
         "data_since": "2024-06-23T08:28:45.724016997Z"
-    },
-    "35.241.137.105:26657": {
-        "voting_power": 3864617,
-        "is_validator": true,
-        "moniker": "Hermes",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1780690,
-        "blocks_indexed": 1780689,
-        "catching_up": false,
-        "data_since": "2023-11-10T23:37:59.40031734Z"
-    },
-    "109.199.99.165:26657": {
-        "voting_power": 1303319,
-        "is_validator": true,
-        "moniker": "NinjaTraders",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
-        "catching_up": false,
-        "data_since": "2023-11-10T23:37:59.40031734Z"
     },
     "34.141.178.93:26657": {
         "voting_power": 9000011,
@@ -42,22 +30,22 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1511531,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
+        "latest_block_height": 1793165,
+        "blocks_indexed": 1793164,
         "catching_up": false,
         "data_since": "2024-06-04T08:28:48.481817183Z"
     },
-    "65.109.115.45:25657": {
-        "voting_power": 1813318,
+    "109.199.99.165:26657": {
+        "voting_power": 1308488,
         "is_validator": true,
-        "moniker": "Huginn",
+        "moniker": "NinjaTraders",
         "network": "soarchaintestnet",
         "tx_index": "on",
-        "earliest_block_height": 115932,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
+        "earliest_block_height": 1,
+        "latest_block_height": 1793164,
+        "blocks_indexed": 1793163,
         "catching_up": false,
-        "data_since": "2023-12-01T09:27:04.084421773Z"
+        "data_since": "2023-11-10T23:37:59.40031734Z"
     },
     "34.165.238.45:26657": {
         "voting_power": 8116615,
@@ -66,44 +54,56 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
+        "latest_block_height": 1793165,
+        "blocks_indexed": 1793164,
         "catching_up": false,
         "data_since": "2023-11-10T23:37:59.40031734Z"
     },
     "35.247.176.247:26657": {
-        "voting_power": 924976,
+        "voting_power": 925337,
         "is_validator": true,
         "moniker": "Chainbase",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 485001,
-        "latest_block_height": 1780690,
-        "blocks_indexed": 1780689,
+        "latest_block_height": 1793165,
+        "blocks_indexed": 1793164,
         "catching_up": false,
         "data_since": "2024-02-03T04:59:36.660354864Z"
     },
-    "142.132.152.46:13657": {
-        "voting_power": 252,
+    "35.241.137.105:26657": {
+        "voting_power": 3864617,
         "is_validator": true,
-        "moniker": "stakrspace",
+        "moniker": "Hermes",
         "network": "soarchaintestnet",
         "tx_index": "on",
-        "earliest_block_height": 1176001,
-        "latest_block_height": 1780690,
-        "blocks_indexed": 1780689,
+        "earliest_block_height": 1,
+        "latest_block_height": 1793164,
+        "blocks_indexed": 1793163,
         "catching_up": false,
-        "data_since": "2024-05-08T10:05:16.363791141Z"
+        "data_since": "2023-11-10T23:37:59.40031734Z"
+    },
+    "65.109.115.45:25657": {
+        "voting_power": 1835702,
+        "is_validator": true,
+        "moniker": "Huginn",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 115932,
+        "latest_block_height": 1793164,
+        "blocks_indexed": 1793163,
+        "catching_up": false,
+        "data_since": "2023-12-01T09:27:04.084421773Z"
     },
     "37.60.233.235:26657": {
-        "voting_power": 2124,
+        "voting_power": 2125,
         "is_validator": true,
         "moniker": "soarchaind version",
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1176001,
-        "latest_block_height": 1780689,
-        "blocks_indexed": 1780688,
+        "latest_block_height": 1793164,
+        "blocks_indexed": 1793163,
         "catching_up": false,
         "data_since": "2024-05-08T10:05:16.363791141Z"
     }
