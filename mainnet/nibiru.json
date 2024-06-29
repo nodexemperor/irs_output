@@ -6,22 +6,10 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 5108001,
-        "latest_block_height": 8188993,
-        "blocks_indexed": 8188992,
+        "latest_block_height": 8229436,
+        "blocks_indexed": 8229435,
         "catching_up": false,
         "data_since": "2024-04-15T18:38:11.050782984Z"
-    },
-    "135.181.210.171:11037": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 8184001,
-        "latest_block_height": 8188979,
-        "blocks_indexed": 8188978,
-        "catching_up": false,
-        "data_since": "2024-06-27T22:46:22.548104688Z"
     },
     "167.235.14.83:44657": {
         "voting_power": 0,
@@ -30,33 +18,45 @@
         "network": "cataclysm-1",
         "tx_index": "on",
         "earliest_block_height": 8143001,
-        "latest_block_height": 8188922,
-        "blocks_indexed": 8188921,
+        "latest_block_height": 8229367,
+        "blocks_indexed": 8229366,
         "catching_up": false,
         "data_since": "2024-06-26T22:43:38.064444322Z"
     },
+    "144.76.29.90:60657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 2241001,
+        "latest_block_height": 8229369,
+        "blocks_indexed": 8229368,
+        "catching_up": false,
+        "data_since": "2024-01-30T10:59:07.564085179Z"
+    },
+    "135.181.210.171:11037": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "cataclysm-1",
+        "tx_index": "on",
+        "earliest_block_height": 8221501,
+        "latest_block_height": 8229045,
+        "blocks_indexed": 8229044,
+        "catching_up": false,
+        "data_since": "2024-06-28T20:59:12.847293983Z"
+    },
     "37.60.249.230:26657": {
-        "voting_power": 28411,
+        "voting_power": 28429,
         "is_validator": true,
         "moniker": "AskNode",
         "network": "cataclysm-1",
         "tx_index": "off",
         "earliest_block_height": 3814001,
-        "latest_block_height": 8188993,
-        "blocks_indexed": 8188992,
+        "latest_block_height": 8229435,
+        "blocks_indexed": 8229434,
         "catching_up": false,
         "data_since": "2024-03-14T19:55:56.850787005Z"
-    },
-    "65.108.75.107:34657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "cataclysm-1",
-        "tx_index": "on",
-        "earliest_block_height": 8054001,
-        "latest_block_height": 8188994,
-        "blocks_indexed": 8188993,
-        "catching_up": false,
-        "data_since": "2024-06-24T18:48:38.912655976Z"
     }
 }
