@@ -1,16 +1,4 @@
 {
-    "202.182.119.24:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "testnet-rpc",
-        "network": "S2-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 813754,
-        "blocks_indexed": 813753,
-        "catching_up": false,
-        "data_since": "2024-05-07T00:29:31.924951801Z"
-    },
     "135.181.210.171:21307": {
         "voting_power": 0,
         "is_validator": false,
@@ -29,11 +17,11 @@
         "moniker": "Staketab-snap",
         "network": "S2-testnet-2",
         "tx_index": "off",
-        "earliest_block_height": 800001,
-        "latest_block_height": 813755,
-        "blocks_indexed": 813754,
+        "earliest_block_height": 815001,
+        "latest_block_height": 815677,
+        "blocks_indexed": 815676,
         "catching_up": false,
-        "data_since": "2024-06-30T01:57:14.718319027Z"
+        "data_since": "2024-07-01T02:21:53.456695189Z"
     },
     "142.132.152.46:32657": {
         "voting_power": 0,
@@ -42,8 +30,20 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 813755,
-        "blocks_indexed": 813754,
+        "latest_block_height": 815677,
+        "blocks_indexed": 815676,
+        "catching_up": false,
+        "data_since": "2024-05-07T00:29:31.924951801Z"
+    },
+    "202.182.119.24:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "testnet-rpc",
+        "network": "S2-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 815677,
+        "blocks_indexed": 815676,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     },
@@ -54,8 +54,8 @@
         "network": "S2-testnet-2",
         "tx_index": "off",
         "earliest_block_height": 813535,
-        "latest_block_height": 813755,
-        "blocks_indexed": 813754,
+        "latest_block_height": 815677,
+        "blocks_indexed": 815676,
         "catching_up": false,
         "data_since": "2024-06-30T23:58:52.362916419Z"
     },
@@ -66,8 +66,8 @@
         "network": "S2-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 813755,
-        "blocks_indexed": 813754,
+        "latest_block_height": 815677,
+        "blocks_indexed": 815676,
         "catching_up": false,
         "data_since": "2024-05-07T00:29:31.924951801Z"
     }
