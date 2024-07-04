@@ -6,22 +6,10 @@
         "network": "sge-network-4",
         "tx_index": "off",
         "earliest_block_height": 411001,
-        "latest_block_height": 3684857,
-        "blocks_indexed": 3684856,
+        "latest_block_height": 3700384,
+        "blocks_indexed": 3700383,
         "catching_up": false,
         "data_since": "2023-11-28T15:28:39.285025262Z"
-    },
-    "54.226.104.121:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sentry-api-1",
-        "network": "sge-network-4",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 3684857,
-        "blocks_indexed": 3684856,
-        "catching_up": false,
-        "data_since": "2023-10-31T12:00:00Z"
     },
     "65.109.88.254:30657": {
         "voting_power": 3497,
@@ -30,10 +18,22 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 890001,
-        "latest_block_height": 3684857,
-        "blocks_indexed": 3684856,
+        "latest_block_height": 3700384,
+        "blocks_indexed": 3700383,
         "catching_up": false,
         "data_since": "2023-12-31T07:14:59.400345959Z"
+    },
+    "54.226.104.121:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sentry-api-1",
+        "network": "sge-network-4",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 3700384,
+        "blocks_indexed": 3700383,
+        "catching_up": false,
+        "data_since": "2023-10-31T12:00:00Z"
     },
     "135.181.210.171:1147": {
         "voting_power": 0,
@@ -53,10 +53,10 @@
         "moniker": "Sr20de",
         "network": "sge-network-4",
         "tx_index": "on",
-        "earliest_block_height": 3418944,
-        "latest_block_height": 3684857,
-        "blocks_indexed": 3684856,
+        "earliest_block_height": 3688838,
+        "latest_block_height": 3700384,
+        "blocks_indexed": 3700383,
         "catching_up": false,
-        "data_since": "2024-06-15T09:28:55.330466435Z"
+        "data_since": "2024-07-03T09:28:55.648212991Z"
     }
 }
