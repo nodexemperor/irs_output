@@ -1,4 +1,28 @@
 {
+    "35.232.218.224:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "LuxLeather",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1408741,
+        "latest_block_height": 1500867,
+        "blocks_indexed": 1500866,
+        "catching_up": false,
+        "data_since": "2024-06-17T17:34:37.958743266Z"
+    },
+    "43.206.119.155:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "buildkitsandbox",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 340778,
+        "latest_block_height": 515140,
+        "blocks_indexed": 515139,
+        "catching_up": true,
+        "data_since": "2022-12-26T23:02:11.363103535Z"
+    },
     "95.217.148.179:35657": {
         "voting_power": 24708476,
         "is_validator": true,
@@ -6,8 +30,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 862501,
-        "latest_block_height": 1495600,
-        "blocks_indexed": 1495599,
+        "latest_block_height": 1500867,
+        "blocks_indexed": 1500866,
         "catching_up": false,
         "data_since": "2024-02-19T07:16:07.714238674Z"
     },
@@ -18,58 +42,10 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1080443,
-        "latest_block_height": 1495600,
-        "blocks_indexed": 1495599,
+        "latest_block_height": 1500867,
+        "blocks_indexed": 1500866,
         "catching_up": false,
         "data_since": "2024-04-16T11:41:41.078261751Z"
-    },
-    "35.232.218.224:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "LuxLeather",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1408741,
-        "latest_block_height": 1495600,
-        "blocks_indexed": 1495599,
-        "catching_up": false,
-        "data_since": "2024-06-17T17:34:37.958743266Z"
-    },
-    "43.207.102.213:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "buildkitsandbox",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 340778,
-        "latest_block_height": 510333,
-        "blocks_indexed": 510332,
-        "catching_up": true,
-        "data_since": "2022-12-26T23:02:11.363103535Z"
-    },
-    "176.9.28.41:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "alice-node",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1384001,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-06-13T01:32:29.024575312Z"
-    },
-    "152.32.211.182:26657": {
-        "voting_power": 1077291114,
-        "is_validator": true,
-        "moniker": "my-node",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1408741,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-06-17T17:34:37.958743266Z"
     },
     "216.219.86.126:14457": {
         "voting_power": 10698837,
@@ -78,22 +54,34 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 751501,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-01-10T20:46:49.778996785Z"
     },
-    "65.108.227.112:13657": {
-        "voting_power": 10050756,
+    "152.32.211.182:26657": {
+        "voting_power": 1077291114,
         "is_validator": true,
-        "moniker": "[NODERS]TEAM",
+        "moniker": "my-node",
         "network": "lava-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 1395241,
-        "latest_block_height": 1495627,
-        "blocks_indexed": 1495626,
+        "earliest_block_height": 1408741,
+        "latest_block_height": 1500894,
+        "blocks_indexed": 1500893,
         "catching_up": false,
-        "data_since": "2024-06-15T04:36:46.500078088Z"
+        "data_since": "2024-06-17T17:34:37.958743266Z"
+    },
+    "176.9.28.41:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "alice-node",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1384001,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
+        "catching_up": false,
+        "data_since": "2024-06-13T01:32:29.024575312Z"
     },
     "168.119.5.125:14457": {
         "voting_power": 12762888,
@@ -102,8 +90,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1243621,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500867,
+        "blocks_indexed": 1500866,
         "catching_up": false,
         "data_since": "2024-05-17T10:08:55.773086901Z"
     },
@@ -119,29 +107,17 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "65.108.230.113:198": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
+    "65.108.227.112:13657": {
+        "voting_power": 10050756,
+        "is_validator": true,
+        "moniker": "[NODERS]TEAM",
         "network": "lava-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 1495141,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "earliest_block_height": 1395241,
+        "latest_block_height": 1500893,
+        "blocks_indexed": 1500892,
         "catching_up": false,
-        "data_since": "2024-07-04T00:38:41.363641095Z"
-    },
-    "34.75.214.127:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "testnet2-seed-1",
-        "network": "lava-testnet-2",
-        "tx_index": "off",
-        "earliest_block_height": 340778,
-        "latest_block_height": 1158192,
-        "blocks_indexed": 1158191,
-        "catching_up": true,
-        "data_since": "2022-12-26T23:02:11.363103535Z"
+        "data_since": "2024-06-15T04:36:46.500078088Z"
     },
     "65.109.25.109:56657": {
         "voting_power": 0,
@@ -150,8 +126,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 340778,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500894,
+        "blocks_indexed": 1500893,
         "catching_up": false,
         "data_since": "2022-12-26T23:02:11.363103535Z"
     },
@@ -162,22 +138,46 @@
         "network": "lava-testnet-2",
         "tx_index": "off",
         "earliest_block_height": 1411501,
-        "latest_block_height": 1495627,
-        "blocks_indexed": 1495626,
+        "latest_block_height": 1500894,
+        "blocks_indexed": 1500893,
         "catching_up": false,
         "data_since": "2024-06-18T06:00:29.977860715Z"
     },
-    "27.64.209.216:23657": {
+    "34.75.214.127:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "TeoViTeoVi",
+        "moniker": "testnet2-seed-1",
+        "network": "lava-testnet-2",
+        "tx_index": "off",
+        "earliest_block_height": 340778,
+        "latest_block_height": 1182727,
+        "blocks_indexed": 1182726,
+        "catching_up": true,
+        "data_since": "2022-12-26T23:02:11.363103535Z"
+    },
+    "109.123.251.81:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "my-node",
         "network": "lava-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 1408741,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "earliest_block_height": 1243621,
+        "latest_block_height": 1500867,
+        "blocks_indexed": 1500866,
         "catching_up": false,
-        "data_since": "2024-06-17T17:34:37.958743266Z"
+        "data_since": "2024-05-17T10:08:55.773086901Z"
+    },
+    "65.108.230.113:198": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1500001,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
+        "catching_up": false,
+        "data_since": "2024-07-04T22:49:08.389725003Z"
     },
     "65.21.224.11:26757": {
         "voting_power": 1201195028,
@@ -186,8 +186,8 @@
         "network": "lava-testnet-2",
         "tx_index": "off",
         "earliest_block_height": 1006881,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-04-02T14:43:56.56781045Z"
     },
@@ -198,8 +198,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1243621,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-05-17T10:08:55.773086901Z"
     },
@@ -210,8 +210,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 833001,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-02-08T19:34:43.681408339Z"
     },
@@ -222,22 +222,10 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1123884,
-        "latest_block_height": 1495627,
-        "blocks_indexed": 1495626,
+        "latest_block_height": 1500893,
+        "blocks_indexed": 1500892,
         "catching_up": false,
         "data_since": "2024-04-24T17:42:03.556284018Z"
-    },
-    "154.38.167.188:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "wildweststaking",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1450881,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-06-25T15:46:56.446971771Z"
     },
     "65.109.92.148:61357": {
         "voting_power": 16492881,
@@ -246,22 +234,10 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1323501,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-06-01T14:00:28.34085275Z"
-    },
-    "173.212.249.180:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "my-node",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 833001,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-02-08T19:34:43.681408339Z"
     },
     "37.27.115.171:26657": {
         "voting_power": 1411608,
@@ -269,11 +245,11 @@
         "moniker": "proba7",
         "network": "lava-testnet-2",
         "tx_index": "on",
-        "earliest_block_height": 1245601,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "earliest_block_height": 1250868,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
-        "data_since": "2024-05-17T19:08:35.5984258Z"
+        "data_since": "2024-05-18T19:02:29.728319607Z"
     },
     "57.128.95.99:26657": {
         "voting_power": 0,
@@ -282,8 +258,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1243621,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-05-17T10:08:55.773086901Z"
     },
@@ -294,46 +270,10 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1368001,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-06-10T00:56:38.214015918Z"
-    },
-    "116.202.217.20:30657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "dteam",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1405501,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-06-17T02:55:07.444161017Z"
-    },
-    "116.202.80.186:14457": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "MELLIFERA",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1089595,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-04-18T05:41:47.0260754Z"
-    },
-    "88.99.3.132:14557": {
-        "voting_power": 22486032,
-        "is_validator": true,
-        "moniker": "Mrs_ml",
-        "network": "lava-testnet-2",
-        "tx_index": "on",
-        "earliest_block_height": 1408741,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
-        "catching_up": false,
-        "data_since": "2024-06-17T17:34:37.958743266Z"
     },
     "65.109.24.78:17657": {
         "voting_power": 6025239,
@@ -342,8 +282,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1368001,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-06-10T00:56:38.214015918Z"
     },
@@ -354,8 +294,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1408741,
-        "latest_block_height": 1495601,
-        "blocks_indexed": 1495600,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-06-17T17:34:37.958743266Z"
     },
@@ -366,10 +306,22 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1038187,
-        "latest_block_height": 1495627,
-        "blocks_indexed": 1495626,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
         "catching_up": false,
         "data_since": "2024-04-08T11:41:56.875467714Z"
+    },
+    "116.202.80.186:14457": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "MELLIFERA",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1089595,
+        "latest_block_height": 1500868,
+        "blocks_indexed": 1500867,
+        "catching_up": false,
+        "data_since": "2024-04-18T05:41:47.0260754Z"
     },
     "65.108.131.146:26717": {
         "voting_power": 0,
@@ -378,8 +330,8 @@
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1431101,
-        "latest_block_height": 1495627,
-        "blocks_indexed": 1495626,
+        "latest_block_height": 1500894,
+        "blocks_indexed": 1500893,
         "catching_up": false,
         "data_since": "2024-06-21T22:22:15.71938715Z"
     },
@@ -395,22 +347,22 @@
         "catching_up": false,
         "data_since": "2024-06-10T14:04:07.752104062Z"
     },
-    "174.138.187.2:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sequencer1",
-        "network": "poktroll",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 68124,
-        "blocks_indexed": 68123,
-        "catching_up": false,
-        "data_since": "2024-05-17T17:14:04.779327Z"
-    },
     "95.217.114.220:13657": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "kiyujthrr",
+        "network": "lava-testnet-2",
+        "tx_index": "on",
+        "earliest_block_height": 1370881,
+        "latest_block_height": 1407000,
+        "blocks_indexed": 1406999,
+        "catching_up": false,
+        "data_since": "2024-06-10T14:04:07.752104062Z"
+    },
+    "46.4.50.247:13657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Rumbanoid",
         "network": "lava-testnet-2",
         "tx_index": "on",
         "earliest_block_height": 1370881,
