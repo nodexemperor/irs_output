@@ -1,4 +1,28 @@
 {
+    "66.45.246.166:1077": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 9722001,
+        "latest_block_height": 9722795,
+        "blocks_indexed": 9722794,
+        "catching_up": false,
+        "data_since": "2024-07-07T01:01:46.408414096Z"
+    },
+    "65.108.66.174:31657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hello-BccNodesRPC",
+        "network": "planq_7070-2",
+        "tx_index": "on",
+        "earliest_block_height": 7650501,
+        "latest_block_height": 9722794,
+        "blocks_indexed": 9722793,
+        "catching_up": false,
+        "data_since": "2024-02-25T07:17:35.323314651Z"
+    },
     "167.235.14.83:14557": {
         "voting_power": 2736,
         "is_validator": true,
@@ -6,8 +30,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 9666001,
-        "latest_block_height": 9707274,
-        "blocks_indexed": 9707273,
+        "latest_block_height": 9722796,
+        "blocks_indexed": 9722795,
         "catching_up": false,
         "data_since": "2024-07-03T09:34:18.851607143Z"
     },
@@ -18,8 +42,8 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 7650501,
-        "latest_block_height": 9707275,
-        "blocks_indexed": 9707274,
+        "latest_block_height": 9722796,
+        "blocks_indexed": 9722795,
         "catching_up": false,
         "data_since": "2024-02-25T07:17:35.323314651Z"
     },
@@ -30,33 +54,9 @@
         "network": "planq_7070-2",
         "tx_index": "on",
         "earliest_block_height": 8804260,
-        "latest_block_height": 9707273,
-        "blocks_indexed": 9707272,
+        "latest_block_height": 9722794,
+        "blocks_indexed": 9722793,
         "catching_up": false,
         "data_since": "2024-05-08T08:29:01.420264766Z"
-    },
-    "65.108.66.174:31657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-BccNodesRPC",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 7650501,
-        "latest_block_height": 9707274,
-        "blocks_indexed": 9707273,
-        "catching_up": false,
-        "data_since": "2024-02-25T07:17:35.323314651Z"
-    },
-    "66.45.246.166:1077": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "planq_7070-2",
-        "tx_index": "on",
-        "earliest_block_height": 9705501,
-        "latest_block_height": 9707271,
-        "blocks_indexed": 9707270,
-        "catching_up": false,
-        "data_since": "2024-07-05T23:20:31.748560208Z"
     }
 }
