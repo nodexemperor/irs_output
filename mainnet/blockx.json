@@ -1,4 +1,16 @@
 {
+    "65.109.52.56:32331": {
+        "voting_power": 14567428,
+        "is_validator": true,
+        "moniker": "??Stigga??",
+        "network": "blockx_190-1",
+        "tx_index": "off",
+        "earliest_block_height": 8100000,
+        "latest_block_height": 8682816,
+        "blocks_indexed": 8682815,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
+    },
     "158.220.117.55:26657": {
         "voting_power": 6190952,
         "is_validator": true,
@@ -6,10 +18,34 @@
         "network": "blockx_190-1",
         "tx_index": "on",
         "earliest_block_height": 8100000,
-        "latest_block_height": 8630079,
-        "blocks_indexed": 8630078,
+        "latest_block_height": 8682821,
+        "blocks_indexed": 8682820,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
+    },
+    "5.9.87.231:60957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "UTSA_guide",
+        "network": "blockx_190-1",
+        "tx_index": "on",
+        "earliest_block_height": 8100000,
+        "latest_block_height": 8682823,
+        "blocks_indexed": 8682822,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
+    },
+    "158.69.125.73:11357": {
+        "voting_power": 10200647,
+        "is_validator": true,
+        "moniker": "Nodeist-blockx-main",
+        "network": "blockx_190-1",
+        "tx_index": "off",
+        "earliest_block_height": 8681844,
+        "latest_block_height": 8682821,
+        "blocks_indexed": 8682820,
+        "catching_up": false,
+        "data_since": "2024-07-08T00:59:43.024161936Z"
     },
     "65.109.70.89:54657": {
         "voting_power": 201001,
@@ -18,44 +54,8 @@
         "network": "blockx_190-1",
         "tx_index": "off",
         "earliest_block_height": 8100000,
-        "latest_block_height": 8630077,
-        "blocks_indexed": 8630076,
-        "catching_up": false,
-        "data_since": "2024-01-16T12:00:00Z"
-    },
-    "95.216.242.118:36657": {
-        "voting_power": 99318,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "blockx_190-1",
-        "tx_index": "off",
-        "earliest_block_height": 8100000,
-        "latest_block_height": 8630078,
-        "blocks_indexed": 8630077,
-        "catching_up": false,
-        "data_since": "2024-01-16T12:00:00Z"
-    },
-    "158.69.125.73:11357": {
-        "voting_power": 10200422,
-        "is_validator": true,
-        "moniker": "Nodeist-blockx-main",
-        "network": "blockx_190-1",
-        "tx_index": "off",
-        "earliest_block_height": 8629047,
-        "latest_block_height": 8630078,
-        "blocks_indexed": 8630077,
-        "catching_up": false,
-        "data_since": "2024-07-07T00:59:43.210907962Z"
-    },
-    "65.109.52.56:32331": {
-        "voting_power": 14567428,
-        "is_validator": true,
-        "moniker": "??Stigga??",
-        "network": "blockx_190-1",
-        "tx_index": "off",
-        "earliest_block_height": 8100000,
-        "latest_block_height": 8630073,
-        "blocks_indexed": 8630072,
+        "latest_block_height": 8682821,
+        "blocks_indexed": 8682820,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -65,21 +65,21 @@
         "moniker": "vmi1835228.contaboserver.net",
         "network": "blockx_190-1",
         "tx_index": "off",
-        "earliest_block_height": 8624000,
-        "latest_block_height": 8630073,
-        "blocks_indexed": 8630072,
+        "earliest_block_height": 8677000,
+        "latest_block_height": 8682816,
+        "blocks_indexed": 8682815,
         "catching_up": false,
-        "data_since": "2024-07-06T22:42:43.873974654Z"
+        "data_since": "2024-07-07T22:47:24.171964815Z"
     },
-    "5.9.87.231:60957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
+    "95.216.242.118:36657": {
+        "voting_power": 99318,
+        "is_validator": true,
+        "moniker": "Sr20de",
         "network": "blockx_190-1",
-        "tx_index": "on",
+        "tx_index": "off",
         "earliest_block_height": 8100000,
-        "latest_block_height": 8630078,
-        "blocks_indexed": 8630077,
+        "latest_block_height": 8682821,
+        "blocks_indexed": 8682820,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     }
