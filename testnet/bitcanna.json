@@ -1,4 +1,16 @@
 {
+    "65.108.131.146:26697": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "AVIAONE_Blockchains_Service",
+        "network": "bitcanna-dev-1",
+        "tx_index": "on",
+        "earliest_block_height": 8409001,
+        "latest_block_height": 8702724,
+        "blocks_indexed": 8702723,
+        "catching_up": false,
+        "data_since": "2024-06-21T21:26:07.128142734Z"
+    },
     "65.109.28.177:26357": {
         "voting_power": 2237167,
         "is_validator": true,
@@ -6,22 +18,10 @@
         "network": "bitcanna-dev-1",
         "tx_index": "on",
         "earliest_block_height": 4952911,
-        "latest_block_height": 8674960,
-        "blocks_indexed": 8674959,
+        "latest_block_height": 8702724,
+        "blocks_indexed": 8702723,
         "catching_up": false,
         "data_since": "2023-11-06T11:29:41.887730232Z"
-    },
-    "65.108.131.190:23857": {
-        "voting_power": 374860,
-        "is_validator": true,
-        "moniker": "bitcanna",
-        "network": "bitcanna-dev-1",
-        "tx_index": "off",
-        "earliest_block_height": 8670959,
-        "latest_block_height": 8674959,
-        "blocks_indexed": 8674958,
-        "catching_up": false,
-        "data_since": "2024-07-08T20:33:14.822922978Z"
     },
     "81.0.247.144:26657": {
         "voting_power": 0,
@@ -30,21 +30,21 @@
         "network": "bitcanna-dev-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 8674959,
-        "blocks_indexed": 8674958,
+        "latest_block_height": 8702723,
+        "blocks_indexed": 8702722,
         "catching_up": false,
         "data_since": "2022-12-22T14:55:55.413521948Z"
     },
-    "65.108.131.146:26697": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "AVIAONE_Blockchains_Service",
+    "65.108.131.190:23857": {
+        "voting_power": 374860,
+        "is_validator": true,
+        "moniker": "bitcanna",
         "network": "bitcanna-dev-1",
-        "tx_index": "on",
-        "earliest_block_height": 8409001,
-        "latest_block_height": 8674960,
-        "blocks_indexed": 8674959,
+        "tx_index": "off",
+        "earliest_block_height": 8698724,
+        "latest_block_height": 8702724,
+        "blocks_indexed": 8702723,
         "catching_up": false,
-        "data_since": "2024-06-21T21:26:07.128142734Z"
+        "data_since": "2024-07-10T15:59:31.877167672Z"
     }
 }
