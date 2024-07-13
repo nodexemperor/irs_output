@@ -1,16 +1,4 @@
 {
-    "37.27.116.113:11357": {
-        "voting_power": 764526,
-        "is_validator": true,
-        "moniker": "Kitkat-gitopia-main",
-        "network": "gitopia",
-        "tx_index": "off",
-        "earliest_block_height": 17323016,
-        "latest_block_height": 21644982,
-        "blocks_indexed": 21644981,
-        "catching_up": false,
-        "data_since": "2024-04-21T08:59:43.714825365Z"
-    },
     "162.55.245.254:29657": {
         "voting_power": 555,
         "is_validator": true,
@@ -18,22 +6,34 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 21392160,
-        "latest_block_height": 21644983,
-        "blocks_indexed": 21644982,
+        "latest_block_height": 21698199,
+        "blocks_indexed": 21698198,
         "catching_up": false,
         "data_since": "2024-07-07T08:59:45.52122086Z"
     },
-    "66.45.246.166:51057": {
+    "65.108.75.107:30657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "node",
         "network": "gitopia",
         "tx_index": "on",
-        "earliest_block_height": 21642001,
-        "latest_block_height": 21644983,
-        "blocks_indexed": 21644982,
+        "earliest_block_height": 20855652,
+        "latest_block_height": 21698194,
+        "blocks_indexed": 21698193,
         "catching_up": false,
-        "data_since": "2024-07-12T00:16:16.09163267Z"
+        "data_since": "2024-06-27T08:59:45.508866323Z"
+    },
+    "144.126.200.166:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "tester-121",
+        "network": "gitopia",
+        "tx_index": "off",
+        "earliest_block_height": 12832814,
+        "latest_block_height": 21698197,
+        "blocks_indexed": 21698196,
+        "catching_up": false,
+        "data_since": "2024-01-26T09:59:44.619286633Z"
     },
     "142.132.202.86:20001": {
         "voting_power": 0,
@@ -42,8 +42,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 6548337,
-        "latest_block_height": 21644890,
-        "blocks_indexed": 21644889,
+        "latest_block_height": 21698108,
+        "blocks_indexed": 21698107,
         "catching_up": false,
         "data_since": "2023-09-26T06:52:56.377866367Z"
     },
@@ -59,41 +59,29 @@
         "catching_up": true,
         "data_since": "2023-05-17T17:05:17.517517517Z"
     },
-    "144.126.200.166:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "tester-121",
+    "37.27.116.113:11357": {
+        "voting_power": 764573,
+        "is_validator": true,
+        "moniker": "Kitkat-gitopia-main",
         "network": "gitopia",
         "tx_index": "off",
-        "earliest_block_height": 12832814,
-        "latest_block_height": 21644982,
-        "blocks_indexed": 21644981,
+        "earliest_block_height": 17323016,
+        "latest_block_height": 21698197,
+        "blocks_indexed": 21698196,
         "catching_up": false,
-        "data_since": "2024-01-26T09:59:44.619286633Z"
+        "data_since": "2024-04-21T08:59:43.714825365Z"
     },
-    "65.108.75.107:30657": {
+    "148.251.235.130:11657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "node",
+        "moniker": "snap-gitopia",
         "network": "gitopia",
         "tx_index": "on",
-        "earliest_block_height": 20855652,
-        "latest_block_height": 21644982,
-        "blocks_indexed": 21644981,
+        "earliest_block_height": 21676601,
+        "latest_block_height": 21698200,
+        "blocks_indexed": 21698199,
         "catching_up": false,
-        "data_since": "2024-06-27T08:59:45.508866323Z"
-    },
-    "144.76.29.90:46657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "UTSA_guide",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 20305987,
-        "latest_block_height": 21644977,
-        "blocks_indexed": 21644976,
-        "catching_up": false,
-        "data_since": "2024-06-17T03:59:59.489773109Z"
+        "data_since": "2024-07-12T15:52:21.055994481Z"
     },
     "167.235.14.83:14157": {
         "voting_power": 2869,
@@ -102,22 +90,22 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 21218955,
-        "latest_block_height": 21644890,
-        "blocks_indexed": 21644889,
+        "latest_block_height": 21698111,
+        "blocks_indexed": 21698110,
         "catching_up": false,
         "data_since": "2024-07-04T03:59:41.597589815Z"
     },
-    "148.251.235.130:11657": {
+    "144.76.29.90:46657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "snap-gitopia",
+        "moniker": "UTSA_guide",
         "network": "gitopia",
         "tx_index": "on",
-        "earliest_block_height": 21623601,
-        "latest_block_height": 21644983,
-        "blocks_indexed": 21644982,
+        "earliest_block_height": 20305987,
+        "latest_block_height": 21698020,
+        "blocks_indexed": 21698019,
         "catching_up": false,
-        "data_since": "2024-07-11T15:52:40.622162783Z"
+        "data_since": "2024-06-17T03:59:59.489773109Z"
     },
     "138.201.21.197:26657": {
         "voting_power": 0,
@@ -126,8 +114,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 19562001,
-        "latest_block_height": 21644805,
-        "blocks_indexed": 21644804,
+        "latest_block_height": 21698020,
+        "blocks_indexed": 21698019,
         "catching_up": false,
         "data_since": "2024-06-03T05:55:29.056472215Z"
     },
@@ -138,8 +126,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 18946942,
-        "latest_block_height": 21644982,
-        "blocks_indexed": 21644981,
+        "latest_block_height": 21698200,
+        "blocks_indexed": 21698199,
         "catching_up": false,
         "data_since": "2024-05-22T08:59:43.202345839Z"
     },
@@ -150,8 +138,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 18478895,
-        "latest_block_height": 21644983,
-        "blocks_indexed": 21644982,
+        "latest_block_height": 21698200,
+        "blocks_indexed": 21698199,
         "catching_up": false,
         "data_since": "2024-05-13T08:59:44.517107462Z"
     }
