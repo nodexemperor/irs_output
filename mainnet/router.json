@@ -1,16 +1,4 @@
 {
-    "34.126.115.158:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "1",
-        "network": "router_9600-1",
-        "tx_index": "on",
-        "earliest_block_height": 7965673,
-        "latest_block_height": 8065673,
-        "blocks_indexed": 8065672,
-        "catching_up": false,
-        "data_since": "2024-07-09T01:56:46.776354768Z"
-    },
     "185.8.104.157:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,9 +6,21 @@
         "network": "router_9600-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 8065674,
-        "blocks_indexed": 8065673,
+        "latest_block_height": 8091079,
+        "blocks_indexed": 8091078,
         "catching_up": false,
         "data_since": "2023-11-30T11:40:25.059847Z"
+    },
+    "34.126.115.158:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "1",
+        "network": "router_9600-1",
+        "tx_index": "on",
+        "earliest_block_height": 7991077,
+        "latest_block_height": 8091077,
+        "blocks_indexed": 8091076,
+        "catching_up": false,
+        "data_since": "2024-07-10T03:21:59.192936221Z"
     }
 }
