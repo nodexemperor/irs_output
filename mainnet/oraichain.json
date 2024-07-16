@@ -1,15 +1,15 @@
 {
-    "65.109.92.110:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "owallet.dev",
+    "37.27.116.113:23357": {
+        "voting_power": 86,
+        "is_validator": true,
+        "moniker": "Kitkat-orai-main",
         "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 26185906,
-        "latest_block_height": 27349928,
-        "blocks_indexed": 27349927,
+        "tx_index": "off",
+        "earliest_block_height": 21298384,
+        "latest_block_height": 27450672,
+        "blocks_indexed": 27450671,
         "catching_up": false,
-        "data_since": "2024-07-03T07:59:54.367296803Z"
+        "data_since": "2024-05-18T07:59:53.296515259Z"
     },
     "95.217.227.117:26657": {
         "voting_power": 0,
@@ -17,11 +17,23 @@
         "moniker": "light8",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 25536017,
-        "latest_block_height": 27350417,
-        "blocks_indexed": 27350416,
+        "earliest_block_height": 25636272,
+        "latest_block_height": 27450672,
+        "blocks_indexed": 27450671,
         "catching_up": false,
-        "data_since": "2024-06-26T19:16:42.11683626Z"
+        "data_since": "2024-06-27T19:17:23.343102426Z"
+    },
+    "3.134.19.98:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "mainnet_sentry9",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 27349862,
+        "latest_block_height": 27449862,
+        "blocks_indexed": 27449861,
+        "catching_up": false,
+        "data_since": "2024-07-15T01:48:45.801412652Z"
     },
     "75.119.130.219:26657": {
         "voting_power": 0,
@@ -35,6 +47,54 @@
         "catching_up": true,
         "data_since": "2024-05-02T20:27:15.501005607Z"
     },
+    "212.193.3.245:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "RPC_Crypto-Genesis",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 26317863,
+        "latest_block_height": 27450175,
+        "blocks_indexed": 27450174,
+        "catching_up": false,
+        "data_since": "2024-07-04T15:59:51.912852577Z"
+    },
+    "65.109.48.230:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "terra",
+        "network": "phoenix-1",
+        "tx_index": "on",
+        "earliest_block_height": 11107843,
+        "latest_block_height": 11214885,
+        "blocks_indexed": 11214884,
+        "catching_up": false,
+        "data_since": "2024-07-08T13:58:52.225234867Z"
+    },
+    "65.108.12.145:20000": {
+        "voting_power": 115596,
+        "is_validator": true,
+        "moniker": "megaorai2",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 27150182,
+        "latest_block_height": 27450182,
+        "blocks_indexed": 27450181,
+        "catching_up": false,
+        "data_since": "2024-07-13T01:55:37.796422207Z"
+    },
+    "65.109.92.110:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "owallet.dev",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 25789062,
+        "latest_block_height": 27450190,
+        "blocks_indexed": 27450189,
+        "catching_up": false,
+        "data_since": "2024-06-29T07:59:53.549279656Z"
+    },
     "66.45.246.166:2057": {
         "voting_power": 0,
         "is_validator": false,
@@ -46,77 +106,5 @@
         "blocks_indexed": -1,
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
-    },
-    "3.134.19.98:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "mainnet-sentry9",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 25535211,
-        "latest_block_height": 27349612,
-        "blocks_indexed": 27349611,
-        "catching_up": false,
-        "data_since": "2024-06-26T19:05:11.978843869Z"
-    },
-    "5.189.169.99:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ORAI_Vanguard_SENTRY",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 0,
-        "latest_block_height": 27349612,
-        "blocks_indexed": 27349611,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "18.191.171.150:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "light_tnet2",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 27249614,
-        "latest_block_height": 27349615,
-        "blocks_indexed": 27349614,
-        "catching_up": false,
-        "data_since": "2024-07-14T01:41:27.209367724Z"
-    },
-    "37.27.116.113:23357": {
-        "voting_power": 86,
-        "is_validator": true,
-        "moniker": "Kitkat-orai-main",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 21298384,
-        "latest_block_height": 27350418,
-        "blocks_indexed": 27350417,
-        "catching_up": false,
-        "data_since": "2024-05-18T07:59:53.296515259Z"
-    },
-    "65.109.48.230:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "terra",
-        "network": "phoenix-1",
-        "tx_index": "on",
-        "earliest_block_height": 11107843,
-        "latest_block_height": 11200550,
-        "blocks_indexed": 11200549,
-        "catching_up": false,
-        "data_since": "2024-07-08T13:58:52.225234867Z"
-    },
-    "65.108.12.145:20000": {
-        "voting_power": 115594,
-        "is_validator": true,
-        "moniker": "megaorai2",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 27049931,
-        "latest_block_height": 27349931,
-        "blocks_indexed": 27349930,
-        "catching_up": false,
-        "data_since": "2024-07-12T01:50:39.948173129Z"
     }
 }
