@@ -1,16 +1,4 @@
 {
-    "193.46.243.184:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "HSS",
-        "network": "morocco-1",
-        "tx_index": "off",
-        "earliest_block_height": 7246001,
-        "latest_block_height": 7249197,
-        "blocks_indexed": 7249196,
-        "catching_up": false,
-        "data_since": "2024-07-15T21:49:12.5703623Z"
-    },
     "65.108.232.168:37657": {
         "voting_power": 147527,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "morocco-1",
         "tx_index": "off",
         "earliest_block_height": 1755001,
-        "latest_block_height": 7249196,
-        "blocks_indexed": 7249195,
+        "latest_block_height": 7265077,
+        "blocks_indexed": 7265076,
         "catching_up": false,
         "data_since": "2023-08-02T19:18:10.745605882Z"
     },
@@ -30,10 +18,22 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7249197,
-        "blocks_indexed": 7249196,
+        "latest_block_height": 7265077,
+        "blocks_indexed": 7265076,
         "catching_up": false,
         "data_since": "2022-04-10T12:00:00Z"
+    },
+    "193.46.243.184:36657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "HS2",
+        "network": "morocco-1",
+        "tx_index": "off",
+        "earliest_block_height": 7262001,
+        "latest_block_height": 7265078,
+        "blocks_indexed": 7265077,
+        "catching_up": false,
+        "data_since": "2024-07-16T21:56:39.154621128Z"
     },
     "65.109.82.249:30657": {
         "voting_power": 57667,
@@ -42,8 +42,8 @@
         "network": "morocco-1",
         "tx_index": "off",
         "earliest_block_height": 3699001,
-        "latest_block_height": 7249197,
-        "blocks_indexed": 7249196,
+        "latest_block_height": 7265078,
+        "blocks_indexed": 7265077,
         "catching_up": false,
         "data_since": "2023-12-04T18:17:37.586459571Z"
     },
@@ -53,11 +53,11 @@
         "moniker": "cryptobtcbuyer",
         "network": "morocco-1",
         "tx_index": "off",
-        "earliest_block_height": 7149196,
-        "latest_block_height": 7249196,
-        "blocks_indexed": 7249195,
+        "earliest_block_height": 7165077,
+        "latest_block_height": 7265077,
+        "blocks_indexed": 7265076,
         "catching_up": false,
-        "data_since": "2024-07-09T19:52:29.847234963Z"
+        "data_since": "2024-07-10T19:50:25.342043943Z"
     },
     "89.39.106.38:10857": {
         "voting_power": 1,
@@ -66,8 +66,8 @@
         "network": "morocco-1",
         "tx_index": "on",
         "earliest_block_height": 5973001,
-        "latest_block_height": 7249197,
-        "blocks_indexed": 7249196,
+        "latest_block_height": 7265078,
+        "blocks_indexed": 7265077,
         "catching_up": false,
         "data_since": "2024-04-26T10:04:22.523929327Z"
     }
