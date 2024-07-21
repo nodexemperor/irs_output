@@ -1,4 +1,28 @@
 {
+    "65.108.133.155:23357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "OWALLET",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 27846246,
+        "latest_block_height": 27946246,
+        "blocks_indexed": 27946245,
+        "catching_up": false,
+        "data_since": "2024-07-20T01:39:04.042662316Z"
+    },
+    "37.27.53.176:23357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "OWALLET",
+        "network": "Oraichain",
+        "tx_index": "off",
+        "earliest_block_height": 27930776,
+        "latest_block_height": 27946735,
+        "blocks_indexed": 27946734,
+        "catching_up": false,
+        "data_since": "2024-07-20T22:04:53.437852295Z"
+    },
     "37.27.116.113:23357": {
         "voting_power": 87,
         "is_validator": true,
@@ -6,10 +30,22 @@
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 21298384,
-        "latest_block_height": 27847060,
-        "blocks_indexed": 27847059,
+        "latest_block_height": 27946730,
+        "blocks_indexed": 27946729,
         "catching_up": false,
         "data_since": "2024-05-18T07:59:53.296515259Z"
+    },
+    "95.217.227.117:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "light8",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 26132329,
+        "latest_block_height": 27946730,
+        "blocks_indexed": 27946729,
+        "catching_up": false,
+        "data_since": "2024-07-02T19:06:58.152897732Z"
     },
     "212.193.3.245:26657": {
         "voting_power": 0,
@@ -18,8 +54,8 @@
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 27806601,
-        "latest_block_height": 27847062,
-        "blocks_indexed": 27847061,
+        "latest_block_height": 27945932,
+        "blocks_indexed": 27945931,
         "catching_up": false,
         "data_since": "2024-07-19T15:59:52.344372463Z"
     },
@@ -29,11 +65,23 @@
         "moniker": "mainnet_sentry9",
         "network": "Oraichain",
         "tx_index": "off",
-        "earliest_block_height": 27747056,
-        "latest_block_height": 27847056,
-        "blocks_indexed": 27847055,
+        "earliest_block_height": 27846727,
+        "latest_block_height": 27946727,
+        "blocks_indexed": 27946726,
         "catching_up": false,
-        "data_since": "2024-07-19T01:26:59.198920265Z"
+        "data_since": "2024-07-20T01:46:05.118717971Z"
+    },
+    "66.45.246.166:2057": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "75.119.130.219:26657": {
         "voting_power": 0,
@@ -42,70 +90,10 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 19728001,
-        "latest_block_height": 24317968,
-        "blocks_indexed": 24317967,
+        "latest_block_height": 24439520,
+        "blocks_indexed": 24439519,
         "catching_up": true,
         "data_since": "2024-05-02T20:27:15.501005607Z"
-    },
-    "37.27.53.176:23357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "OWALLET",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 27746250,
-        "latest_block_height": 27846250,
-        "blocks_indexed": 27846249,
-        "catching_up": false,
-        "data_since": "2024-07-19T01:15:04.509701041Z"
-    },
-    "66.45.246.166:2057": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 27816001,
-        "latest_block_height": 27844915,
-        "blocks_indexed": 27844914,
-        "catching_up": true,
-        "data_since": "2024-07-19T18:17:46.660138454Z"
-    },
-    "65.108.133.155:23357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "OWALLET",
-        "network": "Oraichain",
-        "tx_index": "off",
-        "earliest_block_height": 27746568,
-        "latest_block_height": 27846568,
-        "blocks_indexed": 27846567,
-        "catching_up": false,
-        "data_since": "2024-07-19T01:19:51.300729305Z"
-    },
-    "65.109.92.110:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "owallet.dev",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 26185906,
-        "latest_block_height": 27846568,
-        "blocks_indexed": 27846567,
-        "catching_up": false,
-        "data_since": "2024-07-03T07:59:54.367296803Z"
-    },
-    "65.108.12.145:20000": {
-        "voting_power": 115617,
-        "is_validator": true,
-        "moniker": "megaorai2",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 27546568,
-        "latest_block_height": 27846568,
-        "blocks_indexed": 27846567,
-        "catching_up": false,
-        "data_since": "2024-07-17T00:58:20.593798618Z"
     },
     "18.191.171.150:26657": {
         "voting_power": 0,
@@ -113,23 +101,23 @@
         "moniker": "light_tnet2",
         "network": "Oraichain",
         "tx_index": "off",
-        "earliest_block_height": 27843539,
-        "latest_block_height": 27846568,
-        "blocks_indexed": 27846567,
+        "earliest_block_height": 27942775,
+        "latest_block_height": 27946246,
+        "blocks_indexed": 27946245,
         "catching_up": false,
-        "data_since": "2024-07-20T01:00:02.441878049Z"
+        "data_since": "2024-07-21T01:00:02.44133456Z"
     },
-    "95.217.227.117:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "light8",
+    "65.108.12.145:20000": {
+        "voting_power": 115618,
+        "is_validator": true,
+        "moniker": "megaorai2",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 26032656,
-        "latest_block_height": 27847057,
-        "blocks_indexed": 27847056,
+        "earliest_block_height": 27646247,
+        "latest_block_height": 27946247,
+        "blocks_indexed": 27946246,
         "catching_up": false,
-        "data_since": "2024-07-01T19:00:22.084062107Z"
+        "data_since": "2024-07-18T01:00:48.502116841Z"
     },
     "5.189.169.99:26657": {
         "voting_power": 0,
@@ -138,9 +126,21 @@
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 0,
-        "latest_block_height": 27846571,
-        "blocks_indexed": 27846570,
+        "latest_block_height": 27946253,
+        "blocks_indexed": 27946252,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "65.109.92.110:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "owallet.dev",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 27575634,
+        "latest_block_height": 27946253,
+        "blocks_indexed": 27946252,
+        "catching_up": false,
+        "data_since": "2024-07-17T07:59:51.226735788Z"
     }
 }
