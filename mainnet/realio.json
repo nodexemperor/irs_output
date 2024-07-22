@@ -1,15 +1,27 @@
 {
-    "173.249.59.70:32657": {
-        "voting_power": 105207,
-        "is_validator": true,
-        "moniker": "moodman",
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 7735865,
-        "latest_block_height": 7835865,
-        "blocks_indexed": 7835864,
+        "tx_index": "on",
+        "earliest_block_height": 7852301,
+        "latest_block_height": 7852663,
+        "blocks_indexed": 7852662,
         "catching_up": false,
-        "data_since": "2024-07-15T03:53:09.852102162Z"
+        "data_since": "2024-07-22T01:56:31.922031351Z"
+    },
+    "65.109.112.144:22657": {
+        "voting_power": 22432843,
+        "is_validator": true,
+        "moniker": "realionetworklocal",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 7319001,
+        "latest_block_height": 7678969,
+        "blocks_indexed": 7678968,
+        "catching_up": false,
+        "data_since": "2024-06-20T07:39:31.438105896Z"
     },
     "46.17.250.108:56657": {
         "voting_power": 168461,
@@ -18,9 +30,33 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 6925901,
-        "latest_block_height": 7835867,
-        "blocks_indexed": 7835866,
+        "latest_block_height": 7852663,
+        "blocks_indexed": 7852662,
         "catching_up": false,
         "data_since": "2024-05-27T22:20:12.750594513Z"
+    },
+    "173.249.59.70:32657": {
+        "voting_power": 105207,
+        "is_validator": true,
+        "moniker": "moodman",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 7752662,
+        "latest_block_height": 7852662,
+        "blocks_indexed": 7852661,
+        "catching_up": false,
+        "data_since": "2024-07-16T03:52:09.016639867Z"
+    },
+    "65.109.112.144:21657": {
+        "voting_power": 22432843,
+        "is_validator": true,
+        "moniker": "realionetworklocal",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 7319001,
+        "latest_block_height": 7678996,
+        "blocks_indexed": 7678995,
+        "catching_up": false,
+        "data_since": "2024-06-20T07:39:31.438105896Z"
     }
 }
