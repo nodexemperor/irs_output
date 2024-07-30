@@ -1,4 +1,16 @@
 {
+    "188.40.85.207:13157": {
+        "voting_power": 147,
+        "is_validator": true,
+        "moniker": "StakeUp",
+        "network": "mantra-hongbai-1",
+        "tx_index": "off",
+        "earliest_block_height": 145001,
+        "latest_block_height": 1438856,
+        "blocks_indexed": 1438855,
+        "catching_up": false,
+        "data_since": "2024-04-20T22:39:35.323872672Z"
+    },
     "15.204.163.111:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +18,8 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 474036,
-        "latest_block_height": 1413067,
-        "blocks_indexed": 1413066,
+        "latest_block_height": 1438855,
+        "blocks_indexed": 1438854,
         "catching_up": false,
         "data_since": "2024-05-16T06:58:44.746270074Z"
     },
@@ -18,44 +30,32 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1400754,
-        "latest_block_height": 1413067,
-        "blocks_indexed": 1413066,
+        "latest_block_height": 1438855,
+        "blocks_indexed": 1438854,
         "catching_up": false,
         "data_since": "2024-07-27T03:58:46.29795705Z"
     },
-    "95.216.248.117:23657": {
-        "voting_power": 32,
-        "is_validator": true,
-        "moniker": "HerculesNode",
-        "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 683001,
-        "latest_block_height": 1389929,
-        "blocks_indexed": 1389928,
-        "catching_up": false,
-        "data_since": "2024-06-01T09:57:33.336266088Z"
-    },
-    "116.202.233.2:50057": {
+    "146.190.138.150:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Staking4All-mantrachain-test",
+        "moniker": "archive",
         "network": "mantra-hongbai-1",
-        "tx_index": "off",
+        "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1389929,
-        "blocks_indexed": 1389928,
+        "latest_block_height": 1438855,
+        "blocks_indexed": 1438854,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
     },
     "135.181.216.54:3601": {
-        "voting_power": 2339,
+        "voting_power": 2342,
         "is_validator": true,
         "moniker": "node",
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 547950,
-        "latest_block_height": 1413068,
-        "blocks_indexed": 1413067,
+        "latest_block_height": 1438856,
+        "blocks_indexed": 1438855,
         "catching_up": false,
         "data_since": "2024-05-21T23:37:59.236919272Z"
     },
@@ -66,22 +66,22 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1413068,
-        "blocks_indexed": 1413067,
+        "latest_block_height": 1438856,
+        "blocks_indexed": 1438855,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
     },
-    "135.181.210.171:36047": {
+    "116.202.233.2:50057": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "Staking4All-mantrachain-test",
         "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 1410001,
-        "latest_block_height": 1413068,
-        "blocks_indexed": 1413067,
-        "catching_up": false,
-        "data_since": "2024-07-27T21:13:23.712796948Z"
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 1389929,
+        "blocks_indexed": 1389928,
+        "catching_up": true,
+        "data_since": "2024-04-09T14:14:27.188089661Z"
     },
     "193.26.158.125:25157": {
         "voting_power": 0,
@@ -90,8 +90,8 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1038167,
-        "latest_block_height": 1413068,
-        "blocks_indexed": 1413067,
+        "latest_block_height": 1438856,
+        "blocks_indexed": 1438855,
         "catching_up": false,
         "data_since": "2024-06-28T20:43:40.900743738Z"
     }
