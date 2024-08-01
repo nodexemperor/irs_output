@@ -6,20 +6,20 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1451647,
-        "blocks_indexed": 1451646,
+        "latest_block_height": 1464697,
+        "blocks_indexed": 1464696,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
     },
     "188.40.85.207:13157": {
-        "voting_power": 148,
+        "voting_power": 149,
         "is_validator": true,
         "moniker": "StakeUp",
         "network": "mantra-hongbai-1",
         "tx_index": "off",
         "earliest_block_height": 145001,
-        "latest_block_height": 1451648,
-        "blocks_indexed": 1451647,
+        "latest_block_height": 1464698,
+        "blocks_indexed": 1464697,
         "catching_up": false,
         "data_since": "2024-04-20T22:39:35.323872672Z"
     },
@@ -30,8 +30,8 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 474036,
-        "latest_block_height": 1451647,
-        "blocks_indexed": 1451646,
+        "latest_block_height": 1464697,
+        "blocks_indexed": 1464696,
         "catching_up": false,
         "data_since": "2024-05-16T06:58:44.746270074Z"
     },
@@ -42,10 +42,22 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1400754,
-        "latest_block_height": 1451647,
-        "blocks_indexed": 1451646,
+        "latest_block_height": 1464697,
+        "blocks_indexed": 1464696,
         "catching_up": false,
         "data_since": "2024-07-27T03:58:46.29795705Z"
+    },
+    "95.216.248.117:23657": {
+        "voting_power": 32,
+        "is_validator": true,
+        "moniker": "HerculesNode",
+        "network": "mantra-hongbai-1",
+        "tx_index": "on",
+        "earliest_block_height": 1451001,
+        "latest_block_height": 1464697,
+        "blocks_indexed": 1464696,
+        "catching_up": false,
+        "data_since": "2024-07-31T01:28:42.916678027Z"
     },
     "135.181.216.54:3601": {
         "voting_power": 2345,
@@ -54,22 +66,10 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 547950,
-        "latest_block_height": 1451648,
-        "blocks_indexed": 1451647,
+        "latest_block_height": 1464697,
+        "blocks_indexed": 1464696,
         "catching_up": false,
         "data_since": "2024-05-21T23:37:59.236919272Z"
-    },
-    "193.26.158.125:25157": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "hello-aries-02",
-        "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 1038167,
-        "latest_block_height": 1451648,
-        "blocks_indexed": 1451647,
-        "catching_up": false,
-        "data_since": "2024-06-28T20:43:40.900743738Z"
     },
     "65.108.106.168:36047": {
         "voting_power": 0,
@@ -78,10 +78,22 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1451648,
-        "blocks_indexed": 1451647,
+        "latest_block_height": 1464698,
+        "blocks_indexed": 1464697,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
+    },
+    "193.26.158.125:25157": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hello-aries-02",
+        "network": "mantra-hongbai-1",
+        "tx_index": "on",
+        "earliest_block_height": 1038167,
+        "latest_block_height": 1464698,
+        "blocks_indexed": 1464697,
+        "catching_up": false,
+        "data_since": "2024-06-28T20:43:40.900743738Z"
     },
     "116.202.233.2:50057": {
         "voting_power": 0,
@@ -94,5 +106,17 @@
         "blocks_indexed": 1389928,
         "catching_up": true,
         "data_since": "2024-04-09T14:14:27.188089661Z"
+    },
+    "135.181.210.171:36047": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "mantra-hongbai-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
