@@ -1,4 +1,16 @@
 {
+    "65.109.88.254:31657": {
+        "voting_power": 68,
+        "is_validator": true,
+        "moniker": "ksalab",
+        "network": "mantra-hongbai-1",
+        "tx_index": "on",
+        "earliest_block_height": 1469739,
+        "latest_block_height": 1490394,
+        "blocks_indexed": 1490393,
+        "catching_up": false,
+        "data_since": "2024-08-01T12:19:33.225682219Z"
+    },
     "188.40.85.207:13157": {
         "voting_power": 149,
         "is_validator": true,
@@ -6,8 +18,8 @@
         "network": "mantra-hongbai-1",
         "tx_index": "off",
         "earliest_block_height": 145001,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
+        "latest_block_height": 1490395,
+        "blocks_indexed": 1490394,
         "catching_up": false,
         "data_since": "2024-04-20T22:39:35.323872672Z"
     },
@@ -18,20 +30,20 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 474036,
-        "latest_block_height": 1477540,
-        "blocks_indexed": 1477539,
+        "latest_block_height": 1490394,
+        "blocks_indexed": 1490393,
         "catching_up": false,
         "data_since": "2024-05-16T06:58:44.746270074Z"
     },
     "95.216.248.117:23657": {
-        "voting_power": 32,
+        "voting_power": 31,
         "is_validator": true,
         "moniker": "HerculesNode",
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1451001,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
+        "latest_block_height": 1490394,
+        "blocks_indexed": 1490393,
         "catching_up": false,
         "data_since": "2024-07-31T01:28:42.916678027Z"
     },
@@ -42,8 +54,8 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
+        "latest_block_height": 1490394,
+        "blocks_indexed": 1490393,
         "catching_up": false,
         "data_since": "2024-04-09T14:14:27.188089661Z"
     },
@@ -54,46 +66,22 @@
         "network": "mantra-hongbai-1",
         "tx_index": "on",
         "earliest_block_height": 1400754,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
+        "latest_block_height": 1490394,
+        "blocks_indexed": 1490393,
         "catching_up": false,
         "data_since": "2024-07-27T03:58:46.29795705Z"
     },
-    "135.181.216.54:3601": {
-        "voting_power": 2348,
-        "is_validator": true,
-        "moniker": "node",
-        "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 547950,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
-        "catching_up": false,
-        "data_since": "2024-05-21T23:37:59.236919272Z"
-    },
-    "193.26.158.125:25157": {
+    "155.133.7.250:30000": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "hello-aries-02",
+        "moniker": "contabo1",
         "network": "mantra-hongbai-1",
         "tx_index": "on",
-        "earliest_block_height": 1038167,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
-        "catching_up": false,
-        "data_since": "2024-06-28T20:43:40.900743738Z"
-    },
-    "135.181.210.171:36047": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "mantra-hongbai-1",
-        "tx_index": "on",
-        "earliest_block_height": 1476001,
-        "latest_block_height": 1477541,
-        "blocks_indexed": 1477540,
-        "catching_up": false,
-        "data_since": "2024-08-01T23:58:48.491541548Z"
+        "earliest_block_height": 1,
+        "latest_block_height": 1389929,
+        "blocks_indexed": 1389928,
+        "catching_up": true,
+        "data_since": "2024-04-09T14:14:27.188089661Z"
     },
     "116.202.233.2:50057": {
         "voting_power": 0,
@@ -106,5 +94,17 @@
         "blocks_indexed": 1389928,
         "catching_up": true,
         "data_since": "2024-04-09T14:14:27.188089661Z"
+    },
+    "193.26.158.125:25157": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "hello-aries-02",
+        "network": "mantra-hongbai-1",
+        "tx_index": "on",
+        "earliest_block_height": 1038167,
+        "latest_block_height": 1490395,
+        "blocks_indexed": 1490394,
+        "catching_up": false,
+        "data_since": "2024-06-28T20:43:40.900743738Z"
     }
 }

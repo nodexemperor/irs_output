@@ -5,11 +5,23 @@
         "moniker": "voiwjew",
         "network": "quasar-1",
         "tx_index": "on",
-        "earliest_block_height": 7386031,
-        "latest_block_height": 7486031,
-        "blocks_indexed": 7486030,
+        "earliest_block_height": 7400993,
+        "latest_block_height": 7500993,
+        "blocks_indexed": 7500992,
         "catching_up": false,
-        "data_since": "2024-07-26T09:42:06.707304159Z"
+        "data_since": "2024-07-27T09:36:42.195316096Z"
+    },
+    "198.244.182.195:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "lsarch",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 7500994,
+        "blocks_indexed": 7500993,
+        "catching_up": false,
+        "data_since": "2023-03-22T20:00:00Z"
     },
     "34.175.55.194:26657": {
         "voting_power": 0,
@@ -18,9 +30,9 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7265374,
-        "blocks_indexed": 7265373,
-        "catching_up": true,
+        "latest_block_height": 7500991,
+        "blocks_indexed": 7500990,
+        "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
     },
     "34.175.37.59:26657": {
@@ -30,21 +42,9 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 6726598,
-        "latest_block_height": 7486031,
-        "blocks_indexed": 7486030,
+        "latest_block_height": 7500993,
+        "blocks_indexed": 7500992,
         "catching_up": false,
         "data_since": "2024-06-12T13:13:54.179050119Z"
-    },
-    "198.244.182.195:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "lsarch",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 7486030,
-        "blocks_indexed": 7486029,
-        "catching_up": false,
-        "data_since": "2023-03-22T20:00:00Z"
     }
 }
