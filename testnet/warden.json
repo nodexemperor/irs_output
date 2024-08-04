@@ -1,15 +1,27 @@
 {
-    "82.223.31.166:26627": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Cumulo",
+    "167.235.14.83:16257": {
+        "voting_power": 1004409,
+        "is_validator": true,
+        "moniker": "APPIE | AKNodes",
         "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 1534600,
-        "latest_block_height": 1534602,
-        "blocks_indexed": 1534601,
+        "tx_index": "off",
+        "earliest_block_height": 1535600,
+        "latest_block_height": 1538611,
+        "blocks_indexed": 1538610,
         "catching_up": false,
-        "data_since": "2024-08-01T18:55:59.772433Z"
+        "data_since": "2024-08-02T18:55:59.772433Z"
+    },
+    "65.109.80.26:27657": {
+        "voting_power": 20601,
+        "is_validator": true,
+        "moniker": "Lefey",
+        "network": "buenavista-1",
+        "tx_index": "off",
+        "earliest_block_height": 1535600,
+        "latest_block_height": 1538611,
+        "blocks_indexed": 1538610,
+        "catching_up": false,
+        "data_since": "2024-08-02T18:55:59.772433Z"
     },
     "148.251.235.130:22657": {
         "voting_power": 0,
@@ -22,17 +34,5 @@
         "blocks_indexed": 1534501,
         "catching_up": true,
         "data_since": "2024-08-01T09:26:44.177261346Z"
-    },
-    "65.109.88.254:33657": {
-        "voting_power": 11081,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 1534502,
-        "blocks_indexed": 1534501,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
     }
 }
