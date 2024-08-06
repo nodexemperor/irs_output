@@ -1,28 +1,4 @@
 {
-    "23.88.108.193:26657": {
-        "voting_power": 927577,
-        "is_validator": true,
-        "moniker": "soarchaind start --log_level info --minimum-gas-prices=0.0001utmotus",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 2218041,
-        "latest_block_height": 2277556,
-        "blocks_indexed": 2277555,
-        "catching_up": false,
-        "data_since": "2024-07-31T08:28:40.681500086Z"
-    },
-    "109.199.99.165:26657": {
-        "voting_power": 1503351,
-        "is_validator": true,
-        "moniker": "NinjaTraders",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2277555,
-        "blocks_indexed": 2277554,
-        "catching_up": false,
-        "data_since": "2023-11-10T23:37:59.40031734Z"
-    },
     "35.241.137.105:26657": {
         "voting_power": 3864577,
         "is_validator": true,
@@ -30,10 +6,22 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 2277554,
-        "blocks_indexed": 2277553,
+        "latest_block_height": 2290112,
+        "blocks_indexed": 2290111,
         "catching_up": false,
         "data_since": "2023-11-10T23:37:59.40031734Z"
+    },
+    "35.247.176.247:26657": {
+        "voting_power": 944468,
+        "is_validator": true,
+        "moniker": "Chainbase",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 485001,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
+        "catching_up": false,
+        "data_since": "2024-02-03T04:59:36.660354864Z"
     },
     "34.141.178.93:26657": {
         "voting_power": 9000011,
@@ -42,46 +30,10 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 2068896,
-        "latest_block_height": 2277554,
-        "blocks_indexed": 2277553,
+        "latest_block_height": 2290112,
+        "blocks_indexed": 2290111,
         "catching_up": false,
         "data_since": "2024-07-19T08:28:47.118020378Z"
-    },
-    "35.247.176.247:26657": {
-        "voting_power": 943582,
-        "is_validator": true,
-        "moniker": "Chainbase",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 485001,
-        "latest_block_height": 2277556,
-        "blocks_indexed": 2277555,
-        "catching_up": false,
-        "data_since": "2024-02-03T04:59:36.660354864Z"
-    },
-    "34.165.238.45:26657": {
-        "voting_power": 8119665,
-        "is_validator": true,
-        "moniker": "cartel",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 2277555,
-        "blocks_indexed": 2277554,
-        "catching_up": false,
-        "data_since": "2023-11-10T23:37:59.40031734Z"
-    },
-    "65.109.115.45:25657": {
-        "voting_power": 2781798,
-        "is_validator": true,
-        "moniker": "Huginn",
-        "network": "soarchaintestnet",
-        "tx_index": "on",
-        "earliest_block_height": 115932,
-        "latest_block_height": 2277555,
-        "blocks_indexed": 2277554,
-        "catching_up": false,
-        "data_since": "2023-12-01T09:27:04.084421773Z"
     },
     "142.132.152.46:13657": {
         "voting_power": 496,
@@ -90,10 +42,70 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1176001,
-        "latest_block_height": 2277555,
-        "blocks_indexed": 2277554,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
         "catching_up": false,
         "data_since": "2024-05-08T10:05:16.363791141Z"
+    },
+    "109.199.99.165:26657": {
+        "voting_power": 1505226,
+        "is_validator": true,
+        "moniker": "NinjaTraders",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
+        "catching_up": false,
+        "data_since": "2023-11-10T23:37:59.40031734Z"
+    },
+    "34.165.238.45:26657": {
+        "voting_power": 8119665,
+        "is_validator": true,
+        "moniker": "cartel",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 2290112,
+        "blocks_indexed": 2290111,
+        "catching_up": false,
+        "data_since": "2023-11-10T23:37:59.40031734Z"
+    },
+    "23.88.108.193:26657": {
+        "voting_power": 927794,
+        "is_validator": true,
+        "moniker": "soarchaind start --log_level info --minimum-gas-prices=0.0001utmotus",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 2218041,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
+        "catching_up": false,
+        "data_since": "2024-07-31T08:28:40.681500086Z"
+    },
+    "65.109.115.45:25657": {
+        "voting_power": 2808267,
+        "is_validator": true,
+        "moniker": "Huginn",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 115932,
+        "latest_block_height": 2290112,
+        "blocks_indexed": 2290111,
+        "catching_up": false,
+        "data_since": "2023-12-01T09:27:04.084421773Z"
+    },
+    "158.220.95.101:26657": {
+        "voting_power": 881829,
+        "is_validator": true,
+        "moniker": "kooltek68",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 1230837,
+        "latest_block_height": 2290112,
+        "blocks_indexed": 2290111,
+        "catching_up": false,
+        "data_since": "2024-05-12T20:33:02.391660721Z"
     },
     "37.60.233.235:26657": {
         "voting_power": 2513,
@@ -102,9 +114,21 @@
         "network": "soarchaintestnet",
         "tx_index": "on",
         "earliest_block_height": 1176001,
-        "latest_block_height": 2277555,
-        "blocks_indexed": 2277554,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
         "catching_up": false,
         "data_since": "2024-05-08T10:05:16.363791141Z"
+    },
+    "35.203.93.221:26657": {
+        "voting_power": 7579403,
+        "is_validator": true,
+        "moniker": "flyingcar",
+        "network": "soarchaintestnet",
+        "tx_index": "on",
+        "earliest_block_height": 2267817,
+        "latest_block_height": 2290113,
+        "blocks_indexed": 2290112,
+        "catching_up": false,
+        "data_since": "2024-08-04T08:28:48.23423222Z"
     }
 }
