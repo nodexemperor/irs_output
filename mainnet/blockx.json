@@ -1,4 +1,16 @@
 {
+    "158.220.117.55:26657": {
+        "voting_power": 6190952,
+        "is_validator": true,
+        "moniker": "OneNov",
+        "network": "blockx_19191-1",
+        "tx_index": "on",
+        "earliest_block_height": 9820300,
+        "latest_block_height": 10255575,
+        "blocks_indexed": 10255574,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
+    },
     "95.216.242.118:36657": {
         "voting_power": 99407,
         "is_validator": true,
@@ -6,46 +18,10 @@
         "network": "blockx_19191-1",
         "tx_index": "off",
         "earliest_block_height": 9823501,
-        "latest_block_height": 10203510,
-        "blocks_indexed": 10203509,
+        "latest_block_height": 10255580,
+        "blocks_indexed": 10255579,
         "catching_up": false,
         "data_since": "2024-07-30T16:43:30.439816146Z"
-    },
-    "142.132.251.87:15157": {
-        "voting_power": 100009,
-        "is_validator": true,
-        "moniker": "kokos",
-        "network": "blockx_19191-1",
-        "tx_index": "off",
-        "earliest_block_height": 9820300,
-        "latest_block_height": 10203505,
-        "blocks_indexed": 10203504,
-        "catching_up": false,
-        "data_since": "2024-01-16T12:00:00Z"
-    },
-    "158.69.125.73:11357": {
-        "voting_power": 10201008,
-        "is_validator": true,
-        "moniker": "Nodeist-blockx-main",
-        "network": "blockx_19191-1",
-        "tx_index": "off",
-        "earliest_block_height": 10202691,
-        "latest_block_height": 10203510,
-        "blocks_indexed": 10203509,
-        "catching_up": false,
-        "data_since": "2024-08-07T00:59:43.573608939Z"
-    },
-    "65.109.70.89:54657": {
-        "voting_power": 201001,
-        "is_validator": true,
-        "moniker": "ruangnode",
-        "network": "blockx_19191-1",
-        "tx_index": "off",
-        "earliest_block_height": 9820300,
-        "latest_block_height": 10203505,
-        "blocks_indexed": 10203504,
-        "catching_up": false,
-        "data_since": "2024-01-16T12:00:00Z"
     },
     "65.109.52.56:32331": {
         "voting_power": 14610368,
@@ -54,20 +30,32 @@
         "network": "blockx_19191-1",
         "tx_index": "off",
         "earliest_block_height": 9820300,
-        "latest_block_height": 10203505,
-        "blocks_indexed": 10203504,
+        "latest_block_height": 10255575,
+        "blocks_indexed": 10255574,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
-    "158.220.117.55:26657": {
-        "voting_power": 6190952,
+    "142.132.251.87:15157": {
+        "voting_power": 100009,
         "is_validator": true,
-        "moniker": "OneNov",
+        "moniker": "kokos",
         "network": "blockx_19191-1",
-        "tx_index": "on",
+        "tx_index": "off",
         "earliest_block_height": 9820300,
-        "latest_block_height": 10203511,
-        "blocks_indexed": 10203510,
+        "latest_block_height": 10255575,
+        "blocks_indexed": 10255574,
+        "catching_up": false,
+        "data_since": "2024-01-16T12:00:00Z"
+    },
+    "65.109.70.89:54657": {
+        "voting_power": 201001,
+        "is_validator": true,
+        "moniker": "ruangnode",
+        "network": "blockx_19191-1",
+        "tx_index": "off",
+        "earliest_block_height": 9820300,
+        "latest_block_height": 10255575,
+        "blocks_indexed": 10255574,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -78,8 +66,8 @@
         "network": "blockx_19191-1",
         "tx_index": "on",
         "earliest_block_height": 9820300,
-        "latest_block_height": 10203512,
-        "blocks_indexed": 10203511,
+        "latest_block_height": 10255580,
+        "blocks_indexed": 10255579,
         "catching_up": false,
         "data_since": "2024-01-16T12:00:00Z"
     },
@@ -90,9 +78,21 @@
         "network": "blockx_19191-1",
         "tx_index": "off",
         "earliest_block_height": 9866300,
-        "latest_block_height": 10203510,
-        "blocks_indexed": 10203509,
+        "latest_block_height": 10255580,
+        "blocks_indexed": 10255579,
         "catching_up": false,
         "data_since": "2024-07-31T14:38:24.101760615Z"
+    },
+    "158.69.125.73:11357": {
+        "voting_power": 10201019,
+        "is_validator": true,
+        "moniker": "Nodeist-blockx-main",
+        "network": "blockx_19191-1",
+        "tx_index": "off",
+        "earliest_block_height": 10254770,
+        "latest_block_height": 10255580,
+        "blocks_indexed": 10255579,
+        "catching_up": false,
+        "data_since": "2024-08-08T00:59:43.610914931Z"
     }
 }
