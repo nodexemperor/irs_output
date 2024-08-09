@@ -1,4 +1,40 @@
 {
+    "65.108.141.109:30657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "node",
+        "network": "gitopia",
+        "tx_index": "on",
+        "earliest_block_height": 22132236,
+        "latest_block_height": 23163869,
+        "blocks_indexed": 23163868,
+        "catching_up": false,
+        "data_since": "2024-07-21T04:00:00.709478966Z"
+    },
+    "144.126.200.166:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "tester-121",
+        "network": "gitopia",
+        "tx_index": "off",
+        "earliest_block_height": 12832814,
+        "latest_block_height": 23163874,
+        "blocks_indexed": 23163873,
+        "catching_up": false,
+        "data_since": "2024-01-26T09:59:44.619286633Z"
+    },
+    "37.27.116.113:11357": {
+        "voting_power": 766606,
+        "is_validator": true,
+        "moniker": "Kitkat-gitopia-main",
+        "network": "gitopia",
+        "tx_index": "off",
+        "earliest_block_height": 17323016,
+        "latest_block_height": 23163874,
+        "blocks_indexed": 23163873,
+        "catching_up": false,
+        "data_since": "2024-04-21T08:59:43.714825365Z"
+    },
     "149.50.101.24:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -11,30 +47,6 @@
         "catching_up": true,
         "data_since": "2023-05-17T17:05:17.517517517Z"
     },
-    "37.27.116.113:11357": {
-        "voting_power": 766599,
-        "is_validator": true,
-        "moniker": "Kitkat-gitopia-main",
-        "network": "gitopia",
-        "tx_index": "off",
-        "earliest_block_height": 17323016,
-        "latest_block_height": 23108969,
-        "blocks_indexed": 23108968,
-        "catching_up": false,
-        "data_since": "2024-04-21T08:59:43.714825365Z"
-    },
-    "144.126.200.166:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "tester-121",
-        "network": "gitopia",
-        "tx_index": "off",
-        "earliest_block_height": 12832814,
-        "latest_block_height": 23108969,
-        "blocks_indexed": 23108968,
-        "catching_up": false,
-        "data_since": "2024-01-26T09:59:44.619286633Z"
-    },
     "162.55.245.254:29657": {
         "voting_power": 570,
         "is_validator": true,
@@ -42,8 +54,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 21392160,
-        "latest_block_height": 23108967,
-        "blocks_indexed": 23108966,
+        "latest_block_height": 23163873,
+        "blocks_indexed": 23163872,
         "catching_up": false,
         "data_since": "2024-07-07T08:59:45.52122086Z"
     },
@@ -54,34 +66,10 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 6548337,
-        "latest_block_height": 23108871,
-        "blocks_indexed": 23108870,
+        "latest_block_height": 23163780,
+        "blocks_indexed": 23163779,
         "catching_up": false,
         "data_since": "2023-09-26T06:52:56.377866367Z"
-    },
-    "138.201.21.197:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "StakeTown-API",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 19562001,
-        "latest_block_height": 23108963,
-        "blocks_indexed": 23108962,
-        "catching_up": false,
-        "data_since": "2024-06-03T05:55:29.056472215Z"
-    },
-    "65.108.141.109:30657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "node",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 22132236,
-        "latest_block_height": 23108964,
-        "blocks_indexed": 23108963,
-        "catching_up": false,
-        "data_since": "2024-07-21T04:00:00.709478966Z"
     },
     "65.108.75.107:30657": {
         "voting_power": 0,
@@ -90,22 +78,10 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 20855652,
-        "latest_block_height": 23108969,
-        "blocks_indexed": 23108968,
+        "latest_block_height": 23163874,
+        "blocks_indexed": 23163873,
         "catching_up": false,
         "data_since": "2024-06-27T08:59:45.508866323Z"
-    },
-    "66.45.246.166:51057": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "gitopia",
-        "tx_index": "on",
-        "earliest_block_height": 23095501,
-        "latest_block_height": 23108972,
-        "blocks_indexed": 23108971,
-        "catching_up": false,
-        "data_since": "2024-08-07T19:42:01.004686018Z"
     },
     "148.251.235.130:11657": {
         "voting_power": 0,
@@ -113,11 +89,23 @@
         "moniker": "snap-gitopia",
         "network": "gitopia",
         "tx_index": "on",
-        "earliest_block_height": 23086601,
-        "latest_block_height": 23108964,
-        "blocks_indexed": 23108963,
+        "earliest_block_height": 23140601,
+        "latest_block_height": 23163870,
+        "blocks_indexed": 23163869,
         "catching_up": false,
-        "data_since": "2024-08-07T15:47:49.102646936Z"
+        "data_since": "2024-08-08T15:31:04.797461606Z"
+    },
+    "138.201.21.197:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "StakeTown-API",
+        "network": "gitopia",
+        "tx_index": "on",
+        "earliest_block_height": 19562001,
+        "latest_block_height": 23163600,
+        "blocks_indexed": 23163599,
+        "catching_up": false,
+        "data_since": "2024-06-03T05:55:29.056472215Z"
     },
     "144.76.29.90:46657": {
         "voting_power": 0,
@@ -126,8 +114,8 @@
         "network": "gitopia",
         "tx_index": "on",
         "earliest_block_height": 22844373,
-        "latest_block_height": 23108783,
-        "blocks_indexed": 23108782,
+        "latest_block_height": 23163601,
+        "blocks_indexed": 23163600,
         "catching_up": false,
         "data_since": "2024-08-03T03:59:47.933930129Z"
     }
