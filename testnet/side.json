@@ -1,4 +1,16 @@
 {
+    "5.161.85.171:26657": {
+        "voting_power": 5000004,
+        "is_validator": true,
+        "moniker": "Provalidator",
+        "network": "grimoria-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 65001,
+        "latest_block_height": 468211,
+        "blocks_indexed": 468210,
+        "catching_up": false,
+        "data_since": "2024-07-15T07:43:59.680365938Z"
+    },
     "202.182.119.24:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,10 +18,22 @@
         "network": "grimoria-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 453116,
-        "blocks_indexed": 453115,
+        "latest_block_height": 468212,
+        "blocks_indexed": 468211,
         "catching_up": false,
         "data_since": "2024-07-11T13:13:17.745426433Z"
+    },
+    "93.159.130.38:36657": {
+        "voting_power": 5000011,
+        "is_validator": true,
+        "moniker": "bro",
+        "network": "grimoria-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 468212,
+        "blocks_indexed": 468211,
+        "catching_up": false,
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "148.251.235.130:21657": {
         "voting_power": 0,
@@ -17,10 +41,10 @@
         "moniker": "Staketab-snap",
         "network": "grimoria-testnet-1",
         "tx_index": "off",
-        "earliest_block_height": 452001,
-        "latest_block_height": 453117,
-        "blocks_indexed": 453116,
+        "earliest_block_height": 467001,
+        "latest_block_height": 468212,
+        "blocks_indexed": 468211,
         "catching_up": false,
-        "data_since": "2024-08-10T01:38:17.676412964Z"
+        "data_since": "2024-08-11T01:36:38.583279819Z"
     }
 }
