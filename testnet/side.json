@@ -1,26 +1,14 @@
 {
-    "93.159.130.38:36657": {
-        "voting_power": 5000011,
+    "5.161.85.171:26657": {
+        "voting_power": 5000004,
         "is_validator": true,
-        "moniker": "bro",
+        "moniker": "Provalidator",
         "network": "grimoria-testnet-1",
         "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 483057,
-        "blocks_indexed": 483056,
+        "earliest_block_height": 65001,
+        "latest_block_height": 498086,
+        "blocks_indexed": 498085,
         "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
-    },
-    "148.251.235.130:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "grimoria-testnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 482001,
-        "latest_block_height": 483058,
-        "blocks_indexed": 483057,
-        "catching_up": false,
-        "data_since": "2024-08-12T01:43:46.571843718Z"
+        "data_since": "2024-07-15T07:43:59.680365938Z"
     }
 }
