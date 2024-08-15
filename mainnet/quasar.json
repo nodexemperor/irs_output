@@ -1,16 +1,4 @@
 {
-    "34.175.37.59:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "quasar",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 6726598,
-        "latest_block_height": 7667979,
-        "blocks_indexed": 7667978,
-        "catching_up": false,
-        "data_since": "2024-06-12T13:13:54.179050119Z"
-    },
     "65.109.92.148:60557": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 7567802,
-        "latest_block_height": 7667980,
-        "blocks_indexed": 7667979,
+        "latest_block_height": 7683093,
+        "blocks_indexed": 7683092,
         "catching_up": false,
         "data_since": "2024-08-07T13:13:53.421060844Z"
     },
@@ -30,8 +18,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 7641164,
-        "latest_block_height": 7667979,
-        "blocks_indexed": 7667978,
+        "latest_block_height": 7683092,
+        "blocks_indexed": 7683091,
         "catching_up": false,
         "data_since": "2024-08-12T08:28:58.364068251Z"
     },
@@ -42,8 +30,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7667978,
-        "blocks_indexed": 7667977,
+        "latest_block_height": 7683091,
+        "blocks_indexed": 7683090,
         "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
     },
@@ -54,9 +42,21 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7667980,
-        "blocks_indexed": 7667979,
+        "latest_block_height": 7683094,
+        "blocks_indexed": 7683093,
         "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
+    },
+    "34.175.37.59:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "quasar",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 6726598,
+        "latest_block_height": 7683092,
+        "blocks_indexed": 7683091,
+        "catching_up": false,
+        "data_since": "2024-06-12T13:13:54.179050119Z"
     }
 }
