@@ -1,15 +1,27 @@
 {
-    "135.181.210.171:21097": {
+    "65.108.78.101:15257": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "Moonbridge",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 8470101,
-        "latest_block_height": 8473006,
-        "blocks_indexed": 8473005,
+        "earliest_block_height": 8059001,
+        "latest_block_height": 8489684,
+        "blocks_indexed": 8489683,
         "catching_up": false,
-        "data_since": "2024-08-27T22:16:49.081511095Z"
+        "data_since": "2024-08-03T08:40:55.381177019Z"
+    },
+    "46.17.250.108:56657": {
+        "voting_power": 158676,
+        "is_validator": true,
+        "moniker": "Sr20de",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 7913301,
+        "latest_block_height": 8489740,
+        "blocks_indexed": 8489739,
+        "catching_up": false,
+        "data_since": "2024-07-25T16:57:16.365627422Z"
     },
     "173.249.59.70:32657": {
         "voting_power": 105207,
@@ -17,23 +29,11 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 8372978,
-        "latest_block_height": 8472978,
-        "blocks_indexed": 8472977,
+        "earliest_block_height": 8389712,
+        "latest_block_height": 8489712,
+        "blocks_indexed": 8489711,
         "catching_up": false,
-        "data_since": "2024-08-22T02:56:46.074381307Z"
-    },
-    "46.17.250.108:56657": {
-        "voting_power": 158550,
-        "is_validator": true,
-        "moniker": "Sr20de",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 7913301,
-        "latest_block_height": 8473006,
-        "blocks_indexed": 8473005,
-        "catching_up": false,
-        "data_since": "2024-07-25T16:57:16.365627422Z"
+        "data_since": "2024-08-23T02:54:18.971743912Z"
     },
     "157.230.226.22:26657": {
         "voting_power": 0,
@@ -42,32 +42,44 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 8472951,
-        "blocks_indexed": 8472950,
+        "latest_block_height": 8489685,
+        "blocks_indexed": 8489684,
         "catching_up": false,
         "data_since": "2023-04-07T17:00:00Z"
     },
-    "65.108.78.101:15257": {
+    "135.181.210.171:21097": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Moonbridge",
+        "moniker": "STAVR-Service",
         "network": "realionetwork_3301-1",
         "tx_index": "on",
-        "earliest_block_height": 8059001,
-        "latest_block_height": 8472952,
-        "blocks_indexed": 8472951,
+        "earliest_block_height": 8487901,
+        "latest_block_height": 8489740,
+        "blocks_indexed": 8489739,
         "catching_up": false,
-        "data_since": "2024-08-03T08:40:55.381177019Z"
+        "data_since": "2024-08-28T23:48:25.542835523Z"
+    },
+    "65.109.112.144:22657": {
+        "voting_power": 22432843,
+        "is_validator": true,
+        "moniker": "realionetworklocal",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 7319001,
+        "latest_block_height": 7854226,
+        "blocks_indexed": 7854225,
+        "catching_up": true,
+        "data_since": "2024-06-20T07:39:31.438105896Z"
     },
     "35.212.196.204:15257": {
-        "voting_power": 2084710,
+        "voting_power": 2086508,
         "is_validator": true,
         "moniker": "MyTeshy_tZERO_Bros",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 6223001,
-        "latest_block_height": 8473006,
-        "blocks_indexed": 8473005,
+        "latest_block_height": 8489740,
+        "blocks_indexed": 8489739,
         "catching_up": false,
         "data_since": "2024-04-16T14:19:59.006070951Z"
     }

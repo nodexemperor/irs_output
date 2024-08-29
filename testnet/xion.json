@@ -6,8 +6,8 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 6501401,
-        "latest_block_height": 9571454,
-        "blocks_indexed": 9571453,
+        "latest_block_height": 9587521,
+        "blocks_indexed": 9587520,
         "catching_up": false,
         "data_since": "2024-02-19T09:29:29.426816107Z"
     },
@@ -18,9 +18,21 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 9571453,
-        "blocks_indexed": 9571452,
+        "latest_block_height": 9587520,
+        "blocks_indexed": 9587519,
         "catching_up": false,
+        "data_since": "2023-04-01T00:00:00Z"
+    },
+    "54.160.157.204:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "archive.xion-testnet-1.burnt.com",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1214585,
+        "blocks_indexed": 1214584,
+        "catching_up": true,
         "data_since": "2023-04-01T00:00:00Z"
     },
     "65.108.134.47:22357": {
@@ -30,8 +42,8 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 8221187,
-        "latest_block_height": 9571455,
-        "blocks_indexed": 9571454,
+        "latest_block_height": 9587522,
+        "blocks_indexed": 9587521,
         "catching_up": false,
         "data_since": "2024-06-06T08:28:57.373856111Z"
     },
@@ -42,8 +54,8 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 7547354,
-        "latest_block_height": 9571454,
-        "blocks_indexed": 9571453,
+        "latest_block_height": 9587521,
+        "blocks_indexed": 9587520,
         "catching_up": false,
         "data_since": "2024-04-24T08:28:59.362612938Z"
     }
