@@ -6,8 +6,8 @@
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4728427,
-        "blocks_indexed": 4728426,
+        "latest_block_height": 4743544,
+        "blocks_indexed": 4743543,
         "catching_up": false,
         "data_since": "2023-10-25T11:00:00Z"
     },
@@ -18,9 +18,21 @@
         "network": "chaosnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1887440,
-        "blocks_indexed": 1887439,
+        "latest_block_height": 1911421,
+        "blocks_indexed": 1911420,
         "catching_up": false,
         "data_since": "2024-06-12T09:50:41.546557351Z"
+    },
+    "65.108.78.101:12957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Moonbridge",
+        "network": "entrypoint-pubtest-2",
+        "tx_index": "on",
+        "earliest_block_height": 4351001,
+        "latest_block_height": 4743545,
+        "blocks_indexed": 4743544,
+        "catching_up": false,
+        "data_since": "2024-08-05T20:16:14.276552488Z"
     }
 }
