@@ -1,38 +1,38 @@
 {
-    "95.216.248.117:46657": {
-        "voting_power": 92493,
-        "is_validator": true,
-        "moniker": "herculesnode",
+    "148.251.235.130:22657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
         "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 1535600,
-        "latest_block_height": 1962170,
-        "blocks_indexed": 1962169,
-        "catching_up": false,
-        "data_since": "2024-08-02T18:55:59.772433Z"
+        "tx_index": "off",
+        "earliest_block_height": 1534001,
+        "latest_block_height": 1534502,
+        "blocks_indexed": 1534501,
+        "catching_up": true,
+        "data_since": "2024-08-01T09:26:44.177261346Z"
     },
     "167.235.14.83:16257": {
-        "voting_power": 1010395,
+        "voting_power": 1010424,
         "is_validator": true,
         "moniker": "APPIE | AKNodes",
         "network": "buenavista-1",
         "tx_index": "off",
         "earliest_block_height": 1535600,
-        "latest_block_height": 1962170,
-        "blocks_indexed": 1962169,
+        "latest_block_height": 1975992,
+        "blocks_indexed": 1975991,
         "catching_up": false,
         "data_since": "2024-08-02T18:55:59.772433Z"
     },
-    "82.223.31.166:26627": {
+    "116.202.233.2:27357": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "Cumulo",
+        "moniker": "Staking4All-warden-test",
         "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 1535600,
-        "latest_block_height": 1962171,
-        "blocks_indexed": 1962170,
-        "catching_up": false,
-        "data_since": "2024-08-02T18:55:59.772433Z"
+        "tx_index": "off",
+        "earliest_block_height": 0,
+        "latest_block_height": 1534500,
+        "blocks_indexed": 1534499,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     }
 }
