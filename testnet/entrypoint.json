@@ -1,15 +1,15 @@
 {
-    "65.108.206.118:61257": {
-        "voting_power": 100100,
-        "is_validator": true,
-        "moniker": "UTSA_guide",
+    "65.108.78.101:12957": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Moonbridge",
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 4788335,
-        "blocks_indexed": 4788334,
+        "earliest_block_height": 4351001,
+        "latest_block_height": 4803056,
+        "blocks_indexed": 4803055,
         "catching_up": false,
-        "data_since": "2023-10-25T11:00:00Z"
+        "data_since": "2024-08-05T20:16:14.276552488Z"
     },
     "217.66.20.45:26657": {
         "voting_power": 1,
@@ -18,21 +18,21 @@
         "network": "chaosnet-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 1983184,
-        "blocks_indexed": 1983183,
+        "latest_block_height": 2007314,
+        "blocks_indexed": 2007313,
         "catching_up": false,
         "data_since": "2024-06-12T09:50:41.546557351Z"
     },
-    "65.108.78.101:12957": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Moonbridge",
+    "65.108.206.118:61257": {
+        "voting_power": 100100,
+        "is_validator": true,
+        "moniker": "UTSA_guide",
         "network": "entrypoint-pubtest-2",
         "tx_index": "on",
-        "earliest_block_height": 4351001,
-        "latest_block_height": 4788336,
-        "blocks_indexed": 4788335,
+        "earliest_block_height": 1,
+        "latest_block_height": 4803056,
+        "blocks_indexed": 4803055,
         "catching_up": false,
-        "data_since": "2024-08-05T20:16:14.276552488Z"
+        "data_since": "2023-10-25T11:00:00Z"
     }
 }
