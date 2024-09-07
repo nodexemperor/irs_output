@@ -1,16 +1,4 @@
 {
-    "88.198.27.51:60657": {
-        "voting_power": 989,
-        "is_validator": true,
-        "moniker": "Ubuntu-2204-jammy-amd64-base",
-        "network": "quasar-test-1",
-        "tx_index": "on",
-        "earliest_block_height": 7569813,
-        "latest_block_height": 7678941,
-        "blocks_indexed": 7678940,
-        "catching_up": false,
-        "data_since": "2024-08-30T07:13:57.478030885Z"
-    },
     "141.94.138.48:26662": {
         "voting_power": 112,
         "is_validator": true,
@@ -18,8 +6,8 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 6901753,
-        "latest_block_height": 7678915,
-        "blocks_indexed": 7678914,
+        "latest_block_height": 7694760,
+        "blocks_indexed": 7694759,
         "catching_up": false,
         "data_since": "2024-07-19T07:13:56.002028774Z"
     },
@@ -30,10 +18,22 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 7678941,
-        "blocks_indexed": 7678940,
+        "latest_block_height": 7694785,
+        "blocks_indexed": 7694784,
         "catching_up": false,
         "data_since": "2023-05-19T00:00:00Z"
+    },
+    "88.198.27.51:60657": {
+        "voting_power": 989,
+        "is_validator": true,
+        "moniker": "Ubuntu-2204-jammy-amd64-base",
+        "network": "quasar-test-1",
+        "tx_index": "on",
+        "earliest_block_height": 7569813,
+        "latest_block_height": 7694785,
+        "blocks_indexed": 7694784,
+        "catching_up": false,
+        "data_since": "2024-08-30T07:13:57.478030885Z"
     },
     "222.106.187.14:53702": {
         "voting_power": 0,
@@ -42,21 +42,9 @@
         "network": "quasar-test-1",
         "tx_index": "on",
         "earliest_block_height": 6887586,
-        "latest_block_height": 7678941,
-        "blocks_indexed": 7678940,
+        "latest_block_height": 7694785,
+        "blocks_indexed": 7694784,
         "catching_up": false,
         "data_since": "2024-07-18T08:29:01.760288951Z"
-    },
-    "75.119.129.71:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Provalidator",
-        "network": "pion-1",
-        "tx_index": "on",
-        "earliest_block_height": 0,
-        "latest_block_height": 18767236,
-        "blocks_indexed": 18767235,
-        "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
     }
 }
