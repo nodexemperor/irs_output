@@ -1,15 +1,15 @@
 {
-    "35.212.196.204:15257": {
-        "voting_power": 2086987,
-        "is_validator": true,
-        "moniker": "MyTeshy_tZERO_Bros",
+    "135.181.210.171:21097": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
         "network": "realionetwork_3301-1",
-        "tx_index": "off",
-        "earliest_block_height": 6223001,
-        "latest_block_height": 8655156,
-        "blocks_indexed": 8655155,
+        "tx_index": "on",
+        "earliest_block_height": 8670901,
+        "latest_block_height": 8670974,
+        "blocks_indexed": 8670973,
         "catching_up": false,
-        "data_since": "2024-04-16T14:19:59.006070951Z"
+        "data_since": "2024-09-09T02:25:23.819403231Z"
     },
     "173.249.59.70:32657": {
         "voting_power": 0,
@@ -17,23 +17,11 @@
         "moniker": "moodman",
         "network": "realionetwork_3301-1",
         "tx_index": "off",
-        "earliest_block_height": 8555129,
-        "latest_block_height": 8655129,
-        "blocks_indexed": 8655128,
+        "earliest_block_height": 8570948,
+        "latest_block_height": 8670948,
+        "blocks_indexed": 8670947,
         "catching_up": false,
-        "data_since": "2024-09-02T00:03:55.020709763Z"
-    },
-    "135.181.210.171:21097": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 8653901,
-        "latest_block_height": 8655156,
-        "blocks_indexed": 8655155,
-        "catching_up": false,
-        "data_since": "2024-09-08T00:43:40.374838451Z"
+        "data_since": "2024-09-02T22:43:11.797193161Z"
     },
     "35.212.219.51:15257": {
         "voting_power": 18741,
@@ -42,8 +30,8 @@
         "network": "realionetwork_3301-1",
         "tx_index": "off",
         "earliest_block_height": 6494001,
-        "latest_block_height": 8655156,
-        "blocks_indexed": 8655155,
+        "latest_block_height": 8670974,
+        "blocks_indexed": 8670973,
         "catching_up": false,
         "data_since": "2024-05-02T11:04:36.395546727Z"
     },
@@ -54,24 +42,12 @@
         "network": "realionetwork_3301-1",
         "tx_index": "on",
         "earliest_block_height": 7913301,
-        "latest_block_height": 8655157,
-        "blocks_indexed": 8655156,
+        "latest_block_height": 8670974,
+        "blocks_indexed": 8670973,
         "catching_up": false,
         "data_since": "2024-07-25T16:57:16.365627422Z"
     },
-    "65.108.78.101:15257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Moonbridge",
-        "network": "realionetwork_3301-1",
-        "tx_index": "on",
-        "earliest_block_height": 8059001,
-        "latest_block_height": 8655156,
-        "blocks_indexed": 8655155,
-        "catching_up": false,
-        "data_since": "2024-08-03T08:40:55.381177019Z"
-    },
-    "65.109.112.144:22657": {
+    "65.109.112.144:21657": {
         "voting_power": 22432843,
         "is_validator": true,
         "moniker": "realionetworklocal",
@@ -82,5 +58,29 @@
         "blocks_indexed": 7866352,
         "catching_up": false,
         "data_since": "2024-06-20T07:39:31.438105896Z"
+    },
+    "65.108.78.101:15257": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Moonbridge",
+        "network": "realionetwork_3301-1",
+        "tx_index": "on",
+        "earliest_block_height": 8059001,
+        "latest_block_height": 8670974,
+        "blocks_indexed": 8670973,
+        "catching_up": false,
+        "data_since": "2024-08-03T08:40:55.381177019Z"
+    },
+    "35.212.196.204:15257": {
+        "voting_power": 2086987,
+        "is_validator": true,
+        "moniker": "MyTeshy_tZERO_Bros",
+        "network": "realionetwork_3301-1",
+        "tx_index": "off",
+        "earliest_block_height": 6223001,
+        "latest_block_height": 8670974,
+        "blocks_indexed": 8670973,
+        "catching_up": false,
+        "data_since": "2024-04-16T14:19:59.006070951Z"
     }
 }
