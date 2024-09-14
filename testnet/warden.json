@@ -6,32 +6,20 @@
         "network": "buenavista-1",
         "tx_index": "off",
         "earliest_block_height": 2079600,
-        "latest_block_height": 2120373,
-        "blocks_indexed": 2120372,
+        "latest_block_height": 2134728,
+        "blocks_indexed": 2134727,
         "catching_up": false,
         "data_since": "2024-09-10T07:52:55.812481298Z"
     },
-    "207.180.212.200:26657": {
-        "voting_power": 2980,
-        "is_validator": true,
-        "moniker": "p10node",
-        "network": "buenavista-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 1058282,
-        "blocks_indexed": 1058281,
-        "catching_up": true,
-        "data_since": "2024-04-16T12:14:11.6928963Z"
-    },
     "167.235.14.83:16257": {
-        "voting_power": 1010349,
+        "voting_power": 1010379,
         "is_validator": true,
         "moniker": "APPIE | AKNodes",
         "network": "buenavista-1",
         "tx_index": "off",
         "earliest_block_height": 1535600,
-        "latest_block_height": 2120373,
-        "blocks_indexed": 2120372,
+        "latest_block_height": 2134728,
+        "blocks_indexed": 2134727,
         "catching_up": false,
         "data_since": "2024-08-02T18:55:59.772433Z"
     },
@@ -46,5 +34,17 @@
         "blocks_indexed": 1534499,
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
+    },
+    "207.180.212.200:26657": {
+        "voting_power": 2980,
+        "is_validator": true,
+        "moniker": "p10node",
+        "network": "buenavista-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 1088167,
+        "blocks_indexed": 1088166,
+        "catching_up": true,
+        "data_since": "2024-04-16T12:14:11.6928963Z"
     }
 }
