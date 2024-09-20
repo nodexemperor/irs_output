@@ -1,13 +1,13 @@
 {
     "95.217.85.149:46657": {
-        "voting_power": 671978,
+        "voting_power": 672802,
         "is_validator": true,
         "moniker": "Upnode",
         "network": "initiation-1",
         "tx_index": "off",
         "earliest_block_height": 5609001,
-        "latest_block_height": 6035140,
-        "blocks_indexed": 6035139,
+        "latest_block_height": 6088987,
+        "blocks_indexed": 6088986,
         "catching_up": false,
         "data_since": "2024-09-11T07:41:42.413974494Z"
     },
@@ -18,21 +18,33 @@
         "network": "initiation-1",
         "tx_index": "on",
         "earliest_block_height": 5831112,
-        "latest_block_height": 6035140,
-        "blocks_indexed": 6035139,
+        "latest_block_height": 6088987,
+        "blocks_indexed": 6088986,
         "catching_up": false,
         "data_since": "2024-09-15T09:34:30.242607815Z"
     },
     "65.109.34.205:36657": {
-        "voting_power": 1136396,
+        "voting_power": 1139140,
         "is_validator": true,
         "moniker": "Lewdeus Labs",
         "network": "initiation-1",
         "tx_index": "off",
         "earliest_block_height": 5517180,
-        "latest_block_height": 6035140,
-        "blocks_indexed": 6035139,
+        "latest_block_height": 6088987,
+        "blocks_indexed": 6088986,
         "catching_up": false,
         "data_since": "2024-09-09T14:56:39.854931995Z"
+    },
+    "143.198.148.177:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "test-nvme",
+        "network": "initiation-1",
+        "tx_index": "on",
+        "earliest_block_height": 4440220,
+        "latest_block_height": 6088988,
+        "blocks_indexed": 6088987,
+        "catching_up": false,
+        "data_since": "2024-08-20T08:29:54.743892396Z"
     }
 }
