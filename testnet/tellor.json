@@ -1,1 +1,26 @@
-{}
+{
+    "13.229.211.244:26657": {
+        "voting_power": 1000,
+        "is_validator": true,
+        "moniker": "obi_wan-moniker",
+        "network": "layertest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 16469,
+        "blocks_indexed": 16468,
+        "catching_up": false,
+        "data_since": "2024-09-20T16:23:15.158668Z"
+    },
+    "54.183.89.163:26657": {
+        "voting_power": 1000,
+        "is_validator": true,
+        "moniker": "yoda-moniker",
+        "network": "layertest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 16468,
+        "blocks_indexed": 16467,
+        "catching_up": false,
+        "data_since": "2024-09-20T16:23:15.158668Z"
+    }
+}
