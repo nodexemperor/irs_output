@@ -191,18 +191,6 @@
         "catching_up": false,
         "data_since": "2024-02-22T18:33:27.922095654Z"
     },
-    "213.239.201.202:10657": {
-        "voting_power": 605299,
-        "is_validator": true,
-        "moniker": "CryptoSailors",
-        "network": "crossfi-evm-testnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1940001,
-        "latest_block_height": 5214580,
-        "blocks_indexed": 5214579,
-        "catching_up": false,
-        "data_since": "2024-02-22T18:33:27.922095654Z"
-    },
     "88.99.208.54:13657": {
         "voting_power": 0,
         "is_validator": false,
@@ -226,18 +214,6 @@
         "blocks_indexed": 5214579,
         "catching_up": false,
         "data_since": "2024-06-02T15:19:12.25898425Z"
-    },
-    "94.130.35.35:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Backup",
-        "network": "crossfi-evm-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4165754,
-        "latest_block_height": 5214580,
-        "blocks_indexed": 5214579,
-        "catching_up": false,
-        "data_since": "2024-07-15T11:59:02.26869671Z"
     },
     "5.188.36.196:26657": {
         "voting_power": 0,
@@ -263,6 +239,18 @@
         "catching_up": false,
         "data_since": "2024-03-14T09:55:44.374845573Z"
     },
+    "65.108.101.19:29657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "seed",
+        "network": "crossfi-evm-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4181001,
+        "latest_block_height": 5214580,
+        "blocks_indexed": 5214579,
+        "catching_up": false,
+        "data_since": "2024-07-16T10:36:15.233618113Z"
+    },
     "51.81.242.223:26657": {
         "voting_power": 7358540,
         "is_validator": true,
@@ -274,18 +262,6 @@
         "blocks_indexed": 5214579,
         "catching_up": false,
         "data_since": "2024-07-29T17:03:43.236149637Z"
-    },
-    "89.116.27.46:17657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "seed",
-        "network": "crossfi-evm-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4755001,
-        "latest_block_height": 5214580,
-        "blocks_indexed": 5214579,
-        "catching_up": false,
-        "data_since": "2024-08-22T19:36:41.209176413Z"
     },
     "78.46.64.27:36657": {
         "voting_power": 0,
@@ -299,18 +275,6 @@
         "catching_up": false,
         "data_since": "2024-08-08T09:40:23.360190584Z"
     },
-    "65.21.215.142:36657": {
-        "voting_power": 377043,
-        "is_validator": true,
-        "moniker": "seed",
-        "network": "crossfi-evm-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4708001,
-        "latest_block_height": 5214580,
-        "blocks_indexed": 5214579,
-        "catching_up": false,
-        "data_since": "2024-08-19T20:02:53.475106689Z"
-    },
     "37.27.129.24:20657": {
         "voting_power": 1030327,
         "is_validator": true,
@@ -323,17 +287,29 @@
         "catching_up": false,
         "data_since": "2024-06-29T04:35:04.525667724Z"
     },
-    "65.108.101.19:29657": {
+    "148.251.235.130:19657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "seed",
+        "moniker": "Staketab-snap",
         "network": "crossfi-evm-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4181001,
+        "tx_index": "off",
+        "earliest_block_height": 5214001,
         "latest_block_height": 5214580,
         "blocks_indexed": 5214579,
         "catching_up": false,
-        "data_since": "2024-07-16T10:36:15.233618113Z"
+        "data_since": "2024-09-20T23:31:31.622757402Z"
+    },
+    "94.130.35.35:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Backup",
+        "network": "crossfi-evm-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4165754,
+        "latest_block_height": 5214580,
+        "blocks_indexed": 5214579,
+        "catching_up": false,
+        "data_since": "2024-07-15T11:59:02.26869671Z"
     },
     "95.217.200.98:12657": {
         "voting_power": 0,
@@ -395,17 +371,17 @@
         "catching_up": true,
         "data_since": "2024-06-15T15:28:54.080610978Z"
     },
-    "148.251.235.130:19657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
+    "65.21.215.142:36657": {
+        "voting_power": 377043,
+        "is_validator": true,
+        "moniker": "seed",
         "network": "crossfi-evm-testnet-1",
-        "tx_index": "off",
-        "earliest_block_height": 5206001,
+        "tx_index": "on",
+        "earliest_block_height": 4708001,
         "latest_block_height": 5214580,
         "blocks_indexed": 5214579,
         "catching_up": false,
-        "data_since": "2024-09-20T11:25:38.578533856Z"
+        "data_since": "2024-08-19T20:02:53.475106689Z"
     },
     "128.140.70.97:26657": {
         "voting_power": 0,
