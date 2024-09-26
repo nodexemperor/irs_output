@@ -6,20 +6,32 @@
         "network": "layertest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 13795,
-        "blocks_indexed": 13794,
+        "latest_block_height": 60088,
+        "blocks_indexed": 60087,
         "catching_up": false,
         "data_since": "2024-09-24T19:36:43.05627Z"
     },
     "13.229.211.244:26657": {
-        "voting_power": 100000,
+        "voting_power": 100100,
         "is_validator": true,
         "moniker": "obi_wan-moniker",
         "network": "layertest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 13795,
-        "blocks_indexed": 13794,
+        "latest_block_height": 60089,
+        "blocks_indexed": 60088,
+        "catching_up": false,
+        "data_since": "2024-09-24T19:36:43.05627Z"
+    },
+    "35.159.37.187:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "calebmoniker",
+        "network": "layertest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 60089,
+        "blocks_indexed": 60088,
         "catching_up": false,
         "data_since": "2024-09-24T19:36:43.05627Z"
     }
