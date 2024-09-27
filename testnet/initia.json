@@ -1,28 +1,4 @@
 {
-    "95.216.78.111:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "coinhall.org",
-        "network": "initiation-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 259760,
-        "blocks_indexed": 259759,
-        "catching_up": true,
-        "data_since": "2024-05-10T07:00:00Z"
-    },
-    "46.166.143.69:26657": {
-        "voting_power": 522462,
-        "is_validator": true,
-        "moniker": "simply-staking",
-        "network": "initiation-1",
-        "tx_index": "off",
-        "earliest_block_height": 823479,
-        "latest_block_height": 6412179,
-        "blocks_indexed": 6412178,
-        "catching_up": false,
-        "data_since": "2024-06-06T12:07:42.85213167Z"
-    },
     "162.55.242.213:55657": {
         "voting_power": 0,
         "is_validator": false,
@@ -30,34 +6,10 @@
         "network": "initiation-1",
         "tx_index": "on",
         "earliest_block_height": 6328688,
-        "latest_block_height": 6412182,
-        "blocks_indexed": 6412181,
+        "latest_block_height": 6466161,
+        "blocks_indexed": 6466160,
         "catching_up": false,
         "data_since": "2024-09-24T13:45:08.378531882Z"
-    },
-    "51.38.53.103:26857": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "init-node",
-        "network": "initiation-1",
-        "tx_index": "off",
-        "earliest_block_height": 3952001,
-        "latest_block_height": 6412179,
-        "blocks_indexed": 6412178,
-        "catching_up": false,
-        "data_since": "2024-08-10T14:17:03.112210676Z"
-    },
-    "65.109.34.205:36657": {
-        "voting_power": 1195251,
-        "is_validator": true,
-        "moniker": "Lewdeus Labs",
-        "network": "initiation-1",
-        "tx_index": "off",
-        "earliest_block_height": 5517180,
-        "latest_block_height": 6412182,
-        "blocks_indexed": 6412181,
-        "catching_up": false,
-        "data_since": "2024-09-09T14:56:39.854931995Z"
     },
     "136.243.44.52:26657": {
         "voting_power": 0,
@@ -66,34 +18,34 @@
         "network": "initiation-1",
         "tx_index": "on",
         "earliest_block_height": 3564001,
-        "latest_block_height": 6412180,
-        "blocks_indexed": 6412179,
+        "latest_block_height": 6466156,
+        "blocks_indexed": 6466155,
         "catching_up": false,
         "data_since": "2024-08-02T14:35:52.491811952Z"
     },
-    "69.67.150.107:21657": {
-        "voting_power": 761971,
+    "173.231.40.186:25757": {
+        "voting_power": 905102,
         "is_validator": true,
-        "moniker": "TrustedPoint",
+        "moniker": "initia",
         "network": "initiation-1",
         "tx_index": "off",
-        "earliest_block_height": 1432001,
-        "latest_block_height": 6412181,
-        "blocks_indexed": 6412180,
+        "earliest_block_height": 1994001,
+        "latest_block_height": 6466156,
+        "blocks_indexed": 6466155,
         "catching_up": false,
-        "data_since": "2024-06-19T17:40:17.868621139Z"
+        "data_since": "2024-07-02T16:17:42.046852969Z"
     },
-    "95.217.202.177:26657": {
+    "95.216.78.111:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "initia-testnet-node",
+        "moniker": "coinhall.org",
         "network": "initiation-1",
         "tx_index": "on",
-        "earliest_block_height": 6064001,
-        "latest_block_height": 6412181,
-        "blocks_indexed": 6412180,
-        "catching_up": false,
-        "data_since": "2024-09-19T15:56:47.673558709Z"
+        "earliest_block_height": 1,
+        "latest_block_height": 290649,
+        "blocks_indexed": 290648,
+        "catching_up": true,
+        "data_since": "2024-05-10T07:00:00Z"
     },
     "144.24.207.76:26657": {
         "voting_power": 0,
@@ -107,15 +59,63 @@
         "catching_up": false,
         "data_since": "2024-05-22T06:58:57.142508122Z"
     },
+    "95.217.202.177:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "initia-testnet-node",
+        "network": "initiation-1",
+        "tx_index": "on",
+        "earliest_block_height": 6064001,
+        "latest_block_height": 6466158,
+        "blocks_indexed": 6466157,
+        "catching_up": false,
+        "data_since": "2024-09-19T15:56:47.673558709Z"
+    },
+    "65.109.34.205:36657": {
+        "voting_power": 1197576,
+        "is_validator": true,
+        "moniker": "Lewdeus Labs",
+        "network": "initiation-1",
+        "tx_index": "off",
+        "earliest_block_height": 6412746,
+        "latest_block_height": 6466162,
+        "blocks_indexed": 6466161,
+        "catching_up": false,
+        "data_since": "2024-09-26T03:13:47.347051166Z"
+    },
+    "69.67.150.107:21657": {
+        "voting_power": 762183,
+        "is_validator": true,
+        "moniker": "TrustedPoint",
+        "network": "initiation-1",
+        "tx_index": "off",
+        "earliest_block_height": 1432001,
+        "latest_block_height": 6466159,
+        "blocks_indexed": 6466158,
+        "catching_up": false,
+        "data_since": "2024-06-19T17:40:17.868621139Z"
+    },
+    "51.38.53.103:26857": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "init-node",
+        "network": "initiation-1",
+        "tx_index": "off",
+        "earliest_block_height": 3952001,
+        "latest_block_height": 6466160,
+        "blocks_indexed": 6466159,
+        "catching_up": false,
+        "data_since": "2024-08-10T14:17:03.112210676Z"
+    },
     "95.217.85.149:46657": {
-        "voting_power": 676209,
+        "voting_power": 676334,
         "is_validator": true,
         "moniker": "Upnode",
         "network": "initiation-1",
         "tx_index": "off",
         "earliest_block_height": 5609001,
-        "latest_block_height": 6412182,
-        "blocks_indexed": 6412181,
+        "latest_block_height": 6466161,
+        "blocks_indexed": 6466160,
         "catching_up": false,
         "data_since": "2024-09-11T07:41:42.413974494Z"
     }
