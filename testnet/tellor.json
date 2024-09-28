@@ -1,16 +1,4 @@
 {
-    "54.183.89.163:26657": {
-        "voting_power": 100000,
-        "is_validator": true,
-        "moniker": "yoda-moniker",
-        "network": "layertest-2",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 17985,
-        "blocks_indexed": 17984,
-        "catching_up": false,
-        "data_since": "2024-09-26T17:49:42.02768Z"
-    },
     "13.229.211.244:26657": {
         "voting_power": 100500,
         "is_validator": true,
@@ -18,8 +6,20 @@
         "network": "layertest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 17985,
-        "blocks_indexed": 17984,
+        "latest_block_height": 64135,
+        "blocks_indexed": 64134,
+        "catching_up": false,
+        "data_since": "2024-09-26T17:49:42.02768Z"
+    },
+    "54.183.89.163:26657": {
+        "voting_power": 100000,
+        "is_validator": true,
+        "moniker": "yoda-moniker",
+        "network": "layertest-2",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 64135,
+        "blocks_indexed": 64134,
         "catching_up": false,
         "data_since": "2024-09-26T17:49:42.02768Z"
     },
@@ -30,8 +30,8 @@
         "network": "layertest-2",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 17985,
-        "blocks_indexed": 17984,
+        "latest_block_height": 64135,
+        "blocks_indexed": 64134,
         "catching_up": false,
         "data_since": "2024-09-26T17:49:42.02768Z"
     }
