@@ -1,28 +1,4 @@
 {
-    "65.109.92.148:60557": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Ubuntu-2004-focal-64-minimal-hwe",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 7567802,
-        "latest_block_height": 8355177,
-        "blocks_indexed": 8355176,
-        "catching_up": false,
-        "data_since": "2024-08-07T13:13:53.421060844Z"
-    },
-    "143.198.172.109:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "voiwjew",
-        "network": "quasar-1",
-        "tx_index": "on",
-        "earliest_block_height": 8255177,
-        "latest_block_height": 8355177,
-        "blocks_indexed": 8355176,
-        "catching_up": false,
-        "data_since": "2024-09-21T14:41:47.007580872Z"
-    },
     "176.9.30.178:18257": {
         "voting_power": 0,
         "is_validator": false,
@@ -30,8 +6,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 7641164,
-        "latest_block_height": 8355177,
-        "blocks_indexed": 8355176,
+        "latest_block_height": 8370657,
+        "blocks_indexed": 8370656,
         "catching_up": false,
         "data_since": "2024-08-12T08:28:58.364068251Z"
     },
@@ -42,8 +18,8 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 8355179,
-        "blocks_indexed": 8355178,
+        "latest_block_height": 8370657,
+        "blocks_indexed": 8370656,
         "catching_up": false,
         "data_since": "2023-03-22T20:00:00Z"
     },
@@ -54,9 +30,33 @@
         "network": "quasar-1",
         "tx_index": "on",
         "earliest_block_height": 6726598,
-        "latest_block_height": 8355177,
-        "blocks_indexed": 8355176,
+        "latest_block_height": 8370655,
+        "blocks_indexed": 8370654,
         "catching_up": false,
         "data_since": "2024-06-12T13:13:54.179050119Z"
+    },
+    "143.198.172.109:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "voiwjew",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 8270656,
+        "latest_block_height": 8370656,
+        "blocks_indexed": 8370655,
+        "catching_up": false,
+        "data_since": "2024-09-22T14:46:54.866963845Z"
+    },
+    "65.109.92.148:60557": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Ubuntu-2004-focal-64-minimal-hwe",
+        "network": "quasar-1",
+        "tx_index": "on",
+        "earliest_block_height": 7567802,
+        "latest_block_height": 8370656,
+        "blocks_indexed": 8370655,
+        "catching_up": false,
+        "data_since": "2024-08-07T13:13:53.421060844Z"
     }
 }

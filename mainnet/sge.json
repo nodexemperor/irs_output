@@ -1,4 +1,52 @@
 {
+    "142.132.202.86:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ramuchi.tech",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4411463,
+        "latest_block_height": 5661296,
+        "blocks_indexed": 5661295,
+        "catching_up": false,
+        "data_since": "2024-07-05T09:28:52.887647788Z"
+    },
+    "65.109.88.254:32657": {
+        "voting_power": 4020602,
+        "is_validator": true,
+        "moniker": "ksalab",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 2868001,
+        "latest_block_height": 5661296,
+        "blocks_indexed": 5661295,
+        "catching_up": false,
+        "data_since": "2024-03-20T06:18:00.875302093Z"
+    },
+    "65.21.226.187:60557": {
+        "voting_power": 11500875,
+        "is_validator": true,
+        "moniker": "Sr20de service node",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 5661321,
+        "blocks_indexed": 5661320,
+        "catching_up": false,
+        "data_since": "2023-09-06T12:00:00Z"
+    },
+    "162.55.245.254:26657": {
+        "voting_power": 750,
+        "is_validator": true,
+        "moniker": "IAmScRay",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4411463,
+        "latest_block_height": 5661297,
+        "blocks_indexed": 5661296,
+        "catching_up": false,
+        "data_since": "2024-07-05T09:28:52.887647788Z"
+    },
     "135.181.210.171:1157": {
         "voting_power": 0,
         "is_validator": false,
@@ -11,102 +59,6 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "65.109.88.254:32657": {
-        "voting_power": 4020602,
-        "is_validator": true,
-        "moniker": "ksalab",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 2868001,
-        "latest_block_height": 5646580,
-        "blocks_indexed": 5646579,
-        "catching_up": false,
-        "data_since": "2024-03-20T06:18:00.875302093Z"
-    },
-    "65.21.226.187:60557": {
-        "voting_power": 11500875,
-        "is_validator": true,
-        "moniker": "Sr20de service node",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5646605,
-        "blocks_indexed": 5646604,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "65.108.121.227:12757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "StakeUp-rpc",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 5635367,
-        "latest_block_height": 5646580,
-        "blocks_indexed": 5646579,
-        "catching_up": false,
-        "data_since": "2024-09-27T08:06:06.997631573Z"
-    },
-    "162.55.245.254:26657": {
-        "voting_power": 750,
-        "is_validator": true,
-        "moniker": "IAmScRay",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4411463,
-        "latest_block_height": 5646580,
-        "blocks_indexed": 5646579,
-        "catching_up": false,
-        "data_since": "2024-07-05T09:28:52.887647788Z"
-    },
-    "3.37.63.177:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sge-sentry-1",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5646580,
-        "blocks_indexed": 5646579,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "43.203.214.95:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sge-sentry-archive",
-        "network": "sgenet-1",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 5646581,
-        "blocks_indexed": 5646580,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
-    "142.132.202.86:16657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ramuchi.tech",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 4411463,
-        "latest_block_height": 5646582,
-        "blocks_indexed": 5646581,
-        "catching_up": false,
-        "data_since": "2024-07-05T09:28:52.887647788Z"
-    },
-    "3.34.129.58:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "sge-sentry-2",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 5646581,
-        "blocks_indexed": 5646580,
-        "catching_up": false,
-        "data_since": "2023-09-06T12:00:00Z"
-    },
     "54.226.104.121:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -114,8 +66,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 4990023,
-        "blocks_indexed": 4990022,
+        "latest_block_height": 5004905,
+        "blocks_indexed": 5004904,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     },
@@ -126,8 +78,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 4312001,
-        "latest_block_height": 4990023,
-        "blocks_indexed": 4990022,
+        "latest_block_height": 5004905,
+        "blocks_indexed": 5004904,
         "catching_up": false,
         "data_since": "2024-08-13T14:05:14.732255708Z"
     },
@@ -138,8 +90,8 @@
         "network": "sge-network-4",
         "tx_index": "off",
         "earliest_block_height": 411001,
-        "latest_block_height": 4990023,
-        "blocks_indexed": 4990022,
+        "latest_block_height": 5004905,
+        "blocks_indexed": 5004904,
         "catching_up": false,
         "data_since": "2023-11-28T15:28:39.285025262Z"
     }
