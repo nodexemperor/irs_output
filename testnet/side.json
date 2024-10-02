@@ -1,1 +1,26 @@
-{}
+{
+    "148.113.190.239:22657": {
+        "voting_power": 4,
+        "is_validator": true,
+        "moniker": "Synergy_Nodes",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 20311,
+        "blocks_indexed": 20310,
+        "catching_up": false,
+        "data_since": "2024-09-30T22:21:21.202325223Z"
+    },
+    "148.251.235.130:21657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Staketab-snap",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 20001,
+        "latest_block_height": 20311,
+        "blocks_indexed": 20310,
+        "catching_up": false,
+        "data_since": "2024-10-02T02:42:05.510217437Z"
+    }
+}
