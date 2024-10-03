@@ -1,13 +1,13 @@
 {
     "95.217.85.149:46657": {
-        "voting_power": 688848,
+        "voting_power": 691765,
         "is_validator": true,
         "moniker": "Upnode",
         "network": "initiation-1",
         "tx_index": "off",
         "earliest_block_height": 5609001,
-        "latest_block_height": 6713111,
-        "blocks_indexed": 6713110,
+        "latest_block_height": 6762516,
+        "blocks_indexed": 6762515,
         "catching_up": false,
         "data_since": "2024-09-11T07:41:42.413974494Z"
     },
@@ -18,21 +18,33 @@
         "network": "initiation-1",
         "tx_index": "on",
         "earliest_block_height": 6328688,
-        "latest_block_height": 6713111,
-        "blocks_indexed": 6713110,
+        "latest_block_height": 6762516,
+        "blocks_indexed": 6762515,
         "catching_up": false,
         "data_since": "2024-09-24T13:45:08.378531882Z"
     },
     "207.188.6.109:36657": {
-        "voting_power": 773664,
+        "voting_power": 776587,
         "is_validator": true,
         "moniker": "TrustedPoint",
         "network": "initiation-1",
         "tx_index": "off",
         "earliest_block_height": 6586001,
-        "latest_block_height": 6713111,
-        "blocks_indexed": 6713110,
+        "latest_block_height": 6762516,
+        "blocks_indexed": 6762515,
         "catching_up": false,
         "data_since": "2024-09-29T15:06:36.770920674Z"
+    },
+    "65.109.34.205:36657": {
+        "voting_power": 1224002,
+        "is_validator": true,
+        "moniker": "Lewdeus Labs",
+        "network": "initiation-1",
+        "tx_index": "off",
+        "earliest_block_height": 6412746,
+        "latest_block_height": 6762516,
+        "blocks_indexed": 6762515,
+        "catching_up": false,
+        "data_since": "2024-09-26T03:13:47.347051166Z"
     }
 }
