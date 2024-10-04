@@ -6,10 +6,22 @@
         "network": "sidechain-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 37136,
-        "blocks_indexed": 37135,
+        "latest_block_height": 48817,
+        "blocks_indexed": 48816,
         "catching_up": false,
         "data_since": "2024-09-30T22:21:21.202325223Z"
+    },
+    "162.55.65.137:26357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ContributionDAO",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 38472,
+        "latest_block_height": 48817,
+        "blocks_indexed": 48816,
+        "catching_up": false,
+        "data_since": "2024-10-03T05:04:00.23832616Z"
     },
     "88.198.70.23:26357": {
         "voting_power": 0,
@@ -18,33 +30,9 @@
         "network": "sidechain-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 20905,
-        "latest_block_height": 37136,
-        "blocks_indexed": 37135,
+        "latest_block_height": 48817,
+        "blocks_indexed": 48816,
         "catching_up": false,
         "data_since": "2024-10-02T03:59:02.827694113Z"
-    },
-    "195.14.6.209:26657": {
-        "voting_power": 5000001,
-        "is_validator": true,
-        "moniker": "01node",
-        "network": "sidechain-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 23018,
-        "latest_block_height": 37137,
-        "blocks_indexed": 37136,
-        "catching_up": false,
-        "data_since": "2024-10-02T06:59:06.721638009Z"
-    },
-    "148.251.235.130:21657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Staketab-snap",
-        "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 37001,
-        "latest_block_height": 37137,
-        "blocks_indexed": 37136,
-        "catching_up": false,
-        "data_since": "2024-10-03T02:57:38.878538545Z"
     }
 }

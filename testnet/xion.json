@@ -1,15 +1,39 @@
 {
-    "65.108.134.47:22357": {
+    "144.76.28.47:15257": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "e4fed392-45ec-5eed-98f2-ca1ff10a2409",
+        "moniker": "XYZ",
         "network": "xion-testnet-1",
         "tx_index": "on",
-        "earliest_block_height": 8221187,
-        "latest_block_height": 10133690,
-        "blocks_indexed": 10133689,
+        "earliest_block_height": 6501401,
+        "latest_block_height": 10148218,
+        "blocks_indexed": 10148217,
         "catching_up": false,
-        "data_since": "2024-06-06T08:28:57.373856111Z"
+        "data_since": "2024-02-19T09:29:29.426816107Z"
+    },
+    "15.235.87.88:56657": {
+        "voting_power": 38454,
+        "is_validator": true,
+        "moniker": "xion",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 10148216,
+        "blocks_indexed": 10148215,
+        "catching_up": false,
+        "data_since": "2023-04-01T00:00:00Z"
+    },
+    "54.160.157.204:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "archive.xion-testnet-1.burnt.com",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 1,
+        "latest_block_height": 10094877,
+        "blocks_indexed": 10094876,
+        "catching_up": true,
+        "data_since": "2023-04-01T00:00:00Z"
     },
     "65.109.112.144:1021": {
         "voting_power": 0,
@@ -18,33 +42,9 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 7547354,
-        "latest_block_height": 10133693,
-        "blocks_indexed": 10133692,
+        "latest_block_height": 10148218,
+        "blocks_indexed": 10148217,
         "catching_up": false,
         "data_since": "2024-04-24T08:28:59.362612938Z"
-    },
-    "15.235.87.88:56657": {
-        "voting_power": 1538319,
-        "is_validator": true,
-        "moniker": "xion",
-        "network": "xion-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 1,
-        "latest_block_height": 10133690,
-        "blocks_indexed": 10133689,
-        "catching_up": false,
-        "data_since": "2023-04-01T00:00:00Z"
-    },
-    "144.76.28.47:15257": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "XYZ",
-        "network": "xion-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 6501401,
-        "latest_block_height": 10113128,
-        "blocks_indexed": 10113127,
-        "catching_up": false,
-        "data_since": "2024-02-19T09:29:29.426816107Z"
     }
 }
