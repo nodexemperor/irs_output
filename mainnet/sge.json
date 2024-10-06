@@ -1,16 +1,4 @@
 {
-    "65.108.121.227:12757": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "StakeUp-rpc",
-        "network": "sgenet-1",
-        "tx_index": "on",
-        "earliest_block_height": 5737367,
-        "latest_block_height": 5748732,
-        "blocks_indexed": 5748731,
-        "catching_up": false,
-        "data_since": "2024-10-04T07:46:40.479051266Z"
-    },
     "65.109.88.254:32657": {
         "voting_power": 4008302,
         "is_validator": true,
@@ -18,10 +6,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 2868001,
-        "latest_block_height": 5748732,
-        "blocks_indexed": 5748731,
+        "latest_block_height": 5763434,
+        "blocks_indexed": 5763433,
         "catching_up": false,
         "data_since": "2024-03-20T06:18:00.875302093Z"
+    },
+    "43.203.214.95:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "sge-sentry-archive",
+        "network": "sgenet-1",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 5763434,
+        "blocks_indexed": 5763433,
+        "catching_up": false,
+        "data_since": "2023-09-06T12:00:00Z"
     },
     "65.21.226.187:60557": {
         "voting_power": 0,
@@ -30,10 +30,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5748805,
-        "blocks_indexed": 5748804,
+        "latest_block_height": 5763434,
+        "blocks_indexed": 5763433,
         "catching_up": false,
         "data_since": "2023-09-06T12:00:00Z"
+    },
+    "142.132.202.86:16657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ramuchi.tech",
+        "network": "sgenet-1",
+        "tx_index": "on",
+        "earliest_block_height": 4411463,
+        "latest_block_height": 5763435,
+        "blocks_indexed": 5763434,
+        "catching_up": false,
+        "data_since": "2024-07-05T09:28:52.887647788Z"
     },
     "135.181.210.171:1157": {
         "voting_power": 0,
@@ -54,22 +66,22 @@
         "network": "sgenet-1",
         "tx_index": "on",
         "earliest_block_height": 4411463,
-        "latest_block_height": 5748733,
-        "blocks_indexed": 5748732,
+        "latest_block_height": 5763435,
+        "blocks_indexed": 5763434,
         "catching_up": false,
         "data_since": "2024-07-05T09:28:52.887647788Z"
     },
-    "142.132.202.86:16657": {
+    "65.109.118.169:46657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "ramuchi.tech",
+        "moniker": "jayjayservice",
         "network": "sgenet-1",
         "tx_index": "on",
-        "earliest_block_height": 4411463,
-        "latest_block_height": 5748733,
-        "blocks_indexed": 5748732,
+        "earliest_block_height": 5577664,
+        "latest_block_height": 5606193,
+        "blocks_indexed": 5606192,
         "catching_up": false,
-        "data_since": "2024-07-05T09:28:52.887647788Z"
+        "data_since": "2024-09-23T09:28:56.719998938Z"
     },
     "65.109.88.254:30657": {
         "voting_power": 797,
@@ -78,8 +90,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 4312001,
-        "latest_block_height": 5094225,
-        "blocks_indexed": 5094224,
+        "latest_block_height": 5108277,
+        "blocks_indexed": 5108276,
         "catching_up": false,
         "data_since": "2024-08-13T14:05:14.732255708Z"
     },
@@ -90,8 +102,8 @@
         "network": "sge-network-4",
         "tx_index": "off",
         "earliest_block_height": 411001,
-        "latest_block_height": 5094225,
-        "blocks_indexed": 5094224,
+        "latest_block_height": 5108277,
+        "blocks_indexed": 5108276,
         "catching_up": false,
         "data_since": "2023-11-28T15:28:39.285025262Z"
     },
@@ -102,8 +114,8 @@
         "network": "sge-network-4",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 5094225,
-        "blocks_indexed": 5094224,
+        "latest_block_height": 5108278,
+        "blocks_indexed": 5108277,
         "catching_up": false,
         "data_since": "2023-10-31T12:00:00Z"
     }
