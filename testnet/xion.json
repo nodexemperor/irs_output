@@ -1,16 +1,4 @@
 {
-    "65.109.112.144:1021": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "Decentrio",
-        "network": "xion-testnet-1",
-        "tx_index": "on",
-        "earliest_block_height": 7547354,
-        "latest_block_height": 10176367,
-        "blocks_indexed": 10176366,
-        "catching_up": false,
-        "data_since": "2024-04-24T08:28:59.362612938Z"
-    },
     "54.160.157.204:26657": {
         "voting_power": 0,
         "is_validator": false,
@@ -18,8 +6,8 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 10176367,
-        "blocks_indexed": 10176366,
+        "latest_block_height": 10190305,
+        "blocks_indexed": 10190304,
         "catching_up": false,
         "data_since": "2023-04-01T00:00:00Z"
     },
@@ -30,8 +18,8 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 6501401,
-        "latest_block_height": 10176367,
-        "blocks_indexed": 10176366,
+        "latest_block_height": 10190305,
+        "blocks_indexed": 10190304,
         "catching_up": false,
         "data_since": "2024-02-19T09:29:29.426816107Z"
     },
@@ -42,20 +30,32 @@
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 8221187,
-        "latest_block_height": 10176363,
-        "blocks_indexed": 10176362,
+        "latest_block_height": 10190305,
+        "blocks_indexed": 10190304,
         "catching_up": false,
         "data_since": "2024-06-06T08:28:57.373856111Z"
     },
+    "65.109.112.144:1021": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "Decentrio",
+        "network": "xion-testnet-1",
+        "tx_index": "on",
+        "earliest_block_height": 7547354,
+        "latest_block_height": 10190305,
+        "blocks_indexed": 10190304,
+        "catching_up": false,
+        "data_since": "2024-04-24T08:28:59.362612938Z"
+    },
     "15.235.87.88:56657": {
-        "voting_power": 38481,
+        "voting_power": 38629,
         "is_validator": true,
         "moniker": "xion",
         "network": "xion-testnet-1",
         "tx_index": "on",
         "earliest_block_height": 1,
-        "latest_block_height": 10176366,
-        "blocks_indexed": 10176365,
+        "latest_block_height": 10190305,
+        "blocks_indexed": 10190304,
         "catching_up": false,
         "data_since": "2023-04-01T00:00:00Z"
     }
