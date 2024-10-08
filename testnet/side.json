@@ -1,4 +1,40 @@
 {
+    "95.217.89.100:49657": {
+        "voting_power": 3000004,
+        "is_validator": true,
+        "moniker": "vnode_cash",
+        "network": "sidechain-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 30001,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
+        "catching_up": false,
+        "data_since": "2024-10-02T16:55:45.003001698Z"
+    },
+    "135.181.210.171:21307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "sidechain-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 103001,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
+        "catching_up": false,
+        "data_since": "2024-10-08T00:58:56.394739961Z"
+    },
+    "162.55.65.137:26357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ContributionDAO",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 78562,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
+        "catching_up": false,
+        "data_since": "2024-10-06T10:10:37.549755426Z"
+    },
     "88.198.70.23:26357": {
         "voting_power": 0,
         "is_validator": false,
@@ -6,8 +42,8 @@
         "network": "sidechain-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 20905,
-        "latest_block_height": 89407,
-        "blocks_indexed": 89406,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
         "catching_up": false,
         "data_since": "2024-10-02T03:59:02.827694113Z"
     },
@@ -18,21 +54,21 @@
         "network": "sidechain-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 89407,
-        "blocks_indexed": 89406,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
         "catching_up": false,
         "data_since": "2024-09-30T22:21:21.202325223Z"
     },
-    "162.55.65.137:26357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ContributionDAO",
+    "195.14.6.209:26657": {
+        "voting_power": 5000001,
+        "is_validator": true,
+        "moniker": "01node",
         "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 63371,
-        "latest_block_height": 78572,
-        "blocks_indexed": 78571,
+        "tx_index": "on",
+        "earliest_block_height": 23018,
+        "latest_block_height": 104424,
+        "blocks_indexed": 104423,
         "catching_up": false,
-        "data_since": "2024-10-05T10:14:40.915745613Z"
+        "data_since": "2024-10-02T06:59:06.721638009Z"
     }
 }

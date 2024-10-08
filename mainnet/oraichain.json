@@ -11,17 +11,41 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "3.134.19.98:26657": {
+    "66.45.246.166:2057": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "mainnet_sentry9",
+        "moniker": "STAVR-Service",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
+    },
+    "95.217.227.117:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "light8",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 35346086,
+        "latest_block_height": 35446086,
+        "blocks_indexed": 35446085,
+        "catching_up": false,
+        "data_since": "2024-10-07T02:37:41.980033831Z"
+    },
+    "18.191.171.150:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "SNAPSHOT",
         "network": "Oraichain",
         "tx_index": "off",
-        "earliest_block_height": 35243415,
-        "latest_block_height": 35343416,
-        "blocks_indexed": 35343415,
+        "earliest_block_height": 35441908,
+        "latest_block_height": 35445593,
+        "blocks_indexed": 35445592,
         "catching_up": false,
-        "data_since": "2024-10-06T02:30:05.578725161Z"
+        "data_since": "2024-10-08T00:59:52.941851924Z"
     },
     "37.27.116.113:23357": {
         "voting_power": 0,
@@ -30,34 +54,34 @@
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 31937575,
-        "latest_block_height": 35343431,
-        "blocks_indexed": 35343430,
+        "latest_block_height": 35446078,
+        "blocks_indexed": 35446077,
         "catching_up": false,
         "data_since": "2024-09-03T07:59:49.57974046Z"
     },
-    "95.217.227.117:26657": {
+    "3.134.19.98:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "light8",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 35243428,
-        "latest_block_height": 35343428,
-        "blocks_indexed": 35343427,
-        "catching_up": false,
-        "data_since": "2024-10-06T02:30:14.832121137Z"
-    },
-    "18.191.171.150:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "SNAPSHOT",
+        "moniker": "mainnet_sentry9",
         "network": "Oraichain",
         "tx_index": "off",
-        "earliest_block_height": 0,
-        "latest_block_height": 35342921,
-        "blocks_indexed": 35342920,
+        "earliest_block_height": 35346074,
+        "latest_block_height": 35446075,
+        "blocks_indexed": 35446074,
         "catching_up": false,
-        "data_since": "1970-01-01T00:00:00Z"
+        "data_since": "2024-10-07T02:37:33.475378132Z"
+    },
+    "212.193.3.245:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "RPC_Crypto-Genesis",
+        "network": "Oraichain",
+        "tx_index": "on",
+        "earliest_block_height": 34470238,
+        "latest_block_height": 35445104,
+        "blocks_indexed": 35445103,
+        "catching_up": false,
+        "data_since": "2024-09-28T07:59:51.412016432Z"
     },
     "5.189.169.99:26657": {
         "voting_power": 0,
@@ -66,8 +90,8 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 35325677,
-        "blocks_indexed": 35325676,
+        "latest_block_height": 35419327,
+        "blocks_indexed": 35419326,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
@@ -78,8 +102,8 @@
         "network": "phoenix-1",
         "tx_index": "on",
         "earliest_block_height": 12308379,
-        "latest_block_height": 12392512,
-        "blocks_indexed": 12392511,
+        "latest_block_height": 12406166,
+        "blocks_indexed": 12406165,
         "catching_up": false,
         "data_since": "2024-09-30T20:45:43.952069158Z"
     }
