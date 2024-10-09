@@ -1,16 +1,4 @@
 {
-    "148.113.17.34:26657": {
-        "voting_power": 9750740326951246,
-        "is_validator": true,
-        "moniker": "xq",
-        "network": "swisstronik_1291-1",
-        "tx_index": "off",
-        "earliest_block_height": 5430001,
-        "latest_block_height": 7364000,
-        "blocks_indexed": 7363999,
-        "catching_up": true,
-        "data_since": "2023-07-11T18:35:36.615463102Z"
-    },
     "148.113.1.172:26657": {
         "voting_power": 90043205986867399,
         "is_validator": true,
@@ -18,21 +6,33 @@
         "network": "swisstronik_1291-1",
         "tx_index": "on",
         "earliest_block_height": 5430001,
-        "latest_block_height": 7810860,
-        "blocks_indexed": 7810859,
+        "latest_block_height": 7829857,
+        "blocks_indexed": 7829856,
         "catching_up": false,
         "data_since": "2023-07-11T18:35:36.615463102Z"
     },
     "14.224.255.161:26657": {
-        "voting_power": 10592836488734398,
+        "voting_power": 10913086488734398,
         "is_validator": true,
         "moniker": "p10node",
         "network": "swisstronik_1291-1",
         "tx_index": "off",
         "earliest_block_height": 5430001,
-        "latest_block_height": 7810860,
-        "blocks_indexed": 7810859,
+        "latest_block_height": 7829857,
+        "blocks_indexed": 7829856,
         "catching_up": false,
         "data_since": "2023-07-11T18:35:36.615463102Z"
+    },
+    "148.113.153.62:26657": {
+        "voting_power": 10247273844465815,
+        "is_validator": true,
+        "moniker": "APPIE | AKNodes",
+        "network": "swisstronik_1291-1",
+        "tx_index": "on",
+        "earliest_block_height": 6976585,
+        "latest_block_height": 7829857,
+        "blocks_indexed": 7829856,
+        "catching_up": false,
+        "data_since": "2024-08-25T12:59:12.213889206Z"
     }
 }
