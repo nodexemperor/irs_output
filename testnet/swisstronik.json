@@ -1,13 +1,25 @@
 {
     "148.113.1.172:26657": {
-        "voting_power": 90043205986867399,
+        "voting_power": 90097255986867399,
         "is_validator": true,
         "moniker": "validator2",
         "network": "swisstronik_1291-1",
         "tx_index": "on",
         "earliest_block_height": 5430001,
-        "latest_block_height": 7829857,
-        "blocks_indexed": 7829856,
+        "latest_block_height": 7849049,
+        "blocks_indexed": 7849048,
+        "catching_up": false,
+        "data_since": "2023-07-11T18:35:36.615463102Z"
+    },
+    "37.59.22.150:26657": {
+        "voting_power": 10102733884212834,
+        "is_validator": true,
+        "moniker": "PFC",
+        "network": "swisstronik_1291-1",
+        "tx_index": "on",
+        "earliest_block_height": 5430001,
+        "latest_block_height": 7849049,
+        "blocks_indexed": 7849048,
         "catching_up": false,
         "data_since": "2023-07-11T18:35:36.615463102Z"
     },
@@ -18,21 +30,21 @@
         "network": "swisstronik_1291-1",
         "tx_index": "off",
         "earliest_block_height": 5430001,
-        "latest_block_height": 7829857,
-        "blocks_indexed": 7829856,
+        "latest_block_height": 7849049,
+        "blocks_indexed": 7849048,
         "catching_up": false,
         "data_since": "2023-07-11T18:35:36.615463102Z"
     },
-    "148.113.153.62:26657": {
-        "voting_power": 10247273844465815,
+    "57.129.1.46:26657": {
+        "voting_power": 11931551059319966,
         "is_validator": true,
-        "moniker": "APPIE | AKNodes",
+        "moniker": "Ruby Nodes",
         "network": "swisstronik_1291-1",
         "tx_index": "on",
-        "earliest_block_height": 6976585,
-        "latest_block_height": 7829857,
-        "blocks_indexed": 7829856,
+        "earliest_block_height": 5441001,
+        "latest_block_height": 7849049,
+        "blocks_indexed": 7849048,
         "catching_up": false,
-        "data_since": "2024-08-25T12:59:12.213889206Z"
+        "data_since": "2024-06-05T10:18:19.505381363Z"
     }
 }

@@ -1,28 +1,4 @@
 {
-    "148.113.190.239:22657": {
-        "voting_power": 3000004,
-        "is_validator": true,
-        "moniker": "Synergy_Nodes",
-        "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 1,
-        "latest_block_height": 119385,
-        "blocks_indexed": 119384,
-        "catching_up": false,
-        "data_since": "2024-09-30T22:21:21.202325223Z"
-    },
-    "162.55.65.137:26357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ContributionDAO",
-        "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 105499,
-        "latest_block_height": 119386,
-        "blocks_indexed": 119385,
-        "catching_up": false,
-        "data_since": "2024-10-08T04:58:56.183974519Z"
-    },
     "88.198.70.23:26357": {
         "voting_power": 0,
         "is_validator": false,
@@ -30,22 +6,58 @@
         "network": "sidechain-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 20905,
-        "latest_block_height": 119386,
-        "blocks_indexed": 119385,
+        "latest_block_height": 134376,
+        "blocks_indexed": 134375,
         "catching_up": false,
         "data_since": "2024-10-02T03:59:02.827694113Z"
     },
+    "162.55.65.137:26357": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ContributionDAO",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 120464,
+        "latest_block_height": 134376,
+        "blocks_indexed": 134375,
+        "catching_up": false,
+        "data_since": "2024-10-09T04:58:53.529800761Z"
+    },
     "65.21.63.91:26657": {
-        "voting_power": 9,
+        "voting_power": 14,
         "is_validator": true,
         "moniker": "WellNode",
         "network": "sidechain-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 91001,
-        "latest_block_height": 119386,
-        "blocks_indexed": 119385,
+        "latest_block_height": 134376,
+        "blocks_indexed": 134375,
         "catching_up": false,
         "data_since": "2024-10-07T05:46:25.369807283Z"
+    },
+    "95.217.148.179:26657": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "ksalab",
+        "network": "sidechain-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 119840,
+        "latest_block_height": 134376,
+        "blocks_indexed": 134375,
+        "catching_up": false,
+        "data_since": "2024-10-09T03:58:56.231948112Z"
+    },
+    "148.113.190.239:22657": {
+        "voting_power": 3000004,
+        "is_validator": true,
+        "moniker": "Synergy_Nodes",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 1,
+        "latest_block_height": 134376,
+        "blocks_indexed": 134375,
+        "catching_up": false,
+        "data_since": "2024-09-30T22:21:21.202325223Z"
     },
     "135.181.210.171:21307": {
         "voting_power": 0,
@@ -53,11 +65,11 @@
         "moniker": "STAVR-Service",
         "network": "sidechain-testnet-4",
         "tx_index": "on",
-        "earliest_block_height": 116001,
-        "latest_block_height": 119386,
-        "blocks_indexed": 119385,
+        "earliest_block_height": 133001,
+        "latest_block_height": 134377,
+        "blocks_indexed": 134376,
         "catching_up": false,
-        "data_since": "2024-10-08T21:49:47.173933514Z"
+        "data_since": "2024-10-10T01:04:45.233331737Z"
     },
     "148.251.235.130:21657": {
         "voting_power": 0,
@@ -65,10 +77,10 @@
         "moniker": "Staketab-snap",
         "network": "sidechain-testnet-4",
         "tx_index": "off",
-        "earliest_block_height": 119001,
-        "latest_block_height": 119386,
-        "blocks_indexed": 119385,
+        "earliest_block_height": 134001,
+        "latest_block_height": 134377,
+        "blocks_indexed": 134376,
         "catching_up": false,
-        "data_since": "2024-10-09T02:38:19.489743546Z"
+        "data_since": "2024-10-10T02:40:53.922651613Z"
     }
 }
