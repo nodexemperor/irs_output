@@ -6,8 +6,8 @@
         "network": "sidechain-testnet-4",
         "tx_index": "on",
         "earliest_block_height": 20905,
-        "latest_block_height": 149355,
-        "blocks_indexed": 149354,
+        "latest_block_height": 164335,
+        "blocks_indexed": 164334,
         "catching_up": false,
         "data_since": "2024-10-02T03:59:02.827694113Z"
     },
@@ -17,11 +17,23 @@
         "moniker": "ContributionDAO",
         "network": "sidechain-testnet-4",
         "tx_index": "off",
-        "earliest_block_height": 135436,
-        "latest_block_height": 149355,
-        "blocks_indexed": 149354,
+        "earliest_block_height": 150412,
+        "latest_block_height": 164335,
+        "blocks_indexed": 164334,
         "catching_up": false,
-        "data_since": "2024-10-10T04:58:56.320019504Z"
+        "data_since": "2024-10-11T04:58:57.163257853Z"
+    },
+    "135.181.210.171:21307": {
+        "voting_power": 0,
+        "is_validator": false,
+        "moniker": "STAVR-Service",
+        "network": "sidechain-testnet-4",
+        "tx_index": "on",
+        "earliest_block_height": 163001,
+        "latest_block_height": 164335,
+        "blocks_indexed": 164334,
+        "catching_up": false,
+        "data_since": "2024-10-12T01:11:03.427430118Z"
     },
     "148.113.190.239:22657": {
         "voting_power": 3000004,
@@ -30,33 +42,21 @@
         "network": "sidechain-testnet-4",
         "tx_index": "off",
         "earliest_block_height": 1,
-        "latest_block_height": 149355,
-        "blocks_indexed": 149354,
+        "latest_block_height": 164335,
+        "blocks_indexed": 164334,
         "catching_up": false,
         "data_since": "2024-09-30T22:21:21.202325223Z"
     },
-    "65.21.63.91:26657": {
-        "voting_power": 14,
-        "is_validator": true,
-        "moniker": "WellNode",
-        "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 91001,
-        "latest_block_height": 149355,
-        "blocks_indexed": 149354,
-        "catching_up": false,
-        "data_since": "2024-10-07T05:46:25.369807283Z"
-    },
-    "135.181.210.171:21307": {
+    "148.251.235.130:21657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "Staketab-snap",
         "network": "sidechain-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 146001,
-        "latest_block_height": 149356,
-        "blocks_indexed": 149355,
+        "tx_index": "off",
+        "earliest_block_height": 164001,
+        "latest_block_height": 164336,
+        "blocks_indexed": 164335,
         "catching_up": false,
-        "data_since": "2024-10-10T21:53:53.8340836Z"
+        "data_since": "2024-10-12T02:47:08.709793311Z"
     }
 }
