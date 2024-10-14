@@ -1,62 +1,26 @@
 {
+    "65.21.63.91:26657": {
+        "voting_power": 34,
+        "is_validator": true,
+        "moniker": "WellNode",
+        "network": "sidechain-testnet-4",
+        "tx_index": "off",
+        "earliest_block_height": 91001,
+        "latest_block_height": 194309,
+        "blocks_indexed": 194308,
+        "catching_up": false,
+        "data_since": "2024-10-07T05:46:25.369807283Z"
+    },
     "162.55.65.137:26357": {
         "voting_power": 0,
         "is_validator": false,
         "moniker": "ContributionDAO",
         "network": "sidechain-testnet-4",
         "tx_index": "off",
-        "earliest_block_height": 165370,
-        "latest_block_height": 179350,
-        "blocks_indexed": 179349,
+        "earliest_block_height": 180330,
+        "latest_block_height": 194309,
+        "blocks_indexed": 194308,
         "catching_up": false,
-        "data_since": "2024-10-12T04:58:55.278695053Z"
-    },
-    "135.181.210.171:21307": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "STAVR-Service",
-        "network": "sidechain-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 177001,
-        "latest_block_height": 179350,
-        "blocks_indexed": 179349,
-        "catching_up": false,
-        "data_since": "2024-10-12T23:38:40.284030562Z"
-    },
-    "65.21.63.91:26657": {
-        "voting_power": 24,
-        "is_validator": true,
-        "moniker": "WellNode",
-        "network": "sidechain-testnet-4",
-        "tx_index": "off",
-        "earliest_block_height": 91001,
-        "latest_block_height": 179351,
-        "blocks_indexed": 179350,
-        "catching_up": false,
-        "data_since": "2024-10-07T05:46:25.369807283Z"
-    },
-    "95.217.148.179:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ksalab",
-        "network": "sidechain-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 119840,
-        "latest_block_height": 179351,
-        "blocks_indexed": 179350,
-        "catching_up": false,
-        "data_since": "2024-10-09T03:58:56.231948112Z"
-    },
-    "88.198.70.23:26357": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "ContributionDAO",
-        "network": "sidechain-testnet-4",
-        "tx_index": "on",
-        "earliest_block_height": 20905,
-        "latest_block_height": 179351,
-        "blocks_indexed": 179350,
-        "catching_up": false,
-        "data_since": "2024-10-02T03:59:02.827694113Z"
+        "data_since": "2024-10-13T04:58:54.10958315Z"
     }
 }

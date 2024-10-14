@@ -1,15 +1,15 @@
 {
-    "23.137.104.59:26657": {
+    "95.217.227.117:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "RPC_Crypto-Genesis",
+        "moniker": "light8",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 35165053,
-        "latest_block_height": 35943081,
-        "blocks_indexed": 35943080,
+        "earliest_block_height": 35942893,
+        "latest_block_height": 36042893,
+        "blocks_indexed": 36042892,
         "catching_up": false,
-        "data_since": "2024-10-05T07:59:55.190840457Z"
+        "data_since": "2024-10-13T01:47:03.54538667Z"
     },
     "75.119.130.219:26657": {
         "voting_power": 0,
@@ -23,29 +23,17 @@
         "catching_up": true,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "95.217.227.117:26657": {
+    "66.45.246.166:2057": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "light8",
+        "moniker": "STAVR-Service",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 35844200,
-        "latest_block_height": 35944200,
-        "blocks_indexed": 35944199,
-        "catching_up": false,
-        "data_since": "2024-10-12T01:49:51.171287534Z"
-    },
-    "212.193.3.245:26657": {
-        "voting_power": 0,
-        "is_validator": false,
-        "moniker": "RPC_Crypto-Genesis",
-        "network": "Oraichain",
-        "tx_index": "on",
-        "earliest_block_height": 34470238,
-        "latest_block_height": 35943086,
-        "blocks_indexed": 35943085,
-        "catching_up": false,
-        "data_since": "2024-09-28T07:59:51.412016432Z"
+        "earliest_block_height": 0,
+        "latest_block_height": 0,
+        "blocks_indexed": -1,
+        "catching_up": true,
+        "data_since": "1970-01-01T00:00:00Z"
     },
     "37.27.116.113:23357": {
         "voting_power": 0,
@@ -54,8 +42,8 @@
         "network": "Oraichain",
         "tx_index": "off",
         "earliest_block_height": 31937575,
-        "latest_block_height": 35944200,
-        "blocks_indexed": 35944199,
+        "latest_block_height": 36042893,
+        "blocks_indexed": 36042892,
         "catching_up": false,
         "data_since": "2024-09-03T07:59:49.57974046Z"
     },
@@ -66,21 +54,21 @@
         "network": "Oraichain",
         "tx_index": "on",
         "earliest_block_height": 0,
-        "latest_block_height": 35941649,
-        "blocks_indexed": 35941648,
+        "latest_block_height": 36041564,
+        "blocks_indexed": 36041563,
         "catching_up": false,
         "data_since": "1970-01-01T00:00:00Z"
     },
-    "66.45.246.166:2057": {
+    "212.193.3.245:26657": {
         "voting_power": 0,
         "is_validator": false,
-        "moniker": "STAVR-Service",
+        "moniker": "RPC_Crypto-Genesis",
         "network": "Oraichain",
         "tx_index": "on",
-        "earliest_block_height": 35886001,
-        "latest_block_height": 35904870,
-        "blocks_indexed": 35904869,
-        "catching_up": true,
-        "data_since": "2024-10-12T12:09:15.144556025Z"
+        "earliest_block_height": 34470238,
+        "latest_block_height": 36018040,
+        "blocks_indexed": 36018039,
+        "catching_up": false,
+        "data_since": "2024-09-28T07:59:51.412016432Z"
     }
 }
